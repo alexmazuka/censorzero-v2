@@ -101,9 +101,12 @@ def _suspilne_sample(rows: list[dict]) -> list[dict]:
 
 
 def load_universe(outlet: str, scoped: bool = True) -> list[dict]:
-    path = DISCOVERY_DIR / "url_universe.csv"
     csv.field_size_limit(sys.maxsize)
-    with open(path, newline="", encoding="utf-8") as fh:
+    gz = DISCOVERY_DIR / "url_universe.csv.gz"
+    plain = DISCOVERY_DIR / "url_universe.csv"
+    opener = (lambda: gzip.open(gz, "rt", newline="", encoding="utf-8")) if gz.exists() \
+        else (lambda: open(plain, newline="", encoding="utf-8"))
+    with opener() as fh:
         rows = [r for r in csv.DictReader(fh) if r["outlet"] == outlet]
     if scoped and outlet == "ukrinform":
         rows = [r for r in rows if _in_scope(r)]

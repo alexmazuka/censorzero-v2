@@ -1,0 +1,58 @@
+[
+ {
+  "balance_risk": false,
+  "date_published": "2023-07-06",
+  "fc": 0,
+  "nc": 2,
+  "oc": 4,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 6,
+  "sources_json": "Служба безпеки України::ukrainian_official | СБУ::ukrainian_official | Севастополі”::non_official | На підставі зібраних доказів слідчі СБУ::ukrainian_official | У лютому 2021 року СБУ::ukrainian_official | Суспільне Новини::non_official",
+  "title": "СБУ повідомила про нову підозру блогеру Шарію",
+  "url": "https://suspilne.media/523155-sbu-povidomila-pro-novu-pidozru-blogeru-sariu/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-07-09",
+  "fc": 0,
+  "nc": 1,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Генштабі ЗСУ::ukrainian_official | Генштабі::ukrainian_official | Cуспільне Новини::non_official",
+  "title": "В окупованому Старобільську лікарям видали картки резидента РФ",
+  "url": "https://suspilne.media/525221-v-okupovanomu-starobilsku-likaram-vidali-kartki-rezidenta-rf/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-07-21",
+  "fc": 2,
+  "nc": 2,
+  "oc": 2,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 6,
+  "sources_json": "Водночас Україна::non_official | Туреччині, Україні та ООН заперечення щодо продовження \"зернової угоди\" і::foreign_official | Президент Туреччини Реджеп Таїп Ердоган::foreign_official | Президент Володимир Зеленський::ukrainian_official | Міністр закордонних справ Дмитро Кулеба в інтерв’ю CBS::ukrainian_official | Cуспільне Новини::non_official",
+  "title": "Чи можливо перевозити українське зерно без Росії у \"Чорноморській ініціативі\". СУСПІЛЬНЕ | ПОЯСНЮЄМО",
+  "url": "https://suspilne.media/534157-ci-mozlivo-perevoziti-ukrainske-zerno-bez-rosii-u-cornomorskij-iniciativi-suspilne-poasnuemo/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-07-30",
+  "fc": 0,
+  "nc": 3,
+  "oc": 2,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 5,
+  "sources_json": "Батьківщина-мати\" підвищеної складності::non_official | Міністр культури та інформаційної політики Олександр Ткаченко::ukrainian_official | Мистецтвознавиця та співробітниця музею історії Києва Катерина Липа в інтервʼю Радіо НВ::non_official | У травні 2023 року міністр культури Олександр Ткаченко::ukrainian_official | Cуспільне Новини::non_official",
+  "title": "На монументі \"Батьківщина-мати\" почали демонтувати радянський герб. СУСПІЛЬНЕ | ВІДЕОНОВИНИ",
+  "url": "https://suspilne.media/540183-na-monumenti-batkivsina-mati-pocali-demontuvati-radanskij-gerb-suspilne-videonovini/"
+ }
+]

@@ -1,0 +1,58 @@
+[
+ {
+  "balance_risk": false,
+  "date_published": "2023-11-09",
+  "fc": 0,
+  "nc": 6,
+  "oc": 2,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 8,
+  "sources_json": "На основі цього документу буде формуватися переговорна рамка з обох сторін\"::non_official | Вона::non_official | Стефанішиної::non_official | Європейській Раді в грудні\"::non_official | Стефанішина також::ukrainian_official | Він::non_official | Прем'єр-міністр Денис Шмигаль 26 вересня::ukrainian_official | Cуспільне Новини::non_official",
+  "title": "Стефанішина: Україна відійшла від історії із сімома рекомендаціями Єврокомісії",
+  "url": "https://suspilne.media/613381-stefanisina-ukraina-vidijsla-vid-istorii-iz-simoma-rekomendaciami-evrokomisii/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-11-09",
+  "fc": 0,
+  "nc": 9,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 9,
+  "sources_json": "Наймолодшій учасниці – 62 роки, найстаршій – 73::non_official | Колектив на репетиції збирається щотижня::non_official | А прийдеш, поспіваєш сюди, такий собі думаєш: о-о-о поздоровішав, сили набираєшся\"::non_official | Перед репетицією учасниці вдягають сценічне вбрання::non_official | У їхньому виконанні є й найдавніша пісня::non_official | Та з давньою історією не лише пісні, а й одяг::non_official | Пізніше отримали й звання народного::non_official | Катерина Іванівна::non_official | Cуспільне Черкаси::non_official",
+  "title": "З поля — на столичну сцену: пенсіонери на Черкащині співають протягом 35 років",
+  "url": "https://suspilne.media/613441-z-pola-na-stolicnu-scenu-pensioneri-na-cerkasini-spivaut-protagom-35-rokiv/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-11-13",
+  "fc": 1,
+  "nc": 11,
+  "oc": 1,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 14,
+  "sources_json": "Посол України в Ізраїлі Євген Корнійчук::non_official | це дипломат::unknown | Корнійчук::non_official | Нам треба швидко закінчувати евакуацію\"::non_official | Посол також::non_official | Ми, як країна, евакуювали найбільшу кількість людей\"::non_official | Володимир Зеленський::ukrainian_official | Ізраїль::non_official | Ізраїлю Ісраель Кац::non_official | Армія оборони Ізраїлю::non_official | ЦАХАЛу контрадмірал Даніель Хагарі::non_official | Прем'єр-міністр Ізраїлю Біньямін Нетаньягу 28 жовтня::foreign_official | Речник Армії оборони Ізраїлю контрадмірал Даніель Хагарі 2 листопада::non_official | Cуспільне Новини::non_official",
+  "title": "Посол Корнійчук анонсував нову евакуацію українців з Сектору Гази",
+  "url": "https://suspilne.media/616377-posol-kornijcuk-anonsuvav-novu-evakuaciu-ukrainciv-z-sektoru-gazi/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-11-26",
+  "fc": 1,
+  "nc": 2,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 5,
+  "sources_json": "Також він::unknown | Байден::foreign_official | Ми залишаємося у єдності з Україною”::non_official | Міністр закордонних справ України Дмитро Кулеба::ukrainian_official | Cуспільне Новини::non_official",
+  "title": "Президент США вшанував пам'ять жертв Голодомору",
+  "url": "https://suspilne.media/625501-prezident-ssa-vsanuvav-pamat-zertv-golodomoru/"
+ }
+]

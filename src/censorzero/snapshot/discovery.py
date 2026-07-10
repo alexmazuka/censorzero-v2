@@ -256,8 +256,8 @@ def build_url_universe() -> None:
         for url, day in pravda_urls_from_day_archives().items():
             add("pravda", url, "day_archive", day)
 
-    out = DISCOVERY_DIR / "url_universe.csv"
-    with open(out, "w", newline="", encoding="utf-8") as fh:
+    out = DISCOVERY_DIR / "url_universe.csv.gz"
+    with gzip.open(out, "wt", newline="", encoding="utf-8") as fh:
         w = csv.writer(fh)
         w.writerow(["outlet", "url", "channels", "sitemap_lastmod"])
         for (outlet, url) in sorted(rows):

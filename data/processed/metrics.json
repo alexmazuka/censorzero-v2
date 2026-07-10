@@ -1,0 +1,1134 @@
+{
+ "contrasts": {
+  "balance:P0-P1": {
+   "cohen_h": 0.0,
+   "diff": null,
+   "h_ci_high": 0.0,
+   "h_ci_low": 0.0,
+   "p_holm": 0.0,
+   "p_raw": 0.0,
+   "rate_a": null,
+   "rate_b": null
+  },
+  "balance:P0-P2": {
+   "cohen_h": 0.0,
+   "diff": null,
+   "h_ci_high": 0.0,
+   "h_ci_low": 0.0,
+   "p_holm": 0.0,
+   "p_raw": 0.0,
+   "rate_a": null,
+   "rate_b": null
+  },
+  "balance:P1-P2": {
+   "cohen_h": 0.0,
+   "diff": null,
+   "h_ci_high": 0.0,
+   "h_ci_low": 0.0,
+   "p_holm": 0.0,
+   "p_raw": 0.0,
+   "rate_a": null,
+   "rate_b": null
+  },
+  "parket:P0-P1": {
+   "cohen_h": 0.0,
+   "diff": null,
+   "h_ci_high": 0.0,
+   "h_ci_low": 0.0,
+   "p_holm": 0.0,
+   "p_raw": 0.0,
+   "rate_a": null,
+   "rate_b": null
+  },
+  "parket:P0-P2": {
+   "cohen_h": 0.0,
+   "diff": null,
+   "h_ci_high": 0.0,
+   "h_ci_low": 0.0,
+   "p_holm": 0.0,
+   "p_raw": 0.0,
+   "rate_a": null,
+   "rate_b": null
+  },
+  "parket:P1-P2": {
+   "cohen_h": 0.0,
+   "diff": null,
+   "h_ci_high": 0.0,
+   "h_ci_low": 0.0,
+   "p_holm": 0.0,
+   "p_raw": 0.0,
+   "rate_a": null,
+   "rate_b": null
+  }
+ },
+ "control_coverage": {
+  "pravda": {
+   "P0": 3172,
+   "P1": 0,
+   "P2": 0
+  },
+  "suspilne": {
+   "P0": 38,
+   "P1": 34,
+   "P2": 292
+  }
+ },
+ "diff_in_diff": {
+  "pravda": {
+   "coverage": {
+    "P0": 3172,
+    "P1": 0,
+    "P2": 0
+   },
+   "status": "insufficient_coverage"
+  },
+  "suspilne": {
+   "balance": {
+    "control": {
+     "P0": 0.0,
+     "P1": 0.0,
+     "P2": 0.0
+    },
+    "did_P0_P1": null,
+    "did_P1_P2": null,
+    "ukrinform": {
+     "P0": null,
+     "P1": null,
+     "P2": null
+    }
+   },
+   "parket": {
+    "control": {
+     "P0": 0.0,
+     "P1": 0.0,
+     "P2": 0.0
+    },
+    "did_P0_P1": null,
+    "did_P1_P2": null,
+    "ukrinform": {
+     "P0": null,
+     "P1": null,
+     "P2": null
+    }
+   },
+   "status": "descriptive"
+  }
+ },
+ "logistic": {
+  "balance": {
+   "status": "insufficient_variation"
+  },
+  "parket": {
+   "status": "insufficient_variation"
+  }
+ },
+ "n_boot": 10000,
+ "primary": {
+  "scenario": "sc1_focus_atoExcluded_primary7_direct"
+ },
+ "rates": {
+  "balance": {
+   "P0": {
+    "crude": null,
+    "n": 0,
+    "n_flagged": 0,
+    "standardized": null
+   },
+   "P1": {
+    "crude": null,
+    "n": 0,
+    "n_flagged": 0,
+    "standardized": null
+   },
+   "P2": {
+    "crude": null,
+    "n": 0,
+    "n_flagged": 0,
+    "standardized": null
+   }
+  },
+  "parket": {
+   "P0": {
+    "crude": null,
+    "n": 0,
+    "n_flagged": 0,
+    "standardized": null
+   },
+   "P1": {
+    "crude": null,
+    "n": 0,
+    "n_flagged": 0,
+    "standardized": null
+   },
+   "P2": {
+    "crude": null,
+    "n": 0,
+    "n_flagged": 0,
+    "standardized": null
+   }
+  }
+ },
+ "sensitivity": {
+  "sc1_focus0_atoexcluded_plus_world_crude": {
+   "balance": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  },
+  "sc1_focus0_atoexcluded_plus_world_direct": {
+   "balance": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  },
+  "sc1_focus0_atoexcluded_primary7_crude": {
+   "balance": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  },
+  "sc1_focus0_atoexcluded_primary7_direct": {
+   "balance": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  },
+  "sc1_focus0_atoincluded_plus_world_crude": {
+   "balance": {
+    "P0": {
+     "n": 667,
+     "rate": 0.112444
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 667,
+     "rate": 0.022489
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  },
+  "sc1_focus0_atoincluded_plus_world_direct": {
+   "balance": {
+    "P0": {
+     "n": 667,
+     "rate": 0.112444
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 667,
+     "rate": 0.022489
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  },
+  "sc1_focus0_atoincluded_primary7_crude": {
+   "balance": {
+    "P0": {
+     "n": 667,
+     "rate": 0.112444
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 667,
+     "rate": 0.022489
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  },
+  "sc1_focus0_atoincluded_primary7_direct": {
+   "balance": {
+    "P0": {
+     "n": 667,
+     "rate": 0.112444
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 667,
+     "rate": 0.022489
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  },
+  "sc1_focus1_atoexcluded_plus_world_crude": {
+   "balance": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  },
+  "sc1_focus1_atoexcluded_plus_world_direct": {
+   "balance": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  },
+  "sc1_focus1_atoexcluded_primary7_crude": {
+   "balance": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  },
+  "sc1_focus1_atoexcluded_primary7_direct": {
+   "balance": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  },
+  "sc1_focus1_atoincluded_plus_world_crude": {
+   "balance": {
+    "P0": {
+     "n": 667,
+     "rate": 0.107946
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 667,
+     "rate": 0.022489
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  },
+  "sc1_focus1_atoincluded_plus_world_direct": {
+   "balance": {
+    "P0": {
+     "n": 667,
+     "rate": 0.107946
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 667,
+     "rate": 0.022489
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  },
+  "sc1_focus1_atoincluded_primary7_crude": {
+   "balance": {
+    "P0": {
+     "n": 667,
+     "rate": 0.107946
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 667,
+     "rate": 0.022489
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  },
+  "sc1_focus1_atoincluded_primary7_direct": {
+   "balance": {
+    "P0": {
+     "n": 667,
+     "rate": 0.107946
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 667,
+     "rate": 0.022489
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  },
+  "sc2_focus0_atoexcluded_plus_world_crude": {
+   "balance": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  },
+  "sc2_focus0_atoexcluded_plus_world_direct": {
+   "balance": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  },
+  "sc2_focus0_atoexcluded_primary7_crude": {
+   "balance": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  },
+  "sc2_focus0_atoexcluded_primary7_direct": {
+   "balance": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  },
+  "sc2_focus0_atoincluded_plus_world_crude": {
+   "balance": {
+    "P0": {
+     "n": 667,
+     "rate": 0.112444
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 667,
+     "rate": 0.067466
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  },
+  "sc2_focus0_atoincluded_plus_world_direct": {
+   "balance": {
+    "P0": {
+     "n": 667,
+     "rate": 0.112444
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 667,
+     "rate": 0.067466
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  },
+  "sc2_focus0_atoincluded_primary7_crude": {
+   "balance": {
+    "P0": {
+     "n": 667,
+     "rate": 0.112444
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 667,
+     "rate": 0.067466
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  },
+  "sc2_focus0_atoincluded_primary7_direct": {
+   "balance": {
+    "P0": {
+     "n": 667,
+     "rate": 0.112444
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 667,
+     "rate": 0.067466
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  },
+  "sc2_focus1_atoexcluded_plus_world_crude": {
+   "balance": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  },
+  "sc2_focus1_atoexcluded_plus_world_direct": {
+   "balance": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  },
+  "sc2_focus1_atoexcluded_primary7_crude": {
+   "balance": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  },
+  "sc2_focus1_atoexcluded_primary7_direct": {
+   "balance": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 0,
+     "rate": null
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  },
+  "sc2_focus1_atoincluded_plus_world_crude": {
+   "balance": {
+    "P0": {
+     "n": 667,
+     "rate": 0.107946
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 667,
+     "rate": 0.067466
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  },
+  "sc2_focus1_atoincluded_plus_world_direct": {
+   "balance": {
+    "P0": {
+     "n": 667,
+     "rate": 0.107946
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 667,
+     "rate": 0.067466
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  },
+  "sc2_focus1_atoincluded_primary7_crude": {
+   "balance": {
+    "P0": {
+     "n": 667,
+     "rate": 0.107946
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 667,
+     "rate": 0.067466
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  },
+  "sc2_focus1_atoincluded_primary7_direct": {
+   "balance": {
+    "P0": {
+     "n": 667,
+     "rate": 0.107946
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   },
+   "parket": {
+    "P0": {
+     "n": 667,
+     "rate": 0.067466
+    },
+    "P1": {
+     "n": 0,
+     "rate": null
+    },
+    "P2": {
+     "n": 0,
+     "rate": null
+    }
+   }
+  }
+ },
+ "standard_weights": {}
+}

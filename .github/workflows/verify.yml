@@ -9,7 +9,12 @@ jobs:
   # Job 1: full pipeline from committed raw snapshot must reproduce every
   # committed derived artifact byte-for-byte. Any drift fails the build.
   reproduce:
-    runs-on: ubuntu-latest
+    # macOS arm64 runner: same architecture / libm as the environment that
+    # generated the committed artifacts, so the bit-exact comparison is not at
+    # the mercy of cross-platform floating-point ULP differences. Rates and
+    # bootstrap p-values use only IEEE-754 +,*,/ in fixed order (portable);
+    # Cohen's h uses arcsin, whose tiny cross-platform drift this pins away.
+    runs-on: macos-14
     steps:
       - uses: actions/checkout@v4
         with:
@@ -28,7 +33,7 @@ jobs:
 
   # Job 2: classifier + parser regression tests on committed HTML fixtures.
   tests:
-    runs-on: ubuntu-latest
+    runs-on: macos-14
     steps:
       - uses: actions/checkout@v4
       - uses: astral-sh/setup-uv@v5

@@ -34,7 +34,12 @@ def direct_standardized_rate(
     are renormalized over rubrics present with data)."""
     num = 0.0
     wsum = 0.0
-    for rubric, flags in flags_by_rubric.items():
+    # Sorted rubric order fixes the sequence of +,*,/ so the result is
+    # bit-identical across platforms (IEEE-754 correctly-rounded ops; no
+    # transcendentals here). This is what makes the bootstrap p-values, which
+    # depend on rate differences, cross-platform reproducible.
+    for rubric in sorted(flags_by_rubric):
+        flags = flags_by_rubric[rubric]
         if len(flags) == 0:
             continue
         w = weights.get(rubric, 0.0)
@@ -65,14 +70,13 @@ class ContrastResult:
 def _resample_stratified(
     flags_by_rubric: dict[str, np.ndarray], generator: np.random.Generator
 ) -> dict[str, np.ndarray]:
+    # Sorted order so the PCG64 draw sequence is tied to a fixed rubric order,
+    # making every resample reproducible regardless of dict insertion order.
     out = {}
-    for rubric, flags in flags_by_rubric.items():
+    for rubric in sorted(flags_by_rubric):
+        flags = flags_by_rubric[rubric]
         n = len(flags)
-        if n == 0:
-            out[rubric] = flags
-        else:
-            idx = generator.integers(0, n, size=n)
-            out[rubric] = flags[idx]
+        out[rubric] = flags if n == 0 else flags[generator.integers(0, n, size=n)]
     return out
 
 

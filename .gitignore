@@ -11,3 +11,10 @@ tmp/
 cache/
 # Discovery + article snapshot are committed at snapshot-freeze time via a
 # dedicated commit, not as part of code commits.
+# Bulk discovery bytes (weekly sitemap XML, Wayback CDX pages, UP day-archive
+# HTML) are large and regenerable via `python scripts/01_snapshot.py discover-*`.
+# The pipeline never reads them — it reads only data/raw/articles/*.parquet.
+# The fetch input (url_universe.csv) IS committed for auditability.
+data/raw/discovery/ukrinform_sitemaps/
+data/raw/discovery/suspilne_cdx/
+data/raw/discovery/pravda_day_archives/

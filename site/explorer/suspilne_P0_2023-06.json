@@ -1,0 +1,72 @@
+[
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-08",
+  "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Ми зробимо все можливе, щоб допомогти народу України\"::non_official | Cуспільне Новини::non_official",
+  "title": "Білий дім: відповідальність за руйнування Каховської ГЕС — на Росії",
+  "url": "https://suspilne.media/500611-bilij-dim-vidpovidalnist-za-rujnuvanna-spricineni-cieu-vijnou-na-rosii/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-09",
+  "fc": 1,
+  "nc": 3,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 4,
+  "sources_json": "RMF::non_official | Польща виступила проти шведської пропозиції, оскільки::non_official | Бартош Гродецький на зустрічі міністрів внутрішніх справ ЄС::foreign_official | Cуспільне Новини::non_official",
+  "title": "Країни Євросоюзу узгодили квоти на мігрантів",
+  "url": "https://suspilne.media/501907-kraini-evrosouzu-uzgodili-kvoti-na-migrantiv/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-09",
+  "fc": 2,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "ЄС, глава Міноборони України Олексій Резніков::foreign_official | Канцлер ФРН Олаф Шольц також::foreign_official | Cуспільне Новини::non_official",
+  "title": "Бельгія поставить Україні 105-мм артилерійські снаряди на 32,4 млн євро",
+  "url": "https://suspilne.media/502885-belgia-postavit-ukraini-105-mm-artilerijski-snaradi-na-324-mln-evro/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-26",
+  "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Окрім того, заплановане розширення мережі військово-лікарських комісій::non_official | Cуспільне Новини::non_official",
+  "title": "В Україні збільшать кількість ВЛК",
+  "url": "https://suspilne.media/515869-v-ukraini-zbilsat-kilkist-vlk/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-30",
+  "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "На щастя, Рада національної безпеки схвалила це питання\"::non_official | Cуспільне Новини::non_official",
+  "title": "В Ірані жінкам дозволили ходити на футбольні матчі",
+  "url": "https://suspilne.media/519287-v-irani-zinkam-dozvolili-hoditi-na-futbolni-matci/"
+ }
+]

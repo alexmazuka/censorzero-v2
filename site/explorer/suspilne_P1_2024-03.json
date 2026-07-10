@@ -1,0 +1,72 @@
+[
+ {
+  "balance_risk": false,
+  "date_published": "2024-03-12",
+  "fc": 0,
+  "nc": 1,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "У Міністерстві::ukrainian_official | Cуспільне Крим::non_official",
+  "title": "\"Панічна ініціатива\": У МЗС України прокоментували законопроєкт РФ з визнання \"незаконною\" передачі Криму",
+  "url": "https://suspilne.media/704178-panicna-iniciativa-mzs-ukraini-prokomentuvav-zakonoproekt-rf-z-viznanna-nezakonnou-peredaci-krimu/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-03-16",
+  "fc": 0,
+  "nc": 1,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Генштабі ЗСУ вранці 16 березня::ukrainian_official | Генштаб::ukrainian_official | Cуспільне Новини::non_official",
+  "title": "Минулої доби на фронті відбулося близько 80 бойових зіткнень — Генштаб",
+  "url": "https://suspilne.media/707020-minuloi-dobi-na-fronti-vidbulosa-blizko-80-bojovih-zitknen-genstab/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-03-17",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Cуспільне Новини::non_official",
+  "title": "З театру тіней — на війну: історія чернігівського добровольця Юрія Василенка. СУСПІЛЬНЕ | ЛЮДИ",
+  "url": "https://suspilne.media/707776-z-teatru-tinej-na-vijnu-istoria-cernigivskogo-dobrovolca-uria-vasilenka-suspilne-ludi/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-03-27",
+  "fc": 0,
+  "nc": 4,
+  "oc": 3,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 7,
+  "sources_json": "Міністерстві оборони::ukrainian_official | Заступник глави МО Іван Гаврилюк, який очолює українську делегацію::non_official | Україні ефективну ремонтну базу західної бронетехніки\"::non_official | Гаврилюк::non_official | ЗСУ та налагодять з Україною інноваційно промислове партнерство::ukrainian_official | Міноборони::ukrainian_official | Cуспільне Новини::non_official",
+  "title": "У Польщі розпочала роботу Коаліція бронетехніки на підтримку України — Міноборони",
+  "url": "https://suspilne.media/715090-u-polsi-rozpocala-robotu-koalicia-bronetehniki-na-pidtrimku-ukraini-minoboroni/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-03-28",
+  "fc": 0,
+  "nc": 10,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 11,
+  "sources_json": "Новообраний секретар Василь Кіптілий Суспільному::non_official | Розглянули питання щодо недовіри міському голові, обрання секретаря\"::ukrainian_official | Василя Кіптілого::non_official | вони мені::non_official | Василя Фещенка::non_official | ТВК планували зібрати, зібрались лише шість членів ТВК, комісія не була проведена\"::non_official | Ходили до нашого реєстратора::non_official | Зверталися ще в одну раду ―::non_official | Ми показали всі документи, і вони::non_official | Олени Стаднікової::non_official | Cуспільне Полтава::non_official",
+  "title": "Частина депутатів Кобеляцької ТГ підтримали звільнення секретаря і заступниці голови: позиції сторін",
+  "url": "https://suspilne.media/716180-castina-deputativ-kobelackoi-tg-pidtrimali-zvilnenna-sekretara-i-zastupnici-golovi-pozicii-storin/"
+ }
+]

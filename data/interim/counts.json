@@ -1,0 +1,17 @@
+{
+ "by_outlet_period": {
+  "pravda": {
+   "P0": 3172
+  },
+  "suspilne": {
+   "P0": 38,
+   "P1": 34,
+   "P2": 292
+  },
+  "ukrinform": {
+   "P0": 667
+  }
+ },
+ "dropped_out_of_period": 150,
+ "raw_rows": 4353
+}

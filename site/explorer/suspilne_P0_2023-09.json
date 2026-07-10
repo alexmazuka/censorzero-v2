@@ -1,0 +1,44 @@
+[
+ {
+  "balance_risk": false,
+  "date_published": "2023-09-03",
+  "fc": 0,
+  "nc": 5,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 7,
+  "sources_json": "Тарнавського::ukrainian_official | У нас все попереду\"::non_official | Тарнавський::ukrainian_official | Вони зробили все, щоб ця територія була добре підготовлена\"::non_official | Тому розмінування проводилося тільки піхотою і тільки вночі\"::non_official | Щоб досягти успіху в одному напрямку, завжди потрібно вводити ворога в оману”::non_official | Cуспільне Новини::non_official",
+  "title": "Україна прорвала першу лінію російської оборони на Запоріжжі — Тарнавський",
+  "url": "https://suspilne.media/564483-ukraina-prorvala-persu-liniu-rosijskoi-oboroni-na-zaporizzi-tarnavskij/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-09-04",
+  "fc": 0,
+  "nc": 5,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 6,
+  "sources_json": "Уповноважений з питань осіб, зниклих безвісти за особливих обставин Олег Котенко::non_official | це Олег Котенко::unknown | Олега Котенка::non_official | Ми дуже цінуємо кожного, хто підтримує в складний для нашої держави час\"::non_official | Котенко::non_official | Cуспільне Новини::non_official",
+  "title": "Німеччина надасть Україні десять рефрижераторів для зберігання тіл загиблих військових — Котенко",
+  "url": "https://suspilne.media/565381-nimeccina-nadast-ukraini-desat-refrizeratoriv-dla-zberiganna-til-zagiblih-vijskovih-kotenko/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-09-06",
+  "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Країна-агресор продовжує знищувати нашу культурну спадщину\"::non_official | Cуспільне Одеса::non_official",
+  "title": "В Одеському археологічному музеї обвалилася стеля після атак РФ",
+  "url": "https://suspilne.media/566957-v-odeskomu-arheologicnomu-muzei-obvalilasa-stela-pisla-atak-rf/"
+ }
+]

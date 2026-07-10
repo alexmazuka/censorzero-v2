@@ -1,0 +1,30 @@
+[
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-01",
+  "fc": 0,
+  "nc": 9,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 9,
+  "sources_json": "Людиноподібний робот Софія в інтервʼю британському таблоїду The Sun::non_official | Вона::non_official | Софія::non_official | Важливо, щоб глобальні лідери та спільноти працювали над досягненням миру та вирішення\"::non_official | У розмові про відомих особистостей, Софія::non_official | Щодо поглядів Ілона Маска на штучний інтелект, робот::non_official | Софія також::non_official | Тоді вона::non_official | Cуспільне Новини::non_official",
+  "title": "Робот Софія назвала Путіна воєнним злочинцем",
+  "url": "https://suspilne.media/717992-robot-sofia-nazvala-putina-voennim-zlocincem/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-03",
+  "fc": 0,
+  "nc": 3,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Перова::non_official | Попри це, забудовник намагається домогтися зносу будівлі через суд::non_official | Cуспільне Київ::non_official",
+  "title": "У Києві хочуть знести садибу Зеленських",
+  "url": "https://suspilne.media/719882-kiivvv/"
+ }
+]
