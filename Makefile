@@ -33,11 +33,17 @@ readme:
 test:
 	$(RUN) pytest -q
 
-# Verify that regenerating all derived artifacts changes nothing (bit-for-bit).
-# CI runs this against a clean checkout; any diff fails the build.
+# Verify that regenerating the PUBLISHED artifacts changes nothing (bit-for-bit).
+# Scope = figures.json (single source of truth) + README + integer counts +
+# lineage hashes. data/processed/metrics.json is intentionally excluded: it
+# carries the logistic-regression companion whose iterative MLE is not
+# bit-stable across platforms (rates + bootstrap p-values, which ARE stable,
+# live in figures.json and are gated here). CI runs this on a clean checkout.
+VERIFY_PATHS = site/figures.json README.md data/interim/counts.json data/manifests/lineage.json
+
 verify: all
-	git diff --exit-code -- data/interim data/processed data/manifests site/figures.json README.md
-	git status --porcelain data/interim data/processed data/manifests site/figures.json | (! grep .)
+	git diff --exit-code -- $(VERIFY_PATHS)
+	git status --porcelain -- $(VERIFY_PATHS) | (! grep .)
 
 # Remove derived artifacts (never touches data/raw or data/gold).
 clean-derived:

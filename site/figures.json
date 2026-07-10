@@ -151,14 +151,7 @@
    "Вимірюються лише два названі сигнали. Рішення ІМІ могло спиратися на те, що тут не вимірюється; відсутність сигналу не є доказом безпідставності рішення."
   ]
  },
- "logistic": {
-  "balance": {
-   "status": "insufficient_variation"
-  },
-  "parket": {
-   "status": "insufficient_variation"
-  }
- },
+ "logistic_note": "Companion logistic regression is in data/processed/metrics.json (not byte-gated: iterative MLE is not bit-stable across platforms).",
  "notes": {
   "absolute_levels": "Uninterpretable (depend on extractor recall). Only between-period/outlet contrasts are read, conditional on recall stability (gold_standard).",
   "imi_threshold": "IMI publishes no numeric parket/balance threshold; the parket metric is this study's own proxy."

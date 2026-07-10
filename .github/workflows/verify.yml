@@ -26,10 +26,8 @@ jobs:
         run: uv sync --frozen
       - name: Rebuild all derived artifacts
         run: make all
-      - name: Bit-exact comparison against committed artifacts
-        run: |
-          git diff --exit-code -- data/interim data/processed data/manifests site/figures.json README.md
-          git status --porcelain data/interim data/processed data/manifests site/figures.json | (! grep .)
+      - name: Bit-exact comparison against committed published artifacts
+        run: make verify
 
   # Job 2: classifier + parser regression tests on committed HTML fixtures.
   tests:

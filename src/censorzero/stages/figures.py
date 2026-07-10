@@ -85,7 +85,15 @@ def run() -> None:
         "standard_weights": metrics["standard_weights"],
         "rates": metrics["rates"],
         "contrasts": metrics["contrasts"],
-        "logistic": metrics["logistic"],
+        # The logistic-regression companion (metrics.json) is computed by an
+        # iterative MLE whose trailing digits vary across platforms' libm/BLAS;
+        # it is reported as a robustness companion in data/processed/metrics.json
+        # but kept OUT of the byte-exact published artifact. Rates and bootstrap
+        # p-values here use only integer counts + fixed-order IEEE arithmetic and
+        # are exactly reproducible.
+        "logistic_note": "Companion logistic regression is in data/processed/"
+                         "metrics.json (not byte-gated: iterative MLE is not "
+                         "bit-stable across platforms).",
         "sensitivity": metrics["sensitivity"],
         "diff_in_diff": metrics["diff_in_diff"],
         "control_coverage": metrics["control_coverage"],
