@@ -1,0 +1,33 @@
+[project]
+name = "censorzero"
+version = "2.0.0"
+description = "Reproducible audit of IMI parket/balance signals in Ukrinform coverage across three editorial periods"
+readme = "README.md"
+requires-python = "==3.12.*"
+license = { text = "MIT" }
+dependencies = [
+    "httpx>=0.27",
+    "beautifulsoup4>=4.12",
+    "lxml>=5.2",
+    "pandas>=2.2",
+    "pyarrow>=16.0",
+    "numpy>=1.26",
+    "scipy>=1.13",
+    "statsmodels>=0.14",
+    "jinja2>=3.1",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.2",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/censorzero"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
