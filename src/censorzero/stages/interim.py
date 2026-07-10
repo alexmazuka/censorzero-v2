@@ -26,7 +26,16 @@ INTERIM_COLUMNS = [
 ]
 
 
-def _to_date(iso: str | None) -> date | None:
+def _s(v) -> str:
+    """Coerce a possibly-NaN/None parquet cell to a plain string.
+    pandas yields float NaN for null text, and `NaN or ""` is NaN (NaN is
+    truthy) — which then breaks string ops downstream."""
+    if v is None or (isinstance(v, float) and v != v):
+        return ""
+    return str(v)
+
+
+def _to_date(iso) -> date | None:
     if not iso or not isinstance(iso, str):
         return None
     try:
@@ -56,11 +65,12 @@ def run() -> None:
             coverage["dropped_out_of_period"] += 1
             continue
         feat = compute_features(
-            getattr(rec, "title", "") or "",
-            getattr(rec, "body_text", "") or "",
-            getattr(rec, "og_description", "") or "",
+            _s(getattr(rec, "title", "")),
+            _s(getattr(rec, "body_text", "")),
+            _s(getattr(rec, "og_description", "")),
         )
         rubric = getattr(rec, "rubric", None)
+        rubric = _s(rubric) or None
         rows.append({
             "outlet": rec.outlet,
             "period": period,

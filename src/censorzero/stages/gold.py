@@ -37,7 +37,9 @@ def run() -> None:
 
     ann = pd.read_csv(ann_path, dtype=str)
     key = pd.read_csv(key_path, dtype=str)
-    interim = pd.read_parquet(INTERIM)[["url", "period", "parket", "sc"]]
+    # period comes from the sample key; take only classifier fields from interim
+    # to avoid a period_x/period_y merge collision.
+    interim = pd.read_parquet(INTERIM)[["url", "parket", "sc"]]
 
     df = ann.merge(key, on="id", how="inner").merge(interim, on="url", how="left")
     df["gold_parket"] = df["label"].str.strip().eq("parket")

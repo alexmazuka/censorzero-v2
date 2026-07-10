@@ -1,0 +1,319 @@
+id,label,military_bulletin,uncertain,note
+c088233fd538800c,parket,false,false,single prosecutor source
+386890887b264fb5,parket,false,false,single ombudsman source
+25bc99c354223400,parket,false,false,single CCD source debunk
+80b621e2a1f96da9,parket,false,false,single Coordination HQ source
+70ccb29753808f1f,non_parket,true,false,front-line shelling report
+dedbff3bcccf22f7,non_parket,false,false,foreign US officials
+ce8ce59c74a4defd,non_parket,false,false,multiple officials quoted
+6fe736fa82a0a71f,parket,false,false,single Coordination HQ source
+63f253276f41b094,parket,false,false,single city council source
+7c866966444933c7,non_parket,false,false,no official media-sourced
+7ecefd975436b1db,non_parket,false,false,foreign US official
+f80d672a3414f0ba,non_parket,true,false,front-line shelling report
+2823305597456ee0,non_parket,false,false,foreign UK intelligence
+49d0ca66dad568cc,parket,false,false,single Coordination HQ source
+327695b8309a9548,non_parket,true,false,front-line shelling report
+c715e6771cdcd514,non_parket,false,false,personal obituary no official
+15893b9e412d3f8f,parket,false,false,presidential address single source
+8842de9bf15b2a9b,parket,false,false,single source Zaluzhny interview
+2fc3c3edb189e712,non_parket,true,false,General Staff losses bulletin
+1c01b7034f7cfa30,non_parket,true,false,front-line summary
+d58ffaa576a7b191,parket,false,false,single source Zelensky
+1da060814a741464,non_parket,true,false,regional shelling report
+392e459627877e86,non_parket,false,false,foreign EU official
+7e5ac63c996cf808,non_parket,true,false,General Staff daily briefing
+0a3126573ee94342,non_parket,false,false,foreign Norway minister
+a36f0267f733fcda,non_parket,true,false,naval situation report
+8cad0ffd29e4e491,non_parket,true,false,air-defense interception report
+2fc0af4bad86f92c,non_parket,true,false,shelling casualty report
+871abf737d8d4547,non_parket,true,false,naval situation report
+448ccbaf0c686818,non_parket,false,false,foreign NATO official
+c1c8db84ced54cae,parket,false,false,single Armed Forces warning
+36ae8e472a55f8a1,non_parket,true,false,regional shelling report
+53113cd2f647f967,non_parket,true,false,strike interception report
+9f15746f298e4de5,non_parket,true,false,General Staff daily briefing
+71be159cbd118554,parket,false,false,single intelligence source assessment
+3029c97bb5b46c3a,non_parket,true,false,shelling casualty report
+6ae3421585a161e5,non_parket,false,false,expert hype referenced ISW
+99d5be89351a6e65,parket,false,false,single commander official activity
+59ee0bb14e9f9df5,non_parket,true,false,shelling casualty report
+14053dd3bd67226e,non_parket,true,false,front-line progress report
+a1722015d834db58,non_parket,false,false,expert commentary not official
+ebea239faadce1b7,parket,false,false,single border-service source
+d0388e4ae08a12d8,non_parket,true,false,regional shelling report
+1d176bc6183227f0,non_parket,true,false,front-line summary
+9eabc67ff8b335d3,parket,false,false,single quoted official investigation
+bbecf67c857fdaed,parket,false,false,single minister showcase
+dd0eec396fd8e7b8,non_parket,true,false,air attack report
+9d997025e99f3cff,non_parket,true,false,combat result report
+afe133610407a1e5,non_parket,false,false,field reportage multiple voices
+66b7e04a12ed7ae3,non_parket,true,false,combat result report
+f3c20ffbefa8b4b0,parket,false,false,single Air Force source
+fb63997b3b6f24dd,non_parket,true,false,regional shelling report
+4bedaf1c0688458e,non_parket,false,false,foreign German ministry
+a21d92da4819e92e,parket,false,false,OVA head single-source handover
+b16b1d7d6e291ed0,non_parket,false,false,opposition MP critical assessment
+aa4d50488196ceff,parket,false,false,commander single-source interview
+c031cd5dd04b5be0,non_parket,true,false,shelling situation report
+74350b87b8927eb7,non_parket,true,false,front-line situation report
+240a3b179bd1bb53,parket,false,false,president address single voice
+5f5e7e887ba56792,non_parket,true,false,operational front report
+8ab90343a133e7ea,non_parket,true,false,shelling/air-raid notice
+52058887404dfd1d,parket,false,false,president single statement
+96c35730ac4cf3b2,non_parket,false,false,soldier personal interview
+d466f3e50b894f1d,parket,false,false,MoD procurement single official line
+af552f189d108538,non_parket,true,false,air-defense results report
+eb2fdc6e3505dc5a,non_parket,false,false,multiple military experts
+0eae52db16102b2c,non_parket,true,false,drone attack situation report
+e9945aed16fabd88,non_parket,true,false,shelling casualty report
+f70e18f671a60536,parket,false,false,prosecutor office single-source stats
+bfd6d8c66681252e,non_parket,true,false,missile strike casualty report
+82c3447b8558e3c9,parket,false,false,president address single voice
+39201afabd9c968c,non_parket,true,false,air-defense results report
+80504bae89faad7b,non_parket,true,false,General Staff losses report
+a48149ab8830a42d,non_parket,true,false,General Staff daily summary
+0b272ba719c40360,parket,false,false,city council single-source handover
+2a124259a1e6bf9c,non_parket,false,false,obituary multiple voices
+afffebc8ff425473,non_parket,true,false,General Staff daily summary
+3878450924ec2a4c,non_parket,true,false,General Staff losses report
+de6e92f2be48a488,non_parket,false,false,obituary family voices
+c596e95071ed108a,non_parket,true,false,air-raid alert notice
+3297e5e460e083a0,non_parket,true,false,combat strike report
+a7f43051415d962d,non_parket,true,false,combat strike report
+5e489159d85c63c5,non_parket,true,false,air-defense results report
+bd57101605512121,non_parket,true,false,General Staff situation report
+7b884cdb3971e5b6,parket,false,false,central bank single-source data
+0bb66f14e6848821,parket,false,false,deputy minister single statement
+39f75e286e0e7863,non_parket,false,false,foreign body European Commission
+057a3f4b84441348,non_parket,false,false,multiple officials and analysis
+4425e96682a05b5b,non_parket,false,false,company statement
+270497801230fcca,non_parket,false,false,foreign British intelligence
+a0da353d4e8dcea3,parket,false,false,president single statement
+798de1918391122c,parket,false,false,NABU single-source release
+bde0e44cbe752647,non_parket,false,false,market news no official
+6bf62e11197ef3a2,non_parket,false,false,foreign USDA forecast
+cc7f75867e45f1bd,parket,false,false,minister single-source meeting
+131920aace7c7e61,non_parket,false,false,foreign Europarliament official
+39af41eaf290a699,non_parket,false,false,industry association voice
+6d02cb98f6f72e9f,non_parket,false,false,foreign expert
+6d9d4511d63ce1cd,non_parket,false,false,IMF head second voice
+d632741b9a8685ed,parket,false,false,energy ministry single source
+2d2ffd050f0cb8da,non_parket,false,false,market analytics
+f4afafd5d4743dce,parket,false,false,finance ministry single source
+83d73cce76182a31,non_parket,false,false,expert opinion
+51a75e899a36ab69,non_parket,false,false,company statement
+55b6c9b902009218,non_parket,false,false,foreign IAEA official
+b766b141eef72ab0,non_parket,false,false,economist opinion
+2f0cb9f973c14604,parket,false,false,Ukrfinzhytlo single source
+2795a2d15c22bfcb,parket,false,false,Ukrenergo single source
+de470d8805300a0d,non_parket,false,false,analyst forecast second voice
+bf19be18ed35cc14,non_parket,false,false,analyst forecast second voice
+a2dff2f8ecd37fbb,non_parket,false,false,market news no official
+adab244f0ef7ace2,non_parket,false,false,retail association not official
+5e1cf47dcd5fb5bf,non_parket,false,false,fuel prices no official
+b525cd519efea7bb,parket,false,false,State Property Fund single source
+defb25ccc6b1fc9a,parket,false,false,MinFin readout single source
+3a2b0799fb86b27f,parket,false,false,MinEconomy readout single source
+25868d7756d854ad,parket,false,false,foreign intelligence single source
+2c02c48539a8f5bf,non_parket,false,false,market news no official
+abee4437089888ad,parket,false,false,Ukrenergo single source
+6cd958bdb3cbfec4,non_parket,false,false,foreign Bloomberg report
+c5d2f3e770af9557,parket,false,false,NATO envoy single source
+835066470f292534,parket,false,false,MP statement single source
+b26f98fd6123d7d5,non_parket,false,false,foreign official White House
+9639e43d31ea67af,parket,false,false,deputy speaker single source
+811ae0c9cc77caac,non_parket,false,false,two officials two sources
+9bfbef9735c7d1c1,non_parket,false,false,community leader not state body
+4f2634c030cc8e99,non_parket,false,false,foreign official Romania
+265b037fec0b826f,parket,false,false,PM readout single source
+ee983654ae080911,parket,false,false,President speech single source
+4414d2cb4880e22f,parket,false,false,President speech single source
+817dac12a22eef99,non_parket,false,false,foreign US candidate
+8f8513f22425a770,parket,false,false,President address single source
+8f673f3f9d4f3507,parket,false,false,MFA single source
+2b4bd5db02898a83,parket,false,false,deputy PM single source
+a814502ce0276cde,non_parket,false,false,foreign OSCE chair
+71c341bd01fbf754,parket,false,false,PM statement single source
+cdedcc8a857f9d2d,non_parket,false,false,foreign Czech FM
+76aea59628ca73cb,parket,false,false,government official single source
+326d32bfce4dcdac,non_parket,false,false,foreign UK envoy
+6273ba6325bbae18,parket,false,false,President Office single source
+59b010193bacf373,non_parket,false,false,foreign Polish FM
+0a25f7f46c6bb0c0,non_parket,false,false,foreign US envoy
+372d2f97bd461b76,non_parket,false,false,foreign Latvian minister
+aac350ec903c6278,parket,false,false,President summary single source
+2bd51f3368f29c6b,non_parket,false,false,foreign Turkish president
+ee755797df6f86d1,non_parket,false,false,foreign US senator
+4a59f41d20202ae3,parket,false,false,PM statement single source
+7830a924e4c141f1,parket,false,false,committee head single source
+b3de4322bcc5dfec,non_parket,false,false,foreign UN coordinator
+9810f1297a1eee89,parket,false,false,President presser single source
+9679b915584b9ab0,non_parket,false,false,foreign US president
+c232cf38292ac180,non_parket,false,false,CSIS expert commentary
+f9fd4dc6ecc2ab94,parket,false,false,MFA statement single source
+ccea4f70bc6a78e2,parket,false,false,speaker statement single source
+33fd49310ab95130,non_parket,false,false,foreign White House spokesperson
+1fbb6189ffc4e156,non_parket,false,false,wildlife no official
+e2856d174f3b47c2,parket,false,false,MP statement single source
+06024e1b2c633fc9,non_parket,true,false,air defense bulletin
+372ea257782f6742,parket,false,false,police single source
+3f00d038b7307dcb,non_parket,true,false,attack damage air-raid report
+218c8348cdc5d9b6,non_parket,false,false,fire incident not official activity
+9eaddf2a350d1405,parket,false,false,official opening sole source
+a3def7e965598fb6,parket,false,false,Ukrainian OVA head sole source
+23ee411eab39cfca,non_parket,true,false,shelling attack report
+d53467b300c2d5e2,parket,false,false,official project sole source
+24fe012cecb0f111,non_parket,false,false,incident not official activity
+f933ae85d098e905,non_parket,false,false,power outage incident
+85f29faaacfcd861,non_parket,true,false,regional strike summary
+baf823e88871d5b0,non_parket,false,false,record event report
+a4ae2293fb0152bd,non_parket,false,false,multiple non-official voices
+e42453bb38255b05,parket,false,false,single-source police case
+ea3468a71a3cab51,non_parket,true,false,air defense report
+5c405a73241cfe8c,non_parket,true,false,attack casualties status
+74f81410caec0a37,non_parket,false,false,memorial event report
+6871703358092748,parket,false,false,single-source prosecutor case
+422271778919c598,non_parket,false,false,multiple officials multi-institution event
+70a8d4340ad55fec,non_parket,true,false,attack casualties report
+341e0ed234b0630f,non_parket,false,false,occupation news enemy actions
+051e498ce44e8690,non_parket,false,false,enemy buildup occupied Mariupol
+d28a25693ed71d7b,parket,false,false,official initiative sole source
+908154c6a80a8ce9,non_parket,false,false,multiple civil-society voices
+972083525554e399,non_parket,true,false,OVA attack summary
+e5cd13ca61e0db37,non_parket,true,false,attack aftermath media-sourced
+02c1b84f64fdfb9d,non_parket,false,false,contested account multiple voices
+cb69cd64d481f84b,non_parket,false,false,weather
+9ca2faab2a37639c,parket,false,false,single-source SBU case
+2e4e15ce7acb0f6e,parket,false,false,single-source official briefing
+84bf8de8f4bd67f9,non_parket,true,false,attack situation summary
+3924a62f9c4b5f8e,non_parket,false,false,post-attack blood appeal
+f677c0e01d7a1ad6,non_parket,false,false,charity event report
+54b23a0d7bda6e3f,non_parket,true,false,shelling casualty report
+0c43e2e8e0f4a764,non_parket,true,false,drone strike injuries
+addf35f8da262e18,non_parket,true,false,drone attack air-raid
+2a7d230079b05826,non_parket,false,false,wildfire incident report
+6200f0f6a2767589,non_parket,true,false,drone attack casualties
+567c221f5a5e615c,non_parket,true,false,drone attack damage
+55ce2fb6167c2e70,non_parket,true,false,attack casualties report
+328f6631c67c94b8,parket,false,false,single-source prosecutor case
+c61b9a228deda917,non_parket,false,false,non-official rights defender
+f554b75f81d8757c,parket,false,false,single-source DBR case
+c74e2e6c9cf91c1e,parket,false,false,single official operational update
+0bbd13f019c75f0b,non_parket,true,false,drone artillery attack injury
+1461b82f4610b63f,parket,false,false,single-source official project
+bcd5705ee92d132f,non_parket,true,false,energy attack power outage
+5c5f28c2eb61ee8a,non_parket,false,false,weather
+3ef429766cf4b95b,parket,false,false,single-source prosecutor case
+83564935dca3f883,non_parket,false,false,occupation news enemy actions
+d39b05989b028916,non_parket,true,false,drone attack damage
+40eeed4e8f667ec5,parket,false,false,single official forum speech
+0693a14478b59617,non_parket,true,false,bombing shelling report
+3691490ec34145f1,parket,false,false,single-source official statement
+296f5400156cd0a1,parket,false,false,single-source anticorruption case
+5287eced4c189c0f,parket,false,false,single source: regional prosecutor
+8cfd12ac5c5aa61e,non_parket,false,false,NGO and citizen voices
+758ce7be82bb645a,non_parket,true,false,regional shelling situation report
+d3f781392a7b5653,non_parket,false,false,volunteer second voice
+eeeb966f122425cd,non_parket,false,false,foreign official source
+cdcef6744ef50451,non_parket,true,false,infrastructure strike report
+937c6908c4fbf73f,parket,false,false,single source: oblrada
+23503a0c5824d15e,parket,false,false,single ombudsman statement
+957f8d007cf75983,parket,false,false,single MVS official
+df70c23db439c2ce,non_parket,false,false,journalist interview / opinion
+f31cef093394d02a,non_parket,false,false,foreign company official
+1ea4830360f115f4,non_parket,false,false,foreign religious leader
+a4b2391bcb0d124c,parket,false,false,single MON source
+d13b8e32282e522d,parket,false,false,single police source
+499e103d861b0608,non_parket,false,false,many sources and voices
+03e539896b2b0cdf,non_parket,false,false,NGO critical assessment (DEJURE)
+9e7967bfad694daf,parket,false,false,single official Vereshchuk
+b017d1abb18af2d4,parket,false,false,single official presenting survey
+a8ee84b00bf18a33,parket,false,false,single ombudsman statement
+1a751c657685d316,parket,false,false,single agency source
+2ab83496f5c4e6e4,non_parket,false,false,photo essay; no official
+94b7e8487dc2e410,parket,false,false,single NSDC body source
+638ba0160d35efe6,parket,false,false,single deputy minister
+a8518a1c6eb21ece,non_parket,false,false,media source; foreign court
+de6607a53efd3e46,parket,false,false,single DBR source
+1df8ba9898ee9794,parket,false,false,single official on exhibition
+0c4c4389e64289f1,parket,false,false,single MOZ official
+9f9df86e3f913631,parket,false,false,single consul source
+d95a1ff90173deb6,parket,false,false,single deputy minister
+60197f5762140f3e,parket,false,false,single MOZ source
+7414978afbb93bcb,parket,false,false,single minister Lyashko
+86ca26ed4013112c,parket,false,false,single minister Lisovyi
+69d8ae911ba64b98,parket,false,false,single OVA official
+2876735d51c41f2b,non_parket,false,false,railway service advisory
+2146e97000a31c13,parket,false,false,single rector source
+a624188801e023f4,non_parket,false,false,multiple official sources SAP/OGP
+79ef19fd1f702e9e,parket,false,false,single Minoborony source
+35c05074f1129f13,non_parket,false,false,railway service advisory
+a0bb55ecdd04b8ed,parket,false,false,single PM statement
+f0fa844ed120798b,parket,false,false,single resistance-center source
+55f33a35c17b3a69,non_parket,true,false,front-line update included
+56cf7b047c30128e,non_parket,false,false,foreign official German govt
+53ee6d8ac6f96d30,parket,false,false,single PM source
+4df018a93770df52,parket,false,false,single OVA official
+02a409fd42cb9f96,parket,false,false,single OVA source
+89d9cebb65c463e4,non_parket,false,false,two government officials quoted
+4d1898c53e442edb,non_parket,false,false,foreign event; media source
+86b64a8483b4567d,non_parket,false,false,foreign official Austrian FM
+63b461b03e719b0b,non_parket,false,false,foreign official US senator
+852f3a6c82e7a07a,non_parket,false,false,foreign event; media source
+7acbe999e30f53ae,parket,false,false,single resistance-center source
+cfc384cb260df09c,non_parket,false,false,foreign body NATO
+fa10e4423ad3a14a,non_parket,false,false,foreign event; media source
+591b7b34f1706ab2,non_parket,false,false,weather no official
+eaa70b38024ac6f1,non_parket,false,false,foreign officials Niger France
+5c0574c21e48d76b,non_parket,false,false,foreign event multiple sources
+876fb5ae7708dc50,non_parket,false,false,foreign US courts
+1016fa036ad0637a,non_parket,false,false,Russian court
+621a067a9c1d3eb5,non_parket,false,false,foreign accident multiple sources
+0230d62e12ab7775,non_parket,false,false,foreign officials Russia NK
+c8229f8a45a96159,non_parket,false,false,science expert voice
+2ced5a7d9d42d7ae,non_parket,false,false,foreign parliament
+6fce2d7d1988d174,non_parket,false,false,foreign official US
+09d91c0a5d3657a9,non_parket,false,false,Russian bodies
+75d086a051d33f5d,non_parket,false,false,UN foreign
+b34eebee6580752e,non_parket,false,false,foreign official Israel
+b0408fea587cc291,non_parket,false,false,foreign event Poland
+2085fd4b0d547b08,non_parket,false,false,foreign publisher
+da82f846eefe14a8,non_parket,false,false,foreign official EU Borrell
+d585b0ef72458650,non_parket,false,false,foreign official US
+4c22b46094ce4c98,non_parket,false,false,foreign official Italy Draghi
+e3c982b31e8597e5,non_parket,false,false,foreign environment experts
+4ec25e9602499e5e,non_parket,false,false,Russian bodies
+825c3445f10596cc,non_parket,false,false,foreign business figure
+298ea6499f61624f,non_parket,false,false,foreign official Lithuania
+68dd63a1f3cf2145,non_parket,false,false,volcano no official
+dd9aa78d9c14aa83,non_parket,false,false,weather foreign
+64fdbade54676cd2,non_parket,false,false,foreign Colombia
+64cdf2c5122a6559,non_parket,false,false,foreign protests opposition voices
+ca8f2f97efbb33c9,non_parket,false,false,foreign official Turkey
+0e6c0cedd8a4cd5e,non_parket,false,false,expert commentary
+70a9f3de2fabb9dc,non_parket,false,false,survey no official
+544c0122e297b043,non_parket,false,false,foreign activist
+56f1fb909d1632b0,non_parket,false,false,analyst ISW foreign
+35d887abba488cd0,non_parket,false,false,foreign US analytical
+b3d8bc95197041d4,parket,false,false,single Ukrainian intel source
+4a13610e129b0bd4,non_parket,false,false,foreign wildfires
+2088aa27e5cea0f0,non_parket,false,false,foreign official US
+34e6e252f8304544,non_parket,false,false,expert interview
+efe2799fffbce8bd,non_parket,false,false,foreign Koreas
+048b8b208dc34456,non_parket,false,false,foreign official Qatar
+a4bfcfcb1e0234b2,non_parket,false,false,foreign official German MP
+b841ecf605be4cbb,non_parket,false,false,foreign official Erdogan
+04ceee1f5d2b943e,non_parket,false,false,foreign parliament Kyrgyzstan
+44a097415d42789a,non_parket,false,false,foreign officials Italy
+e76fad4fadf23624,non_parket,false,false,foreign official Poland MVS
+6f8aa136c89a21c6,non_parket,false,false,foreign official Trump
+fb4120beb545f660,non_parket,false,false,foreign official UK MoD
+89ef88ed9d3b0596,non_parket,false,false,Russian officials multiple sources
+41e57c1805f8fcd0,non_parket,false,false,foreign expert German general
+ca7745284b7af39d,non_parket,false,false,foreign company experts
+cc2c54d991c2f177,non_parket,false,false,foreign company
+6cdf889a239bfe9d,non_parket,false,false,foreign official China MFA
+c25b3b23bf333c42,non_parket,false,false,foreign accident
+61c76d652f718132,non_parket,false,false,poll foreign
+871ec6e937768dbd,non_parket,false,false,foreign parliament Thailand

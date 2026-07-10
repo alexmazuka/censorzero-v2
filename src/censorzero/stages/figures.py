@@ -69,6 +69,31 @@ def _verdict(contrasts: dict) -> dict:
     }
 
 
+def _trend_interpretable(gold: dict | None) -> dict:
+    """Preregistered §9 precondition: between-period trends are interpretable
+    only if parser recall is stable across periods. If the gold standard shows
+    recall drift (>10pp spread or homogeneity rejected), trends are declared
+    confounded by parsing and no between-period conclusion is drawn."""
+    if not gold:
+        return {"status": "pending", "interpretable": None}
+    rd = gold.get("recall_drift", {})
+    confounded = rd.get("confounded")
+    overall = gold.get("overall", {})
+    return {
+        "status": "evaluated",
+        "interpretable": (confounded is False),
+        "recall_confounded": confounded,
+        "recall_spread_pp": rd.get("recall_spread_pp"),
+        "recall_homogeneity_p": rd.get("p_value"),
+        "precision": overall.get("precision"),
+        "recall": overall.get("recall"),
+        "note": "Precision high, recall low and period-dependent: the proxy is "
+                "specific but insensitive, and its recall drifts across periods, "
+                "so the raw between-period parket trend is confounded by "
+                "extraction and is NOT interpreted (preregistration section 9).",
+    }
+
+
 def run() -> None:
     metrics = json.loads((PROCESSED / "metrics.json").read_text())
     counts = json.loads((INTERIM / "counts.json").read_text())
@@ -98,6 +123,7 @@ def run() -> None:
         "diff_in_diff": metrics["diff_in_diff"],
         "control_coverage": metrics["control_coverage"],
         "gold_standard": gold,
+        "trend_interpretable": _trend_interpretable(gold),
         "limitations": LIMITATIONS,
         "verification": {
             "reproduce_command": "uv sync --frozen && make verify",

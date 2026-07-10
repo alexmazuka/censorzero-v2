@@ -39,13 +39,21 @@ function buildNav() {
 function renderVerdict() {
   const box = $("#verdict"); box.innerHTML = "";
   const v = FIG.verdict || {};
+  const ti = FIG.trend_interpretable || {};
   const coverageThin = (FIG.rates?.parket?.P1?.n || 0) < 50;
   let msg, cls;
   if (coverageThin) { msg = T("verdict_pending"); cls = ""; }
+  else if (ti.recall_confounded === true) { msg = T("verdict_confounded"); cls = ""; }
   else if (v.implied_pattern_supported) { msg = T("verdict_supported"); cls = "yes"; }
   else { msg = T("verdict_not"); cls = "no"; }
-  const span = el("span", "flag " + cls, msg);
-  box.appendChild(span);
+  box.appendChild(el("span", "flag " + cls, msg));
+  // Always show the validation one-liner when the gold standard has run.
+  if (ti.status === "evaluated") {
+    box.appendChild(el("div", "fine", T("verdict_gold_line")
+      .replace("{P}", (ti.precision != null ? (ti.precision * 100).toFixed(0) : "—"))
+      .replace("{R}", (ti.recall != null ? (ti.recall * 100).toFixed(0) : "—"))
+      .replace("{S}", (ti.recall_spread_pp != null ? ti.recall_spread_pp.toFixed(0) : "—"))));
+  }
 }
 
 function renderRates() {
