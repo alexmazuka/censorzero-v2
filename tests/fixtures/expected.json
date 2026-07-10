@@ -1,0 +1,7 @@
+{
+ "ukrinform_p1_ato.html": {"url": "https://www.ukrinform.ua/rubric-ato/3783953-bitva-za-ukrainu-den-sistsot-dvadcat-drugij.html", "outlet": "ukrinform", "rubric": "rubric-ato", "date_published_prefix": "2023-11-07", "title_contains": "Битва за Україну", "body_min_len": 400},
+ "ukrinform_p0_economy.html": {"url": "https://www.ukrinform.ua/rubric-economy/3727361-ukraina-i-es-matimut-odnakovi-pidhodi-do-klasifikacii-tovariv-risenna-kabminu.html", "outlet": "ukrinform", "rubric": "rubric-economy", "date_published_prefix": "2023-", "title_contains": "класифікації", "body_min_len": 400},
+ "ukrinform_p2_polytics.html": {"url": "https://www.ukrinform.ua/rubric-polytics/4044058-v-obse-zasudili-ataki-rosii-na-ukrainu-ta-zaklikali-ii-pripiniti-vijnu.html", "outlet": "ukrinform", "rubric": "rubric-polytics", "date_published_prefix": "2025-", "title_contains": "ОБСЄ", "body_min_len": 300},
+ "suspilne_news.html": {"url": "https://suspilne.media/1314785-raketa-spacex-vibuhnula-v-indijskomu-okeani-pisla-testovogo-polotu/", "outlet": "suspilne", "date_published_prefix": "2026-", "title_contains": "SpaceX", "body_min_len": 200},
+ "pravda_news.html": {"url": "https://www.pravda.com.ua/news/2023/11/09/7427919/", "outlet": "pravda", "date_published_prefix": "2023-11-09", "title_contains": "", "body_min_len": 200}
+}

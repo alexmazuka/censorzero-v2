@@ -6,3 +6,6 @@ __pycache__/
 *.egg-info/
 # Local scratch only. Data artifacts are COMMITTED by design (reproducibility).
 tmp/
+# Fetch working state (spool + raw HTML cache). The committed snapshot is
+# data/raw/*.parquet; the cache exists so parser fixes don't need a refetch.
+cache/
