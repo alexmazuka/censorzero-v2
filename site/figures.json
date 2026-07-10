@@ -2,71 +2,71 @@
  "conflict_of_interest": "The author of this study led Ukrinform during period P1. See PREREGISTRATION.md section 1. Reproducibility, not the author's word, is the evidence: every number here is regenerated from the committed raw snapshot and checked bit-for-bit in CI.",
  "contrasts": {
   "balance:P0-P1": {
-   "cohen_h": -0.016336,
-   "diff": -0.004638,
-   "h_ci_high": 0.048516,
-   "h_ci_low": -0.082808,
-   "p_holm": 1.0,
-   "p_raw": 0.6152,
-   "rate_a": 0.086124,
-   "rate_b": 0.090762
+   "cohen_h": 0.025435,
+   "diff": 0.00731,
+   "h_ci_high": 0.081438,
+   "h_ci_low": -0.032802,
+   "p_holm": 0.5876,
+   "p_raw": 0.3858,
+   "rate_a": 0.094561,
+   "rate_b": 0.087251
   },
   "balance:P0-P2": {
-   "cohen_h": -0.113071,
-   "diff": -0.034297,
-   "h_ci_high": -0.050075,
-   "h_ci_low": -0.175057,
-   "p_holm": 0.003,
-   "p_raw": 0.0006,
-   "rate_a": 0.086124,
-   "rate_b": 0.120421
+   "cohen_h": -0.086414,
+   "diff": -0.026767,
+   "h_ci_high": -0.031617,
+   "h_ci_low": -0.143831,
+   "p_holm": 0.0104,
+   "p_raw": 0.0026,
+   "rate_a": 0.094561,
+   "rate_b": 0.121328
   },
   "balance:P1-P2": {
-   "cohen_h": -0.096735,
-   "diff": -0.029659,
-   "h_ci_high": -0.034818,
-   "h_ci_low": -0.15827,
-   "p_holm": 0.0072,
-   "p_raw": 0.0024,
-   "rate_a": 0.090762,
-   "rate_b": 0.120421
+   "cohen_h": -0.111849,
+   "diff": -0.034077,
+   "h_ci_high": -0.058211,
+   "h_ci_low": -0.165559,
+   "p_holm": 0.001,
+   "p_raw": 0.0002,
+   "rate_a": 0.087251,
+   "rate_b": 0.121328
   },
   "parket:P0-P1": {
-   "cohen_h": -0.019025,
-   "diff": -0.003823,
-   "h_ci_high": 0.046253,
-   "h_ci_low": -0.085188,
-   "p_holm": 1.0,
-   "p_raw": 0.565,
-   "rate_a": 0.040277,
-   "rate_b": 0.0441
+   "cohen_h": 0.031296,
+   "diff": 0.006476,
+   "h_ci_high": 0.088904,
+   "h_ci_low": -0.027375,
+   "p_holm": 0.5876,
+   "p_raw": 0.2938,
+   "rate_a": 0.04812,
+   "rate_b": 0.041645
   },
   "parket:P0-P2": {
-   "cohen_h": -0.116544,
-   "diff": -0.02598,
-   "h_ci_high": -0.055059,
-   "h_ci_low": -0.179885,
-   "p_holm": 0.0012,
-   "p_raw": 0.0002,
-   "rate_a": 0.040277,
-   "rate_b": 0.066257
+   "cohen_h": -0.078803,
+   "diff": -0.01825,
+   "h_ci_high": -0.02497,
+   "h_ci_low": -0.134453,
+   "p_holm": 0.0114,
+   "p_raw": 0.0038,
+   "rate_a": 0.04812,
+   "rate_b": 0.06637
   },
   "parket:P1-P2": {
-   "cohen_h": -0.09752,
-   "diff": -0.022157,
-   "h_ci_high": -0.037607,
-   "h_ci_low": -0.161646,
-   "p_holm": 0.0072,
-   "p_raw": 0.0018,
-   "rate_a": 0.0441,
-   "rate_b": 0.066257
+   "cohen_h": -0.110099,
+   "diff": -0.024726,
+   "h_ci_high": -0.057213,
+   "h_ci_low": -0.165137,
+   "p_holm": 0.0,
+   "p_raw": 0.0,
+   "rate_a": 0.041645,
+   "rate_b": 0.06637
   }
  },
  "control_coverage": {
   "pravda": {
-   "P0": 4497,
-   "P1": 1428,
-   "P2": 1186
+   "P0": 5325,
+   "P1": 2299,
+   "P2": 1958
   },
   "suspilne": {
    "P0": 315,
@@ -77,9 +77,9 @@
  "coverage": {
   "by_outlet_period": {
    "pravda": {
-    "P0": 4497,
-    "P1": 1428,
-    "P2": 1186
+    "P0": 5325,
+    "P1": 2299,
+    "P2": 1958
    },
    "suspilne": {
     "P0": 315,
@@ -87,42 +87,42 @@
     "P2": 414
    },
    "ukrinform": {
-    "P0": 3973,
-    "P1": 3241,
-    "P2": 3236
+    "P0": 5028,
+    "P1": 4391,
+    "P2": 4339
    }
   },
-  "dropped_out_of_period": 1392,
-  "raw_rows": 20004
+  "dropped_out_of_period": 1528,
+  "raw_rows": 25919
  },
  "diff_in_diff": {
   "pravda": {
    "balance": {
     "control": {
-     "P0": 0.107183,
-     "P1": 0.107143,
-     "P2": 0.093592
+     "P0": 0.108169,
+     "P1": 0.107438,
+     "P2": 0.093973
     },
-    "did_P0_P1": 0.004242,
-    "did_P1_P2": 0.049811,
+    "did_P0_P1": -0.007383,
+    "did_P1_P2": 0.05358,
     "ukrinform": {
-     "P0": 0.084831,
-     "P1": 0.089034,
-     "P2": 0.125293
+     "P0": 0.093525,
+     "P1": 0.085411,
+     "P2": 0.125526
     }
    },
    "parket": {
     "control": {
-     "P0": 0.064265,
-     "P1": 0.065826,
-     "P2": 0.054806
+     "P0": 0.064601,
+     "P1": 0.065681,
+     "P2": 0.056691
     },
-    "did_P0_P1": 0.002563,
-    "did_P1_P2": 0.037583,
+    "did_P0_P1": -0.007596,
+    "did_P1_P2": 0.037607,
     "ukrinform": {
-     "P0": 0.038764,
-     "P1": 0.042888,
-     "P2": 0.069451
+     "P0": 0.046974,
+     "P1": 0.040458,
+     "P2": 0.069074
     }
    },
    "status": "descriptive"
@@ -134,12 +134,12 @@
      "P1": 0.0,
      "P2": 0.0
     },
-    "did_P0_P1": 0.004202,
-    "did_P1_P2": 0.03626,
+    "did_P0_P1": -0.008114,
+    "did_P1_P2": 0.040115,
     "ukrinform": {
-     "P0": 0.084831,
-     "P1": 0.089034,
-     "P2": 0.125293
+     "P0": 0.093525,
+     "P1": 0.085411,
+     "P2": 0.125526
     }
    },
    "parket": {
@@ -148,12 +148,12 @@
      "P1": 0.0,
      "P2": 0.0
     },
-    "did_P0_P1": 0.004124,
-    "did_P1_P2": 0.026563,
+    "did_P0_P1": -0.006516,
+    "did_P1_P2": 0.028617,
     "ukrinform": {
-     "P0": 0.038764,
-     "P1": 0.042888,
-     "P2": 0.069451
+     "P0": 0.046974,
+     "P1": 0.040458,
+     "P2": 0.069074
     }
    },
    "status": "descriptive"
@@ -280,42 +280,42 @@
  "rates": {
   "balance": {
    "P0": {
-    "crude": 0.084831,
-    "n": 1780,
-    "n_flagged": 151,
-    "standardized": 0.086124
+    "crude": 0.093525,
+    "n": 2363,
+    "n_flagged": 221,
+    "standardized": 0.094561
    },
    "P1": {
-    "crude": 0.089034,
-    "n": 1842,
-    "n_flagged": 164,
-    "standardized": 0.090762
+    "crude": 0.085411,
+    "n": 2447,
+    "n_flagged": 209,
+    "standardized": 0.087251
    },
    "P2": {
-    "crude": 0.125293,
-    "n": 2131,
-    "n_flagged": 267,
-    "standardized": 0.120421
+    "crude": 0.125526,
+    "n": 2852,
+    "n_flagged": 358,
+    "standardized": 0.121328
    }
   },
   "parket": {
    "P0": {
-    "crude": 0.038764,
-    "n": 1780,
-    "n_flagged": 69,
-    "standardized": 0.040277
+    "crude": 0.046974,
+    "n": 2363,
+    "n_flagged": 111,
+    "standardized": 0.04812
    },
    "P1": {
-    "crude": 0.042888,
-    "n": 1842,
-    "n_flagged": 79,
-    "standardized": 0.0441
+    "crude": 0.040458,
+    "n": 2447,
+    "n_flagged": 99,
+    "standardized": 0.041645
    },
    "P2": {
-    "crude": 0.069451,
-    "n": 2131,
-    "n_flagged": 148,
-    "standardized": 0.066257
+    "crude": 0.069074,
+    "n": 2852,
+    "n_flagged": 197,
+    "standardized": 0.06637
    }
   }
  },
@@ -323,971 +323,971 @@
   "sc1_focus0_atoexcluded_plus_world_crude": {
    "balance": {
     "P0": {
-     "n": 2443,
-     "rate": 0.07368
+     "n": 3233,
+     "rate": 0.078874
     },
     "P1": {
-     "n": 2470,
-     "rate": 0.075709
+     "n": 3334,
+     "rate": 0.072885
     },
     "P2": {
-     "n": 2811,
-     "rate": 0.103166
+     "n": 3750,
+     "rate": 0.103733
     }
    },
    "parket": {
     "P0": {
-     "n": 2443,
-     "rate": 0.033565
+     "n": 3233,
+     "rate": 0.039282
     },
     "P1": {
-     "n": 2470,
-     "rate": 0.038057
+     "n": 3334,
+     "rate": 0.035393
     },
     "P2": {
-     "n": 2811,
-     "rate": 0.055141
+     "n": 3750,
+     "rate": 0.055733
     }
    }
   },
   "sc1_focus0_atoexcluded_plus_world_direct": {
    "balance": {
     "P0": {
-     "n": 2443,
-     "rate": 0.075359
+     "n": 3233,
+     "rate": 0.080164
     },
     "P1": {
-     "n": 2470,
-     "rate": 0.077085
+     "n": 3334,
+     "rate": 0.075032
     },
     "P2": {
-     "n": 2811,
-     "rate": 0.097654
+     "n": 3750,
+     "rate": 0.098095
     }
    },
    "parket": {
     "P0": {
-     "n": 2443,
-     "rate": 0.035043
+     "n": 3233,
+     "rate": 0.040411
     },
     "P1": {
-     "n": 2470,
-     "rate": 0.038958
+     "n": 3334,
+     "rate": 0.036581
     },
     "P2": {
-     "n": 2811,
-     "rate": 0.051732
+     "n": 3750,
+     "rate": 0.0523
     }
    }
   },
   "sc1_focus0_atoexcluded_primary7_crude": {
    "balance": {
     "P0": {
-     "n": 1780,
-     "rate": 0.094382
+     "n": 2363,
+     "rate": 0.101566
     },
     "P1": {
-     "n": 1842,
-     "rate": 0.094463
+     "n": 2447,
+     "rate": 0.091132
     },
     "P2": {
-     "n": 2131,
-     "rate": 0.131863
+     "n": 2852,
+     "rate": 0.132539
     }
    },
    "parket": {
     "P0": {
-     "n": 1780,
-     "rate": 0.043258
+     "n": 2363,
+     "rate": 0.051206
     },
     "P1": {
-     "n": 1842,
-     "rate": 0.045603
+     "n": 2447,
+     "rate": 0.04291
     },
     "P2": {
-     "n": 2131,
-     "rate": 0.071328
+     "n": 2852,
+     "rate": 0.07223
     }
    }
   },
   "sc1_focus0_atoexcluded_primary7_direct": {
    "balance": {
     "P0": {
-     "n": 1780,
-     "rate": 0.095152
+     "n": 2363,
+     "rate": 0.102148
     },
     "P1": {
-     "n": 1842,
-     "rate": 0.096402
+     "n": 2447,
+     "rate": 0.093219
     },
     "P2": {
-     "n": 2131,
-     "rate": 0.126835
+     "n": 2852,
+     "rate": 0.128089
     }
    },
    "parket": {
     "P0": {
-     "n": 1780,
-     "rate": 0.044549
+     "n": 2363,
+     "rate": 0.052121
     },
     "P1": {
-     "n": 1842,
-     "rate": 0.04685
+     "n": 2447,
+     "rate": 0.044178
     },
     "P2": {
-     "n": 2131,
-     "rate": 0.06809
+     "n": 2852,
+     "rate": 0.069406
     }
    }
   },
   "sc1_focus0_atoincluded_plus_world_crude": {
    "balance": {
     "P0": {
-     "n": 3973,
-     "rate": 0.095646
+     "n": 5028,
+     "rate": 0.097255
     },
     "P1": {
-     "n": 3241,
-     "rate": 0.098735
+     "n": 4391,
+     "rate": 0.095878
     },
     "P2": {
-     "n": 3236,
-     "rate": 0.120828
+     "n": 4339,
+     "rate": 0.122148
     }
    },
    "parket": {
     "P0": {
-     "n": 3973,
-     "rate": 0.036496
+     "n": 5028,
+     "rate": 0.040175
     },
     "P1": {
-     "n": 3241,
-     "rate": 0.042579
+     "n": 4391,
+     "rate": 0.040993
     },
     "P2": {
-     "n": 3236,
-     "rate": 0.065204
+     "n": 4339,
+     "rate": 0.066144
     }
    }
   },
   "sc1_focus0_atoincluded_plus_world_direct": {
    "balance": {
     "P0": {
-     "n": 3973,
-     "rate": 0.089871
+     "n": 5028,
+     "rate": 0.092777
     },
     "P1": {
-     "n": 3241,
-     "rate": 0.101976
+     "n": 4391,
+     "rate": 0.098384
     },
     "P2": {
-     "n": 3236,
-     "rate": 0.134352
+     "n": 4339,
+     "rate": 0.133597
     }
    },
    "parket": {
     "P0": {
-     "n": 3973,
-     "rate": 0.036651
+     "n": 5028,
+     "rate": 0.040756
     },
     "P1": {
-     "n": 3241,
-     "rate": 0.043682
+     "n": 4391,
+     "rate": 0.042102
     },
     "P2": {
-     "n": 3236,
-     "rate": 0.072712
+     "n": 4339,
+     "rate": 0.072433
     }
    }
   },
   "sc1_focus0_atoincluded_primary7_crude": {
    "balance": {
     "P0": {
-     "n": 3310,
-     "rate": 0.111178
+     "n": 4158,
+     "rate": 0.113997
     },
     "P1": {
-     "n": 2613,
-     "rate": 0.117489
+     "n": 3504,
+     "rate": 0.114441
     },
     "P2": {
-     "n": 2556,
-     "rate": 0.149452
+     "n": 3441,
+     "rate": 0.150828
     }
    },
    "parket": {
     "P0": {
-     "n": 3310,
-     "rate": 0.042296
+     "n": 4158,
+     "rate": 0.047138
     },
     "P1": {
-     "n": 2613,
-     "rate": 0.048986
+     "n": 3504,
+     "rate": 0.04766
     },
     "P2": {
-     "n": 2556,
-     "rate": 0.081377
+     "n": 3441,
+     "rate": 0.082534
     }
    }
   },
   "sc1_focus0_atoincluded_primary7_direct": {
    "balance": {
     "P0": {
-     "n": 3310,
-     "rate": 0.106656
+     "n": 4158,
+     "rate": 0.110942
     },
     "P1": {
-     "n": 2613,
-     "rate": 0.120869
+     "n": 3504,
+     "rate": 0.116519
     },
     "P2": {
-     "n": 2556,
-     "rate": 0.162677
+     "n": 3441,
+     "rate": 0.162779
     }
    },
    "parket": {
     "P0": {
-     "n": 3310,
-     "rate": 0.043458
+     "n": 4158,
+     "rate": 0.048899
     },
     "P1": {
-     "n": 2613,
-     "rate": 0.050135
+     "n": 3504,
+     "rate": 0.048665
     },
     "P2": {
-     "n": 2556,
-     "rate": 0.088685
+     "n": 3441,
+     "rate": 0.089049
     }
    }
   },
   "sc1_focus1_atoexcluded_plus_world_crude": {
    "balance": {
     "P0": {
-     "n": 2443,
-     "rate": 0.064675
+     "n": 3233,
+     "rate": 0.071451
     },
     "P1": {
-     "n": 2470,
-     "rate": 0.070445
+     "n": 3334,
+     "rate": 0.067187
     },
     "P2": {
-     "n": 2811,
-     "rate": 0.097474
+     "n": 3750,
+     "rate": 0.0976
     }
    },
    "parket": {
     "P0": {
-     "n": 2443,
-     "rate": 0.029063
+     "n": 3233,
+     "rate": 0.035261
     },
     "P1": {
-     "n": 2470,
-     "rate": 0.034818
+     "n": 3334,
+     "rate": 0.032394
     },
     "P2": {
-     "n": 2811,
-     "rate": 0.053362
+     "n": 3750,
+     "rate": 0.053067
     }
    }
   },
   "sc1_focus1_atoexcluded_plus_world_direct": {
    "balance": {
     "P0": {
-     "n": 2443,
-     "rate": 0.066713
+     "n": 3233,
+     "rate": 0.073053
     },
     "P1": {
-     "n": 2470,
-     "rate": 0.071665
+     "n": 3334,
+     "rate": 0.069149
     },
     "P2": {
-     "n": 2811,
-     "rate": 0.092132
+     "n": 3750,
+     "rate": 0.09222
     }
    },
    "parket": {
     "P0": {
-     "n": 2443,
-     "rate": 0.030705
+     "n": 3233,
+     "rate": 0.036554
     },
     "P1": {
-     "n": 2470,
-     "rate": 0.035691
+     "n": 3334,
+     "rate": 0.033539
     },
     "P2": {
-     "n": 2811,
-     "rate": 0.049993
+     "n": 3750,
+     "rate": 0.049762
     }
    }
   },
   "sc1_focus1_atoexcluded_primary7_crude": {
    "balance": {
     "P0": {
-     "n": 1780,
-     "rate": 0.084831
+     "n": 2363,
+     "rate": 0.093525
     },
     "P1": {
-     "n": 1842,
-     "rate": 0.089034
+     "n": 2447,
+     "rate": 0.085411
     },
     "P2": {
-     "n": 2131,
-     "rate": 0.125293
+     "n": 2852,
+     "rate": 0.125526
     }
    },
    "parket": {
     "P0": {
-     "n": 1780,
-     "rate": 0.038764
+     "n": 2363,
+     "rate": 0.046974
     },
     "P1": {
-     "n": 1842,
-     "rate": 0.042888
+     "n": 2447,
+     "rate": 0.040458
     },
     "P2": {
-     "n": 2131,
-     "rate": 0.069451
+     "n": 2852,
+     "rate": 0.069074
     }
    }
   },
   "sc1_focus1_atoexcluded_primary7_direct": {
    "balance": {
     "P0": {
-     "n": 1780,
-     "rate": 0.086124
+     "n": 2363,
+     "rate": 0.094561
     },
     "P1": {
-     "n": 1842,
-     "rate": 0.090762
+     "n": 2447,
+     "rate": 0.087251
     },
     "P2": {
-     "n": 2131,
-     "rate": 0.120421
+     "n": 2852,
+     "rate": 0.121328
     }
    },
    "parket": {
     "P0": {
-     "n": 1780,
-     "rate": 0.040277
+     "n": 2363,
+     "rate": 0.04812
     },
     "P1": {
-     "n": 1842,
-     "rate": 0.0441
+     "n": 2447,
+     "rate": 0.041645
     },
     "P2": {
-     "n": 2131,
-     "rate": 0.066257
+     "n": 2852,
+     "rate": 0.06637
     }
    }
   },
   "sc1_focus1_atoincluded_plus_world_crude": {
    "balance": {
     "P0": {
-     "n": 3973,
-     "rate": 0.08885
+     "n": 5028,
+     "rate": 0.091488
     },
     "P1": {
-     "n": 3241,
-     "rate": 0.09349
+     "n": 4391,
+     "rate": 0.089957
     },
     "P2": {
-     "n": 3236,
-     "rate": 0.114957
+     "n": 4339,
+     "rate": 0.115695
     }
    },
    "parket": {
     "P0": {
-     "n": 3973,
-     "rate": 0.033476
+     "n": 5028,
+     "rate": 0.037391
     },
     "P1": {
-     "n": 3241,
-     "rate": 0.039803
+     "n": 4391,
+     "rate": 0.038032
     },
     "P2": {
-     "n": 3236,
-     "rate": 0.063041
+     "n": 4339,
+     "rate": 0.063148
     }
    }
   },
   "sc1_focus1_atoincluded_plus_world_direct": {
    "balance": {
     "P0": {
-     "n": 3973,
-     "rate": 0.082635
+     "n": 5028,
+     "rate": 0.086753
     },
     "P1": {
-     "n": 3241,
-     "rate": 0.096616
+     "n": 4391,
+     "rate": 0.092317
     },
     "P2": {
-     "n": 3236,
-     "rate": 0.128427
+     "n": 4339,
+     "rate": 0.127065
     }
    },
    "parket": {
     "P0": {
-     "n": 3973,
-     "rate": 0.033279
+     "n": 5028,
+     "rate": 0.037727
     },
     "P1": {
-     "n": 3241,
-     "rate": 0.040929
+     "n": 4391,
+     "rate": 0.039111
     },
     "P2": {
-     "n": 3236,
-     "rate": 0.070195
+     "n": 4339,
+     "rate": 0.069253
     }
    }
   },
   "sc1_focus1_atoincluded_primary7_crude": {
    "balance": {
     "P0": {
-     "n": 3310,
-     "rate": 0.104532
+     "n": 4158,
+     "rate": 0.108225
     },
     "P1": {
-     "n": 2613,
-     "rate": 0.112132
+     "n": 3504,
+     "rate": 0.108447
     },
     "P2": {
-     "n": 2556,
-     "rate": 0.142801
+     "n": 3441,
+     "rate": 0.143563
     }
    },
    "parket": {
     "P0": {
-     "n": 3310,
-     "rate": 0.039577
+     "n": 4158,
+     "rate": 0.044493
     },
     "P1": {
-     "n": 2613,
-     "rate": 0.04669
+     "n": 3504,
+     "rate": 0.045091
     },
     "P2": {
-     "n": 2556,
-     "rate": 0.07903
+     "n": 3441,
+     "rate": 0.079047
     }
    }
   },
   "sc1_focus1_atoincluded_primary7_direct": {
    "balance": {
     "P0": {
-     "n": 3310,
-     "rate": 0.099491
+     "n": 4158,
+     "rate": 0.104852
     },
     "P1": {
-     "n": 2613,
-     "rate": 0.115374
+     "n": 3504,
+     "rate": 0.110348
     },
     "P2": {
-     "n": 2556,
-     "rate": 0.156054
+     "n": 3441,
+     "rate": 0.15548
     }
    },
    "parket": {
     "P0": {
-     "n": 3310,
-     "rate": 0.040356
+     "n": 4158,
+     "rate": 0.045971
     },
     "P1": {
-     "n": 2613,
-     "rate": 0.047852
+     "n": 3504,
+     "rate": 0.046037
     },
     "P2": {
-     "n": 2556,
-     "rate": 0.085923
+     "n": 3441,
+     "rate": 0.085372
     }
    }
   },
   "sc2_focus0_atoexcluded_plus_world_crude": {
    "balance": {
     "P0": {
-     "n": 2443,
-     "rate": 0.07368
+     "n": 3233,
+     "rate": 0.078874
     },
     "P1": {
-     "n": 2470,
-     "rate": 0.075709
+     "n": 3334,
+     "rate": 0.072885
     },
     "P2": {
-     "n": 2811,
-     "rate": 0.103166
+     "n": 3750,
+     "rate": 0.103733
     }
    },
    "parket": {
     "P0": {
-     "n": 2443,
-     "rate": 0.050757
+     "n": 3233,
+     "rate": 0.055985
     },
     "P1": {
-     "n": 2470,
-     "rate": 0.053036
+     "n": 3334,
+     "rate": 0.05039
     },
     "P2": {
-     "n": 2811,
-     "rate": 0.074707
+     "n": 3750,
+     "rate": 0.0768
     }
    }
   },
   "sc2_focus0_atoexcluded_plus_world_direct": {
    "balance": {
     "P0": {
-     "n": 2443,
-     "rate": 0.075359
+     "n": 3233,
+     "rate": 0.080164
     },
     "P1": {
-     "n": 2470,
-     "rate": 0.077085
+     "n": 3334,
+     "rate": 0.075032
     },
     "P2": {
-     "n": 2811,
-     "rate": 0.097654
+     "n": 3750,
+     "rate": 0.098095
     }
    },
    "parket": {
     "P0": {
-     "n": 2443,
-     "rate": 0.052627
+     "n": 3233,
+     "rate": 0.057504
     },
     "P1": {
-     "n": 2470,
-     "rate": 0.053948
+     "n": 3334,
+     "rate": 0.051942
     },
     "P2": {
-     "n": 2811,
-     "rate": 0.069835
+     "n": 3750,
+     "rate": 0.071768
     }
    }
   },
   "sc2_focus0_atoexcluded_primary7_crude": {
    "balance": {
     "P0": {
-     "n": 1780,
-     "rate": 0.094382
+     "n": 2363,
+     "rate": 0.101566
     },
     "P1": {
-     "n": 1842,
-     "rate": 0.094463
+     "n": 2447,
+     "rate": 0.091132
     },
     "P2": {
-     "n": 2131,
-     "rate": 0.131863
+     "n": 2852,
+     "rate": 0.132539
     }
    },
    "parket": {
     "P0": {
-     "n": 1780,
-     "rate": 0.06573
+     "n": 2363,
+     "rate": 0.073212
     },
     "P1": {
-     "n": 1842,
-     "rate": 0.064061
+     "n": 2447,
+     "rate": 0.062117
     },
     "P2": {
-     "n": 2131,
-     "rate": 0.09573
+     "n": 2852,
+     "rate": 0.098878
     }
    }
   },
   "sc2_focus0_atoexcluded_primary7_direct": {
    "balance": {
     "P0": {
-     "n": 1780,
-     "rate": 0.095152
+     "n": 2363,
+     "rate": 0.102148
     },
     "P1": {
-     "n": 1842,
-     "rate": 0.096402
+     "n": 2447,
+     "rate": 0.093219
     },
     "P2": {
-     "n": 2131,
-     "rate": 0.126835
+     "n": 2852,
+     "rate": 0.128089
     }
    },
    "parket": {
     "P0": {
-     "n": 1780,
-     "rate": 0.067169
+     "n": 2363,
+     "rate": 0.074382
     },
     "P1": {
-     "n": 1842,
-     "rate": 0.065338
+     "n": 2447,
+     "rate": 0.06369
     },
     "P2": {
-     "n": 2131,
-     "rate": 0.090924
+     "n": 2852,
+     "rate": 0.094509
     }
    }
   },
   "sc2_focus0_atoincluded_plus_world_crude": {
    "balance": {
     "P0": {
-     "n": 3973,
-     "rate": 0.095646
+     "n": 5028,
+     "rate": 0.097255
     },
     "P1": {
-     "n": 3241,
-     "rate": 0.098735
+     "n": 4391,
+     "rate": 0.095878
     },
     "P2": {
-     "n": 3236,
-     "rate": 0.120828
+     "n": 4339,
+     "rate": 0.122148
     }
    },
    "parket": {
     "P0": {
-     "n": 3973,
-     "rate": 0.066449
+     "n": 5028,
+     "rate": 0.06782
     },
     "P1": {
-     "n": 3241,
-     "rate": 0.070349
+     "n": 4391,
+     "rate": 0.068322
     },
     "P2": {
-     "n": 3236,
-     "rate": 0.092707
+     "n": 4339,
+     "rate": 0.095414
     }
    }
   },
   "sc2_focus0_atoincluded_plus_world_direct": {
    "balance": {
     "P0": {
-     "n": 3973,
-     "rate": 0.089871
+     "n": 5028,
+     "rate": 0.092777
     },
     "P1": {
-     "n": 3241,
-     "rate": 0.101976
+     "n": 4391,
+     "rate": 0.098384
     },
     "P2": {
-     "n": 3236,
-     "rate": 0.134352
+     "n": 4339,
+     "rate": 0.133597
     }
    },
    "parket": {
     "P0": {
-     "n": 3973,
-     "rate": 0.062818
+     "n": 5028,
+     "rate": 0.065452
     },
     "P1": {
-     "n": 3241,
-     "rate": 0.072694
+     "n": 4391,
+     "rate": 0.070185
     },
     "P2": {
-     "n": 3236,
-     "rate": 0.10704
+     "n": 4339,
+     "rate": 0.107486
     }
    }
   },
   "sc2_focus0_atoincluded_primary7_crude": {
    "balance": {
     "P0": {
-     "n": 3310,
-     "rate": 0.111178
+     "n": 4158,
+     "rate": 0.113997
     },
     "P1": {
-     "n": 2613,
-     "rate": 0.117489
+     "n": 3504,
+     "rate": 0.114441
     },
     "P2": {
-     "n": 2556,
-     "rate": 0.149452
+     "n": 3441,
+     "rate": 0.150828
     }
    },
    "parket": {
     "P0": {
-     "n": 3310,
-     "rate": 0.077644
+     "n": 4158,
+     "rate": 0.080087
     },
     "P1": {
-     "n": 2613,
-     "rate": 0.082281
+     "n": 3504,
+     "rate": 0.08105
     },
     "P2": {
-     "n": 2556,
-     "rate": 0.115023
+     "n": 3441,
+     "rate": 0.11857
     }
    }
   },
   "sc2_focus0_atoincluded_primary7_direct": {
    "balance": {
     "P0": {
-     "n": 3310,
-     "rate": 0.106656
+     "n": 4158,
+     "rate": 0.110942
     },
     "P1": {
-     "n": 2613,
-     "rate": 0.120869
+     "n": 3504,
+     "rate": 0.116519
     },
     "P2": {
-     "n": 2556,
-     "rate": 0.162677
+     "n": 3441,
+     "rate": 0.162779
     }
    },
    "parket": {
     "P0": {
-     "n": 3310,
-     "rate": 0.07504
+     "n": 4158,
+     "rate": 0.078981
     },
     "P1": {
-     "n": 2613,
-     "rate": 0.08478
+     "n": 3504,
+     "rate": 0.082654
     },
     "P2": {
-     "n": 2556,
-     "rate": 0.13001
+     "n": 3441,
+     "rate": 0.131728
     }
    }
   },
   "sc2_focus1_atoexcluded_plus_world_crude": {
    "balance": {
     "P0": {
-     "n": 2443,
-     "rate": 0.064675
+     "n": 3233,
+     "rate": 0.071451
     },
     "P1": {
-     "n": 2470,
-     "rate": 0.070445
+     "n": 3334,
+     "rate": 0.067187
     },
     "P2": {
-     "n": 2811,
-     "rate": 0.097474
+     "n": 3750,
+     "rate": 0.0976
     }
    },
    "parket": {
     "P0": {
-     "n": 2443,
-     "rate": 0.046255
+     "n": 3233,
+     "rate": 0.051964
     },
     "P1": {
-     "n": 2470,
-     "rate": 0.049393
+     "n": 3334,
+     "rate": 0.047091
     },
     "P2": {
-     "n": 2811,
-     "rate": 0.072928
+     "n": 3750,
+     "rate": 0.074133
     }
    }
   },
   "sc2_focus1_atoexcluded_plus_world_direct": {
    "balance": {
     "P0": {
-     "n": 2443,
-     "rate": 0.066713
+     "n": 3233,
+     "rate": 0.073053
     },
     "P1": {
-     "n": 2470,
-     "rate": 0.071665
+     "n": 3334,
+     "rate": 0.069149
     },
     "P2": {
-     "n": 2811,
-     "rate": 0.092132
+     "n": 3750,
+     "rate": 0.09222
     }
    },
    "parket": {
     "P0": {
-     "n": 2443,
-     "rate": 0.048289
+     "n": 3233,
+     "rate": 0.053646
     },
     "P1": {
-     "n": 2470,
-     "rate": 0.050298
+     "n": 3334,
+     "rate": 0.048611
     },
     "P2": {
-     "n": 2811,
-     "rate": 0.068095
+     "n": 3750,
+     "rate": 0.06923
     }
    }
   },
   "sc2_focus1_atoexcluded_primary7_crude": {
    "balance": {
     "P0": {
-     "n": 1780,
-     "rate": 0.084831
+     "n": 2363,
+     "rate": 0.093525
     },
     "P1": {
-     "n": 1842,
-     "rate": 0.089034
+     "n": 2447,
+     "rate": 0.085411
     },
     "P2": {
-     "n": 2131,
-     "rate": 0.125293
+     "n": 2852,
+     "rate": 0.125526
     }
    },
    "parket": {
     "P0": {
-     "n": 1780,
-     "rate": 0.061236
+     "n": 2363,
+     "rate": 0.06898
     },
     "P1": {
-     "n": 1842,
-     "rate": 0.060803
+     "n": 2447,
+     "rate": 0.059256
     },
     "P2": {
-     "n": 2131,
-     "rate": 0.093853
+     "n": 2852,
+     "rate": 0.095722
     }
    }
   },
   "sc2_focus1_atoexcluded_primary7_direct": {
    "balance": {
     "P0": {
-     "n": 1780,
-     "rate": 0.086124
+     "n": 2363,
+     "rate": 0.094561
     },
     "P1": {
-     "n": 1842,
-     "rate": 0.090762
+     "n": 2447,
+     "rate": 0.087251
     },
     "P2": {
-     "n": 2131,
-     "rate": 0.120421
+     "n": 2852,
+     "rate": 0.121328
     }
    },
    "parket": {
     "P0": {
-     "n": 1780,
-     "rate": 0.062896
+     "n": 2363,
+     "rate": 0.070382
     },
     "P1": {
-     "n": 1842,
-     "rate": 0.062075
+     "n": 2447,
+     "rate": 0.060767
     },
     "P2": {
-     "n": 2131,
-     "rate": 0.089092
+     "n": 2852,
+     "rate": 0.091473
     }
    }
   },
   "sc2_focus1_atoincluded_plus_world_crude": {
    "balance": {
     "P0": {
-     "n": 3973,
-     "rate": 0.08885
+     "n": 5028,
+     "rate": 0.091488
     },
     "P1": {
-     "n": 3241,
-     "rate": 0.09349
+     "n": 4391,
+     "rate": 0.089957
     },
     "P2": {
-     "n": 3236,
-     "rate": 0.114957
+     "n": 4339,
+     "rate": 0.115695
     }
    },
    "parket": {
     "P0": {
-     "n": 3973,
-     "rate": 0.063428
+     "n": 5028,
+     "rate": 0.065036
     },
     "P1": {
-     "n": 3241,
-     "rate": 0.067263
+     "n": 4391,
+     "rate": 0.065133
     },
     "P2": {
-     "n": 3236,
-     "rate": 0.090544
+     "n": 4339,
+     "rate": 0.092418
     }
    }
   },
   "sc2_focus1_atoincluded_plus_world_direct": {
    "balance": {
     "P0": {
-     "n": 3973,
-     "rate": 0.082635
+     "n": 5028,
+     "rate": 0.086753
     },
     "P1": {
-     "n": 3241,
-     "rate": 0.096616
+     "n": 4391,
+     "rate": 0.092317
     },
     "P2": {
-     "n": 3236,
-     "rate": 0.128427
+     "n": 4339,
+     "rate": 0.127065
     }
    },
    "parket": {
     "P0": {
-     "n": 3973,
-     "rate": 0.059446
+     "n": 5028,
+     "rate": 0.062424
     },
     "P1": {
-     "n": 3241,
-     "rate": 0.069658
+     "n": 4391,
+     "rate": 0.066977
     },
     "P2": {
-     "n": 3236,
-     "rate": 0.104523
+     "n": 4339,
+     "rate": 0.104306
     }
    }
   },
   "sc2_focus1_atoincluded_primary7_crude": {
    "balance": {
     "P0": {
-     "n": 3310,
-     "rate": 0.104532
+     "n": 4158,
+     "rate": 0.108225
     },
     "P1": {
-     "n": 2613,
-     "rate": 0.112132
+     "n": 3504,
+     "rate": 0.108447
     },
     "P2": {
-     "n": 2556,
-     "rate": 0.142801
+     "n": 3441,
+     "rate": 0.143563
     }
    },
    "parket": {
     "P0": {
-     "n": 3310,
-     "rate": 0.074924
+     "n": 4158,
+     "rate": 0.077441
     },
     "P1": {
-     "n": 2613,
-     "rate": 0.079602
+     "n": 3504,
+     "rate": 0.078196
     },
     "P2": {
-     "n": 2556,
-     "rate": 0.112676
+     "n": 3441,
+     "rate": 0.115083
     }
    }
   },
   "sc2_focus1_atoincluded_primary7_direct": {
    "balance": {
     "P0": {
-     "n": 3310,
-     "rate": 0.099491
+     "n": 4158,
+     "rate": 0.104852
     },
     "P1": {
-     "n": 2613,
-     "rate": 0.115374
+     "n": 3504,
+     "rate": 0.110348
     },
     "P2": {
-     "n": 2556,
-     "rate": 0.156054
+     "n": 3441,
+     "rate": 0.15548
     }
    },
    "parket": {
     "P0": {
-     "n": 3310,
-     "rate": 0.071937
+     "n": 4158,
+     "rate": 0.076054
     },
     "P1": {
-     "n": 2613,
-     "rate": 0.082149
+     "n": 3504,
+     "rate": 0.079758
     },
     "P2": {
-     "n": 2556,
-     "rate": 0.127248
+     "n": 3441,
+     "rate": 0.128051
     }
    }
   }
  },
  "standard_weights": {
-  "rubric-economy": 1190.0,
-  "rubric-polytics": 1163.0,
-  "rubric-regions": 2109.0,
-  "rubric-society": 1049.0,
-  "rubric-tymchasovo-okupovani": 51.0,
-  "rubric-vidbudova": 191.0
+  "rubric-economy": 1556.0,
+  "rubric-polytics": 1557.0,
+  "rubric-regions": 2830.0,
+  "rubric-society": 1388.0,
+  "rubric-tymchasovo-okupovani": 63.0,
+  "rubric-vidbudova": 268.0
  },
  "trend_interpretable": {
   "interpretable": false,
@@ -1307,24 +1307,24 @@
  },
  "verification": {
   "inputs_sha256": {
-   "data/raw/articles/pravda_2023-05.parquet": "13ce32372f0059496d71f6a4fc74909733ac9eee536c31117f15d21f3ff69658",
-   "data/raw/articles/pravda_2023-06.parquet": "be93fc5e726cddbf1d0625f5dd1cb5a02f5eddde11caf219772ad35c57390aae",
-   "data/raw/articles/pravda_2023-07.parquet": "2026c5bb960e71fc8fd024496d918f5acca0fecde1d3fc35dfc972d0d0d7a635",
-   "data/raw/articles/pravda_2023-08.parquet": "48ff959ad324557f10c7ce9a11492ca6c63240a7fb2b388e8306da20e3a992d8",
-   "data/raw/articles/pravda_2023-09.parquet": "79cdd34a0cf7498c58feb50814f404f3d70dda3350024647c167cafa3f7b145f",
-   "data/raw/articles/pravda_2023-10.parquet": "852b24060cb53a4a94230449fa25d63135aebfa7f2c339e6d5b26a9ecf9f9770",
-   "data/raw/articles/pravda_2023-11.parquet": "855b9aa839e0d4c53a1a08628a7abfa58727f0b7556cbc09c6b8a049279b884e",
-   "data/raw/articles/pravda_2023-12.parquet": "b31215c8516803f30553df17e5d5ae17a04c24c5906c39d8b2376a2bab6174b7",
-   "data/raw/articles/pravda_2024-01.parquet": "e677c3a82310dfc4b05e256801015f31336de71adb60dd644830d35b0d8cc2b2",
-   "data/raw/articles/pravda_2024-02.parquet": "398945f5db267c104bfd8ec9a23491de45d6d6e7b854bb63eed05fe9b5df9713",
-   "data/raw/articles/pravda_2024-03.parquet": "dc3ad8cec65cb9831775d81aa3cf6401804c5f307d4d307946d101b14c99e52c",
-   "data/raw/articles/pravda_2024-04.parquet": "9473bd2f62fcc8d98b1025d935372108827bf9e44ac58d90f635a32769ebfd16",
-   "data/raw/articles/pravda_2025-07.parquet": "1ffea241932de4c6a3f196b1c0e8ac9d3af7bdc8f97fabccfd91500aa573ed95",
-   "data/raw/articles/pravda_2025-08.parquet": "954c22ec934785e5e73419b81d0763b1d27752d08a20968e7c144b36335d0396",
-   "data/raw/articles/pravda_2025-09.parquet": "34cc04a35fff40f7c77e836563fc1b20a4d7b4ffd41ddec79322e97d67d7d1a9",
-   "data/raw/articles/pravda_2025-10.parquet": "85d6c74b6dc3639edddd6d0aa7df6757d3fbbf49f58f033810238327ee39b1fe",
-   "data/raw/articles/pravda_2025-11.parquet": "0f7fb7e4e2b485ed524fbcfee8b0feadc8483962c2f355d74467ff4c747a11df",
-   "data/raw/articles/pravda_2025-12.parquet": "b5ec871277c3306ad7938114233e0459a2ea24ab61faafebcb469d7aa3681565",
+   "data/raw/articles/pravda_2023-05.parquet": "02789043d61b78aff315b32ca439b586d0d638e850645fa1589386e6adcb9706",
+   "data/raw/articles/pravda_2023-06.parquet": "e7e41a38587ce92a7cb5375aab9033e228b9fe3254769d66831b511b9abc07d4",
+   "data/raw/articles/pravda_2023-07.parquet": "70c1bbfbfb323a97a47b80c63d9fe697fb75ee5e5cfd3d4b3984a1886dcb8e33",
+   "data/raw/articles/pravda_2023-08.parquet": "389d797375ffe8246791be8e04079356da9ade7c89754b87bcda9eb01b39588b",
+   "data/raw/articles/pravda_2023-09.parquet": "ace7f5494ff1ae40d4cd7c8f743c2fafe4a963259069479fa25fdb65ad359418",
+   "data/raw/articles/pravda_2023-10.parquet": "b924cdcdb483944dc133849a54fc58c67147f884f1c70fd15fd186a91a25081a",
+   "data/raw/articles/pravda_2023-11.parquet": "c4db1e1530127175ec6b205c4b60dd43073b0ebea1c44df56d3b47eb88e5977e",
+   "data/raw/articles/pravda_2023-12.parquet": "638a7364a9aaf40f8b5058c311120842a12da25108e53d1786d943c18f979d66",
+   "data/raw/articles/pravda_2024-01.parquet": "9559e7a12b34a26d773d188107191cc3955f05f657ad44aecb7f656513a169ff",
+   "data/raw/articles/pravda_2024-02.parquet": "98aa8dbdaea13bf28e72b736dfad1fb61920ddcad75c559940056ca8df2231cc",
+   "data/raw/articles/pravda_2024-03.parquet": "7916a4363c58c57aadac63231c732d05b0aab4f4c72296894795b967c4f5fa46",
+   "data/raw/articles/pravda_2024-04.parquet": "560781c372c10156ee1aff6df3b5456fa66b3d62fa0c3a36b9957a617b00a84c",
+   "data/raw/articles/pravda_2025-07.parquet": "c5e1e3817b9e940ad0dcc0405c6a7144084a51f6240bf3986ccdb6acdc43b26b",
+   "data/raw/articles/pravda_2025-08.parquet": "a58210ee02ba01a2758b30e71ca6e9633be06a5d9171668c15b0d1e994607844",
+   "data/raw/articles/pravda_2025-09.parquet": "0ca235b3cb3f4f0e5e023870c68dd987c8b5e4dddef5fc6482033442fe16d428",
+   "data/raw/articles/pravda_2025-10.parquet": "c96c6752ce2749bbe490ffec7ee9c231a5105bb1eb305e6dc3dfb685579f0ff5",
+   "data/raw/articles/pravda_2025-11.parquet": "3be3198f622a4b43e7d9b215e24ce6502283e4258ce2a286b09196d1a8ec1a74",
+   "data/raw/articles/pravda_2025-12.parquet": "6d6c4d84a4171eb3b55dfe1b0c9a25f445cef441fefa1b041ef318587b0db1b9",
    "data/raw/articles/suspilne_2019-11.parquet": "ef7108408f20fd7873a8eb53e79cb745ffdd155839a988724967f52e54691fa6",
    "data/raw/articles/suspilne_2019-12.parquet": "dd7cb8f7a534ed22e60ce425e3b2853b8ad15cd3c6be4223afee5c7cdbab7eaa",
    "data/raw/articles/suspilne_2020-01.parquet": "f4ea24d0384bf6530c8bfab08f35d7750d90c0849c8e512c0d45c5d1f79250c5",
@@ -1400,26 +1400,26 @@
    "data/raw/articles/suspilne_2025-11.parquet": "1b199b3a1bd36c33fb6d806a6ceb638a59cc6e2828e58fbb6fa650bae1f30548",
    "data/raw/articles/suspilne_2025-12.parquet": "76522594a27a8af57b70f8533760b65ceb8cbbf56f7372d0464b1ca0fc0371ea",
    "data/raw/articles/suspilne_undated.parquet": "f8c73621d27e2d3f3b195a8a8b82361a372df6fd0b9e671fa580161156209069",
-   "data/raw/articles/ukrinform_2023-05.parquet": "dd0a6060c1972996c31be5526003cbe528d39ebc15003c6a254fc9a1cdc71a35",
-   "data/raw/articles/ukrinform_2023-06.parquet": "79d594ea0520ab6546e6fd2b6335d2c22d830cef62080b643ef781b016cabcec",
-   "data/raw/articles/ukrinform_2023-07.parquet": "e119cc99254524a0e865fb565e95bfa2d38fcb3a3a1deed7bdf5707247f137e4",
-   "data/raw/articles/ukrinform_2023-08.parquet": "c654bda3759e6230195540e45c3fce352d068387b16868831d4b7e0246f0df13",
-   "data/raw/articles/ukrinform_2023-09.parquet": "359237512ba427f4fee6ee509bc38780db9730c17ea4ac8fc765308f9b73fd6b",
-   "data/raw/articles/ukrinform_2023-10.parquet": "4fbfb7907e1995703330ea467c062629b73a4f0f700915a6f702c04a43e66a56",
-   "data/raw/articles/ukrinform_2023-11.parquet": "339d13535e62f948c0524427cd8a329686e0748c82bcc55661c104c765ed0dc7",
-   "data/raw/articles/ukrinform_2023-12.parquet": "3d96e8e6ab69de9d0d43a629fd72c2bd7dc0463d891eb69d14e65064e636fd07",
-   "data/raw/articles/ukrinform_2024-01.parquet": "c6dfaf54458e6626ecfbf1310f555ebb91a018d285088e65e6ab641a29a21c69",
-   "data/raw/articles/ukrinform_2024-02.parquet": "7f107f8271d02a9d341b82c2d8d8c76e9f571647d873497ff6c4df55fc0c08a0",
-   "data/raw/articles/ukrinform_2024-03.parquet": "2f2f09d5f73100f2055106abbc56f9c8822051b0ce068c122fb8d84cd1e16feb",
-   "data/raw/articles/ukrinform_2024-04.parquet": "a51d3e0715cb78c0cf54691809cea93ea8733d78236de7b07bf66481d531378c",
-   "data/raw/articles/ukrinform_2025-06.parquet": "5a61d1326ba7e39d3534d2d18d7734c4bb0785345ce7fbf73842e8af01577e86",
-   "data/raw/articles/ukrinform_2025-07.parquet": "dfe160841dd79848cab8e35e1f029cad8c317280cfcfccd0083e4e176ae9dc4b",
-   "data/raw/articles/ukrinform_2025-08.parquet": "1851a8edbca28805e386c773af313e20d9c945789b804f975b361c90cfab6a67",
-   "data/raw/articles/ukrinform_2025-09.parquet": "f4b4b3199f67a16763df0abcc54680aad825f3d643f5145294b78c1aa46fd478",
-   "data/raw/articles/ukrinform_2025-10.parquet": "a463e41d62bab68d5bc0f9929fb7b6354a134c98ea82841490c06afe591d7d13",
-   "data/raw/articles/ukrinform_2025-11.parquet": "3e314493c042082927eb8aaf416660466c378a0109bde5804b047a4eb7d33512",
-   "data/raw/articles/ukrinform_2025-12.parquet": "88b8eb12c9e7434c7deec82c99f76c894a1f43f501c7845004e53ee178c77902",
-   "data/raw/articles/ukrinform_undated.parquet": "07e1c793b457df47d3e0054c1fe559cce4f907b5a1d1052fd2992149cce9b163"
+   "data/raw/articles/ukrinform_2023-05.parquet": "2be1d6254d942949e57520b982fa2017716784f0eedcc9b3012eee613a93b0bb",
+   "data/raw/articles/ukrinform_2023-06.parquet": "24315223ef338e9212ab88477df6775c90bd4af97efb51a48471e152067db44c",
+   "data/raw/articles/ukrinform_2023-07.parquet": "f1b07e8d87582e6f651cc8acd1cb936fbbd974f426b575c125ddf27c7b91f37c",
+   "data/raw/articles/ukrinform_2023-08.parquet": "4922bb9c3500411e19d069c2472ec102cbd028b9786ab4f15c64babcb33c3394",
+   "data/raw/articles/ukrinform_2023-09.parquet": "7433914b8316fb0b4049c92797b72f97b8b29f66e96d0cf008fce99bc5de9fa2",
+   "data/raw/articles/ukrinform_2023-10.parquet": "ec67c8e027a17c9ece533a7cdd368829a7e5cffb44ae5574c0dd9679460814c6",
+   "data/raw/articles/ukrinform_2023-11.parquet": "21c260fbf00ac0aa16f2b331859c6945983fba15f74fee89202852be800630b9",
+   "data/raw/articles/ukrinform_2023-12.parquet": "0030476e411ea8594129b8be35edbb566c8040e15b13fb517c4e5ecc61500ecb",
+   "data/raw/articles/ukrinform_2024-01.parquet": "0ff944f98f22aad49a95e6048957f0873e35d289403e454500bb979f104821ce",
+   "data/raw/articles/ukrinform_2024-02.parquet": "1d89a708cdc1c91580b3f4d030b90c642a810b9a7234b114cd9f60b3ad17c0e0",
+   "data/raw/articles/ukrinform_2024-03.parquet": "06fe162bc6993e4a9cb938c45642c938d35cecda1ba1c9ed3d54f4dca9da605b",
+   "data/raw/articles/ukrinform_2024-04.parquet": "1328491a1b56f8b25b8bb3e2d2bb909cb7a6eeea3f83095cf4e680389ab73557",
+   "data/raw/articles/ukrinform_2025-06.parquet": "ee25a62b2f86e931942a813aa22a6ba7bf3fc44eb7ca5921f3f0e88c148a856a",
+   "data/raw/articles/ukrinform_2025-07.parquet": "7a682724b77a3f0824ac21b27f7cf0941ee44b5627597ba69ba0ef252def2f47",
+   "data/raw/articles/ukrinform_2025-08.parquet": "727042a3d12e9af1deaeb5d954efb6a8b8a4127819d213e621db71be1fbcdc48",
+   "data/raw/articles/ukrinform_2025-09.parquet": "c0ef636cbbd76b1ac1a5ca751711231dbf313188e47dbab2ea20759fc240eacf",
+   "data/raw/articles/ukrinform_2025-10.parquet": "7de312487b129e5582a5f21314f7c0e80c4196d21b7eb281d24ee82e0ea4ce0d",
+   "data/raw/articles/ukrinform_2025-11.parquet": "d9b9684e5f791de7d16b318c2a052bf809079f4700825ede7941e3a54192025d",
+   "data/raw/articles/ukrinform_2025-12.parquet": "9f5442c67ce423d9ba0820763470b25f1da8083d17d6f209f942a1335672e6df",
+   "data/raw/articles/ukrinform_undated.parquet": "9f1042115db0928e8d0a291bce2e9094b0f93abb3cca102e6154fe720aa6f34c"
   },
   "reproduce_command": "uv sync --frozen && make verify"
  }

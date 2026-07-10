@@ -3686,6 +3686,20 @@
   "date_published": "2023-05-04",
   "fc": 0,
   "nc": 1,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Юсова::ukrainian_official | Представник ГУР::ukrainian_official | Федеральна служба безпеки Росії::non_official",
+  "title": "В ГУР заявили, що так зване \"затримання агентів Буданова\" − брехня",
+  "url": "https://www.pravda.com.ua/news/2023/05/04/7400607/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-05-04",
+  "fc": 0,
+  "nc": 1,
   "oc": 0,
   "official_focus": false,
   "parket": false,
@@ -7882,6 +7896,20 @@
   "url": "https://www.pravda.com.ua/news/2023/05/08/7401223/"
  },
  {
+  "balance_risk": false,
+  "date_published": "2023-05-08",
+  "fc": 1,
+  "nc": 3,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 5,
+  "sources_json": "Польща передала Україні 10 винищуващів МіГ-29::non_official | це він::unknown | TVP::non_official | Ми поставили десять МіГ-29 в Україну,\"::non_official | Нагадаємо, 5 квітня президент Польщі Дуда::foreign_official",
+  "title": "Польща передала Україні 10 винищувачів МіГ-29",
+  "url": "https://www.pravda.com.ua/news/2023/05/08/7401225/"
+ },
+ {
   "balance_risk": true,
   "date_published": "2023-05-08",
   "fc": 0,
@@ -8412,6 +8440,20 @@
   "sources_json": "",
   "title": "Міноборони запустив сторінку для поранених військових",
   "url": "https://www.pravda.com.ua/news/2023/05/09/7401319/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-05-09",
+  "fc": 0,
+  "nc": 2,
+  "oc": 1,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Деталі : Орлов::non_official | Міжнародного агентства з атомної енергії Рафаель Маріано Гроссі::non_official | Генерального штабу ЗСУ::ukrainian_official",
+  "title": "\"Евакуація\" з Енергодара: банкомати й АЗС порожні, не працюють магазини й аптеки",
+  "url": "https://www.pravda.com.ua/news/2023/05/09/7401328/"
  },
  {
   "balance_risk": true,
@@ -9494,6 +9536,20 @@
  {
   "balance_risk": false,
   "date_published": "2023-05-10",
+  "fc": 1,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "СНД у Кремлі 9 травня через необхідність від'їзду до Мінська на заходи::foreign_official",
+  "title": "У Путіна пояснили \"втечу\" Лукашенка після параду",
+  "url": "https://www.pravda.com.ua/news/2023/05/10/7401510/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-05-10",
   "fc": 0,
   "nc": 1,
   "oc": 0,
@@ -9952,6 +10008,20 @@
   "sources_json": "",
   "title": "На Донеччині виявили нові поховання вбитих окупантами",
   "url": "https://www.pravda.com.ua/news/2023/05/10/7401589/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-05-10",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "AFP::non_official",
+  "title": "У Франції почали розслідування через загибель в Україні відеожурналіста AFP",
+  "url": "https://www.pravda.com.ua/news/2023/05/10/7401591/"
  },
  {
   "balance_risk": false,
@@ -12304,6 +12374,20 @@
   "sources_json": "У відповідь Остін::non_official | Він::non_official",
   "title": "Сенатори США вимагають від Пентагону передати суду в Гаазі докази злочинів РФ в Україні",
   "url": "https://www.pravda.com.ua/news/2023/05/12/7401969/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-05-12",
+  "fc": 1,
+  "nc": 6,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 7,
+  "sources_json": "Український боєць зі складу 3-ї ОШБ командир 1-го штурмового батальйону::non_official | Деталі: У своєму репортажі CNN::non_official | Командир 1-го штурмового батальйону \"Ролло\"::non_official | Командир::non_official | Євген Пригожин у листі до керівництва Міноборони РФ::foreign_official | Пригожин::non_official | РФ, і самостійно оцінити обстановку, що склалася\"::non_official",
+  "title": "Український комбат розповів, що найманці \"Вагнера\" тікали з Бахмута першими",
+  "url": "https://www.pravda.com.ua/news/2023/05/12/7401971/"
  },
  {
   "balance_risk": false,
@@ -14798,6 +14882,20 @@
   "url": "https://www.pravda.com.ua/news/2023/05/15/7402329/"
  },
  {
+  "balance_risk": false,
+  "date_published": "2023-05-15",
+  "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Кадирова::non_official | З огляду на його реальну вартість і прекрасний родовід, це сущі копійки\"::non_official",
+  "title": "Кадиров заявив, що українські спецслужби нібито вкрали для нього коня",
+  "url": "https://www.pravda.com.ua/news/2023/05/15/7402331/"
+ },
+ {
   "balance_risk": true,
   "date_published": "2023-05-15",
   "fc": 0,
@@ -15608,6 +15706,20 @@
   "sources_json": "Так::non_official | Водночас народний депутат::ukrainian_official | Сподіваюся, що ми їх отримаємо і за результатами цього саміту\"::non_official | Нагадаємо, генеральний секретар НАТО Єнс Столтенберг::foreign_official | повідомлялося, президент України Володимир Зеленський::ukrainian_official",
   "title": "У Раді очікують, що запрошення до НАТО з датами Україна отримає на саміті у Вашингтоні",
   "url": "https://www.pravda.com.ua/news/2023/05/16/7402449/"
+ },
+ {
+  "balance_risk": true,
+  "date_published": "2023-05-16",
+  "fc": 0,
+  "nc": 0,
+  "oc": 1,
+  "official_focus": true,
+  "parket": true,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Дослівно: \"Депутати Чернівецької обласної ради::ukrainian_official",
+  "title": "Чернівецька облрада просить заборонити діяльність УПЦ МП в області",
+  "url": "https://www.pravda.com.ua/news/2023/05/16/7402450/"
  },
  {
   "balance_risk": false,
@@ -17068,6 +17180,20 @@
  {
   "balance_risk": false,
   "date_published": "2023-05-17",
+  "fc": 1,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Міністр закордонних справ Угорщини Петер Сійярто::foreign_official | Таке Сійярто::non_official | Угорщини, він фактично атакує суверенітет Угорщини\"::non_official",
+  "title": "Сійярто: Україна загрожує суверенітету Угорщини, бо Зеленський хотів підірвати трубопровід \"Дружба\"",
+  "url": "https://www.pravda.com.ua/news/2023/05/17/7402683/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-05-17",
   "fc": 0,
   "nc": 1,
   "oc": 2,
@@ -17726,6 +17852,20 @@
  {
   "balance_risk": false,
   "date_published": "2023-05-18",
+  "fc": 1,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Олександр Лукашенко назвав український контрнаступ \"дезінформацією\" і::foreign_official",
+  "title": "У Білорусі біля українського кордону з'явилися \"зуби дракона\"",
+  "url": "https://www.pravda.com.ua/news/2023/05/18/7402797/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-05-18",
   "fc": 4,
   "nc": 1,
   "oc": 0,
@@ -18226,6 +18366,20 @@
   "sources_json": "Навколо повітряного простору Києва працює ППО::non_official",
   "title": "По всій Україні оголошували повітряну тривогу, працювала ППО",
   "url": "https://www.pravda.com.ua/news/2023/05/19/7402866/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-05-19",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "МОК::non_official",
+  "title": "Глава МОК хоче, щоб росіяни та білоруси взяли участь в Олімпіаді",
+  "url": "https://www.pravda.com.ua/news/2023/05/19/7402867/"
  },
  {
   "balance_risk": false,
@@ -19365,6 +19519,20 @@
   "balance_risk": false,
   "date_published": "2023-05-19",
   "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Біля Дніпра знищили 2 ворожі безпілотники",
+  "url": "https://www.pravda.com.ua/news/2023/05/19/7403030/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-05-19",
+  "fc": 0,
   "nc": 2,
   "oc": 0,
   "official_focus": true,
@@ -19570,6 +19738,20 @@
   "sources_json": "",
   "title": "Примусова паспортизація на Херсонщині: окупанти лякають мобілізацією",
   "url": "https://www.pravda.com.ua/news/2023/05/20/7403050/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-05-20",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Ворог за добу 53 рази гатив по Херсонщині",
+  "url": "https://www.pravda.com.ua/news/2023/05/20/7403053/"
  },
  {
   "balance_risk": false,
@@ -20466,6 +20648,20 @@
   "sources_json": "Партнери дослухалися до нас і погодилися з аргументами президента України\"::ukrainian_official | Жовква також::non_official",
   "title": "Учасники підсумкової сесії на саміті G7 погодилися з аргументами Зеленського й ухвалили рішення – ОП",
   "url": "https://www.pravda.com.ua/news/2023/05/21/7403189/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-05-21",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Обстріли Донеччини: у неділю 2 загиблих і 6 поранених",
+  "url": "https://www.pravda.com.ua/news/2023/05/21/7403191/"
  },
  {
   "balance_risk": false,
@@ -27830,6 +28026,20 @@
   "sources_json": "Президент Володимир Зеленський::ukrainian_official | Деталі : Зеленський::ukrainian_official",
   "title": "Зеленський: Україна поставить крапку в історії московської деспотії проти різних народів",
   "url": "https://www.pravda.com.ua/news/2023/05/28/7404252/"
+ },
+ {
+  "balance_risk": true,
+  "date_published": "2023-05-28",
+  "fc": 0,
+  "nc": 0,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Генштабу ЗСУ::ukrainian_official | Деталі : Генштаб також::ukrainian_official",
+  "title": "Генштаб: У Лисичанську дезертирували 80 окупантів, біля Бахмута – 30 \"вагнерівців\"",
+  "url": "https://www.pravda.com.ua/news/2023/05/28/7404254/"
  },
  {
   "balance_risk": false,
