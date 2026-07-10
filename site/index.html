@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CensorZero — Ukrinform / IMI parket audit</title>
+<meta name="description" content="Reproducible audit of the parket/balance signals IMI cited about Ukrinform, across three editorial periods.">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<!-- All visible text and every number are injected by app.js from
+     figures.json (numbers) and the i18n dictionary (labels). The static HTML
+     is intentionally free of study numbers; scripts/check_no_hardcoded_numbers.py
+     enforces this. -->
+<header id="topbar">
+  <div class="wrap bar">
+    <span class="brand" data-i18n="brand"></span>
+    <nav id="nav"></nav>
+    <button id="lang" class="lang"></button>
+  </div>
+</header>
+
+<section id="coi" class="coi"><div class="wrap"><strong data-i18n="coi_title"></strong>
+  <span data-i18n="coi_body"></span></div></section>
+
+<main class="wrap">
+  <section id="tldr">
+    <h1 data-i18n="title"></h1>
+    <p class="sub" data-i18n="subtitle"></p>
+    <div id="verdict" class="verdict"></div>
+    <div id="rates-table"></div>
+    <p class="fine" data-i18n="rates_note"></p>
+  </section>
+
+  <section id="contrasts">
+    <h2 data-i18n="contrasts_h"></h2>
+    <div id="contrasts-table"></div>
+    <p class="fine" data-i18n="contrasts_note"></p>
+  </section>
+
+  <section id="sensitivity">
+    <h2 data-i18n="sens_h"></h2>
+    <p data-i18n="sens_intro"></p>
+    <div id="sens-controls" class="controls"></div>
+    <div id="sens-out" class="sens-out"></div>
+  </section>
+
+  <section id="method">
+    <h2 data-i18n="method_h"></h2>
+    <div id="periods-list"></div>
+    <div id="method-body"></div>
+  </section>
+
+  <section id="validation">
+    <h2 data-i18n="valid_h"></h2>
+    <div id="gold-out"></div>
+  </section>
+
+  <section id="verification">
+    <h2 data-i18n="verif_h"></h2>
+    <p data-i18n="verif_intro"></p>
+    <pre class="cmd" id="repro-cmd"></pre>
+    <div id="verif-badge"></div>
+    <div id="hash-table"></div>
+  </section>
+
+  <section id="limits">
+    <h2 data-i18n="limits_h"></h2>
+    <ul id="limits-list"></ul>
+  </section>
+
+  <section id="explorer">
+    <h2 data-i18n="explorer_h"></h2>
+    <p data-i18n="explorer_intro"></p>
+    <div id="explorer-controls" class="controls"></div>
+    <div id="explorer-out"></div>
+  </section>
+</main>
+
+<footer><div class="wrap">
+  <span data-i18n="footer"></span>
+  <a id="repo-link" href="https://github.com/alexmazuka/censorzero-v2">GitHub</a>
+  <a href="PREREGISTRATION.md" data-i18n="prereg_link"></a>
+</div></footer>
+
+<script src="assets/i18n.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

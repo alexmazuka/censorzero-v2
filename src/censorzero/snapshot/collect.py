@@ -42,7 +42,7 @@ RAW_ARTICLES = REPO_ROOT / "data" / "raw" / "articles"
 # IP-ban like the origins and serves stable, timestamped, original-HTML
 # snapshots — more reproducible than the live site (whose 2023 sitemaps have
 # expired anyway). It is the primary transport; origins are a fallback.
-PER_HOST_CONCURRENCY = {"ukrinform": 4, "pravda": 3, "suspilne": 5, "wayback": 8}
+PER_HOST_CONCURRENCY = {"ukrinform": 4, "pravda": 3, "suspilne": 5, "wayback": 5}
 
 # web/<t>id_/URL returns the raw archived HTML (no Wayback chrome) closest to
 # timestamp <t>; "2" resolves to the earliest capture — nearest to publication.
@@ -169,11 +169,16 @@ async def fetch_outlet(outlet: str, limit: int | None = None,
     200s, each pass retries the 429/5xx/timeout losses of the previous one.
     Passes stop when a pass adds no new successes or max_passes is reached."""
     universe = load_universe(outlet)
+    # Always fetch in a deterministic shuffled order. URL order groups articles
+    # by rubric and by date, so a partial (still-running) collection would
+    # otherwise cover only one rubric/period; a seeded shuffle makes any prefix
+    # representative across period x rubric. --sample takes a prefix of it.
+    from ..canonical import rng
+    g = rng(4242)
+    order = g.permutation(len(universe)).tolist()
+    universe = [universe[i] for i in order]
     if sample:
-        from ..canonical import rng
-        g = rng(4242)
-        order = g.permutation(len(universe)).tolist()
-        universe = [universe[i] for i in order[:sample]]
+        universe = universe[:sample]
     for pass_i in range(1, max_passes + 1):
         done_before = len(_done_urls(outlet))
         todo = [r for r in universe if r["url"] not in _done_urls(outlet)]

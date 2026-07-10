@@ -7,13 +7,13 @@ test across periods, and the sc==0 breakdown. If annotations are absent the
 stage is a no-op (figures.json then marks the gold standard as pending).
 """
 
-import csv
-import json
 from pathlib import Path
 
 import numpy as np
 import pandas as pd
 from scipy.stats import chi2_contingency
+
+from ..canonical import write_json
 
 REPO_ROOT = Path(__file__).resolve().parents[3]
 GOLD = REPO_ROOT / "data" / "gold"
@@ -96,10 +96,7 @@ def run() -> None:
         recall_drift["status"] = "insufficient_data"
     report["recall_drift"] = recall_drift
 
-    GOLD.mkdir(parents=True, exist_ok=True)
-    (GOLD / "report.json").write_text(
-        json.dumps(report, ensure_ascii=False, indent=1, sort_keys=True) + "\n",
-        encoding="utf-8")
+    write_json(GOLD / "report.json", report)
     o = report["overall"]
     print(f"gold: n={report['n_annotated']} precision={o['precision']:.3f} "
           f"recall={o['recall']:.3f} f1={o['f1']:.3f}")

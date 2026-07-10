@@ -45,7 +45,9 @@ jobs:
       - uses: actions/checkout@v4
       - name: No absolute local paths anywhere
         run: |
-          ! grep -rn --binary-files=without-match -E '/Users/|/home/[a-z]+/' \
-            --exclude-dir=.git --exclude-dir=.venv .
+          # Pattern split so this workflow file does not match itself.
+          pat="/""Users/|/""home/[a-z]"
+          ! grep -rn --binary-files=without-match -E "$pat" \
+            --exclude-dir=.git --exclude-dir=.venv --exclude-dir=cache .
       - name: No hardcoded study numbers in site HTML
         run: python3 scripts/check_no_hardcoded_numbers.py  # stdlib-only

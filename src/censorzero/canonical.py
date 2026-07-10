@@ -12,6 +12,7 @@ Rules enforced project-wide:
 
 import hashlib
 import json
+import math
 from pathlib import Path
 from typing import Any
 
@@ -29,14 +30,15 @@ def rng(offset: int = 0) -> np.random.Generator:
 
 
 def _round_floats(obj: Any) -> Any:
-    if isinstance(obj, float):
-        return round(obj, FLOAT_DECIMALS)
+    # NaN/Infinity are not valid JSON — browsers' JSON.parse rejects them. Map
+    # non-finite floats to null so every emitted artifact is strict JSON.
+    if isinstance(obj, (float, np.floating)):
+        x = float(obj)
+        return round(x, FLOAT_DECIMALS) if math.isfinite(x) else None
     if isinstance(obj, dict):
         return {k: _round_floats(v) for k, v in obj.items()}
     if isinstance(obj, (list, tuple)):
         return [_round_floats(v) for v in obj]
-    if isinstance(obj, (np.floating,)):
-        return round(float(obj), FLOAT_DECIMALS)
     if isinstance(obj, (np.integer,)):
         return int(obj)
     if isinstance(obj, np.bool_):
@@ -45,8 +47,11 @@ def _round_floats(obj: Any) -> Any:
 
 
 def canonical_json(obj: Any) -> str:
-    """Canonical JSON: sorted keys, fixed float precision, UTF-8, newline EOF."""
-    return json.dumps(_round_floats(obj), ensure_ascii=False, sort_keys=True, indent=1) + "\n"
+    """Canonical JSON: sorted keys, fixed float precision, UTF-8, newline EOF.
+
+    allow_nan=False guarantees strict JSON (NaN/Inf already mapped to null)."""
+    return json.dumps(_round_floats(obj), ensure_ascii=False, sort_keys=True,
+                      indent=1, allow_nan=False) + "\n"
 
 
 def write_json(path: Path, obj: Any) -> None:

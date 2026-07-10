@@ -9,8 +9,27 @@ from pathlib import Path
 
 from .. import PIPELINE_VERSION
 from ..canonical import sha256_file, write_json
-from ..manifest import write_lineage
+from ..manifest import raw_shard_hashes, write_lineage
 from ..periods import PERIODS
+
+LIMITATIONS = {
+    "uk": [
+        "Проксі-валідність: оцінка ІМІ — експертна й ручна; наша — лексична й структурна. Збіг вимірюється (Валідація), а не припускається.",
+        "Тіла статей узято зі снапшотів Web Archive (стабільні, датовані), бо тижневі мапи сайту за 2023 рік уже недоступні наживо; це навіть відтворюваніше, але покриття архіву неповне — частка непокритих статей публікується.",
+        "Правки після публікації невидимі, окрім поля dateModified, яке фіксується.",
+        "Контроль Суспільне — вибірка, дескриптивний; УП — денний ценз, але індексні сторінки за бот-захистом (сирі сторінки закомічено).",
+        "Одна людина має конфлікт інтересів і писала codebook; codebook закомічено до розмітки, а LLM-розмітник не бачить періодів.",
+        "Вимірюються лише два названі сигнали. Рішення ІМІ могло спиратися на те, що тут не вимірюється; відсутність сигналу не є доказом безпідставності рішення.",
+    ],
+    "en": [
+        "Proxy validity: IMI's assessment is expert and manual; ours is lexical and structural. Agreement is measured (Validation), not assumed.",
+        "Article bodies come from Web Archive snapshots (stable, timestamped) because the site's 2023 weekly sitemaps have expired from the live web; this is if anything more reproducible, but archive coverage is incomplete — the uncovered share is published.",
+        "Post-publication edits are invisible except via dateModified, which is recorded.",
+        "Control Суспільне is a sample (descriptive); УП is a day-census, but its index pages are bot-gated (raw pages committed).",
+        "One person holds the conflict of interest and wrote the codebook; the codebook is committed before annotation and the LLM annotator never sees period labels.",
+        "Only two named signals are measured. IMI's decision may rest on factors not measurable here; absence of a signal is not proof the decision was unfounded.",
+    ],
+}
 
 REPO_ROOT = Path(__file__).resolve().parents[3]
 INTERIM = REPO_ROOT / "data" / "interim"
@@ -24,19 +43,21 @@ H_MEANINGFUL = 0.2
 
 
 def _verdict(contrasts: dict) -> dict:
-    """Apply the preregistered headline decision rule for the parket outcome."""
-    def sig_up(label):
-        c = contrasts.get(label, {})
-        return c.get("p_holm", 1) < ALPHA and c.get("diff", 0) > 0 and abs(c.get("cohen_h", 0)) >= H_MEANINGFUL
+    """Apply the preregistered headline decision rule for the parket outcome.
 
-    p1_gt_p0 = sig_up("parket:P0-P1")           # P1 > P0 means diff (P0-P1) < 0
-    # our contrast label "parket:P0-P1" has rate_a=P0, rate_b=P1, diff=P0-P1.
+    Contrast fields may be null when coverage is thin (partial collection);
+    null is treated as 'not significant' so the verdict degrades to
+    'not supported / pending' rather than crashing."""
+    def _num(x, default):
+        return default if x is None else x
+
+    # Label "parket:P0-P1" has rate_a=P0, rate_b=P1, diff=P0-P1 -> P1>P0 <=> diff<0.
     c01 = contrasts.get("parket:P0-P1", {})
     c12 = contrasts.get("parket:P1-P2", {})
-    p1_over_p0 = (c01.get("p_holm", 1) < ALPHA and c01.get("diff", 0) < 0
-                  and abs(c01.get("cohen_h", 0)) >= H_MEANINGFUL)
-    p1_over_p2 = (c12.get("p_holm", 1) < ALPHA and c12.get("diff", 0) > 0
-                  and abs(c12.get("cohen_h", 0)) >= H_MEANINGFUL)
+    p1_over_p0 = (_num(c01.get("p_holm"), 1) < ALPHA and _num(c01.get("diff"), 0) < 0
+                  and abs(_num(c01.get("cohen_h"), 0)) >= H_MEANINGFUL)
+    p1_over_p2 = (_num(c12.get("p_holm"), 1) < ALPHA and _num(c12.get("diff"), 0) > 0
+                  and abs(_num(c12.get("cohen_h"), 0)) >= H_MEANINGFUL)
     consistent = bool(p1_over_p0 and p1_over_p2)
     return {
         "implied_pattern_supported": consistent,
@@ -69,6 +90,11 @@ def run() -> None:
         "diff_in_diff": metrics["diff_in_diff"],
         "control_coverage": metrics["control_coverage"],
         "gold_standard": gold,
+        "limitations": LIMITATIONS,
+        "verification": {
+            "reproduce_command": "uv sync --frozen && make verify",
+            "inputs_sha256": raw_shard_hashes(),
+        },
         "verdict": _verdict(metrics["contrasts"]),
         "conflict_of_interest": (
             "The author of this study led Ukrinform during period P1. See "
