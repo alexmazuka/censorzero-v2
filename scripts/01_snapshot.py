@@ -34,6 +34,8 @@ def main() -> int:
     f = sub.add_parser("fetch")
     f.add_argument("outlet", choices=["ukrinform", "pravda", "suspilne"])
     f.add_argument("--limit", type=int, default=None)
+    f.add_argument("--via", choices=["wayback", "origin"], default="wayback")
+    f.add_argument("--sample", type=int, default=None)
     sub.add_parser("shard")
     args = ap.parse_args()
 
@@ -44,7 +46,8 @@ def main() -> int:
     elif args.cmd == "universe":
         discovery.build_url_universe()
     elif args.cmd == "fetch":
-        asyncio.run(collect.fetch_outlet(args.outlet, args.limit))
+        asyncio.run(collect.fetch_outlet(args.outlet, args.limit,
+                                         via=args.via, sample=args.sample))
     elif args.cmd == "shard":
         collect.shard()
     return 0

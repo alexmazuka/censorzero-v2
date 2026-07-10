@@ -38,7 +38,15 @@ RAW_ARTICLES = REPO_ROOT / "data" / "raw" / "articles"
 
 # Gentle by default: news sites IP-throttle bursts. These values keep the
 # crawl polite and, with the batch-cooldown logic below, self-healing.
-PER_HOST_CONCURRENCY = {"ukrinform": 4, "pravda": 3, "suspilne": 5}
+# "wayback" is the Web Archive transport (see fetch_url below): it does not
+# IP-ban like the origins and serves stable, timestamped, original-HTML
+# snapshots — more reproducible than the live site (whose 2023 sitemaps have
+# expired anyway). It is the primary transport; origins are a fallback.
+PER_HOST_CONCURRENCY = {"ukrinform": 4, "pravda": 3, "suspilne": 5, "wayback": 8}
+
+# web/<t>id_/URL returns the raw archived HTML (no Wayback chrome) closest to
+# timestamp <t>; "2" resolves to the earliest capture — nearest to publication.
+WAYBACK_TPL = "http://web.archive.org/web/2id_/{url}"
 BATCH_SIZE = 200
 INTER_BATCH_SLEEP = 1.5       # politeness pause between batches (seconds)
 COOLDOWN_SLEEP = 90           # cooling pause after a mostly-failed batch
@@ -48,7 +56,7 @@ MAX_CONSECUTIVE_BAD_BATCHES = 6  # abort if the host stays blocked this long
 SNAPSHOT_COLUMNS = [
     "url", "outlet", "date_published", "date_modified", "rubric", "slug",
     "title", "og_description", "body_text", "parse_error", "parser_version",
-    "fetch_status", "final_url", "discovery_channels", "sitemap_lastmod",
+    "fetch_status", "final_url", "source", "discovery_channels", "sitemap_lastmod",
 ]
 
 
@@ -129,9 +137,10 @@ def _done_urls(outlet: str) -> set[str]:
     this makes repeated runs converge instead of freezing early losses."""
     done: set[str] = set()
     for rec in _iter_spool(_spool_path(outlet)):
-        if "url" not in rec:
-            continue
-        if rec.get("fetch_status") == 200:
+        if "url" in rec and rec.get("fetch_status") == 200:
+            # a 200 means we obtained a page (parse failure is treated as a
+            # permanent no-capture / layout miss, not retried); only transport
+            # failures (429/5xx/timeout, status != 200) are retried.
             done.add(rec["url"])
     return done
 
@@ -147,24 +156,35 @@ def _cache_html(url: str, html: str) -> None:
 
 
 async def fetch_outlet(outlet: str, limit: int | None = None,
-                       max_passes: int = 6) -> None:
+                       max_passes: int = 6, via: str = "wayback",
+                       sample: int | None = None) -> None:
     """Fetch every in-scope URL, retrying transient failures across passes.
+
+    via: "wayback" (default, archival snapshots) or "origin" (live site).
+    sample: if set, restrict to a seeded-shuffle prefix of the universe so a
+    run yields a defined stratified-ish subset; continuing (larger sample or
+    none) extends the same ordering toward a census.
 
     A pass fetches all not-yet-successful URLs. Because _done_urls counts only
     200s, each pass retries the 429/5xx/timeout losses of the previous one.
     Passes stop when a pass adds no new successes or max_passes is reached."""
     universe = load_universe(outlet)
+    if sample:
+        from ..canonical import rng
+        g = rng(4242)
+        order = g.permutation(len(universe)).tolist()
+        universe = [universe[i] for i in order[:sample]]
     for pass_i in range(1, max_passes + 1):
         done_before = len(_done_urls(outlet))
         todo = [r for r in universe if r["url"] not in _done_urls(outlet)]
         if limit:
             todo = todo[:limit]
-        print(f"{outlet}: pass {pass_i} universe={len(universe)} "
+        print(f"{outlet}[{via}]: pass {pass_i} universe={len(universe)} "
               f"done={done_before} todo={len(todo)}", flush=True)
         if not todo:
             print(f"{outlet}: complete ({done_before} fetched)", flush=True)
             return
-        await _fetch_pass(outlet, todo)
+        await _fetch_pass(outlet, todo, via)
         done_after = len(_done_urls(outlet))
         gained = done_after - done_before
         print(f"{outlet}: pass {pass_i} gained {gained} successes "
@@ -178,15 +198,19 @@ async def fetch_outlet(outlet: str, limit: int | None = None,
         await asyncio.sleep(INTER_BATCH_SLEEP * 4)
 
 
-async def _fetch_pass(outlet: str, todo: list[dict]) -> None:
+async def _fetch_pass(outlet: str, todo: list[dict], via: str) -> None:
     parser = PARSERS[outlet]
-    sem = asyncio.Semaphore(PER_HOST_CONCURRENCY[outlet])
+    conc = PER_HOST_CONCURRENCY["wayback" if via == "wayback" else outlet]
+    sem = asyncio.Semaphore(conc)
     spool = open(_spool_path(outlet), "a", encoding="utf-8")
     lock = asyncio.Lock()
     counters = {"ok": 0, "http_fail": 0, "parse_fail": 0}
 
     async def one(row: dict) -> None:
-        res = await fetch(client, sem, row["url"])
+        fetch_url = WAYBACK_TPL.format(url=row["url"]) if via == "wayback" else row["url"]
+        res = await fetch(client, sem, fetch_url)
+        # A Wayback "no capture" page can return 200 with an error body; the
+        # parser then reports a parse_error and the URL is retried/left unfetched.
         if res.status == 200 and res.text:
             _cache_html(row["url"], res.text)
             try:
@@ -199,7 +223,7 @@ async def _fetch_pass(outlet: str, todo: list[dict]) -> None:
             fields = {"url": row["url"], "outlet": outlet}
             counters["http_fail"] += 1
         fields.update(
-            fetch_status=res.status, final_url=res.final_url,
+            fetch_status=res.status, final_url=res.final_url, source=via,
             discovery_channels=row["channels"], sitemap_lastmod=row["sitemap_lastmod"],
         )
         async with lock:

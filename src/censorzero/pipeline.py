@@ -13,7 +13,7 @@ No stage touches the network.
 
 import sys
 
-STAGES = ("interim", "processed", "figures", "site", "readme")
+STAGES = ("interim", "processed", "gold", "figures", "site", "readme")
 
 
 def main(argv: list[str]) -> int:
@@ -38,6 +38,10 @@ def run_stage(stage: str) -> None:
         from .stages import processed
 
         processed.run()
+    elif stage == "gold":
+        from .stages import gold
+
+        gold.run()
     elif stage == "figures":
         from .stages import figures
 

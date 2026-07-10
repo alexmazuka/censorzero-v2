@@ -5,9 +5,9 @@
 UV ?= uv
 RUN = $(UV) run --frozen
 
-.PHONY: all env interim processed figures site readme test verify clean-derived
+.PHONY: all env interim processed gold figures site readme test verify clean-derived
 
-all: interim processed figures site readme
+all: interim processed gold figures site readme
 
 env:
 	$(UV) sync --frozen
@@ -17,6 +17,9 @@ interim:
 
 processed:
 	$(RUN) python -m censorzero.pipeline processed
+
+gold:
+	$(RUN) python -m censorzero.pipeline gold
 
 figures:
 	$(RUN) python -m censorzero.pipeline figures
