@@ -303,5 +303,13 @@ and only if §9 shows recall stability across periods.
 
 ## 11. Deviations
 
-*(none at preregistration; any later deviation is appended here with date,
-reason, and impact — the original plan text above is never edited)*
+- **2026-07-10 — Суспільне fetched as a deterministic sample, not a census.**
+  Wayback CDX discovery returned ~170k Суспільне article URLs across the three
+  windows. Fetching all of them politely is infeasible and unnecessary for a
+  *secondary, descriptive* control. We fetch a deterministic even-stride
+  sample (URLs sorted, every ⌈N/12000⌉-th kept), targeting ~12,000 articles.
+  Impact: Суспільне estimates carry wider sampling error and remain
+  descriptive-only, exactly as §6 already constrained them; the primary
+  Ukrinform analysis and the УП (primary control) census are unaffected. The
+  full discovered URL list is committed under `data/raw/discovery/` so the
+  sampling is auditable and could be expanded.

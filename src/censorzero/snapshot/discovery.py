@@ -29,6 +29,13 @@ CDX_API = "http://web.archive.org/cdx/search/cdx"
 SUSPILNE_ARTICLE_RE = re.compile(r"^https?://suspilne\.media/(\d+)-[a-z0-9-]+/?$")
 PRAVDA_NEWS_RE = re.compile(r"^/news/\d{4}/\d{2}/\d{1,2}/\d+/?$")
 
+# Ukrinform rubrics in scope for fetching (primary 7 + world for the S-world
+# sensitivity scenario). Filtering here avoids fetching ~40% off-topic URLs.
+UKRINFORM_RUBRIC_RE = re.compile(
+    r"ukrinform\.ua/(rubric-(?:polytics|economy|society|regions|ato|"
+    r"tymchasovo-okupovani|vidbudova|world))/\d"
+)
+
 
 def iso_weeks_for_periods() -> list[tuple[int, int]]:
     """Every ISO (year, week) intersecting any study period, sorted."""
@@ -124,7 +131,9 @@ async def discover_ukrinform() -> None:
 async def discover_suspilne_cdx() -> None:
     """Wayback CDX enumeration of suspilne.media national-news URLs.
 
-    Raw CDX pages are written to data/raw/discovery/suspilne_cdx/.
+    Uses resumeKey pagination (the page= API conflicts with a from/to+limit
+    query and returns empty). Raw CDX pages written to
+    data/raw/discovery/suspilne_cdx/{period}_partNNN.json.
     """
     outdir = DISCOVERY_DIR / "suspilne_cdx"
     outdir.mkdir(parents=True, exist_ok=True)
@@ -132,31 +141,36 @@ async def discover_suspilne_cdx() -> None:
     sem = asyncio.Semaphore(2)
     async with client:
         for p in PERIODS:
-            frm = p.start.strftime("%Y%m%d")
-            to = p.end.strftime("%Y%m%d")
-            page = 0
+            frm, to = p.start.strftime("%Y%m%d"), p.end.strftime("%Y%m%d")
+            resume_key = None
+            part = 0
+            total = 0
             while True:
-                dest = outdir / f"{p.key}_page{page:03d}.json"
-                if dest.exists():
-                    page += 1
-                    continue
-                q = (
+                dest = outdir / f"{p.key}_part{part:03d}.json"
+                base = (
                     f"{CDX_API}?url=suspilne.media&matchType=prefix&from={frm}&to={to}"
                     f"&filter=statuscode:200&filter=mimetype:text/html"
                     f"&collapse=urlkey&fl=original,timestamp&output=json"
-                    f"&limit=15000&page={page}"
+                    f"&limit=20000&showResumeKey=true"
                 )
+                q = base + (f"&resumeKey={resume_key}" if resume_key else "")
                 res = await fetch(client, sem, q)
-                if res.status != 200 or not res.text:
-                    raise SystemExit(f"CDX failed for {p.key} page {page}: "
+                if res.status != 200 or res.text is None:
+                    raise SystemExit(f"CDX failed for {p.key} part {part}: "
                                      f"{res.status} {res.error}")
                 rows = json.loads(res.text) if res.text.strip() else []
-                dest.write_text(json.dumps(rows) + "\n")
-                n = max(0, len(rows) - 1)
-                print(f"suspilne CDX {p.key} page {page}: {n} rows", flush=True)
-                if n < 14999:
+                data = [r for r in rows[1:] if len(r) == 2]
+                keys = [r[0] for r in rows[1:] if len(r) == 1]
+                dest.write_text(json.dumps([rows[0]] + data) + "\n" if data else "[]\n")
+                total += len(data)
+                print(f"suspilne CDX {p.key} part {part}: {len(data)} rows "
+                      f"(total {total})", flush=True)
+                if keys:
+                    resume_key = keys[-1]
+                    part += 1
+                else:
                     break
-                page += 1
+            print(f"suspilne CDX {p.key} DONE: {total} urls", flush=True)
 
 
 def pravda_urls_from_day_archives() -> dict[str, str]:
@@ -193,6 +207,8 @@ def build_url_universe() -> None:
     rows: dict[tuple[str, str], dict] = {}
 
     def add(outlet: str, url: str, channel: str, lastmod: str = "") -> None:
+        if outlet == "ukrinform" and not UKRINFORM_RUBRIC_RE.search(url):
+            return  # off-topic rubric (world kept for S-world scenario)
         key = (outlet, url)
         row = rows.setdefault(key, {"channels": set(), "lastmod": ""})
         row["channels"].add(channel)

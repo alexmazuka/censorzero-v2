@@ -1,0 +1,77 @@
+<!-- GENERATED FILE — do not edit by hand.
+     Rendered by `make readme` from docs/templates/README.md.j2 + site/figures.json.
+     Every number below comes from figures.json; edit the template or the data, never this file. -->
+
+# CensorZero v2 — reproducible audit of IMI parket/balance signals in Ukrinform
+
+[![verify](https://github.com/alexmazuka/censorzero-v2/actions/workflows/verify.yml/badge.svg)](https://github.com/alexmazuka/censorzero-v2/actions/workflows/verify.yml)
+
+> **Conflict of interest.** {{ fig.conflict_of_interest }}
+
+## What this is
+
+An open, end-to-end reproducible measurement of the two signals IMI (Institute
+of Mass Information) publicly named when it excluded — and later re-included —
+Ukrinform on its White List: **«паркет»** (single-source, official-only items)
+and **insufficient balance**. We measure exactly those signals, with one
+classifier, across three periods:
+
+{% for p in fig.periods %}
+- **{{ p.key }}** ({{ p.start }} → {{ p.end }}) — {{ p.label_en }}
+{% endfor %}
+
+IMI publishes no numeric threshold for these signals; our metric is a declared
+**proxy** (see [PREREGISTRATION.md](PREREGISTRATION.md)). Absolute levels are
+uninterpretable and are not interpreted — only between-period contrasts are,
+and only conditional on parser-recall stability.
+
+## Headline result (standardized parket rate, ATO excluded, primary 7 rubrics)
+
+| Period | Standardized parket | Standardized balance-risk | N articles |
+|--------|--------------------:|--------------------------:|-----------:|
+{% for pk in ["P0", "P1", "P2"] %}
+| {{ pk }} | {{ fig.rates.parket[pk].standardized | pct }} | {{ fig.rates.balance[pk].standardized | pct }} | {{ fig.rates.parket[pk].n }} |
+{% endfor %}
+
+**Preregistered decision rule:** the data are read as consistent with IMI's
+implied pattern only if P1 parket significantly exceeds *both* P0 and P2
+(Holm-adjusted p < 0.05, |Cohen's h| ≥ 0.2).
+
+**Verdict from this run:** implied pattern supported =
+**{{ fig.verdict.implied_pattern_supported }}**
+(P1 > P0: {{ fig.verdict.P1_significantly_above_P0 }};
+P1 > P2: {{ fig.verdict.P1_significantly_above_P2 }}).
+
+### Primary contrasts (Cohen's h, 95% bootstrap CI, Holm-adjusted p)
+
+| Contrast | rate A | rate B | Cohen's h [95% CI] | p (raw) | p (Holm) |
+|----------|-------:|-------:|:------------------:|--------:|---------:|
+{% for label, c in fig.contrasts | dictsort %}
+| {{ label }} | {{ c.rate_a | pct }} | {{ c.rate_b | pct }} | {{ "%.3f"|format(c.cohen_h) }} [{{ "%.3f"|format(c.h_ci_low) }}, {{ "%.3f"|format(c.h_ci_high) }}] | {{ "%.4f"|format(c.p_raw) }} | {{ "%.4f"|format(c.p_holm) }} |
+{% endfor %}
+
+## Reproduce it (one command)
+
+```bash
+git clone https://github.com/alexmazuka/censorzero-v2 && cd censorzero-v2
+uv sync --frozen && make verify
+```
+
+`make verify` rebuilds every derived artifact from the committed raw snapshot
+and fails if a single byte differs from what is committed. CI runs the same
+check on every push. See [REPLICATE.md](REPLICATE.md) for the Docker path and
+[docs/DATA_DICTIONARY.md](docs/DATA_DICTIONARY.md) for every column of every
+artifact.
+
+## How to read it honestly
+
+- **Fact** (what the code computes): the standardized rates and contrasts above.
+- **Interpretation** (what it may mean): stated only where the decision rule
+  and gold-standard preconditions are met.
+- **Hypothesis** (not established): anything about intent or causation. With
+  one partial control we make no causal claim.
+
+Full method, hypotheses, and declared limitations:
+[PREREGISTRATION.md](PREREGISTRATION.md) (committed before any computation).
+Parser precision/recall and the gold standard:
+{% if fig.gold_standard %}published in figures.json / the site.{% else %}pending (see the site's Validation section).{% endif %}

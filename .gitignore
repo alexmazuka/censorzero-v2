@@ -9,3 +9,5 @@ tmp/
 # Fetch working state (spool + raw HTML cache). The committed snapshot is
 # data/raw/*.parquet; the cache exists so parser fixes don't need a refetch.
 cache/
+# Discovery + article snapshot are committed at snapshot-freeze time via a
+# dedicated commit, not as part of code commits.
