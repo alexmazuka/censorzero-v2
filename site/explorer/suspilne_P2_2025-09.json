@@ -463,6 +463,20 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2025-09-12",
+  "fc": 0,
+  "nc": 4,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 4,
+  "sources_json": "Служба державної безпеки Грузїї::non_official | В СДБ::non_official | СДБ::non_official | Суспільне Новини::non_official",
+  "title": "У Грузії заявили про причетність України до ввезення вибухівки в країну",
+  "url": "https://suspilne.media/1113548-u-gruzii-zaavili-pro-pricetnist-ukraini-do-vvezenna-vibuhivki-v-krainu/"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2025-09-13",
   "fc": 4,
   "nc": 42,
@@ -488,6 +502,20 @@
   "sources_json": "Cуспільне Новини::non_official",
   "title": "Україна отримає від Японії понад $246 млн",
   "url": "https://suspilne.media/1114138-ukraina-otrimae-vid-aponii-ponad-246-mln/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-09-14",
+  "fc": 4,
+  "nc": 35,
+  "oc": 16,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 64,
+  "sources_json": "Президент України Володимир Зеленський::ukrainian_official | Сікорського::non_official | Міністр::ukrainian_official | Він::non_official | У Херсоні чутно вибухи::non_official | це 14 вересня в етері телемарафону \"Єдині новини\"::unknown | Юлії Микитенко::non_official | Вона::non_official | це у Facebook::unknown | це голова держави::unknown | Папа Римський::non_official | Папа Римський Лев XIV::non_official | Папа::non_official | Бюро національної безпеки Польщі::non_official | Певкур під час візиту до Києва::non_official | Міністр оборони Румунії Іонуц Моштяну::foreign_official | це він::unknown | це у коментарі Суспільному::unknown | Постраждалих немає, але є пожежі, тому працюємо над їх ліквідацією\"::non_official | Поліція Київщини розслідує вибухи на залізниці::ukrainian_official | Нацполіції::ukrainian_official | це вона::unknown | ООН в Україні, Бербок::foreign_official | І якщо більшість держав-членів::non_official | Але насамперед, необхідно провести мирні переговори\"::non_official | Вона також::non_official | Ніжинський район під атакою БпЛА\"::non_official | Андрій Кличков::non_official | Сил Оборони”::ukrainian_official | Триває ліквідація пошкоджень залізничної інфраструктури у Фастівському районі::non_official | КОВА::non_official | DeepState::non_official | Володимир Зеленський::ukrainian_official | У Міністерстві розвитку громад та територій Суспільному::ukrainian_official | Весь персонал потяга нас дуже підтримував, розповідав, що робити і так далі\"::non_official | Я їду аж у Німеччину\"::non_official | Уночі на Київщині сталася детонація боєприпасів у поїзді — Генштаб::ukrainian_official | Генштаб повідомив Суспільному::ukrainian_official | Державний секретар США Марко Рубіо в суботу, 13 вересня::non_official | Reuters::non_official | Питання в тому, чи були цільовими цілі саме до Польщі”::non_official | Рубіо::non_official | Київщині, де уночі сталося пошкодження залізничного полотна::non_official | Укрзалізниці::ukrainian_official | Луганська ОДА::non_official | Командування Сил безпілотних систем ЗСУ::ukrainian_official | ОВА::ukrainian_official | Харків-Перемишль, який потрапив у зону надзвичайної ситуації під Бояркою, продовжив рух::non_official | Перемишля\"::non_official | це Повітряні Сили ЗСУ::ukrainian_official | Повітряних Сил::ukrainian_official | Губернатор Ленінградської області Олександр Дрозденко::non_official | це у Facebook вранці 14 вересня::unknown | це Генштаб ЗСУ::ukrainian_official | це глава МЗС Румунії::foreign_official | Цою::non_official | Росії та вживає необхідних заходів для захисту свого суверенітету та безпеки”::non_official | Асамблеї ООН, закликаючи міжнародну спільноту до суворого дотримання санкцій”::foreign_official | це 14 вересня::unknown | Миколаївській ОВА::ukrainian_official | У регіоні сили та засоби протиповітряної оборони вели бойову роботу::non_official | це сьогодні, 14 вересня::unknown | Бригада медиків супроводжує пасажирів у потязі до столиці::non_official | Cуспільне Новини::non_official",
+  "title": "Вибухи під Києвом, дрон РФ залетів у Румунію, дрони уразили один з найбільших НПЗ Росії. 1299 день війни",
+  "url": "https://suspilne.media/1114328-rosijskij-dron-zaletiv-u-rumuniu-v-ufi-droni-urazili-naftovij-zavod-1299-den-vijni/"
  },
  {
   "balance_risk": false,
@@ -519,6 +547,20 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2025-09-15",
+  "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "це у телеграм-каналі::unknown | Він::non_official | Суспільне Новини::non_official",
+  "title": "В Україну з російської окупації вдалося повернути 16 дітей",
+  "url": "https://suspilne.media/1115702-v-ukrainu-z-rosijskoi-okupacii-vdalosa-povernuti-16-ditej/"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2025-09-16",
   "fc": 6,
   "nc": 2,
@@ -534,6 +576,34 @@
  {
   "balance_risk": false,
   "date_published": "2025-09-17",
+  "fc": 1,
+  "nc": 4,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 5,
+  "sources_json": "Вона::non_official | Російська воєнна машина не може й надалі фінансувати кровопролиття в Україні\"::non_official | Єврокомісар з питань енергетики Дан Йогансен::non_official | Заступник головної речниці Єврокомісії Олоф Ґілл::foreign_official | Cуспільне Новини::non_official",
+  "title": "Фон дер Ляєн: 19-й пакет санкцій ЄС проти Росії зачепить крипторинок, банки та енергетику",
+  "url": "https://suspilne.media/1116710-fon-der-laen-19-j-paket-sankcij-es-proti-rosii-zacepit-kriptorinok-banki-ta-energetiku/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-09-17",
+  "fc": 0,
+  "nc": 1,
+  "oc": 1,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "ТЦК та СП для оформлення необхідних документів\"::ukrainian_official | Cуспільне Новини::non_official",
+  "title": "Українці старше 60 років можуть піти на військову службу за контрактом",
+  "url": "https://suspilne.media/1117276-ukrainci-starse-60-rokiv-mozut-vstupiti-na-vijskovu-sluzbu-za-kontraktom/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-09-17",
   "fc": 0,
   "nc": 4,
   "oc": 1,
@@ -544,6 +614,20 @@
   "sources_json": "Придбання може включати ракети та безпілотники, здатні вражати цілі на ворожій території::non_official | Він не::non_official | Минулого тижня у Данії::non_official | України Володимир Зеленський::ukrainian_official | Суспільне Новини::non_official",
   "title": "Данія придбає високоточну зброю великої дальності для протидії загрозам зі сторони РФ",
   "url": "https://suspilne.media/1117504-dania-pridbae-visokotocnu-zbrou-velikoi-dalnosti-dla-protidii-zagrozam-zi-storoni-rf/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-09-18",
+  "fc": 6,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 8,
+  "sources_json": "Міноборони Польщі::foreign_official | України та Польщі вже вшанували пам'ять воїнів, полеглих за Україну::non_official | Прем'єр Дональд Туск::foreign_official | НАТО Марка Рютте та::foreign_official | Туск::foreign_official | Кремль відмовився від коментарів , проте у Міноборони::foreign_official | НАТО Марк Рютте::foreign_official | Cуспільне Новини::non_official",
+  "title": "Міністр оборони Польщі приїхав у Київ",
+  "url": "https://suspilne.media/1117696-ministr-oboroni-polsi-priihav-u-kiiv/"
  },
  {
   "balance_risk": false,
@@ -631,6 +715,20 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2025-09-22",
+  "fc": 1,
+  "nc": 4,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 5,
+  "sources_json": "Відповідні подробиці у коментарі Суспільному::non_official | Речник ЄК::non_official | Україні та::non_official | Тепер Рада ЄС має внести подальші зміни або прийняти змінений план\"::foreign_official | Cуспільне Новини::non_official",
+  "title": "Ukraine Facility: у Єврокомісії розкрили деякі подробиці перегляду плану програми, про які просить Україна",
+  "url": "https://suspilne.media/1120986-ukraine-facility-u-evrokomisii-rozkrili-deaki-detali-peregladu-planu-programi-pro-aki-prosit-ukraina/"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2025-09-23",
   "fc": 4,
   "nc": 7,
@@ -656,6 +754,34 @@
   "sources_json": "Жінка, яка теж перебувала у полоні, на правах анонімності::non_official | Міжнародний фонд підтримки жінок у ЗМІ::non_official | рідні розмовляли з нею 3 серпня, журналістка::non_official | Представник ГУР Андрій Юсов у коментарі Суспільному::ukrainian_official | Офісі генпрокурора::ukrainian_official | Cуспільне Новини::non_official",
   "title": "Журналістка Вікторія Рощина загинула у російському СІЗО в Кізелі — розслідування",
   "url": "https://suspilne.media/1122971-zurnalistka-viktoria-rosina-zaginula-u-rosijskomu-sizo-v-kizeli-rozsliduvanna/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-09-25",
+  "fc": 5,
+  "nc": 4,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 9,
+  "sources_json": "Євроконтроль, який здійснює нагляд за європейським повітряним рухом::non_official | Данії та Норвегії::non_official | Глава естонського МЗС Маргус Цахкна::foreign_official | Естонія::non_official | Прем'єр Дональд Туск::foreign_official | НАТО Марка Рютте та::foreign_official | Туск::foreign_official | Кремль відмовився від коментарів , проте у Міноборони::foreign_official | Cуспільне Новини::non_official",
+  "title": "У Данії закрили аеропорт через дрони в повітряному просторі",
+  "url": "https://suspilne.media/1123115-u-danii-zakrili-eroprot-cerez-droni-v-povitranomu-prostori/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-09-25",
+  "fc": 6,
+  "nc": 7,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 13,
+  "sources_json": "Речник ЄК Тома Реньє::non_official | Кубілюса буде нагодою ще раз наголосити та обговорити останні події в Данії\"::non_official | Прямої військової загрози для Данії досі немає”::non_official | Він::non_official | Міністр оборони Данії::foreign_official | Данії та Норвегії::non_official | Глава естонського МЗС Маргус Цахкна::foreign_official | Естонія::non_official | Прем'єр Дональд Туск::foreign_official | НАТО Марка Рютте та::foreign_official | Туск::foreign_official | Кремль відмовився від коментарів , проте у Міноборони::foreign_official | Cуспільне Новини::non_official",
+  "title": "Лідери ЄС у Копенгагені обговорять порушення дронами повітряного простору Данії та інших країн",
+  "url": "https://suspilne.media/1123635-lideri-es-u-kopengageni-obgovorat-porusenna-dronami-povitranogo-prostoru-danii-ta-insih-krain/"
  },
  {
   "balance_risk": false,

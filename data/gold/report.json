@@ -1,0 +1,71 @@
+{
+ "by_period": {
+  "P0": {
+   "f1": null,
+   "fn": 41,
+   "fp": 0,
+   "n": 95,
+   "precision": null,
+   "recall": 0.0,
+   "tn": 54,
+   "tp": 0
+  },
+  "P1": {
+   "f1": 0.058824,
+   "fn": 32,
+   "fp": 0,
+   "n": 82,
+   "precision": 1.0,
+   "recall": 0.030303,
+   "tn": 49,
+   "tp": 1
+  },
+  "P2": {
+   "f1": 0.324324,
+   "fn": 25,
+   "fp": 0,
+   "n": 77,
+   "precision": 1.0,
+   "recall": 0.193548,
+   "tn": 46,
+   "tp": 6
+  }
+ },
+ "n_annotated": 318,
+ "n_military_bulletin": 64,
+ "n_uncertain": 0,
+ "overall": {
+  "f1": 0.125,
+  "fn": 98,
+  "fp": 0,
+  "n": 254,
+  "precision": 1.0,
+  "recall": 0.066667,
+  "tn": 149,
+  "tp": 7
+ },
+ "recall_drift": {
+  "chi2": 11.650607,
+  "confounded": true,
+  "p_value": 0.002952,
+  "per_period": {
+   "P0": {
+    "hit": 0,
+    "miss": 41
+   },
+   "P1": {
+    "hit": 1,
+    "miss": 32
+   },
+   "P2": {
+    "hit": 6,
+    "miss": 25
+   }
+  },
+  "recall_spread_pp": 19.354839
+ },
+ "sc0_breakdown": {
+  "gold_parket_with_sc0": 5,
+  "note": "articles a human calls parket but the extractor found 0 sources (extraction misses); parket by definition requires sc==1, so these are recall losses, not false positives."
+ }
+}

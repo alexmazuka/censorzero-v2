@@ -3,25 +3,169 @@
   {
    "file": "pravda_P0_2023-05.json",
    "month": "2023-05",
-   "n": 2174,
-   "n_balance": 221,
-   "n_parket": 122,
+   "n": 2214,
+   "n_balance": 226,
+   "n_parket": 126,
    "outlet": "pravda",
    "period": "P0"
   },
   {
    "file": "pravda_P0_2023-06.json",
    "month": "2023-06",
-   "n": 998,
-   "n_balance": 123,
-   "n_parket": 64,
+   "n": 1176,
+   "n_balance": 132,
+   "n_parket": 72,
    "outlet": "pravda",
    "period": "P0"
   },
   {
+   "file": "pravda_P0_2023-07.json",
+   "month": "2023-07",
+   "n": 281,
+   "n_balance": 31,
+   "n_parket": 23,
+   "outlet": "pravda",
+   "period": "P0"
+  },
+  {
+   "file": "pravda_P0_2023-08.json",
+   "month": "2023-08",
+   "n": 287,
+   "n_balance": 35,
+   "n_parket": 19,
+   "outlet": "pravda",
+   "period": "P0"
+  },
+  {
+   "file": "pravda_P0_2023-09.json",
+   "month": "2023-09",
+   "n": 254,
+   "n_balance": 36,
+   "n_parket": 30,
+   "outlet": "pravda",
+   "period": "P0"
+  },
+  {
+   "file": "pravda_P0_2023-10.json",
+   "month": "2023-10",
+   "n": 285,
+   "n_balance": 22,
+   "n_parket": 19,
+   "outlet": "pravda",
+   "period": "P0"
+  },
+  {
+   "file": "pravda_P1_2023-11.json",
+   "month": "2023-11",
+   "n": 196,
+   "n_balance": 23,
+   "n_parket": 18,
+   "outlet": "pravda",
+   "period": "P1"
+  },
+  {
+   "file": "pravda_P1_2023-12.json",
+   "month": "2023-12",
+   "n": 231,
+   "n_balance": 25,
+   "n_parket": 15,
+   "outlet": "pravda",
+   "period": "P1"
+  },
+  {
+   "file": "pravda_P1_2024-01.json",
+   "month": "2024-01",
+   "n": 256,
+   "n_balance": 34,
+   "n_parket": 17,
+   "outlet": "pravda",
+   "period": "P1"
+  },
+  {
+   "file": "pravda_P1_2024-02.json",
+   "month": "2024-02",
+   "n": 288,
+   "n_balance": 27,
+   "n_parket": 16,
+   "outlet": "pravda",
+   "period": "P1"
+  },
+  {
+   "file": "pravda_P1_2024-03.json",
+   "month": "2024-03",
+   "n": 249,
+   "n_balance": 21,
+   "n_parket": 12,
+   "outlet": "pravda",
+   "period": "P1"
+  },
+  {
+   "file": "pravda_P1_2024-04.json",
+   "month": "2024-04",
+   "n": 208,
+   "n_balance": 23,
+   "n_parket": 16,
+   "outlet": "pravda",
+   "period": "P1"
+  },
+  {
+   "file": "pravda_P2_2025-07.json",
+   "month": "2025-07",
+   "n": 221,
+   "n_balance": 29,
+   "n_parket": 18,
+   "outlet": "pravda",
+   "period": "P2"
+  },
+  {
+   "file": "pravda_P2_2025-08.json",
+   "month": "2025-08",
+   "n": 228,
+   "n_balance": 28,
+   "n_parket": 17,
+   "outlet": "pravda",
+   "period": "P2"
+  },
+  {
+   "file": "pravda_P2_2025-09.json",
+   "month": "2025-09",
+   "n": 212,
+   "n_balance": 17,
+   "n_parket": 11,
+   "outlet": "pravda",
+   "period": "P2"
+  },
+  {
+   "file": "pravda_P2_2025-10.json",
+   "month": "2025-10",
+   "n": 232,
+   "n_balance": 13,
+   "n_parket": 6,
+   "outlet": "pravda",
+   "period": "P2"
+  },
+  {
+   "file": "pravda_P2_2025-11.json",
+   "month": "2025-11",
+   "n": 198,
+   "n_balance": 13,
+   "n_parket": 9,
+   "outlet": "pravda",
+   "period": "P2"
+  },
+  {
+   "file": "pravda_P2_2025-12.json",
+   "month": "2025-12",
+   "n": 95,
+   "n_balance": 11,
+   "n_parket": 4,
+   "outlet": "pravda",
+   "period": "P2"
+  },
+  {
    "file": "suspilne_P0_2023-05.json",
    "month": "2023-05",
-   "n": 9,
+   "n": 57,
    "n_balance": 0,
    "n_parket": 0,
    "outlet": "suspilne",
@@ -30,7 +174,7 @@
   {
    "file": "suspilne_P0_2023-06.json",
    "month": "2023-06",
-   "n": 5,
+   "n": 53,
    "n_balance": 0,
    "n_parket": 0,
    "outlet": "suspilne",
@@ -39,7 +183,7 @@
   {
    "file": "suspilne_P0_2023-07.json",
    "month": "2023-07",
-   "n": 4,
+   "n": 54,
    "n_balance": 0,
    "n_parket": 0,
    "outlet": "suspilne",
@@ -48,7 +192,7 @@
   {
    "file": "suspilne_P0_2023-08.json",
    "month": "2023-08",
-   "n": 10,
+   "n": 48,
    "n_balance": 0,
    "n_parket": 0,
    "outlet": "suspilne",
@@ -57,7 +201,7 @@
   {
    "file": "suspilne_P0_2023-09.json",
    "month": "2023-09",
-   "n": 3,
+   "n": 42,
    "n_balance": 0,
    "n_parket": 0,
    "outlet": "suspilne",
@@ -66,7 +210,7 @@
   {
    "file": "suspilne_P0_2023-10.json",
    "month": "2023-10",
-   "n": 7,
+   "n": 61,
    "n_balance": 0,
    "n_parket": 0,
    "outlet": "suspilne",
@@ -75,7 +219,7 @@
   {
    "file": "suspilne_P1_2023-11.json",
    "month": "2023-11",
-   "n": 4,
+   "n": 48,
    "n_balance": 0,
    "n_parket": 0,
    "outlet": "suspilne",
@@ -84,7 +228,7 @@
   {
    "file": "suspilne_P1_2023-12.json",
    "month": "2023-12",
-   "n": 6,
+   "n": 50,
    "n_balance": 0,
    "n_parket": 0,
    "outlet": "suspilne",
@@ -93,7 +237,7 @@
   {
    "file": "suspilne_P1_2024-01.json",
    "month": "2024-01",
-   "n": 10,
+   "n": 55,
    "n_balance": 0,
    "n_parket": 0,
    "outlet": "suspilne",
@@ -102,7 +246,7 @@
   {
    "file": "suspilne_P1_2024-02.json",
    "month": "2024-02",
-   "n": 7,
+   "n": 68,
    "n_balance": 0,
    "n_parket": 0,
    "outlet": "suspilne",
@@ -111,7 +255,7 @@
   {
    "file": "suspilne_P1_2024-03.json",
    "month": "2024-03",
-   "n": 5,
+   "n": 66,
    "n_balance": 0,
    "n_parket": 0,
    "outlet": "suspilne",
@@ -120,7 +264,7 @@
   {
    "file": "suspilne_P1_2024-04.json",
    "month": "2024-04",
-   "n": 2,
+   "n": 35,
    "n_balance": 0,
    "n_parket": 0,
    "outlet": "suspilne",
@@ -147,7 +291,7 @@
   {
    "file": "suspilne_P2_2025-09.json",
    "month": "2025-09",
-   "n": 50,
+   "n": 59,
    "n_balance": 0,
    "n_parket": 0,
    "outlet": "suspilne",
@@ -156,7 +300,7 @@
   {
    "file": "suspilne_P2_2025-10.json",
    "month": "2025-10",
-   "n": 53,
+   "n": 84,
    "n_balance": 0,
    "n_parket": 0,
    "outlet": "suspilne",
@@ -165,7 +309,7 @@
   {
    "file": "suspilne_P2_2025-11.json",
    "month": "2025-11",
-   "n": 20,
+   "n": 79,
    "n_balance": 0,
    "n_parket": 0,
    "outlet": "suspilne",
@@ -174,7 +318,7 @@
   {
    "file": "suspilne_P2_2025-12.json",
    "month": "2025-12",
-   "n": 6,
+   "n": 29,
    "n_balance": 0,
    "n_parket": 0,
    "outlet": "suspilne",
@@ -183,28 +327,181 @@
   {
    "file": "ukrinform_P0_2023-05.json",
    "month": "2023-05",
-   "n": 667,
-   "n_balance": 72,
+   "n": 1194,
+   "n_balance": 115,
+   "n_parket": 31,
+   "outlet": "ukrinform",
+   "period": "P0"
+  },
+  {
+   "file": "ukrinform_P0_2023-06.json",
+   "month": "2023-06",
+   "n": 595,
+   "n_balance": 55,
+   "n_parket": 22,
+   "outlet": "ukrinform",
+   "period": "P0"
+  },
+  {
+   "file": "ukrinform_P0_2023-07.json",
+   "month": "2023-07",
+   "n": 549,
+   "n_balance": 50,
+   "n_parket": 22,
+   "outlet": "ukrinform",
+   "period": "P0"
+  },
+  {
+   "file": "ukrinform_P0_2023-08.json",
+   "month": "2023-08",
+   "n": 535,
+   "n_balance": 41,
+   "n_parket": 20,
+   "outlet": "ukrinform",
+   "period": "P0"
+  },
+  {
+   "file": "ukrinform_P0_2023-09.json",
+   "month": "2023-09",
+   "n": 574,
+   "n_balance": 53,
+   "n_parket": 23,
+   "outlet": "ukrinform",
+   "period": "P0"
+  },
+  {
+   "file": "ukrinform_P0_2023-10.json",
+   "month": "2023-10",
+   "n": 526,
+   "n_balance": 39,
    "n_parket": 15,
    "outlet": "ukrinform",
    "period": "P0"
+  },
+  {
+   "file": "ukrinform_P1_2023-11.json",
+   "month": "2023-11",
+   "n": 422,
+   "n_balance": 42,
+   "n_parket": 12,
+   "outlet": "ukrinform",
+   "period": "P1"
+  },
+  {
+   "file": "ukrinform_P1_2023-12.json",
+   "month": "2023-12",
+   "n": 542,
+   "n_balance": 53,
+   "n_parket": 19,
+   "outlet": "ukrinform",
+   "period": "P1"
+  },
+  {
+   "file": "ukrinform_P1_2024-01.json",
+   "month": "2024-01",
+   "n": 589,
+   "n_balance": 45,
+   "n_parket": 20,
+   "outlet": "ukrinform",
+   "period": "P1"
+  },
+  {
+   "file": "ukrinform_P1_2024-02.json",
+   "month": "2024-02",
+   "n": 581,
+   "n_balance": 49,
+   "n_parket": 24,
+   "outlet": "ukrinform",
+   "period": "P1"
+  },
+  {
+   "file": "ukrinform_P1_2024-03.json",
+   "month": "2024-03",
+   "n": 552,
+   "n_balance": 57,
+   "n_parket": 29,
+   "outlet": "ukrinform",
+   "period": "P1"
+  },
+  {
+   "file": "ukrinform_P1_2024-04.json",
+   "month": "2024-04",
+   "n": 555,
+   "n_balance": 57,
+   "n_parket": 25,
+   "outlet": "ukrinform",
+   "period": "P1"
+  },
+  {
+   "file": "ukrinform_P2_2025-07.json",
+   "month": "2025-07",
+   "n": 593,
+   "n_balance": 75,
+   "n_parket": 41,
+   "outlet": "ukrinform",
+   "period": "P2"
+  },
+  {
+   "file": "ukrinform_P2_2025-08.json",
+   "month": "2025-08",
+   "n": 594,
+   "n_balance": 73,
+   "n_parket": 44,
+   "outlet": "ukrinform",
+   "period": "P2"
+  },
+  {
+   "file": "ukrinform_P2_2025-09.json",
+   "month": "2025-09",
+   "n": 565,
+   "n_balance": 75,
+   "n_parket": 41,
+   "outlet": "ukrinform",
+   "period": "P2"
+  },
+  {
+   "file": "ukrinform_P2_2025-10.json",
+   "month": "2025-10",
+   "n": 639,
+   "n_balance": 69,
+   "n_parket": 29,
+   "outlet": "ukrinform",
+   "period": "P2"
+  },
+  {
+   "file": "ukrinform_P2_2025-11.json",
+   "month": "2025-11",
+   "n": 579,
+   "n_balance": 52,
+   "n_parket": 32,
+   "outlet": "ukrinform",
+   "period": "P2"
+  },
+  {
+   "file": "ukrinform_P2_2025-12.json",
+   "month": "2025-12",
+   "n": 266,
+   "n_balance": 28,
+   "n_parket": 17,
+   "outlet": "ukrinform",
+   "period": "P2"
   }
  ],
  "totals": {
   "pravda": {
-   "n": 3172,
-   "n_balance": 344,
-   "n_parket": 186
+   "n": 7111,
+   "n_balance": 746,
+   "n_parket": 448
   },
   "suspilne": {
-   "n": 364,
+   "n": 1051,
    "n_balance": 0,
    "n_parket": 0
   },
   "ukrinform": {
-   "n": 667,
-   "n_balance": 72,
-   "n_parket": 15
+   "n": 10450,
+   "n_balance": 1028,
+   "n_parket": 466
   }
  }
 }

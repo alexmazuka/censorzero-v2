@@ -29,9 +29,9 @@ and only conditional on parser-recall stability.
 
 | Period | Standardized parket | Standardized balance-risk | N articles |
 |--------|--------------------:|--------------------------:|-----------:|
-| P0 | n/a | n/a | 0 |
-| P1 | n/a | n/a | 0 |
-| P2 | n/a | n/a | 0 |
+| P0 | 4.03% | 8.61% | 1780 |
+| P1 | 4.41% | 9.08% | 1842 |
+| P2 | 6.63% | 12.04% | 2131 |
 
 **Preregistered decision rule:** the data are read as consistent with IMI's
 implied pattern only if P1 parket significantly exceeds *both* P0 and P2
@@ -46,12 +46,12 @@ P1 > P2: False).
 
 | Contrast | rate A | rate B | Cohen's h [95% CI] | p (raw) | p (Holm) |
 |----------|-------:|-------:|:------------------:|--------:|---------:|
-| balance:P0-P1 | n/a | n/a | 0.000 [0.000, 0.000] | 0.0000 | 0.0000 |
-| balance:P0-P2 | n/a | n/a | 0.000 [0.000, 0.000] | 0.0000 | 0.0000 |
-| balance:P1-P2 | n/a | n/a | 0.000 [0.000, 0.000] | 0.0000 | 0.0000 |
-| parket:P0-P1 | n/a | n/a | 0.000 [0.000, 0.000] | 0.0000 | 0.0000 |
-| parket:P0-P2 | n/a | n/a | 0.000 [0.000, 0.000] | 0.0000 | 0.0000 |
-| parket:P1-P2 | n/a | n/a | 0.000 [0.000, 0.000] | 0.0000 | 0.0000 |
+| balance:P0-P1 | 8.61% | 9.08% | -0.016 [-0.083, 0.049] | 0.6152 | 1.0000 |
+| balance:P0-P2 | 8.61% | 12.04% | -0.113 [-0.175, -0.050] | 0.0006 | 0.0030 |
+| balance:P1-P2 | 9.08% | 12.04% | -0.097 [-0.158, -0.035] | 0.0024 | 0.0072 |
+| parket:P0-P1 | 4.03% | 4.41% | -0.019 [-0.085, 0.046] | 0.5650 | 1.0000 |
+| parket:P0-P2 | 4.03% | 6.63% | -0.117 [-0.180, -0.055] | 0.0002 | 0.0012 |
+| parket:P1-P2 | 4.41% | 6.63% | -0.098 [-0.162, -0.038] | 0.0018 | 0.0072 |
 
 ## Reproduce it (one command)
 
@@ -77,4 +77,4 @@ artifact.
 Full method, hypotheses, and declared limitations:
 [PREREGISTRATION.md](PREREGISTRATION.md) (committed before any computation).
 Parser precision/recall and the gold standard:
-pending (see the site's Validation section).
+published in figures.json / the site.
