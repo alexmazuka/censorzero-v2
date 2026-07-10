@@ -1,0 +1,73 @@
+{
+ "files": [
+  {
+   "bytes": 57753739,
+   "file": "data/bootstrap/v1_inventories/corpus_fast.csv",
+   "origin": "data files from the v1 study repository",
+   "sha256": "20d70d47871d3bf37bd81f445484e941322d9ecfaceb679dfe1c45c6cf920a13"
+  },
+  {
+   "bytes": 9175079,
+   "file": "data/bootstrap/v1_inventories/p0_urls.json",
+   "origin": "data files from the v1 study repository",
+   "sha256": "1db52fa0d98c934705343caf1ff26bb018f416bddc06232d288aae30421364e0"
+  },
+  {
+   "bytes": 7634465,
+   "file": "data/bootstrap/v1_inventories/recovered_jan_feb_2024.json",
+   "origin": "data files from the v1 study repository",
+   "sha256": "967dc44710aecebb6879d6cb3982902d39bbcab9c92c346e5c2c4c09889e1e53"
+  },
+  {
+   "bytes": 114851,
+   "file": "data/imi_evidence/v1_archive/context_2024-04-26_.html",
+   "origin": "raw IMI/press HTML archived by the v1 study in April 2026",
+   "sha256": "b7e6461f1b8c40bdf4c374b99c58f774a51fc34b66cdcd740297351926e9ec1f"
+  },
+  {
+   "bytes": 97567,
+   "file": "data/imi_evidence/v1_archive/context_2024-11-01_.html",
+   "origin": "raw IMI/press HTML archived by the v1 study in April 2026",
+   "sha256": "2b65eb397b10599fdfb4eecebec1e05abe056c6769e2403856e00767f6bf8f3f"
+  },
+  {
+   "bytes": 64543,
+   "file": "data/imi_evidence/v1_archive/context_2024-11-01_sergij-cherevatyj-ukrinform-boretsya-za-povernennya-do-bilogo-spysku-i65189.html",
+   "origin": "raw IMI/press HTML archived by the v1 study in April 2026",
+   "sha256": "90fa48076c687078e4b476d53469a3cf8480b05a6327893cc97522481ec99cad"
+  },
+  {
+   "bytes": 88261,
+   "file": "data/imi_evidence/v1_archive/discovered_doslidzhennya-profesijnyh-standartiv.html",
+   "origin": "raw IMI/press HTML archived by the v1 study in April 2026",
+   "sha256": "74d73b305af5a637d145cfc62355e81b718a61a03c387fe9b706bf7af5eed7b1"
+  },
+  {
+   "bytes": 19073,
+   "file": "data/imi_evidence/v1_archive/imi_collection_log.json",
+   "origin": "raw IMI/press HTML archived by the v1 study in April 2026",
+   "sha256": "3c0362f770d32fc5dbc9c6962bbec9ca12b53aa9454a9ab805f9b6432132f5e6"
+  },
+  {
+   "bytes": 139151,
+   "file": "data/imi_evidence/v1_archive/methodology_2024-10-01_novyny-pid-chas-vijny-analiz-profesijnyh-standartiv-providnyh-onlajn-media-u-ver.html",
+   "origin": "raw IMI/press HTML archived by the v1 study in April 2026",
+   "sha256": "ae25648e170d8510979eda765103a2d2212fe8e2470d4826b7add0785e64c2fe"
+  },
+  {
+   "bytes": 74287,
+   "file": "data/imi_evidence/v1_archive/white_list_2024-11-01_bilyj-spysok-imi-za-druge-pivrichchya-2024-roku-uvishly-13-media-i64640.html",
+   "origin": "raw IMI/press HTML archived by the v1 study in April 2026",
+   "sha256": "e180013684c8e90f7cbb6cc322dfe1e66bcd282511035bdda871e5f387a75b29"
+  },
+  {
+   "bytes": 89313,
+   "file": "data/imi_evidence/v1_archive/white_list_2025-12-16_bilyj-spysok-imi-za-druge-pivrichchya-2025-roku-uvijshly-17-media.html",
+   "origin": "raw IMI/press HTML archived by the v1 study in April 2026",
+   "sha256": "f3585709ae45defb3382980a133afecefba0b4f792cbef6280d1618e0f731e44"
+  }
+ ],
+ "provenance": "Files copied verbatim from the v1 repository (github.com/alexmazuka/ukrinform)",
+ "role": "Immutable bootstrap inputs. Ukrinform weekly sitemaps for 2023 have expired from the live site (HTTP 302->404, verified 2026-07-10), so URL discovery for P0 and the 2023 part of P1 cannot be re-run from the live web. These v1 URL inventories are one of three preregistered discovery channels (see PREREGISTRATION.md section 5). They are inputs, not outputs: no v2 number is taken from their derived columns.",
+ "v1_commit": "cce04fe42a76c753d1b33d551cdccd52602d8fad"
+}
