@@ -53,3 +53,11 @@ footer a { color: var(--accent); margin-left: 14px; }
 .coverage { color: var(--muted); font-size: 13px; margin: 6px 0; }
 .period { padding: 8px 0; border-bottom: 1px dashed var(--line); font-size: 14px; }
 .period b { color: var(--accent); }
+
+.press-card { background: var(--card); border: 1px solid var(--line); border-radius: 12px;
+  padding: 20px 22px; margin-top: 14px; }
+.press-card h3 { margin: 16px 0 6px; font-size: 15px; text-transform: uppercase;
+  letter-spacing: 0.04em; color: var(--accent); }
+.press-card h3:first-child { margin-top: 0; }
+.press-card ol { margin: 6px 0 6px 20px; padding: 0; }
+.press-card li { margin: 8px 0; }

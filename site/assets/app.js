@@ -18,18 +18,50 @@ async function boot() {
   $("#lang").onclick = () => { LANG = LANG === "uk" ? "en" : "uk"; localStorage.setItem("cz_lang", LANG); applyLang(); };
 }
 
+// Fill {TOKEN} placeholders in an i18n string with values from figures.json.
+function fillTokens(str, map) {
+  return str.replace(/\{([A-Z0-9_]+)\}/g, (_, k) => (map[k] != null ? map[k] : "—"));
+}
+
+function renderPress() {
+  const cov = FIG.coverage?.by_outlet_period || {};
+  const sum = (o) => Object.values(o || {}).reduce((a, b) => a + b, 0);
+  const ukr = sum(cov.ukrinform);
+  const ctrl = sum(cov.pravda) + sum(cov.suspilne);
+  const g = FIG.gold_standard;
+  const rate = (pk) => {
+    const x = g && g.by_period && g.by_period[pk];
+    return x && x.n ? (100 * (x.tp + x.fn) / x.n).toFixed(1) : null;
+  };
+  const map = {
+    TOTAL: (ukr + ctrl).toLocaleString(LANG === "uk" ? "uk-UA" : "en-US"),
+    UKR: ukr.toLocaleString(LANG === "uk" ? "uk-UA" : "en-US"),
+    CTRL: ctrl.toLocaleString(LANG === "uk" ? "uk-UA" : "en-US"),
+    GOLD_N: g ? g.n_annotated : null,
+    PREC: g && g.overall && g.overall.precision != null ? (100 * g.overall.precision).toFixed(0) : null,
+    REC: g && g.overall && g.overall.recall != null ? (100 * g.overall.recall).toFixed(0) : null,
+    P0R: rate("P0"), P1R: rate("P1"), P2R: rate("P2"),
+  };
+  $("#press-what").textContent = fillTokens(T("press_what"), map);
+  $("#press-f1").textContent = fillTokens(T("press_f1"), map);
+  $("#press-f2").textContent = fillTokens(T("press_f2"), map);
+  $("#press-f3").textContent = fillTokens(T("press_f3"), map);
+  $("#press-cmd").textContent =
+    "git clone https://github.com/alexmazuka/censorzero-v2 && cd censorzero-v2\nuv sync --frozen && make verify";
+}
+
 function applyLang() {
   document.documentElement.lang = LANG;
   $("#lang").textContent = LANG === "uk" ? "EN" : "UA";
   document.querySelectorAll("[data-i18n]").forEach(n => { n.textContent = T(n.dataset.i18n); });
-  buildNav(); renderVerdict(); renderRates(); renderContrasts();
+  buildNav(); renderPress(); renderVerdict(); renderRates(); renderContrasts();
   renderSensitivity(); renderPeriods(); renderGold(); renderVerification();
   renderLimits(); renderExplorer();
 }
 
 function buildNav() {
   const nav = $("#nav"); nav.innerHTML = "";
-  [["#tldr", "nav_tldr"], ["#method", "nav_method"], ["#sensitivity", "nav_sens"],
+  [["#press", "nav_press"], ["#tldr", "nav_tldr"], ["#method", "nav_method"], ["#sensitivity", "nav_sens"],
    ["#validation", "nav_valid"], ["#verification", "nav_verif"], ["#limits", "nav_limits"],
    ["#explorer", "nav_explorer"]].forEach(([href, k]) => {
     const a = el("a", null, T(k)); a.href = href; nav.appendChild(a);
