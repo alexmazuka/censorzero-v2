@@ -1,0 +1,804 @@
+outlet,url,fetch_status,parse_error,discovery_channels
+pravda,https://www.pravda.com.ua/news/2023/05/03/7400441/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/03/7400453/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/03/7400471/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/04/7400581/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/04/7400582/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/04/7400588/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/04/7400607/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/04/7400614/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/04/7400622/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/04/7400628/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/04/7400630/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/04/7400656/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/04/7400690/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/04/7400694/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/04/7400695/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/04/7400749/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/05/7400757/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/05/7400762/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/05/7400799/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/05/7400809/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/05/7400839/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/05/7400851/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/05/7400852/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/05/7400863/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/06/7400978/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/07/7401022/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/07/7401042/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/07/7401045/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/07/7401053/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/07/7401059/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/07/7401089/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/08/7401133/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/08/7401135/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/08/7401139/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/08/7401153/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/08/7401179/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/08/7401225/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/08/7401228/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/08/7401247/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/08/7401248/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/08/7401253/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/08/7401256/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/09/7401261/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/09/7401266/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/09/7401269/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/09/7401272/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/09/7401277/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/09/7401300/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/09/7401302/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/09/7401303/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/09/7401324/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/09/7401325/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/09/7401327/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/09/7401328/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/10/7401442/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/10/7401445/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/10/7401446/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/10/7401453/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/10/7401474/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/10/7401485/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/10/7401500/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/10/7401510/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/10/7401514/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/10/7401518/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/10/7401528/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/10/7401575/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/10/7401576/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/10/7401585/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/10/7401591/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/10/7401596/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/10/7401599/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/10/7401602/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/11/7401618/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/11/7401625/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/11/7401631/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/11/7401682/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/11/7401729/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/11/7401741/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/11/7401744/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/12/7401858/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/12/7401877/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/12/7401882/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/12/7401896/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/12/7401904/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/12/7401906/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/12/7401916/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/12/7401929/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/12/7401971/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/12/7401978/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/12/7401982/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/13/7401995/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/13/7402000/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/13/7402026/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/13/7402052/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/13/7402055/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/13/7402069/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/13/7402070/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/13/7402077/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/13/7402084/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/14/7402091/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/14/7402092/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/14/7402099/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/14/7402106/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/15/7402220/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/15/7402251/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/15/7402255/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/15/7402257/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/15/7402260/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/15/7402268/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/15/7402291/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/15/7402294/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/15/7402331/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/16/7402357/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/16/7402359/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/16/7402363/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/16/7402365/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/16/7402368/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/16/7402380/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/16/7402389/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/16/7402399/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/16/7402403/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/16/7402406/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/16/7402413/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/16/7402414/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/16/7402421/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/16/7402422/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/16/7402444/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/16/7402450/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/16/7402459/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/16/7402481/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/16/7402486/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/17/7402588/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/17/7402596/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/17/7402605/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/17/7402606/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/17/7402609/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/17/7402613/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/17/7402615/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/17/7402623/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/17/7402631/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/17/7402637/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/17/7402638/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/17/7402662/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/17/7402676/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/17/7402681/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/17/7402683/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/17/7402684/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/18/7402698/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/18/7402707/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/18/7402708/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/18/7402729/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/18/7402765/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/18/7402772/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/18/7402774/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/18/7402781/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/18/7402797/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/18/7402824/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/18/7402835/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/18/7402860/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/19/7402867/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/19/7402868/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/19/7402978/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/19/7402990/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/19/7403016/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/19/7403018/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/19/7403019/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/19/7403030/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/20/7403040/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/20/7403047/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/20/7403053/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/20/7403078/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/20/7403085/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/20/7403097/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/20/7403110/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/20/7403116/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/20/7403117/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/20/7403126/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/21/7403131/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/21/7403145/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/21/7403150/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/21/7403153/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/21/7403157/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/21/7403187/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/21/7403191/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/21/7403201/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/22/7403225/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/22/7403228/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/22/7403230/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/22/7403389/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/23/7403398/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/23/7403400/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/23/7403437/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/23/7403446/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/23/7403458/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/23/7403491/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/23/7403504/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/23/7403513/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/23/7403519/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/23/7403527/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/23/7403538/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/23/7403548/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/23/7403550/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/23/7403553/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/24/7403567/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/24/7403574/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/24/7403580/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/24/7403616/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/25/7403750/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/25/7403785/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/25/7403792/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/25/7403854/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/25/7403873/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/27/7404109/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/27/7404114/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/27/7404125/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/27/7404149/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/27/7404153/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/27/7404155/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/27/7404158/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/27/7404163/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/27/7404174/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/27/7404177/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/27/7404181/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/27/7404183/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/28/7404186/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/28/7404189/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/28/7404199/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/28/7404207/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/28/7404221/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/28/7404229/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/28/7404236/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/28/7404254/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/28/7404258/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/28/7404259/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/29/7404282/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/29/7404299/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/29/7404300/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/29/7404307/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/29/7404319/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/29/7404321/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/29/7404327/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/29/7404328/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/30/7404486/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/30/7404493/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/30/7404500/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/30/7404501/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/30/7404545/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/30/7404546/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/30/7404557/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/30/7404558/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/30/7404571/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/30/7404574/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/31/7404581/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/31/7404588/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/31/7404590/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/31/7404613/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/31/7404615/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/31/7404643/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/31/7404649/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/31/7404653/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/31/7404655/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/31/7404673/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/31/7404684/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/31/7404685/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/31/7404686/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/31/7404687/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/05/31/7404714/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/01/7404853/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/01/7404878/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/01/7404881/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/01/7404905/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/01/7404907/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/01/7404909/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/01/7404916/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/01/7404918/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/02/7404924/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/02/7404926/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/02/7404928/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/02/7404929/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/02/7404931/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/02/7404933/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/02/7404935/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/02/7404941/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/02/7404951/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/02/7404956/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/02/7404981/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/02/7405016/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/02/7405032/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/02/7405035/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/02/7405043/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/02/7405070/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/02/7405077/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/03/7405110/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/03/7405111/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/03/7405113/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/03/7405117/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/03/7405123/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/04/7405233/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/05/7405361/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/06/7405641/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/06/7405644/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/06/7405657/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/06/7405664/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/07/7405675/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/07/7405676/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/07/7405677/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/07/7405679/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/07/7405682/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/07/7405684/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/07/7405690/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/07/7405698/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/07/7405716/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/07/7405719/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/07/7405721/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/07/7405741/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/07/7405746/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/07/7405794/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/07/7405833/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/08/7405839/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/08/7405871/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/08/7405882/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/08/7405884/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/08/7405890/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/08/7405902/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/08/7405906/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/08/7405911/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/08/7405920/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/08/7405923/,429,,day_archive
+pravda,https://www.pravda.com.ua/news/2023/06/08/7405934/,429,,day_archive
+suspilne,https://suspilne.media/100-kilkist-inkluzivnih-klasiv-u-vinnici-zrosla-majze-vdvici/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/100352-na-doneccini-posadovciv-derzekoinspekcii-zatrimali-na-habari/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/100736-volinanina-akij-perebuvav-pid-domasnim-arestom-vpijmali-na-kradizci/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/101117-sportsmeni-vesluvalniki-zitomirsini-lidiruut-v-persomu-vidbori-do-zbirnoi-ukraini/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/101794-senat-ssa-vperse-utverdiv-gea-na-posadi-ministra-transportu/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/102446-policia-ogolosila-pidozru-zavgospu-zaporizkoi-infekcijnoi-likarni/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/1025493-mozlivo-sogodni-obminaut-usih-ak-minuv-persij-etap-zvilnenna-polonenih-1000-na-1000/,403,,wayback_cdx
+suspilne,https://suspilne.media/102938-potuzni-snigopadi-spricinili-transportnij-kolaps-u-nimeccini-ta-niderlandah/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/1030111-rosia-zaavila-pro-sklad-delegacii-na-drugi-mozlivi-peremovini-u-stambuli/,403,,wayback_cdx
+suspilne,https://suspilne.media/103142-britanca-zobovazali-znesti-svij-palac-u-francii-akij-vin-buduvav-ponad-desatilitta/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/103244-vartist-bitkoina-onovila-rekord-pisla-kupivli-tesla-velikoi-sumi-kriptovaluti/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/1037673-povnih-spiskiv-vid-rosii-dosi-nema-zelenskij-pro-obmin-tilami-zagiblih/,403,,wayback_cdx
+suspilne,https://suspilne.media/1038151-minoboroni-planue-dozvoliti-pidpisanna-kontraktiv-iz-zsu-cerez-zastosunok-rezerv/,403,,wayback_cdx
+suspilne,https://suspilne.media/104198-cotiri-sportsmenki-z-ternopilsini-gratimut-za-molodiznu-zbirnu-ukraini-z-volejbolu/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/1043101-agenti-gur-znestrumili-obekti-rosijskogo-vpk-ta-zs-rf-u-kenigsberzi-dzerela/,403,,wayback_cdx
+suspilne,https://suspilne.media/1043789-rosia-rozbudovue-adernu-bazu-u-kaliningradi-svt/,403,,wayback_cdx
+suspilne,https://suspilne.media/104701-ak-zahistiti-instagram-akaunt-vid-zlomu-ta-ak-diati-akso-vtratili-dostup/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/1048885-ce-buv-iskander-u-suhoputnih-vijskah-prokomentuvali-udar-po-poligonu-zsu-na-hersonsini/,403,,wayback_cdx
+suspilne,https://suspilne.media/105011-dbr-rozslidue-spravu-sodo-zagibeli-troh-vijskovih-na-donbasi/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/1050443-tramp-zaaviv-so-jmovirno-zustrinetsa-z-zelenskim/,403,,wayback_cdx
+suspilne,https://suspilne.media/105075-ukraina-vperse-vistupila-na-cempionati-svitu-z-zinocogo-monobobu/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/1052397-v-ukraini-zapuskaut-proekt-oficer-ratuvalnik-gromadi-pro-so-jdetsa/,403,,wayback_cdx
+suspilne,https://suspilne.media/1054235-zelenskij-doruciv-zasuvati-vsi-obstavini-zagibeli-pilota-f-16-ustimenka/,403,,wayback_cdx
+suspilne,https://suspilne.media/1054573-vijskove-namagaus-hlopcam-ne-spivati-bard-z-volini-pro-sluzbu-na-doneccini-ta-tvorcist-na-vijni-suspilne-ludi/,403,,wayback_cdx
+suspilne,https://suspilne.media/105526-stalo-vidomo-comu-ivanofrankivci-ne-otrimuut-likarnanih-viplat/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/1056767-vaks-ne-vidstoroniv-cernisova-vid-posadi-vicepremera-ta-ministra-nacednosti/,403,,wayback_cdx
+suspilne,https://suspilne.media/105802-u-zitomiri-zdali-v-orendu-za-1-grivnu-primisenna-v-akomu-ponad-30-rokiv-buv-oblasnij-centr-turizmu/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/105831-v-odesi-zavitsa-perse-legalne-kazino-odin-z-goteliv-otrimav-dozvil/,403,,wayback_cdx
+suspilne,https://suspilne.media/1058881-u-evrokomisii-zaavili-so-iniciuvati-golosuvanna-za-votum-nedoviri-fon-der-laen-ce-pravo-koznogo-evrodeputata/,403,,wayback_cdx
+suspilne,https://suspilne.media/1059889-ukrzaliznica-zaprovadzue-zinoci-kupe-se-na-troh-napramkah-de-kursuvatimut/,404,,wayback_cdx
+suspilne,https://suspilne.media/1060185-vnoci-sili-ppo-znisili-75-rosijskih-droniv-povitrani-sili/,403,,wayback_cdx
+suspilne,https://suspilne.media/1060511-rosia-atakue-budivli-tck-u-regionah-posiluut-bezpekovi-zahodi-3/,403,,wayback_cdx
+suspilne,https://suspilne.media/1060769-vijskovij-pavlo-visockij-povernuvsa-pisla-troh-rokiv-rosijskogo-polonu-suspilne-ludi/,403,,wayback_cdx
+suspilne,https://suspilne.media/1061489-akbi-ne-bajden-vi-navrad-ci-mali-b-stilki-pidtrimki-intervu-z-eksradnikom-ssa-z-nacbezpeki-dzejkom-sallivanom/,403,,wayback_cdx
+suspilne,https://suspilne.media/1061855-ukraina-zaklikala-ozhz-rozsliduvati-mozlive-zastosuvanna-rosieu-zaboronenoi-himicnoi-zbroi/,403,,wayback_cdx
+suspilne,https://suspilne.media/106234-u-protopopivci-zalisilis-zimuvati-lebedi/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/1063763-zelenskij-e-vsi-neobhidni-politicni-signali-pro-vidnovlenna-postacanna-dopomogi-vid-ssa/,403,,wayback_cdx
+suspilne,https://suspilne.media/1064253-povitrani-sili-ppo-zbila-44-droni-e-vlucanna-19-bpla-u-8-lokaciah/,403,,wayback_cdx
+suspilne,https://suspilne.media/1064441-zaavi-kerivnictva-ugorsini-manipulativni-v-mzs-vidreaguvali-na-viklik-posla-ukraini-cerez-nibito-smert-ugorca-u-tck/,403,,wayback_cdx
+suspilne,https://suspilne.media/1065029-povitrani-sili-pokazali-robotu-kompleksu-skynex-po-rosijskih-dronah/,403,,wayback_cdx
+suspilne,https://suspilne.media/106519-cilkom-pravomirne-povstanna-ekspert-poasniv-ak-rada-ocinila-podii-na-majdani/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/1065703-dumali-so-obstriluut-i-nas-vbe-harkiv-pisla-negodi-12-lipna-suspilne-videonovini/,403,,wayback_cdx
+suspilne,https://suspilne.media/106597-cetvero-ziteliv-rivnensini-otrimaut-grosi-na-granti-hto-voni-ta-so-robitimut/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/1066557-putin-ne-obdurit-mene-tramp/,403,,wayback_cdx
+suspilne,https://suspilne.media/106680-na-harkivsini-u-edinomu-ditsadku-v-selisi-problemi-z-opalennam/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/106736-v-ukraini-vsanovuut-pamat-geroiv-nebesnoi-sotni/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/106768-covid-19-na-harkivsini-280-novih-vipadkiv-za-dobu/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/106779-smertelna-dtp-na-rivnensini-vantazivka-zbila-pisohoda/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/106788-na-poltavsini-prezentuvali-znahidku-skifskogo-casu/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/106800-geroiv-sirokinskoi-operacii-vsanuvali-u-voznesenivskomu-parku-zaporizza/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/106808-u-harkovi-kursanti-vijsli-na-plosu-z-portretami-geroi-nebesnoi-sotni/,403,,wayback_cdx
+suspilne,https://suspilne.media/1068307-sap-vidkrila-kriminalne-provadzenna-proti-vo-vicepremerki-stefanisinoi/,403,,wayback_cdx
+suspilne,https://suspilne.media/106840-pozeza-v-pologovomu-budinku-odesi-pid-cas-zajmanna-mediki-robili-kesariv-roztin/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/106853-u-harkovi-tramvaj-zijsov-z-rejok-travmuvalasa-pasazirka/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/106864-na-ternopilsini-pocastisali-otruenna-cadnim-gazom/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/1068749-zelenskij-prokomentuvav-stroki-sluzbi-povernutsa-dodomu-koli-mi-peremozemo-voroga/,403,,wayback_cdx
+suspilne,https://suspilne.media/106890-na-hersonsini-za-dvi-dobi-riboohoronnij-patrul-viaviv-15-pravoporusen/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/106917-49-vipadkiv-zahvoruvanna-na-koronavirus-viavili-za-dobu-na-poltavsini/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/106936-statistika-covid-19-na-volini-96-vipadkiv-za-ostannu-dobu-odin-letalnij/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/106952-covid-19-na-zaporizzi-34-vipadki-za-dobu-bez-letalnih/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/106980-mandruucij-portret-luckij-fotograf-vlastuvav-fotoproekt-do-150-ricca-lesi-ukrainki/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/106992-tumani-ta-ozeledica-sinoptiki-poperedzaut-pro-negodu-na-zakarpatti/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/1070271-viavivsa-odnim-iz-najbils-diskusijnih-napramkiv-sviridenko-pro-priznacenna-ministra-kulturi/,403,,wayback_cdx
+suspilne,https://suspilne.media/1071419-sbu-ta-ogp-provodat-specoperaciu-iz-nejtralizacii-vplivu-rosii-na-nabu-dzerela/,403,,wayback_cdx
+suspilne,https://suspilne.media/1071707-ak-novij-supermen-povernuv-do-zitta-dc-aluzii-na-vijnu-v-ukraini-i-kriza-identicnosti-suspilne-videonovini/,403,,wayback_cdx
+suspilne,https://suspilne.media/1072231-v-ukrainu-povernuli-pidlitka-akogo-vivezli-v-rf/,403,,wayback_cdx
+suspilne,https://suspilne.media/1074675-aponia-se-ne-virisila-ci-dolucitsa-do-evropejskih-obmezen-cin-na-rosijsku-naftu/,403,,wayback_cdx
+suspilne,https://suspilne.media/107593-ce-laboratoria-casu-u-mariupoli-dla-ditej-vidkrili-goncarnu-majsternu/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/1076017-nicni-udari-po-harkovu-sumsini-ta-zaporizzu-ta-perspektivi-zustrici-zelenskogo-i-putina-golovni-novini-ranku-26-lipna/,403,,wayback_cdx
+suspilne,https://suspilne.media/107682-novij-format-novi-kostumi-u-cerkaskij-filarmonii-gotuut-muzikl-do-dna-narodzenna-lesi-ukrainki/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/107701-ukrzaliznica-zapustit-poizdi-miz-kievom-ta-mistami-suputnikami/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/1078523-armia-rf-atakuvala-vipravnu-koloniu-na-zaporizzi-e-zagibli-ta-poraneni-suspilne-videonovini/,403,,wayback_cdx
+suspilne,https://suspilne.media/1079783-droni-sbu-vrazili-zavod-radioelektroniki-u-penzi/,403,,wayback_cdx
+suspilne,https://suspilne.media/1080531-pentagon-zamoviv-u-koncernu-raytheon-raketi-klasu-povitra-povitra-amraam-dla-ukraini-ta-insih-derzav/,403,,wayback_cdx
+suspilne,https://suspilne.media/108162-gromadam-bukovini-vidilat-100-mln-grn-na-budivnictvo-skil-ta-socustanov-suspilnevideonovini/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108170-bukovina-otrimala-15-tisac-doz-vakcini-vid-koronavirusu/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108179-na-cerkasini-viavili-160-novih-vipadkiv-infikuvanna-koronavirusom/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108195-na-vinniccini-za-dobu-koronavirus-viavleno-u-639-osib/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108218-na-vinniccini-17-ricna-divcina-potrapila-pid-poizd/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108233-v-odesi-13-ricna-divcinka-zaginula-pid-kolesami-potaga-policia-rozslidue-samogubstvo/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108256-majze-500-par-skarpetok-vivca-z-avstralii-obrosla-rekordnou-kilkistu-vovni/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108267-na-harkivsini-zitknulisa-avtobus-ta-legkovik-zaginuli-dvoe-ludej/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/1082809-nardepa-kuznecova-vidpravili-pid-vartu-jogo-pidozruut-u-korupcii-pid-cas-zakupivel-reb/,403,,wayback_cdx
+suspilne,https://suspilne.media/108333-u-poltavi-na-futbolnij-matc-vorskli-puskatimut-gladaciv/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/1083485-koli-viizdzali-za-nami-gnavsa-dron-istoria-pereselenciv-z-kostantinivki-u-dnipri-suspilne-videonovini/,403,,wayback_cdx
+suspilne,https://suspilne.media/108359-persou-na-harkivsini-vakcinuvalas-likarka-infekcijnoi-likarni/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108378-tehnicna-pomilka-zmi-otrimali-lista-vid-imeni-opu-z-kritikou-mitingiv-za-sternenka/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108385-otrimae-geograficne-zaznacenna-karpatskij-med/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108399-ak-kolisni-bezrobitni-na-hersonsini-zapocatkovuut-vlasnu-spravu/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108413-u-hersonskomu-ucilisi-vidkrili-gastronomicnu-laboratoriu/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108426-so-vidomo-pro-persij-etap-vakcinacii-vid-covid-19-na-volini-ta-koli-bude-nastupnij/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108449-26-lutogo-mbk-mikolaiv-prijmatime-bk-ternopil/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108458-10-likaren-na-poltavsini-mozut-zalisitisa-bez-finansuvanna-vid-nacsluzbi-zdorova/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108469-u-lisicansku-vid-koronavirusu-vakcinuvali-100-likariv/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108492-vlada-kitau-zaavila-pro-povne-podolanna-bidnosti-v-kraini/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108552-za-dobu-covid-19-pidtverdili-u-477-meskanciv-lvivsini/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108560-pakistan-zaboroniv-fizicni-pokaranna-ditej/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108580-ukraina-zaklikala-kraini-partneri-priednatisa-do-krimskoi-platformi-ta-posiliti-tisk-na-rf/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108590-u-sumskij-skoli-vstanovili-memorialnu-dosku-zagiblomu-vijskovomu-arturu-abramitovu/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108622-projsli-bez-uskladnen-mediki-pro-persi-seplenna-vid-koronavirusu-na-sumsini/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108654-cerkasam-povernuli-nezakonno-privlasnenu-zemlu-bila-dnipra/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108667-anglijskij-tank-v-centri-harkova-istoricnij-muzej-zapustiv-videoproekt-pro-eksponati/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108688-u-teatrah-i-muzeah-najnizcij-rizik-zarazitisa-na-covid-19-doslidzenna/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108698-kalinivskij-rinok-v-cernivcah-pracuvatime-popri-karantin/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108714-cerez-vitok-gazu-u-vinnici-perekrili-postacanna-blakitnogo-paliva-u-dvoh-budinkah/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108727-u-nigerii-bojoviki-vikrali-ponad-300-skolarok/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108738-na-volini-zatrimali-bus-iz-25-tisacami-pacok-cigarok/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108772-zakarpatca-suditimut-za-rozbijnij-napad-ta-pograbuvanna-na-ponad-piv-miljona-griven/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108787-hmarno-z-proasnennami-ta-slabki-opadi-prognozuut-na-vihidni-zakarpatski-sinoptiki/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108799-u-lucku-prezentuvali-fotovistavku-pro-politvazniv-okupovanogo-krimu/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108828-gandbolisti-zaporizkogo-motora-zustrilisa-u-matci-z-danskim-klubom-olborg/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/1088428-rf-vnoci-vdarila-po-navcalnomu-pidrozdilu-suhoputnih-vijsk-zsu-e-zagiblij-i-poraneni/,403,,wayback_cdx
+suspilne,https://suspilne.media/108855-spivbesida-i-perevirka-na-poligrafi-na-poltavsini-obiraut-majbutnih-oficeriv-gromad/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108867-okupanti-strilali-z-zaboronenogo-ozbroenna-10-ukrainskih-zahisnikiv-poraneni-stab-oos/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108878-na-vinniccini-693-vipadki-covid-19/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108908-spravi-pro-derzzradu-danilov-skazav-pro-so-govoritimut-na-nastupnomu-zasidanni-rnbo/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108915-zelenskij-priznaciv-ocilnika-odeskoi-rajadministracii/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108921-pravoohoronci-hmelniccini-zatrimali-pidozruvanogo-u-smertelnij-dtp/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108938-koronavirus-zareestruvali-se-u-505-ziteliv-zitomirsini/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108960-ledi-gagi-povernuli-dvoh-vikradenih-buldogiv/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108972-ternopolani-dolucilisa-do-akcii-na-pidtrimku-sternenka/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/108982-cerkaski-mavpi-zdobuli-peremogu-nad-prometeem/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/1089984-u-lvovi-veteran-iz-cotirma-amputaciami-pisla-reabilitacii-kermue-avtomobilem-istoria-mikoli-sota-suspilne-ludi/,403,,wayback_cdx
+suspilne,https://suspilne.media/109011-ucni-zdaut-na-190-baliv-lucka-vcitelka-aka-bezplatno-gotue-skolariv-do-zno/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/109022-na-zaporizzi-hocut-vlastuvati-dodatkovi-gidrogeologicni-roboti-na-teritorii-kaolinovogo-kareru/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/1090358-urad-provede-audit-nadrokoristuvaciv-z-dozvolami-na-strategicno-vazlivih-rodovisah-sviridenko/,403,,wayback_cdx
+suspilne,https://suspilne.media/109055-sumcani-podolali-stadiu-14-finalu-kubka-ukraini-z-futzalu/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/109068-100-cerkovnih-dzvoniv-i-prolit-litaka-dakota-u-britanii-poprosalisa-z-legendarnim-tomom-murom/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/109130-vzimku-pidkoriv-goverlu-na-velosipedi-frankivec-roman-sutka/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/1091836-vsi-mene-hotili-perevihovati-istoria-transgendernoi-zinki-sofii-z-cerkas-suspilne-ludi/,403,,wayback_cdx
+suspilne,https://suspilne.media/1092476-povitrani-sili-ppo-zbila-40-z-60-droniv-e-vlucanna-na-12-lokaciah/,403,,wayback_cdx
+suspilne,https://suspilne.media/1092844-niakogo-vstupu-ukraini-do-nato-tramp/,403,,wayback_cdx
+suspilne,https://suspilne.media/10932-na-igri-neskorenih-u-gaagu-poide-20-ukrainskih-veteraniv/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/1095306-polsa-ne-vidpravlatime-vijskovih-do-ukraini-ministr-oboroni/,403,,wayback_cdx
+suspilne,https://suspilne.media/1095768-minenergo-droni-rf-atakuvali-obekti-gazotransportnoi-infrastrukturi/,403,,wayback_cdx
+suspilne,https://suspilne.media/1096148-pat-vibuhiv-za-kilka-hvilin-ocevidci-pro-udar-po-dniprovskomu-rajonu-hersona-suspilne-videonovini/,403,,wayback_cdx
+suspilne,https://suspilne.media/1098328-povitrani-sili-ppo-zbila-76-zi-104-droniv-e-vlucanna-na-15-lokaciah/,403,,wayback_cdx
+suspilne,https://suspilne.media/1101818-kreml-visuvae-ukraini-novi-umovi-dla-peremovin-lideriv-ermak-i-umerov-zustrinutsa-z-komandou-trampa1283-den-vijni/,403,,wayback_cdx
+suspilne,https://suspilne.media/110428-na-prikarpatti-vstanovlat-flagstok-u-muzei-stepana-banderi-za-miljon-griven/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/1104492-ugoda-pro-nadra-urad-zatverdiv-predstavnikiv-vid-ukraini-do-kerivnoi-radi-fondu-vidbudovi/,404,,wayback_cdx
+suspilne,https://suspilne.media/110485-v-ukraini-doslidzuut-riven-kolektivnogo-imunitetu/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/1107282-maut-buti-uridicni-zobovazanna-zelenskij-hoce-sob-parlamenti-koalicii-ohocih-progolosuvali-za-garantii-bezpeki-2/,403,,wayback_cdx
+suspilne,https://suspilne.media/1107440-zelenskij-zaproponuvav-ssa-format-zahistu-neba-zsu-posiluut-borotbu-z-dronami-rf-golovni-novini-ranku-5-veresna/,403,,wayback_cdx
+suspilne,https://suspilne.media/1107934-mzs-rf-namagaetsa-zablokuvati-realni-peregovori-zaprosennam-u-moskvu/,403,,wayback_cdx
+suspilne,https://suspilne.media/1112712-zahisniki-aki-likuutsa-za-kordonom-zmozut-prohoditi-vlk-distancijno/,403,,wayback_cdx
+suspilne,https://suspilne.media/1113230-britania-zaprovadila-novi-sankcii-proti-tinovogo-flotu-rosii-2/,403,,wayback_cdx
+suspilne,https://suspilne.media/1113548-u-gruzii-zaavili-pro-pricetnist-ukraini-do-vvezenna-vibuhivki-v-krainu/,,,wayback_cdx
+suspilne,https://suspilne.media/111375-obgovoruvali-kolir-skiri-nasoi-ditini-garri-ta-megan-rozpovili-pro-rasizm-u-bukingemskomu-palaci/,,,wayback_cdx
+suspilne,https://suspilne.media/1113866-es-prodovziv-sankcii-proti-rf-genstab-rozgladae-mozlivist-vimknenna-mobilnoi-merezi-pid-cas-trivogi-1298-den-vijni/,,,wayback_cdx
+suspilne,https://suspilne.media/1114328-rosijskij-dron-zaletiv-u-rumuniu-v-ufi-droni-urazili-naftovij-zavod-1299-den-vijni/,,,wayback_cdx
+suspilne,https://suspilne.media/111449-kviti-klumbam-a-prava-zinkam-u-vinnici-vidbulas-mirna-akcia-kozna-za-sebe-kozna-za-vsih/,,,wayback_cdx
+suspilne,https://suspilne.media/1114682-droni-gur-atakuvali-vijskove-himicne-virobnictvo-u-permskomu-krai-rf-dzerela/,,,wayback_cdx
+suspilne,https://suspilne.media/1115436-vijskovi-ssa-pribuli-do-bilorusi-na-navcanna-zapad-2025/,404,,wayback_cdx
+suspilne,https://suspilne.media/1115702-v-ukrainu-z-rosijskoi-okupacii-vdalosa-povernuti-16-ditej/,,,wayback_cdx
+suspilne,https://suspilne.media/1115804-akbi-zustric-bula-tristoronnou-to-mi-b-mali-pevnij-rezultat-prezident-pro-zustric-na-alasci/,404,,wayback_cdx
+suspilne,https://suspilne.media/1116554-lukasenko-pomiluvav-25-ludej/,403,,wayback_cdx
+suspilne,https://suspilne.media/1116710-fon-der-laen-19-j-paket-sankcij-es-proti-rosii-zacepit-kriptorinok-banki-ta-energetiku/,,,wayback_cdx
+suspilne,https://suspilne.media/1116862-vperse-zaspivali-gimn-z-sino-zovtimi-praporami-akou-bula-cervona-ruta-1989-u-cernivcah-suspilne-videonovini/,,,wayback_cdx
+suspilne,https://suspilne.media/1117276-ukrainci-starse-60-rokiv-mozut-vstupiti-na-vijskovu-sluzbu-za-kontraktom/,,,wayback_cdx
+suspilne,https://suspilne.media/1117504-dania-pridbae-visokotocnu-zbrou-velikoi-dalnosti-dla-protidii-zagrozam-zi-storoni-rf/,,,wayback_cdx
+suspilne,https://suspilne.media/1117618-u-eksprezidenta-brazilii-bolsonaru-diagnostuvali-rak-skiri/,404,,wayback_cdx
+suspilne,https://suspilne.media/1117696-ministr-oboroni-polsi-priihav-u-kiiv/,,,wayback_cdx
+suspilne,https://suspilne.media/1117978-v-estonii-rozpocalisa-miznarodni-vijskovi-navcanna-bliskavka/,404,,wayback_cdx
+suspilne,https://suspilne.media/1118548-proti-ukraini-na-storoni-rf-vouut-blizko-20-tisac-kubinskih-najmanciv/,404,,wayback_cdx
+suspilne,https://suspilne.media/1118634-india-prodovzit-kupuvati-rosijsku-naftu-popri-vimogi-trampa/,404,,wayback_cdx
+suspilne,https://suspilne.media/111896-vi-zavtra-pomiritesa-a-nam-zajva-robota-ci-zahisae-derzava-vid-domasnogo-nasilstva/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/1119420-evakuacia-z-doneccini-igri-geroiv-dla-veteraniv-obstrili-hersona-tizden-u-foto/,,,wayback_cdx
+suspilne,https://suspilne.media/1120510-povitrani-sili-ukrainska-ppo-zneskodila-132-z-141-droniv/,404,,wayback_cdx
+suspilne,https://suspilne.media/1120986-ukraine-facility-u-evrokomisii-rozkrili-deaki-detali-peregladu-planu-programi-pro-aki-prosit-ukraina/,,,wayback_cdx
+suspilne,https://suspilne.media/1121316-v-italii-vidbuvautsa-protesti-na-tli-posilenogo-nastupu-izrailu-v-sektori-gazi/,404,,wayback_cdx
+suspilne,https://suspilne.media/1121410-zsu-za-dobu-likviduvali-ponad-tisacu-okupantiv-i-majze-piv-tisaci-droniv/,404,,wayback_cdx
+suspilne,https://suspilne.media/1121636-v-ukraini-vidkrilosa-predstavnictvo-centralnogo-agentstva-upravlinna-proektami-litvi/,,,wayback_cdx
+suspilne,https://suspilne.media/1121912-mi-dopomozemo-ta-zalucimo-vsih-souznikiv-rutte-pro-droni-nad-danieu/,404,,wayback_cdx
+suspilne,https://suspilne.media/1122252-zelenskij-akso-vijni-v-nebi-ne-bude-rosia-ne-zmoze-vesti-bojovi-dii-na-zemli/,,,wayback_cdx
+suspilne,https://suspilne.media/112244-u-mobilnomu-gospitali-prikarpatta-likuutsa-tri-pacientki-z-covid-19/,,,wayback_cdx
+suspilne,https://suspilne.media/1123115-u-danii-zakrili-eroprot-cerez-droni-v-povitranomu-prostori/,,,wayback_cdx
+suspilne,https://suspilne.media/1123299-urad-danii-gotue-zakonoproekt-so-rozsirue-mozlivosti-zbivati-bezpilotniki/,,,wayback_cdx
+suspilne,https://suspilne.media/1123635-lideri-es-u-kopengageni-obgovorat-porusenna-dronami-povitranogo-prostoru-danii-ta-insih-krain/,,,wayback_cdx
+suspilne,https://suspilne.media/1123953-nad-francuzkim-vijskovim-obektom-litali-droni/,404,,wayback_cdx
+suspilne,https://suspilne.media/112401-u-lucku-znajsli-pocuplenu-skulpturu-klikuna-ta-dvoh-kradiiv/,,,wayback_cdx
+suspilne,https://suspilne.media/1124449-genstab-pidtverdiv-urazenna-afipskogo-npz-u-krasnodarskomu-krai-rf/,404,,wayback_cdx
+suspilne,https://suspilne.media/1124743-dania-peredast-ukraini-paket-dopomogi-na-400-mln-evro/,404,,wayback_cdx
+suspilne,https://suspilne.media/1124907-zapracuvala-nova-socmereza-vibes-vid-meta-tam-koristuvaci-stvoruvatimut-si-video/,404,,wayback_cdx
+suspilne,https://suspilne.media/1125323-droni-sbu-atakuvali-naftovij-obekt-u-cuvaskij-respublici-rf-dzerela/,,,wayback_cdx
+suspilne,https://suspilne.media/1125457-masovana-ataka-rf-po-ukraini-polsa-pidnala-vinisuvaci-golovni-novini-ranku-28-veresna/,403,,wayback_cdx
+suspilne,https://suspilne.media/1125803-v-moldovi-zakrilis-viborci-dilnici-aka-avka/,404,,wayback_cdx
+suspilne,https://suspilne.media/1125995-prezident-finlandii-stubb-zaaviv-so-ne-nakazuvatime-zbivati-cili-aki-porusuvatimut-povitranij-prostir-jogo-kraini/,,,wayback_cdx
+suspilne,https://suspilne.media/1126367-tusk-vidreaguvav-na-zaavi-polakiv-pro-vijnu-rf-v-ukraini-ca-vijna-ce-takoz-i-nasa-vijna/,404,,wayback_cdx
+suspilne,https://suspilne.media/1126765-pivnicna-korea-zaavila-v-oon-so-nikoli-ne-vidmovitsa-vid-adernoi-zbroi/,,,wayback_cdx
+suspilne,https://suspilne.media/1126979-vazlivi-novini-z-vasingtona-svitovi-lideri-vitaut-plan-trampa-sodo-pripinenna-vognu-u-gazi/,,,wayback_cdx
+suspilne,https://suspilne.media/1127323-u-nimeccini-uvaznili-ekspomicnika-deputata-afd-za-spigunstvo-na-korist-kitau/,404,,wayback_cdx
+suspilne,https://suspilne.media/1127587-smigal-zapevniv-so-minoboroni-gotove-maksimalno-spriati-virobnikam-min-u-masstabuvanni-virobnictva/,404,,wayback_cdx
+suspilne,https://suspilne.media/112798-varimo-10-vidiv-siru-svasennik-na-lvivsini-vidkriv-sirovarnu-ta-pracue-z-ludmi-z-invalidnistu/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/112837-obsuki-v-glusco-kompania-prokomentuvala-dialnist-sbu/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/1128716-na-caes-buv-blekaut-cerez-rosijski-obstrili-pereboi-zi-svitlom-buli-v-kilkoh-regionah-1317-den-vijni/,,,wayback_cdx
+suspilne,https://suspilne.media/1129334-socviplati-zmini-na-kordoni-ta-bankivski-perekazi-so-zminitsa-dla-ukrainciv-u-zovtni/,404,,wayback_cdx
+suspilne,https://suspilne.media/1129728-za-minulu-dobu-na-fronti-vidbulos-162-boezitknenna-armia-rf-vtratila-970-soldativ-genstab-zsu/,,,wayback_cdx
+suspilne,https://suspilne.media/1130144-rf-zavdala-masovanogo-udaru-po-gazovih-obektah-naftogazu-na-harkivsini-ta-poltavsini/,,,wayback_cdx
+suspilne,https://suspilne.media/1130432-apple-vidalila-dodatki-dla-vidstezenna-agentiv-ice-pisla-zvernenna-bilogo-domu/,,,wayback_cdx
+suspilne,https://suspilne.media/1130678-aeroportu-munhena-zakrivali-cerez-droni-tramp-zaaviv-pro-mir-iz-hamas-golovni-novini-ranku-4-zovtna/,,,wayback_cdx
+suspilne,https://suspilne.media/1131110-na-parlamentskih-viborah-u-cehii-peremagae-partia-ekspremera-babisa-ano/,,,wayback_cdx
+suspilne,https://suspilne.media/113122-na-hmelniccini-za-dobu-desat-smertej-vid-uskladnen-covid-19/,,,wayback_cdx
+suspilne,https://suspilne.media/1131444-putin-smietsa-iz-zahodu-zelenskij-pro-ataku-rosii-na-ukrainu-v-nic-na-5-zovtna/,,,wayback_cdx
+suspilne,https://suspilne.media/1131618-persij-etap-mae-buti-zaversenij-cogo-tizna-tramp-zaaviv-pro-progres-u-peregovorah-iz-hamas/,,,wayback_cdx
+suspilne,https://suspilne.media/1132520-verhovnij-sud-ssa-vidhiliv-apelaciu-spilnici-dzeffri-epstejna/,,,wayback_cdx
+suspilne,https://suspilne.media/1133466-erdogan-proviv-telefonnu-rozmovu-z-putinim-obgovorili-priskorenna-mirnih-iniciativ-v-ukraini-ta-situaciu-v-sektori-gazi/,,,wayback_cdx
+suspilne,https://suspilne.media/1134110-donald-tramp-zaklikav-uvazniti-ocilnikiv-cikago-ta-illinojsu/,,,wayback_cdx
+suspilne,https://suspilne.media/1134366-es-uzgodiv-zahodi-sodo-peremisenna-diplomativ-rf/,,,wayback_cdx
+suspilne,https://suspilne.media/1134414-za-ostannij-misac-armia-rf-zavdala-1550-udariv-po-cernigivsini-sumsini-ta-poltavsini-zelenskij/,,,wayback_cdx
+suspilne,https://suspilne.media/1136048-nimeccina-iniciue-miznarodnu-konferenciu-dla-vidbudovi-sektoru-gazi/,,,wayback_cdx
+suspilne,https://suspilne.media/1136336-programa-lyra-velika-britania-ta-ukraina-pidpisali-zaavu-pro-namiri-sodo-oboronnogo-partnerstva/,403,,wayback_cdx
+suspilne,https://suspilne.media/1136942-satdaun-u-ssa-administracia-trampa-pocala-zvilnenna-ponad-4000-federalnih-pracivnikiv/,,,wayback_cdx
+suspilne,https://suspilne.media/113799-stomatolog-dla-alpaki-luckij-zoopark-vidvidali-veterinari-iz-kieva/,,,wayback_cdx
+suspilne,https://suspilne.media/1138126-ce-vze-ak-cleni-simi-ak-u-girskomu-seli-na-lvivsini-pracue-kozina-ferma-suspilne-videonovini/,403,,wayback_cdx
+suspilne,https://suspilne.media/1138606-evrokomisia-ostrafuvala-modni-brendi-gucci-chloe-ta-loewe-na-157-mln/,,,wayback_cdx
+suspilne,https://suspilne.media/1138846-ostanne-slovo-za-trampom-vitaker-pro-postacanna-ukraini-raket-tomahawk/,,,wayback_cdx
+suspilne,https://suspilne.media/1139178-ispania-gotova-do-povnoi-vidmovi-vid-rosijskogo-gazu-vze-u-2027-roci/,,,wayback_cdx
+suspilne,https://suspilne.media/1139504-apelacia-vaks-dozvolila-zdijsnuvati-zaocne-rozsliduvanna-sodo-oligarha-zevago/,,,wayback_cdx
+suspilne,https://suspilne.media/1140070-ramstajn-zakincivsa-vidilennam-novih-paketiv-dopomogi-v-oblastah-diut-ekstreni-vidklucenna-1331-den-vijni/,,,wayback_cdx
+suspilne,https://suspilne.media/1140888-v-usih-oblastah-ukraini-vvedeni-grafiki-obmezenna-potuznosti-dla-promislovih-spozivaciv-ukrenergo/,,,wayback_cdx
+suspilne,https://suspilne.media/1141112-zelenskij-priletiv-v-ssa-tramp-i-putin-domovilis-pro-zustric-u-budapesti-1332-den-vijni/,,,wayback_cdx
+suspilne,https://suspilne.media/1141212-tramp-zustrinetsa-z-zelenskim-za-obidom/,,,wayback_cdx
+suspilne,https://suspilne.media/114161-cistij-krilos-ak-prikarpatski-skolari-dbaut-pro-selo-ta-motivuut-stavati-ekosvidomimi/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/1141922-vstup-v-es-energetika-ta-ekonomika-tretij-raund-konsultacij-ukraini-ta-slovaccini-v-kosice/,403,,wayback_cdx
+suspilne,https://suspilne.media/1142080-ukrainska-delegacia-privezla-trampu-mapi-z-bolovimi-tockami-rosijskoi-oboronki-dzerelo/,,,wayback_cdx
+suspilne,https://suspilne.media/1142370-britania-proponue-rozrobiti-mirnij-plan-dla-ukraini-za-zrazkom-planu-trampa-dla-gazi-axios/,,,wayback_cdx
+suspilne,https://suspilne.media/1143112-ukraina-gotue-kontrakt-na-kupivlu-25-sistem-patriot-zelenskij/,,,wayback_cdx
+suspilne,https://suspilne.media/114329-na-kooperativnomu-rinku-u-zitomiri-u-tretini-partij-rannih-ogirkiv-viavili-pidvisenij-vmist-nitrativ/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/1144474-lideri-es-dorucat-evrokomisii-rozrobiti-plan-vikoristanna-zamorozenih-aktiviv-rf-dla-ukraini-dokument/,403,,wayback_cdx
+suspilne,https://suspilne.media/1144714-orban-propustit-diskusiu-sodo-ukraini-v-cetver-na-samiti-es/,,,wayback_cdx
+suspilne,https://suspilne.media/1144894-premer-slovaccini-oburenij-namagannami-zirvati-zustric-trampa-ta-putina/,,,wayback_cdx
+suspilne,https://suspilne.media/114534-v-ukraini-ponad-tisacu-osib-povtorno-zahvorili-na-covid-19-cgz/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/1145608-ukraina-ta-svecia-pidpisali-ugodu-pro-namiri-sodo-kupivli-vinisuvaciv-gripen/,,,wayback_cdx
+suspilne,https://suspilne.media/1145816-kabmin-vidiliv-ponad-700-mln-grn-na-remont-dorig-u-troh-oblastah/,,,wayback_cdx
+suspilne,https://suspilne.media/1145894-tramp-pogovorit-iz-si-sob-kitaj-bilse-ne-kupuvav-rosijsku-naftu/,,,wayback_cdx
+suspilne,https://suspilne.media/114661-u-zaporizzi-prezentuvali-uvilejnij-nomer-muzejnogo-visnika/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/1147560-u-britanii-vilucili-najbilsu-v-sviti-partiu-nebezpecnih-ukoliv-dla-shudnenna/,,,wayback_cdx
+suspilne,https://suspilne.media/1147800-vlada-ontario-zupinit-reklamnu-kampaniu-sodo-tarifiv-cerez-aku-tramp-pripiniv-torgivelni-peremovini-z-kanadou/,,,wayback_cdx
+suspilne,https://suspilne.media/1148196-dosi-ta-do-17-tepla-sinoptiki-dali-prognoz-na-26-zovtna/,,,wayback_cdx
+suspilne,https://suspilne.media/1148306-poklade-kinec-trivalomu-prikordonnomu-konfliktu-tailand-i-kambodza-pidpisali-mirnu-ugodu-u-prisutnosti-trampa/,,,wayback_cdx
+suspilne,https://suspilne.media/114863-vse-v-sviti-vidnosno-so-dav-ludstvu-albert-ejnstejn/,,,wayback_cdx
+suspilne,https://suspilne.media/1148712-ssa-i-kitaj-ostatocno-uzgodili-ugodu-sodo-tiktok-bessent/,,,wayback_cdx
+suspilne,https://suspilne.media/1149202-vitkoffa-zaprosili-do-ukraini-golova-mzs/,403,,wayback_cdx
+suspilne,https://suspilne.media/114968-profspilka-zaliznicnikiv-planue-velikij-strajk-koli-ta-aki-mozut-buti-naslidki/,,,wayback_cdx
+suspilne,https://suspilne.media/1149772-flamingo-vze-na-poli-bou-zelenskij-pidtverdiv-perse-dieve-zastosuvanna-raketi/,,,wayback_cdx
+suspilne,https://suspilne.media/1150162-zurnalist-nimeckogo-die-welt-otrimav-poranenna-na-shodi-ukraini-pid-cas-ataki-lanceta/,,,wayback_cdx
+suspilne,https://suspilne.media/115098-virsovana-filosofia-zitta-na-lugansini-poetesa-suzanna-zadiraka-predstavila-zbirku/,,,wayback_cdx
+suspilne,https://suspilne.media/1151958-hto-otrimae-grosi-za-vidpustki-zagiblih-vijskovih-urad-utocniv-poradok-kompensacij/,,,wayback_cdx
+suspilne,https://suspilne.media/1152218-ukraina-ponovlue-import-gazu-transbalkanskim-koridorom-pisla-dvomisacnoi-perervi/,,,wayback_cdx
+suspilne,https://suspilne.media/115287-policia-provodit-slidci-dii-pid-op-pisla-akcii-prihilnikiv-sternenka/,,,wayback_cdx
+suspilne,https://suspilne.media/1153178-z-pocatku-2025-roku-sili-oboroni-znisili-48-rosijskih-sistem-ppo-pancir/,,,wayback_cdx
+suspilne,https://suspilne.media/1153470-litva-pripinae-tranzit-nafti-rf-do-kaliningrada-cerez-sankcii-ssa-ta-velikoi-britanii/,403,,wayback_cdx
+suspilne,https://suspilne.media/1153586-ministri-energetiki-krain-g7-zasudili-rosijski-ataki-na-energeticnu-sistemu-ukraini/,,,wayback_cdx
+suspilne,https://suspilne.media/1153900-urad-gotue-pidtrimku-dla-naselenna-u-zimovij-period-zelenskij/,,,wayback_cdx
+suspilne,https://suspilne.media/115493-u-harkovi-protestuut-pracivniki-teatriv/,200,missing body or title,wayback_cdx
+suspilne,https://suspilne.media/1155462-bilse-nemae-pidstav-dla-nadanna-pritulku-merc-hoce-z-prezidentom-sirii-znajti-risenna-sodo-bizenciv/,,,wayback_cdx
+suspilne,https://suspilne.media/1155924-tisk-na-aktivistiv-ta-korupcia-na-so-ek-vkazala-ukraini-u-zviti-pro-rozsirenna/,,,wayback_cdx
+suspilne,https://suspilne.media/1156880-estonia-vidilit-3-mln-evro-na-starlink-dla-ukraini-smigal/,403,,wayback_cdx
+suspilne,https://suspilne.media/1157208-zelenskij-zaaviv-so-litva-gotova-dopomogti-ukraini-z-gazom/,,,wayback_cdx
+suspilne,https://suspilne.media/1158142-7-listopada-u-bilsosti-regioniv-ukraini-diatimut-grafiki-vidklucenna-svitla-ukrenergo/,,,wayback_cdx
+suspilne,https://suspilne.media/1158342-sibiga-pricini-slabkih-rezultativ-gruzii-na-slahu-do-es-u-tbilisi-a-ne-v-kievi/,,,wayback_cdx
+ukrinform,https://www.ukrinform.ua/rubric-ato/3702901-vibuhi-v-pavlogradi-miska-vlada-kaze-so-himicna-nebezpeka-vidsutna.html,200,missing body or title,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3702927-rosiani-atakuvali-ukrainu-zi-strategicnoi-aviacii-vipustili-18-krilatih-raket-zaluznij.html,200,missing body or title,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3703227-na-avdiivskomu-ta-marinskomu-napramkah-vorog-vtrativ-bilse-roti-general-tarnavskij.html,200,missing body or title,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3703379-bilij-dim-anonsuvav-novij-paket-vijskovoi-dopomogi-ukraini.html,200,missing body or title,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3703758-prikordonniki-vidbili-ataku-u-bahmuti-rosiani-vidijsli-z-vtratami.html,200,missing body or title,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3704606-rosiani-zavdali-35-udariv-po-prikordonnu-cernigivsini-ta-sumsini.html,404,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3704736-belgia-gotue-novij-paket-vijskovoi-dopomogi-ukraini.html,200,missing body or title,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3704863-rosia-ne-nadae-zodnih-danih-pro-deportovanih-ukrainskih-ditej-lubinec.html,502,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3704885-stati-pridilaut-veliku-uvagu-peredaci-ukraini-zasobiv-ppo-bilij-dim.html,502,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3705078-ukraina-povernula-tila-se-80-zagiblih-voiniv.html,200,missing body or title,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3705455-vijskovi-vvazaut-ostanni-povitrani-ataki-z-boku-rosii-rozvidkou-malar.html,200,missing body or title,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3705703-u-minoboroni-zaklikali-ne-sukati-glibokih-sensiv-u-zaavah-rosijskih-vatazkiv.html,200,missing body or title,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3705854-prigozin-i-kadirov-hocut-zvinuvatiti-armiu-rf-v-nevdacah-u-bahmuti-isw.html,200,missing body or title,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3705881-rosiani-zavdali-19-udariv-po-prikordonnu-cernigivsini.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3705883-bezpilotniki-sogodni-roblat-revoluciu-na-fronti-ignat.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3705885-danilov-dla-rosii-zaraz-vidbuvaetsa-katastrofa-ta-najgirse-poperedu.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3705893-vorog-namagaetsa-sturmuvati-pozicii-zsu-poblizu-bilogorivki-ale-zaznae-vtrat.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3705894-rosia-ne-mae-zodnogo-potencialu-dla-masstabnogo-nastupu-budanov.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3705898-sili-oboroni-na-tavrijskomu-napramku-za-dobu-znisili-bils-ak-rotu-zagarbnikiv.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3705907-u-rosii-bagato-sil-hocut-fizicno-usunuti-prigozina-budanov.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3705916-oleg-kotenko-upovnovazenij-z-pitan-osib-zniklih-bezvisti-za-osoblivih-obstavin.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3705922-sirskij-nagorodiv-pihotinciv-aki-strimuut-zagarbnikiv-na-peredovij.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3705932-zagarbniki-rozsiruut-taktiku-viprobovuuci-ukrainsku-ppo-gumenuk.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3705969-bilse-peremog-ukraini-na-poli-bou-prizvedut-do-zbilsenna-dopomogi-zelenskij.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3705980-rosiani-za-den-sist-raziv-obstrilali-prikordonna-sumsini-ta-cernigivsini.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3705988-zaluznij-zustrivsa-z-generalnim-inspektorom-bundesveru-govorili-pro-situaciu-na-fronti.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3705989-u-rosii-zavitsa-velika-panika-koli-ukraina-rozpocne-kontrnastup-gavrilov.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3705996-aviacia-rf-skinula-pat-kerovanih-aviabomb-po-hersonsini-e-rujnuvanna.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706007-vorog-obstrilav-harkivsinu-e-poranena.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706008-rosiani-zbilsili-intensivnist-obstriliv-iz-vazkogo-ozbroenna-u-bahmuti-sirskij.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706021-rosiani-zoseredilisa-na-cotiroh-napramkah-vedutsa-vazki-boi-za-bahmut-ta-marinku.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706023-vorog-obstrilav-nikopol-z-vazkoi-artilerii-e-poranenij.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706032-bitva-za-ukrainu-den-cotirista-tridcat-vosmij.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706038-usi-hto-dopomagae-ukraini-povertati-bezpeku-e-zahisnikami-miru-zelenskij.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706054-vazlivo-abi-svit-znav-pro-kozen-fakt-rosijskogo-teroru-zelenskij.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706063-vorog-se-cotiri-razi-obstrilav-prikordonna-cernigivsini-ta-sumsini.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706065-vorog-ne-vidmovivsa-vid-idei-raketnogo-udaru-u-mori-cotiri-nosii-z-32-kalibrami-gumenuk.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706066-o-1230-brifing-uria-ignata-pro-zahist-neba.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706069-vorog-za-den-16-raziv-obstrilav-prikordonna-sumsini-poskodzena-lep.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706071-v-odesi-progrimiv-vibuh-zmi.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706072-u-kievi-ta-nizci-oblastej-povitrana-trivoga.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706073-pisla-vibuhu-v-odesi-spalahnula-pozeza.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706074-na-kiivsini-pracue-ppo.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706075-odesina-zaznala-raketnoi-ataki-ova.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706077-ssa-vpevneni-so-sistema-patriot-v-ukraini-vperse-zbila-rosijsku-giperzvukovu-raketu-cnn.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706084-rosiani-vdarili-po-odesini-raketami-h22-ok-pivden.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706093-ukrainski-zahisniki-znisili-vsi-35-sahediv-zapusenih-vorogom-ciei-noci.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706095-sili-oboroni-vidbili-55-atak-na-cotiroh-napramkah.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706106-zagostrenna-z-boku-rf-mozlive-nezalezno-vid-dati-malar.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706110-sili-oboroni-znisili-vze-194-970-vijskovih-rf.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706126-rosia-verbue-migrantiv-dla-vijni-proti-ukraini-britanska-rozvidka.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706131-rosiani-zranku-trici-obstrilali-prikordonna-cernigivsini.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706136-komanduvac-povitranih-sil-nagadav-pro-serjoznu-zagrozu-vid-ulamkiv-raket-ta-bpla.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706159-nezvicajna-pacientka-ada.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706162-u-mariupoli-fiksuut-peremisenna-rosijskih-tankiv-ta-sistem-ppo.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706209-u-cornomu-mori-rosia-trimae-cotiri-raketonosii-iz-32-kalibrami.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706216-v-ukraini-masstabna-povitrana-trivoga.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706226-cerez-rosijsku-agresiu-v-ukraini-postrazdali-1-444-ditini.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706227-u-rosijskij-armii-jdut-perestanovki-cerez-proval-zimovogo-nastupu-gur.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706237-povitrani-ataki-i-postacanna-boepripasiv-zelenskij-proviv-zasidanna-stavki.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706244-u-rajoni-bahmuta-rosiani-za-devat-misaciv-vtratili-blizko-100-tisac-zivoi-sili-zsu.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706245-zagarbniki-posilili-obstrili-zaporizkoi-oblasti-z-artilerii-ta-rszv.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706252-trivogu-v-ukraini-ogolosuvali-cerez-vilit-mig31k-akij-e-nosiem-kindzala-ignat.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706263-u-mariupoli-fiksuut-visoku-aktivnist-rosijskih-gvintokriliv.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706275-aviacia-rf-ne-zalitae-u-zonu-urazenna-ppo-i-namagaetsa-distancijno-zavdavati-udariv-ignat.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706293-zsu-znisili-na-lugansini-dva-skladi-z-boepripasami-cotiri-tanki-i-bmp.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706297-rf-castise-vikoristovue-barazuuci-boepripasi-namagaetsa-zirvati-pidgotovku-zsu-do-kontrnastupu.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706316-udar-rf-znisiv-sklad-cervonogo-hresta-z-gumanitarnou-dopomogou-na-odesini.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706334-odesinu-vnoci-atakuvali-rosijskimi-litakami-z-krimu-ignat.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706350-rosiani-znovu-obstrilali-prikordonna-cernigivsini.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706356-na-hersonsini-zagarbniki-poranili-devatoh-civilnih-u-ih-cisli-ditina.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706398-sili-specoperacij-znisili-rosijskij-kulemetnij-rozrahunok-u-bahmuti.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706405-za-proektom-armia-droniv-ukomplektuvali-bijciv-se-vosmi-udarnih-rot-bpla.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706414-google-pokazav-naslidki-vtorgnenna-rf-v-ukrainu-na-suputnikovih-znimkah.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706415-na-hersonsini-znisili-tri-rosijski-bezpilotniki.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706446-vorog-nastupae-na-cotiroh-napramkah-za-bahmut-i-marinku-vazki-boi.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706448-polsa-peredala-ukraini-desat-vinisuvaciv-mig29.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706451-bitva-za-ukrainu-den-cotirista-tridcat-devatij.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706485-vorog-udariv-iskanderom-po-pavlogradskomu-rajonu.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706493-rosiani-za-dobu-12-raziv-obstrilali-prikordonni-gromadi-sumsini.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706497-prezident-uspihi-ukrainciv-v-oboroni-proti-agresii-rf-ce-antidot-proti-insih-agresij.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706498-vijska-rf-zavdaut-udariv-po-harkovu.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706500-zelenskij-rozpoviv-pro-detali-sogodnisnogo-zasidanna-stavki.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706501-posolstvo-italii-zaklikalo-gromadan-vidmovitis-vid-poizdok-do-ukraini.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706502-rosiani-but-po-harkivsini-raketami-s300-e-tri-vlucanna.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706503-prezident-gotuemo-sistemu-dij-aka-dopomoze-svidse-rozminovuvati-teritorii.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706505-u-dnipri-prolunali-vibuhi.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706508-vorog-pidvisiv-intensivnist-atak-na-bahmut-i-zbilsiv-kilkist-soldativ-kombrig-grisenko.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706510-u-polsi-kazut-so-ne-potribno-kvapiti-ukrainciv-z-kontrnastupom.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706519-derzdep-zreaguvav-na-ostanni-povitrani-ataki-rosian-na-ukrainski-mista.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706531-podolak-pro-kontrnastup-ce-ne-odna-bitva-aka-vse-virisit.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706534-u-kievi-ta-nizci-oblastej-povitrana-trivoga.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706535-ukrainci-u-vidni-vidznacili-den-pamati-ta-primirenna.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706536-na-kiivsini-pracue-ppo.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706538-zagarbniki-pocali-mobilizaciu-budzetnikiv-u-mariupoli.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706542-u-kievi-ulamki-rosijskoi-raketi-vpali-na-podvira-privatnogo-budinku.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706544-u-kievi-zagasili-ulamok-raketi-akij-upav-na-podvira.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706545-ataka-na-kiiv-sili-ppo-znisili-blizko-pivtora-desatka-povitranih-cilej.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706547-aviacia-zsu-zavdala-16-udariv-po-poziciah-voroga.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706548-ssa-gotuut-novij-paket-vijskovoi-dopomogi-ukraini-cnn.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706554-rosiani-vnoci-vipustili-po-ukraini-25-krilatih-raket-23-z-nih-znisila-ppo.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706555-ulamki-rosijskoi-raketi-vpali-na-cotiripoverhivku-u-dnipri-postrazdala-zinka.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706566-zsu-znisili-vze-195-620-rosijskih-zagarbnikiv.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706574-genstab-zsu-ne-vikluceno-so-rosia-gotue-provokacii-proti-vlasnogo-naselenna-pid-cas-paradiv.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706583-vorog-atakuvav-cerkasinu-dvoma-krilatimi-raketami-e-rujnuvanna.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706604-armia-rf-poranila-v-ukraini-967-ditej.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706609-zagarbniki-vranci-ta-vnoci-zavdali-9-udariv-po-prikordonnu-sumsini.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706613-posol-britanii-vidreaguvala-na-cergovu-nicnu-raketnu-ataku-rf-po-kievu.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706624-rosia-vidznacae-9-travna-novimi-raketnimi-atakami-po-mistah-ukraini-posol-ssa.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706630-u-persij-hvili-zapusku-zniseni-100-rosijskih-raket-ignat.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706652-zsu-rozpocnut-kontrnastup-koli-dla-cogo-bude-vidpovidnij-cas-smigal.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706658-vorog-trimae-u-cornomu-mori-pat-raketonosiiv-z-28-kalibrami-gumenuk.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706676-rutte-niderlandi-obgovoruut-zi-ssa-britanieu-ta-danieu-peredacu-ukraini-f16.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706678-rf-potuzno-obstrilue-hersonsinu-abi-zapobigti-kontrnastupu-gumenuk.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706699-kuleba-vcergove-zaklikav-partneriv-nadati-ukraini-litaki-f16.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706736-u-cornomu-mori-rosia-trimae-cotiri-raketonosii-iz-32-kalibrami.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706746-es-gotovij-nadati-ukraini-miljon-snaradiv-dla-artilerii-zelenskij.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706752-na-limanskomu-ta-kupanskomu-napramkah-za-dobu-vorog-448-raziv-vdariv-po-poziciah-zsu.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706774-zbitta-kindzala-zsu-vidpravili-v-nokaut-rosijski-tehniku-i-propagandu.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706777-nacgvardiec-z-igli-zbiv-rosijsku-krilatu-raketu-aka-letila-na-kiiv.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706789-na-fronti-zaginuv-pracivnik-ofisu-prezidenta.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706794-boepripasi-dla-ukraini-evroparlament-uhvaliv-terminovij-poradok-prijnatta-akta-es.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706799-na-mikolaivsini-ppo-znisila-rosijskij-rozviduvalnij-bezpilotnik.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706803-zelenskij-pro-aktivizaciu-raketnih-udariv-kerivnictvu-rf-treba-sos-prodavati-suspilstvu.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706809-pamati-voina-inozemnogo-legionu-bijca-sso-azov-kristofera-dzejmsa-kempbela.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706813-situacia-u-bahmuti-visim-boezitknen-za-dobu-zsu-znisili-i-poranili-ponad-370-zagarbnikiv.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706832-u-cornomu-mori-zrosla-kilkist-vorozih-raketonosiiv-ok-pivden.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706840-pamati-strilciv-brativ-romana-ta-leonida-butusinih.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706853-rosiani-obstrilali-selo-na-hersonsini-zrujnuvali-feldserskij-punkt.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706867-zagarbniki-zavdali-aviaudaru-po-orihovu-na-zaporizzi.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706891-ssa-vidilaut-ukraini-novij-paket-vijskovoi-dopomogi-na-sumu-12-milarda-pentagon.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706920-lider-respublikanciv-prognozue-so-kongres-prodovzit-finansuvanna-oboroni-ukraini.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706970-vijska-rf-zdijsnili-majze-30-atak-na-cotiroh-napramkah.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706971-ukraina-mae-peremogti-u-vijni-svidko-kleverli-zaklikav-zbilsiti-dopomogu.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706985-gillari-klinton-zaklikala-kraini-nato-peredati-ukraini-use-neobhidne-dla-kontrnastupu.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706989-bitva-za-ukrainu-den-cotirista-sorokovij.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3706991-sekretar-rnbo-ostatocnogo-planu-nastupu-se-nemae-u-roboti-kilka-variantiv.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707003-na-tavrijskomu-napramku-rosiani-22-razi-bezrezultatno-atakuvali-pozicii-zsu.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707005-zagarbniki-obstrilali-dvi-gromadi-na-dnipropetrovsini-e-rujnuvanna.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707011-nimeckij-oboronnij-koncern-hoce-viroblati-v-ukraini-sistemi-ppo-ta-tanki-zmi.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707014-vijska-rf-vdarili-raketami-po-kupansku-e-poraneni.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707025-rosiani-dvici-za-den-obstrilali-prikordonna-cernigivsini.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707040-zelenskij-lise-pitanna-casu-koli-mi-zmozemo-vidnoviti-spravedlivij-mir.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707041-novij-paket-dopomogi-ukraini-rozrahovanij-na-dovgostrokovu-perspektivu-pentagon.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707046-zelenskij-podakuvav-parlamentu-francii-za-viznanna-pvk-vagner-teroristami.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707051-sili-oboroni-na-doneccini-znisili-reb-rosian.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707052-zelenskij-bez-peremogi-nad-nacizmom-8-travna-ne-bulo-b-dna-evropi.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707055-ssa-prodovzuut-navcanna-ukrainskih-pidrozdiliv-u-nimeccini-pentagon.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707061-pentagon-pidtverdiv-so-sistema-patriot-v-ukraini-zbila-rosijskij-kindzal.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707065-rosiani-za-dobu-14-raziv-obstrilali-prikordonna-sumsini.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707081-cerez-proval-mobilizacii-rosiani-perezapuskaut-sistemu-vijskkomativ-na-lugansini.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707089-zsu-urazili-dva-artilerijski-pidrozdili-ta-dva-zrk-voroga.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707091-poblizu-bahmuta-zaginuv-francuzkij-zurnalist-arman-soldin.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707098-ukrainski-bijci-znisili-vze-196-310-zagarbnikiv.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707166-zaluznij-ne-poihav-na-zustric-vijskovogo-komitetu-nato-cerez-situaciu-na-fronti.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707168-za-dobu-vnaslidok-rosijskih-obstriliv-dvoe-civilnih-zaginuli-patero-poraneni.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707180-valentin-badrak-direktor-centru-doslidzen-armii-konversii-ta-rozzbroenna.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707183-na-tavrijskomu-napramku-zagarbniki-za-dobu-vtratili-majze-rotu.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707209-u-cornomu-mori-rosia-trimae-17-korabliv-sered-nih-tri-z-kalibrami.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707219-georgiivski-stricki-alkogol-ta-feerverki-u-latvii-9-travna-zatrimali-26-osib.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707227-vorog-obstrilue-herson-ludej-prosat-lisatisa-v-ukrittah.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707230-vtrati-rf-na-vijni-v-ukraini-bilsi-niz-budhto-dumae-ekskomandir-britanskogo-tankovogo-polku.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707231-zahist-neba-na-kiivsini-naev-peredav-ppo-partiu-pozaslahovikiv-dla-mobilnih-vognevih-grup.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707238-rosiani-trici-obstrilali-prikordonna-cernigivsini-i-sumsini.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707258-pid-bahmutom-rosijskij-soldat-zdavsa-u-polon-dronu.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707259-vijska-rf-obstrilali-vovcansk-zaginuv-colovik.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707284-koli-prigozin-pide-v-ataku-na-moskvu-i-ak-na-ce-vidreague-rosijske-suspilstvo.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707310-u-minoboroni-sprostuvali-rosijski-fejki-pro-likvidaciu-ukrainskih-komanduvaciv-vsi-zivi.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707316-nadanoi-ukraini-zbroi-ne-vistacit-dla-zvilnenna-krimu-i-donbasu-cogoric-ekspert.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707319-rosia-viroblae-do-150-tankiv-na-rik-ale-mae-tisaci-starih-tankiv-dla-remontu-badrak.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707322-kuleba-zaklikae-ne-vvazati-ukrainskij-kontrnastup-ostannim.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707335-u-rosii-zalisilasa-obmezena-kilkist-kindzaliv-i-kalibriv-usov.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707346-cerevatij-nazvav-fejkom-snaradnij-golod-rosian-u-bahmuti-524-obstrili-za-dobu.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707359-sojgu-gerasimov-i-prigozin-vze-viznacaut-miz-sobou-vinnih-u-porazci-gur.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707389-putin-nakazav-prizvati-zapasnikiv-na-vijskovi-zbori.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707392-minus-14-cilej-za-dva-dni-sbu-pokazala-robotu-specpriznacenciv-i-bilih-vovkiv.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707403-rosiani-za-sogodni-obstrilali-blizko-20-naselenih-punktiv-harkivsini.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707406-cehia-peredast-ukraini-dvi-sistemi-ppo-kub-iz-raketami.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707421-rosiani-obstrilali-selo-u-kahovskomu-rajoni-zaginula-zinka.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707429-vorog-zoserediv-ataki-na-cotiroh-napramkah-za-bahmut-i-marinku-vedutsa-boi.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707430-irlandski-vijskovi-vcat-ukrainskih-rozminuvannu-ta-zneskodzennu-bomb.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707434-u-bazi-nacpolicii-vze-e-ponad-200-tisac-rosian-aki-vcinali-zlocini-v-ukraini-nebitov.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707438-sirskij-pro-bahmut-na-okremih-dilankah-rosiani-vidstupili-na-distanciu-do-2-kilometriv.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707443-cerez-obstrili-v-nikopolskomu-rajoni-postrazdalo-pidpriemstvo.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707460-bitva-za-ukrainu-den-cotirista-sorok-persij.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707474-rosia-mae-usvidomiti-so-ij-ne-peremogti-v-ukraini-britania-v-obse.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707475-o-1400-opriludnenna-dokaziv-voennih-zlociniv-rf-proti-ukrainskih-ditej.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707486-rosiani-obstrilali-prikordonna-cernigivsini-nekerovanimi-aviacijnimi-raketami.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707487-vijna-v-ukraini-dedali-silnise-protistavlatime-kilkist-akosti-admiral-bauer.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707490-ukraina-napracovue-z-partnerami-novi-oboronni-paketi-zelenskij.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707495-zelenskij-vidznaciv-derzavnimi-nagorodami-266-zahisnikiv.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707498-same-v-ukraini-svit-bacitime-na-so-zdatna-evropa-prezident.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707505-vagnerivci-vse-se-utrimuut-bilsu-castinu-bahmuta-politico.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707512-kanada-ta-latvia-navcatimut-ukrainskih-oficeriv-liderskih-navicok.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707529-zagarbniki-prodovzuut-sturmuvati-bahmut-ta-marinku-zsu-vidbili-39-atak.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707541-ppo-zbila-rosijskij-dron-u-nebi-nad-dnipropetrovsinou.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707542-sili-oboroni-znisili-vze-196-920-rosijskih-zagarbnikiv.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707548-vorog-obstrilav-kasetnimi-ta-fosfornimi-snaradami-selo-poblizu-zaporizza-e-postrazdali.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707558-rosia-trimae-u-cornomu-mori-dva-raketonosii-z-16-kalibrami.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707562-rosijski-vijska-v-rajoni-bahmuta-obmezeni-u-zdatnosti-zahisatisa-vid-kontratak-zsu-isw.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707565-kilkist-postrazdalih-vid-udaru-po-selisu-nepodalik-zaporizza-zrosla-do-vosmi.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707574-u-kvitni-minoboroni-rf-zaverbuvalo-na-vijnu-v-ukraini-do-10-tisac-vazniv-rozvidka-britanii.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707578-pamati-geroa-ukraini-pilota-gennadia-matulaka.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707592-rosiani-vnoci-ta-vranci-devat-raziv-obstrilali-prikordonna-sumsini.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707597-andrij-nebitov-nacalnik-golovnogo-upravlinna-nacionalnoi-policii-v-kiivskij-oblasti.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707611-viktor-tregubov-zurnalist-politik-major-zsu.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707623-zsu-vidbili-na-tavrijskomu-napramku-22-ataki-ta-znisili-ponad-rotu-zagarbnikiv.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707632-ukraini-potribno-bilse-casu-dla-kontrnastupu-zelenskij.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707639-danilov-listom-iz-prohannam-pro-obmin-boguslaev-pidtverdiv-so-buv-rosijskim-agentom.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707644-naev-poasniv-ak-zdijsnuetsa-protipovitrana-oborona-kieva.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707650-maemo-castkovij-uspih-bahmut-zdavati-ne-zbiraemosa-danilov.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707651-zagarbniki-rozgrabuvali-usi-medicni-ustanovi-energodara-ta-pidpriemstva-navkolo-zaes-vijskovi.html,,,sitemap|v1_p0
+ukrinform,https://www.ukrinform.ua/rubric-ato/3707656-policia-kiivsini-vidkrila-majze-115-tisaci-sprav-proti-rosijskih-zlocinciv-nebitov.html,,,sitemap|v1_p0
