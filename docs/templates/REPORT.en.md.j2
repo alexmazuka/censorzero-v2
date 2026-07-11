@@ -57,14 +57,19 @@ Periods (assignment by each article's own JSON-LD publication date):
 
 {{ n_total }} in-period articles from the committed immutable snapshot:
 {{ n_ukr }} Ukrinform (news rubrics), {{ n_up }} Українська правда (news; the
-primary control — continuously White-Listed), {{ n_sus }} Суспільне (secondary,
-deterministic sample). Article bodies were captured from Web Archive snapshots
-(the origin's 2023 sitemaps have expired and the live site throttles bulk
-access); the archive is timestamped and stable, which strengthens
-reproducibility. Discovery channels, per-URL provenance, and every fetch
-failure are committed. The corpus is an ongoing seeded-random census: the
-collected set is a uniform random sample of the {{ universe_k }}k-URL universe
-at any point in time.
+primary control — continuously White-Listed), {{ n_sus }} Суспільне (browsable
+but excluded from the numeric comparison — see Limitations). Article bodies
+were captured from Web Archive snapshots (the origin's 2023 sitemaps have
+expired and the live site throttles bulk access); the archive is timestamped
+and stable, which strengthens reproducibility. Discovery raw output (recovered
+weekly sitemaps, CDX pages, day-archive HTML), per-URL provenance, and every
+fetch failure are committed. Coverage: the snapshot holds
+{{ ukr_cov_pct }}% of the {{ ukr_universe }} discovered Ukrinform URLs and
+{{ up_cov_pct }}% of УП's; the uncollected remainder is dominated by pages
+with no usable archive capture. Collection order was deterministic (sorted by
+URL), so the shortfall is not a random sample — which is why per-outlet,
+per-period coverage is published and the primary estimates are
+rubric-standardized rather than raw averages.
 
 ## 3. Instruments
 

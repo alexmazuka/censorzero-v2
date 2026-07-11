@@ -91,7 +91,9 @@ def _report_vars(figures: dict) -> dict:
         "n_ukr": f"{tot('ukrinform'):,}".replace(",", " "),
         "n_up": f"{tot('pravda'):,}".replace(",", " "),
         "n_sus": f"{tot('suspilne'):,}".replace(",", " "),
-        "universe_k": "148",
+        "ukr_universe": f"{(figures.get('universe', {}).get('ukrinform', {}).get('discovered_urls') or 0):,}".replace(",", " "),
+        "ukr_cov_pct": figures.get("universe", {}).get("ukrinform", {}).get("coverage_pct"),
+        "up_cov_pct": figures.get("universe", {}).get("pravda", {}).get("coverage_pct"),
         "n_gold": g.get("n_annotated", 0),
         "prec_pct": fmt(overall.get("precision"), 0),
         "rec_pct": fmt(overall.get("recall"), 0),
@@ -128,10 +130,10 @@ def run() -> None:
     )
     env.filters["pct"] = _pct
 
-    (REPO_ROOT / "README.md").write_text(
-        env.get_template("README.md.j2").render(fig=figures), encoding="utf-8")
-
     rvars = _report_vars(figures)
+    (REPO_ROOT / "README.md").write_text(
+        env.get_template("README.md.j2").render(fig=figures, **rvars),
+        encoding="utf-8")
     shell_meta = {
         "en": {"title": "CensorZero — full report (EN)", "back": "Back to dashboard",
                "other_href": "report_uk.html", "other_label": "Українською"},

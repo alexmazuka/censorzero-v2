@@ -19,7 +19,7 @@ List in April 2024, the publicly stated reasons were «паркетні» мат
 reinstated the agency in December 2025, it credited improved balance. We
 measure exactly those two signals across three editorial periods — before the
 author's tenure (P0), during it (P1), and the half-year before reinstatement
-(P2) — over 106 279 articles of Ukrinform and two control outlets, with
+(P2) — over 125 539 articles of Ukrinform and two control outlets, with
 two independent instruments: an open lexical classifier and blind human-protocol
 annotation of 1649 articles under a committed codebook. The automatic
 classifier proved precise (precision 83%) but insensitive (recall
@@ -55,16 +55,21 @@ Periods (assignment by each article's own JSON-LD publication date):
 
 ## 2. Data
 
-106 279 in-period articles from the committed immutable snapshot:
-73 316 Ukrinform (news rubrics), 31 910 Українська правда (news; the
-primary control — continuously White-Listed), 1 053 Суспільне (secondary,
-deterministic sample). Article bodies were captured from Web Archive snapshots
-(the origin's 2023 sitemaps have expired and the live site throttles bulk
-access); the archive is timestamped and stable, which strengthens
-reproducibility. Discovery channels, per-URL provenance, and every fetch
-failure are committed. The corpus is an ongoing seeded-random census: the
-collected set is a uniform random sample of the 148k-URL universe
-at any point in time.
+125 539 in-period articles from the committed immutable snapshot:
+91 376 Ukrinform (news rubrics), 33 110 Українська правда (news; the
+primary control — continuously White-Listed), 1 053 Суспільне (browsable
+but excluded from the numeric comparison — see Limitations). Article bodies
+were captured from Web Archive snapshots (the origin's 2023 sitemaps have
+expired and the live site throttles bulk access); the archive is timestamped
+and stable, which strengthens reproducibility. Discovery raw output (recovered
+weekly sitemaps, CDX pages, day-archive HTML), per-URL provenance, and every
+fetch failure are committed. Coverage: the snapshot holds
+92.4% of the 103 047 discovered Ukrinform URLs and
+99.7% of УП's; the uncollected remainder is dominated by pages
+with no usable archive capture. Collection order was deterministic (sorted by
+URL), so the shortfall is not a random sample — which is why per-outlet,
+per-period coverage is published and the primary estimates are
+rubric-standardized rather than raw averages.
 
 ## 3. Instruments
 

@@ -118,6 +118,47 @@ def _gate_controls(diff_in_diff: dict, gold: dict | None) -> dict:
     return out
 
 
+def _universe_block() -> dict:
+    """Discovered-URL universe vs snapshot coverage, per outlet.
+
+    Reads the committed discovery output (url_universe.csv[.gz]) and counts
+    snapshot rows from data/raw/articles — so the published coverage figure
+    is derived, never hand-typed. Suspilne's universe is the preregistered
+    12k deterministic sample (Deviations), not the full CDX enumeration."""
+    import csv as _csv
+    import gzip as _gzip
+
+    disc = REPO_ROOT / "data" / "raw" / "discovery"
+    path_gz = disc / "url_universe.csv.gz"
+    path = disc / "url_universe.csv"
+    discovered: dict[str, int] = {}
+    opener = (lambda: _gzip.open(path_gz, "rt", encoding="utf-8")) if path_gz.exists() \
+        else (lambda: open(path, encoding="utf-8"))
+    with opener() as fh:
+        for row in _csv.DictReader(fh):
+            discovered[row["outlet"]] = discovered.get(row["outlet"], 0) + 1
+
+    import pandas as _pd
+    snapshot: dict[str, int] = {}
+    for pq in sorted((REPO_ROOT / "data" / "raw" / "articles").glob("*.parquet")):
+        outlet = pq.name.split("_")[0]
+        n = len(_pd.read_parquet(pq, columns=["url"]))
+        snapshot[outlet] = snapshot.get(outlet, 0) + n
+
+    SUSPILNE_SAMPLE = 12000  # preregistered deterministic sample (Deviations)
+    out = {}
+    for outlet in sorted(set(discovered) | set(snapshot)):
+        target = SUSPILNE_SAMPLE if outlet == "suspilne" else discovered.get(outlet, 0)
+        got = snapshot.get(outlet, 0)
+        out[outlet] = {
+            "discovered_urls": discovered.get(outlet, 0),
+            "fetch_target": target,
+            "snapshot_articles": got,
+            "coverage_pct": round(100 * got / target, 1) if target else None,
+        }
+    return out
+
+
 def run() -> None:
     metrics = json.loads((PROCESSED / "metrics.json").read_text())
     counts = json.loads((INTERIM / "counts.json").read_text())
@@ -131,6 +172,7 @@ def run() -> None:
             for p in PERIODS
         ],
         "coverage": counts,
+        "universe": _universe_block(),
         "standard_weights": metrics["standard_weights"],
         "rates": metrics["rates"],
         "contrasts": metrics["contrasts"],

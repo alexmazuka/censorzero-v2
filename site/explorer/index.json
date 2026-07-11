@@ -2,10 +2,10 @@
  "by_outlet": {
   "pravda": {
    "comparable": true,
-   "n": 31910,
-   "n_balance": 1270,
+   "n": 33110,
+   "n_balance": 1328,
    "n_gold": 450,
-   "n_parket": 2081,
+   "n_parket": 2147,
    "sc_mean": 1.99
   },
   "suspilne": {
@@ -18,32 +18,32 @@
   },
   "ukrinform": {
    "comparable": true,
-   "n": 73316,
-   "n_balance": 3592,
+   "n": 91376,
+   "n_balance": 4468,
    "n_gold": 1199,
-   "n_parket": 3174,
-   "sc_mean": 2.69
+   "n_parket": 3980,
+   "sc_mean": 2.7
   }
  },
  "by_outlet_period": {
   "pravda": {
    "P0": {
-    "n": 12798,
-    "n_balance": 528,
+    "n": 13199,
+    "n_balance": 553,
     "n_gold": 150,
-    "n_parket": 818
+    "n_parket": 840
    },
    "P1": {
-    "n": 10415,
-    "n_balance": 422,
+    "n": 10854,
+    "n_balance": 442,
     "n_gold": 150,
-    "n_parket": 689
+    "n_parket": 713
    },
    "P2": {
-    "n": 8697,
-    "n_balance": 320,
+    "n": 9057,
+    "n_balance": 333,
     "n_gold": 150,
-    "n_parket": 574
+    "n_parket": 594
    }
   },
   "suspilne": {
@@ -68,22 +68,22 @@
   },
   "ukrinform": {
    "P0": {
-    "n": 25423,
-    "n_balance": 1331,
+    "n": 31628,
+    "n_balance": 1651,
     "n_gold": 401,
-    "n_parket": 963
+    "n_parket": 1202
    },
    "P1": {
-    "n": 23969,
-    "n_balance": 1071,
+    "n": 29867,
+    "n_balance": 1347,
     "n_gold": 399,
-    "n_parket": 908
+    "n_parket": 1142
    },
    "P2": {
-    "n": 23924,
-    "n_balance": 1190,
+    "n": 29881,
+    "n_balance": 1470,
     "n_gold": 399,
-    "n_parket": 1303
+    "n_parket": 1636
    }
   }
  }
