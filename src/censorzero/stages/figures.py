@@ -17,7 +17,7 @@ LIMITATIONS = {
         "Проксі-валідність: оцінка ІМІ — експертна й ручна; наша — лексична й структурна. Збіг вимірюється (Валідація), а не припускається.",
         "Тіла статей узято зі снапшотів Web Archive (стабільні, датовані), бо тижневі мапи сайту за 2023 рік уже недоступні наживо; це навіть відтворюваніше, але покриття архіву неповне — частка непокритих статей публікується.",
         "Правки після публікації невидимі, окрім поля dateModified, яке фіксується.",
-        "Контроль Суспільне — вибірка, дескриптивний; УП — денний ценз, але індексні сторінки за бот-захистом (сирі сторінки закомічено).",
+        "Суспільне ВИКЛЮЧЕНО з числового порівняння: інструмент видобування джерел не валідовано на ньому золотим стандартом, а середня кількість джерел на статтю тут утричі вища — на довгих репортажах алгоритм over-detect'ить джерела й занулює паркет/баланс (0% тут — артефакт, а не факт). Порівнюваний контроль — «Українська правда» (денний ценз; індексні сторінки за бот-захистом, сирі сторінки закомічено).",
         "Одна людина має конфлікт інтересів і писала codebook; codebook закомічено до розмітки, а LLM-розмітник не бачить періодів.",
         "Вимірюються лише два названі сигнали. Рішення ІМІ могло спиратися на те, що тут не вимірюється; відсутність сигналу не є доказом безпідставності рішення.",
     ],
@@ -25,7 +25,7 @@ LIMITATIONS = {
         "Proxy validity: IMI's assessment is expert and manual; ours is lexical and structural. Agreement is measured (Validation), not assumed.",
         "Article bodies come from Web Archive snapshots (stable, timestamped) because the site's 2023 weekly sitemaps have expired from the live web; this is if anything more reproducible, but archive coverage is incomplete — the uncovered share is published.",
         "Post-publication edits are invisible except via dateModified, which is recorded.",
-        "Control Суспільне is a sample (descriptive); УП is a day-census, but its index pages are bot-gated (raw pages committed).",
+        "Suspilne is EXCLUDED from the numeric comparison: the source extractor is not gold-validated on it and its average source count per article is three times higher — on long-form reports the extractor over-detects sources and zeroes out parket/balance (0% here is an artifact, not a fact). The comparable control is Ukrainska Pravda (day-census; index pages bot-gated, raw pages committed).",
         "One person holds the conflict of interest and wrote the codebook; the codebook is committed before annotation and the LLM annotator never sees period labels.",
         "Only two named signals are measured. IMI's decision may rest on factors not measurable here; absence of a signal is not proof the decision was unfounded.",
     ],
@@ -94,6 +94,30 @@ def _trend_interpretable(gold: dict | None) -> dict:
     }
 
 
+def _gate_controls(diff_in_diff: dict, gold: dict | None) -> dict:
+    """A control is compared only if the extraction instrument was validated
+    against the blind gold standard on it. Others (e.g. Суспільне, whose long
+    narrative format makes the extractor over-generate 'sources' and drive
+    parket/balance to a degenerate 0) are marked excluded, not silently shown
+    as 0 — repeating v1's 'control is 0 by construction' error would be worse
+    than dropping the control."""
+    validated = set((gold or {}).get("human_measurement", {}).keys())
+    out = {}
+    for ctrl, block in diff_in_diff.items():
+        if ctrl in validated:
+            out[ctrl] = block
+        else:
+            out[ctrl] = {
+                "status": "excluded_instrument_unvalidated",
+                "reason": "No blind gold-standard validation of the extractor on "
+                          "this outlet; its long-form narrative articles yield a "
+                          "much higher source count, a sign the extractor "
+                          "over-generates sources here and pushes parket/balance "
+                          "to a degenerate 0. Not compared (see limitations).",
+            }
+    return out
+
+
 def run() -> None:
     metrics = json.loads((PROCESSED / "metrics.json").read_text())
     counts = json.loads((INTERIM / "counts.json").read_text())
@@ -120,7 +144,7 @@ def run() -> None:
                          "metrics.json (not byte-gated: iterative MLE is not "
                          "bit-stable across platforms).",
         "sensitivity": metrics["sensitivity"],
-        "diff_in_diff": metrics["diff_in_diff"],
+        "diff_in_diff": _gate_controls(metrics["diff_in_diff"], gold),
         "control_coverage": metrics["control_coverage"],
         "gold_standard": gold,
         "trend_interpretable": _trend_interpretable(gold),

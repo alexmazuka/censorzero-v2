@@ -105,11 +105,21 @@ def run() -> None:
             for r in part.itertuples()
         ]
         write_json(BROWSE / f"{outlet}.json", rows)
+        n_gold = int(part["gold_label"].notna().sum())
+        sc_mean = float(part["sc"].mean()) if len(part) else 0.0
+        # An outlet is comparable on this metric only if the extraction
+        # instrument was validated against the blind gold standard on it
+        # (n_gold > 0). Suspilne has no gold set and shows a source count far
+        # above the others (see reason), a sign the extractor over-generates
+        # "sources" on its long narrative format — so its 0% parket is an
+        # instrument artifact, not an editorial fact, and is not compared.
         index["by_outlet"][outlet] = {
             "n": int(len(part)),
             "n_parket": int((part["algo"] == "parket").sum()),
             "n_balance": int((part["algo"] == "balance").sum()),
-            "n_gold": int(part["gold_label"].notna().sum()),
+            "n_gold": n_gold,
+            "sc_mean": round(sc_mean, 2),
+            "comparable": bool(n_gold > 0 or outlet == "ukrinform"),
         }
         for period, sub in part.groupby("period"):
             index["by_outlet_period"].setdefault(outlet, {})[period] = {

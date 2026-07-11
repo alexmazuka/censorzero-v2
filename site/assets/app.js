@@ -280,7 +280,7 @@ function renderArticlesPane() {
   const outletChips = $("#ex-outlet-chips"); outletChips.innerHTML = "";
   outlets.forEach(o => {
     const c = el("div", "chip" + (EX.outlet === o ? " active" : ""), o);
-    c.onclick = () => { EX.outlet = o; EX.period = "all"; EX.shown = 60; renderPeriodChips(); loadOutletThen(renderArticleList); };
+    c.onclick = () => { EX.outlet = o; EX.period = "all"; EX.status = "all"; EX.shown = 60; renderArticlesPane(); };
     outletChips.appendChild(c);
   });
   renderPeriodChips();
@@ -289,7 +289,20 @@ function renderArticlesPane() {
     ["parket", T("badge_parket"), "dot-parket"],
     ["balance", T("badge_balance"), "dot-balance"],
   ], EX.status, (v) => { EX.status = v; EX.shown = 60; renderArticleList(); });
+  renderOutletNote();
   loadOutletThen(renderArticleList);
+}
+
+function renderOutletNote() {
+  const host = $("#ex-outlet-note"); if (!host) return;
+  host.innerHTML = "";
+  const info = EXPLORER && EXPLORER.by_outlet && EXPLORER.by_outlet[EX.outlet];
+  if (info && info.comparable === false) {
+    host.appendChild(el("div", "notice", fillTokens(T("outlet_excluded"), { SC: info.sc_mean })));
+    host.style.display = "";
+  } else {
+    host.style.display = "none";
+  }
 }
 
 function renderPeriodChips() {

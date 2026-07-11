@@ -303,6 +303,21 @@ and only if §9 shows recall stability across periods.
 
 ## 11. Deviations
 
+- **2026-07-11 — Суспільне excluded from the numeric comparison.** The §6 rule
+  reserved the right to drop a control whose coverage is inadequate. On
+  inspection the extractor's precision on Суспільне's long-form narrative
+  articles is low: its mean extracted source count is ~3× the other outlets',
+  driven by false "sources" (outlet sign-offs like «Суспільне Полтава», direct-
+  speech fragments, pronouns), which pushes every article to have a non-official
+  voice and forces parket/balance to a degenerate 0. Because the instrument was
+  not gold-validated on Суспільне (the blind gold set covers Ukrinform and УП),
+  its 0% is an instrument artifact, not an editorial fact — publishing it would
+  repeat v1's "control is 0 by construction" error. Суспільне is therefore
+  excluded from the numeric comparison and difference-in-differences; its
+  articles remain browsable on the site with an explicit notice, and the
+  comparable control is Українська правда (gold-validated, n≈450). Rule made
+  explicit: a control is compared only if the extractor is gold-validated on it.
+
 - **2026-07-10 — Blind annotation scaled up as the primary between-period
   instrument.** The §9 precondition failed: the automatic proxy's recall is
   low (≈7%) and drifts across periods (0%→3%→19%, homogeneity p≈0.003), so —

@@ -121,3 +121,7 @@ footer a { color: var(--accent); margin-left: 14px; }
   .article-row { grid-template-columns: 1fr; }
   .article-row .a-badges { justify-content: flex-start; }
 }
+
+.notice { background: var(--warn-bg); border: 1px solid var(--warn-line);
+  border-radius: 10px; padding: 12px 16px; margin: 10px 0; font-size: 14px;
+  color: var(--fg); line-height: 1.5; max-width: 780px; }

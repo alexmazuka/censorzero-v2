@@ -66,6 +66,8 @@ window.I18N = {
     ph_search_articles: "Пошук за словом у заголовку…",
     ph_search_gold: "Пошук серед перевірених статей…",
     chip_all: "Усі",
+    outlet_excluded: "Суспільне виключено з числового порівняння: інструмент видобування джерел не валідовано на цьому медіа золотим стандартом, а середня кількість джерел на статтю тут ≈{SC} (утричі вища за інші) — ознака того, що на довгих репортажах алгоритм ‘бачить’ зайві джерела й штучно занулює паркет/баланс. Тому 0% тут — артефакт інструмента, а не факт про редакцію. Статті нижче показані для прозорості; порівнюваний контроль — «Українська правда».",
+
     badge_parket: "паркет (алгоритм)",
     badge_balance: "лише офіційні голоси",
     badge_none: "звичайна стаття",
@@ -142,6 +144,8 @@ window.I18N = {
     ph_search_articles: "Search by a word in the title…",
     ph_search_gold: "Search the checked articles…",
     chip_all: "All",
+    outlet_excluded: "Suspilne is excluded from the numeric comparison: the source-extraction instrument was not gold-validated on this outlet, and its average source count per article here is ≈{SC} (three times the others) — a sign the extractor over-detects sources on long-form reports and drives parket/balance to a spurious zero. So 0% here is an instrument artifact, not an editorial fact. Articles are shown below for transparency; the comparable control is Ukrainska Pravda.",
+
     badge_parket: "parket (algorithm)",
     badge_balance: "official voices only",
     badge_none: "ordinary article",
