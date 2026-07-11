@@ -19,18 +19,18 @@ List in April 2024, the publicly stated reasons were «паркетні» мат
 reinstated the agency in December 2025, it credited improved balance. We
 measure exactly those two signals across three editorial periods — before the
 author's tenure (P0), during it (P1), and the half-year before reinstatement
-(P2) — over 26 397 articles of Ukrinform and two control outlets, with
+(P2) — over 106 279 articles of Ukrinform and two control outlets, with
 two independent instruments: an open lexical classifier and blind human-protocol
-annotation of 868 articles under a committed codebook. The automatic
-classifier proved precise (precision 89%) but insensitive (recall
-8%), and its recall varies by period — so, under a stop-rule fixed
+annotation of 1649 articles under a committed codebook. The automatic
+classifier proved precise (precision 83%) but insensitive (recall
+6%), and its recall varies by period — so, under a stop-rule fixed
 in the preregistration, its between-period trend is not interpreted. The blind
 measurement, which does not depend on extraction recall, finds the parket share
 statistically indistinguishable across all three periods:
-41.8% → 40.1% → 37.4% (homogeneity p = 0.705).
+42.1% → 41.2% → 38.5% (homogeneity p = 0.629).
 Within the signals ІМІ named publicly, the data do not show the deterioration-
 then-improvement pattern its decisions imply. Smaller changes than our minimum
-detectable difference (≈14 p.p.) cannot be ruled out, and ІМІ's
+detectable difference (≈11 p.p.) cannot be ruled out, and ІМІ's
 judgment may have rested on factors not measured here.
 
 ## 1. Background: the decisions under study
@@ -55,8 +55,8 @@ Periods (assignment by each article's own JSON-LD publication date):
 
 ## 2. Data
 
-26 397 in-period articles from the committed immutable snapshot:
-14 986 Ukrinform (news rubrics), 10 358 Українська правда (news; the
+106 279 in-period articles from the committed immutable snapshot:
+73 316 Ukrinform (news rubrics), 31 910 Українська правда (news; the
 primary control — continuously White-Listed), 1 053 Суспільне (secondary,
 deterministic sample). Article bodies were captured from Web Archive snapshots
 (the origin's 2023 sitemaps have expired and the live site throttles bulk
@@ -74,20 +74,20 @@ officials; foreign bodies flagged and excluded), attribution-pattern source
 extraction, and the preregistered definition — *parket* = official framing +
 exactly one source + that source a Ukrainian official + no non-official voice.
 
-**Blind annotation.** 868 articles labeled under the committed
+**Blind annotation.** 1649 articles labeled under the committed
 codebook (`data/gold/CODEBOOK.md`) by annotators shown only title and body —
 no date, period, or outlet. Inter-annotator reliability on an independent
-150-article re-annotation: agreement n/a%, Cohen's κ =
-n/a.
+150-article re-annotation: agreement 93%, Cohen's κ =
+0.86.
 ## 4. Results
 
 ### 4.1 The automatic proxy disqualified itself for trend reading
 
 Against the blind labels the classifier shows precision
-89% and recall 8% — it almost never false-alarms but
+83% and recall 6% — it almost never false-alarms but
 misses most parket. Critically, its recall differs by period
-(5/81 → 5/71 → 6/61 hits of human-labeled parket;
-homogeneity p = 0.7026). The preregistration (§9) committed us, in that
+(6/133 → 9/133 → 9/120 hits of human-labeled parket;
+homogeneity p = 0.5853). The preregistration (§9) committed us, in that
 event, to **withhold between-period conclusions from the automatic metric** —
 we do. (Its rubric-standardized rates are published on the site for
 completeness, flagged as non-interpretable.)
@@ -99,21 +99,21 @@ Direct blind annotation, which does not depend on extraction at all
 
 | Period | Parket share (blind annotation) | 95% CI | n |
 |---|---|---|---|
-| P0 | 41.8% | [35.0%, 48.8%] | 194 |
-| P1 | 40.1% | [33.2%, 47.5%] | 177 |
-| P2 | 37.4% | [30.4%, 45.1%] | 163 |
+| P0 | 42.1% | [36.8%, 47.6%] | 316 |
+| P1 | 41.2% | [35.9%, 46.6%] | 323 |
+| P2 | 38.5% | [33.2%, 44.0%] | 312 |
 
-Homogeneity across periods: χ² p = 0.705. Pairwise (Holm-adjusted):
-- P0-P1: Δ = 1.6 p.p., Cohen's h = 0.033 [-0.170, 0.237], p(Holm) = 1.000
-- P1-P2: Δ = 2.7 p.p., Cohen's h = 0.055 [-0.158, 0.268], p(Holm) = 1.000
-- P0-P2: Δ = 4.3 p.p., Cohen's h = 0.089 [-0.120, 0.297], p(Holm) = 1.000
+Homogeneity across periods: χ² p = 0.629. Pairwise (Holm-adjusted):
+- P0-P1: Δ = 0.9 p.p., Cohen's h = 0.019 [-0.137, 0.174], p(Holm) = 1.000
+- P1-P2: Δ = 2.7 p.p., Cohen's h = 0.055 [-0.100, 0.211], p(Holm) = 1.000
+- P0-P2: Δ = 3.6 p.p., Cohen's h = 0.074 [-0.082, 0.230], p(Holm) = 1.000
 
 The share of single-source official-record items is statistically flat: P1 —
 the period after which Ukrinform was excluded — is **not** higher than P0
 (before) and **not** higher than P2 (the period credited with improvement).
 
-Control (Українська правда, same instrument, blind): 19.6% →
-17.9% → 25.0% across the same periods.
+Control (Українська правда, same instrument, blind): 17.8% →
+15.4% → 16.3% across the same periods.
 
 ### 4.3 What this does and does not mean
 
@@ -123,7 +123,7 @@ no visible improvement by P2. The pattern implied by the exclusion-and-return
 sequence does not appear in the data.
 
 **It does not mean ІМІ acted in bad faith.** Our minimum detectable difference
-is ≈14 p.p.; smaller shifts would be invisible. ІМІ's expert
+is ≈11 p.p.; smaller shifts would be invisible. ІМІ's expert
 assessment may weigh aspects no lexical or protocol instrument captures. The
 honest formulation: *ІМІ has not shown, and we could not find.* The open
 question this study poses to ІМІ is specific: **what exactly changed between

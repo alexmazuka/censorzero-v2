@@ -2,71 +2,71 @@
  "conflict_of_interest": "The author of this study led Ukrinform during period P1. See PREREGISTRATION.md section 1. Reproducibility, not the author's word, is the evidence: every number here is regenerated from the committed raw snapshot and checked bit-for-bit in CI.",
  "contrasts": {
   "balance:P0-P1": {
-   "cohen_h": 0.020958,
-   "diff": 0.006042,
-   "h_ci_high": 0.075166,
-   "h_ci_low": -0.032058,
-   "p_holm": 0.8736,
-   "p_raw": 0.4438,
-   "rate_a": 0.09452,
-   "rate_b": 0.088478
+   "cohen_h": 0.027496,
+   "diff": 0.007746,
+   "h_ci_high": 0.051756,
+   "h_ci_low": 0.004295,
+   "p_holm": 0.0464,
+   "p_raw": 0.0232,
+   "rate_a": 0.090835,
+   "rate_b": 0.083089
   },
   "balance:P0-P2": {
-   "cohen_h": -0.076617,
-   "diff": -0.023582,
-   "h_ci_high": -0.025862,
-   "h_ci_low": -0.128645,
-   "p_holm": 0.0128,
-   "p_raw": 0.0032,
-   "rate_a": 0.09452,
-   "rate_b": 0.118102
+   "cohen_h": -0.064988,
+   "diff": -0.019527,
+   "h_ci_high": -0.042246,
+   "h_ci_low": -0.087588,
+   "p_holm": 0.0,
+   "p_raw": 0.0,
+   "rate_a": 0.090835,
+   "rate_b": 0.110362
   },
   "balance:P1-P2": {
-   "cohen_h": -0.097575,
-   "diff": -0.029624,
-   "h_ci_high": -0.045009,
-   "h_ci_low": -0.149738,
-   "p_holm": 0.0012,
-   "p_raw": 0.0002,
-   "rate_a": 0.088478,
-   "rate_b": 0.118102
+   "cohen_h": -0.092484,
+   "diff": -0.027273,
+   "h_ci_high": -0.068925,
+   "h_ci_low": -0.115276,
+   "p_holm": 0.0,
+   "p_raw": 0.0,
+   "rate_a": 0.083089,
+   "rate_b": 0.110362
   },
   "parket:P0-P1": {
-   "cohen_h": 0.021723,
-   "diff": 0.004488,
-   "h_ci_high": 0.077253,
-   "h_ci_low": -0.034051,
-   "p_holm": 0.8736,
-   "p_raw": 0.4368,
-   "rate_a": 0.046962,
-   "rate_b": 0.042474
+   "cohen_h": 0.003604,
+   "diff": 0.000731,
+   "h_ci_high": 0.027954,
+   "h_ci_low": -0.020058,
+   "p_holm": 0.7676,
+   "p_raw": 0.7676,
+   "rate_a": 0.043373,
+   "rate_b": 0.042642
   },
   "parket:P0-P2": {
-   "cohen_h": -0.073339,
-   "diff": -0.016719,
-   "h_ci_high": -0.021119,
-   "h_ci_low": -0.124869,
-   "p_holm": 0.0192,
-   "p_raw": 0.0064,
-   "rate_a": 0.046962,
-   "rate_b": 0.063682
+   "cohen_h": -0.06967,
+   "diff": -0.015288,
+   "h_ci_high": -0.04702,
+   "h_ci_low": -0.092656,
+   "p_holm": 0.0,
+   "p_raw": 0.0,
+   "rate_a": 0.043373,
+   "rate_b": 0.058661
   },
   "parket:P1-P2": {
-   "cohen_h": -0.095062,
-   "diff": -0.021208,
-   "h_ci_high": -0.043142,
-   "h_ci_low": -0.146824,
-   "p_holm": 0.0012,
-   "p_raw": 0.0002,
-   "rate_a": 0.042474,
-   "rate_b": 0.063682
+   "cohen_h": -0.073274,
+   "diff": -0.016019,
+   "h_ci_high": -0.050005,
+   "h_ci_low": -0.096457,
+   "p_holm": 0.0,
+   "p_raw": 0.0,
+   "rate_a": 0.042642,
+   "rate_b": 0.058661
   }
  },
  "control_coverage": {
   "pravda": {
-   "P0": 5576,
-   "P1": 2603,
-   "P2": 2179
+   "P0": 12798,
+   "P1": 10415,
+   "P2": 8697
   },
   "suspilne": {
    "P0": 315,
@@ -77,9 +77,9 @@
  "coverage": {
   "by_outlet_period": {
    "pravda": {
-    "P0": 5576,
-    "P1": 2603,
-    "P2": 2179
+    "P0": 12798,
+    "P1": 10415,
+    "P2": 8697
    },
    "suspilne": {
     "P0": 315,
@@ -87,42 +87,42 @@
     "P2": 414
    },
    "ukrinform": {
-    "P0": 5441,
-    "P1": 4779,
-    "P2": 4766
+    "P0": 25423,
+    "P1": 23969,
+    "P2": 23924
    }
   },
-  "dropped_out_of_period": 1579,
-  "raw_rows": 27976
+  "dropped_out_of_period": 4018,
+  "raw_rows": 110297
  },
  "diff_in_diff": {
   "pravda": {
    "balance": {
     "control": {
-     "P0": 0.108142,
-     "P1": 0.104879,
-     "P2": 0.094539
+     "P0": 0.105173,
+     "P1": 0.106673,
+     "P2": 0.102794
     },
-    "did_P0_P1": -0.003813,
-    "did_P1_P2": 0.046609,
+    "did_P0_P1": -0.010624,
+    "did_P1_P2": 0.036066,
     "ukrinform": {
-     "P0": 0.093328,
-     "P1": 0.086252,
-     "P2": 0.122521
+     "P0": 0.0904,
+     "P1": 0.081276,
+     "P2": 0.113463
     }
    },
    "parket": {
     "control": {
-     "P0": 0.064562,
-     "P1": 0.063773,
-     "P2": 0.058284
+     "P0": 0.063916,
+     "P1": 0.066155,
+     "P2": 0.066
     },
-    "did_P0_P1": -0.004048,
-    "did_P1_P2": 0.030973,
+    "did_P0_P1": -0.00377,
+    "did_P1_P2": 0.018991,
     "ukrinform": {
-     "P0": 0.045893,
-     "P1": 0.041055,
-     "P2": 0.066539
+     "P0": 0.043073,
+     "P1": 0.041541,
+     "P2": 0.060377
     }
    },
    "status": "descriptive"
@@ -134,12 +134,12 @@
      "P1": 0.0,
      "P2": 0.0
     },
-    "did_P0_P1": -0.007076,
-    "did_P1_P2": 0.036268,
+    "did_P0_P1": -0.009124,
+    "did_P1_P2": 0.032187,
     "ukrinform": {
-     "P0": 0.093328,
-     "P1": 0.086252,
-     "P2": 0.122521
+     "P0": 0.0904,
+     "P1": 0.081276,
+     "P2": 0.113463
     }
    },
    "parket": {
@@ -148,12 +148,12 @@
      "P1": 0.0,
      "P2": 0.0
     },
-    "did_P0_P1": -0.004838,
-    "did_P1_P2": 0.025484,
+    "did_P0_P1": -0.001531,
+    "did_P1_P2": 0.018836,
     "ukrinform": {
-     "P0": 0.045893,
-     "P1": 0.041055,
-     "P2": 0.066539
+     "P0": 0.043073,
+     "P1": 0.041541,
+     "P2": 0.060377
     }
    },
    "status": "descriptive"
@@ -162,192 +162,194 @@
  "gold_standard": {
   "by_period": {
    "P0": {
-    "f1": 0.114943,
-    "fn": 76,
+    "f1": 0.085714,
+    "fn": 127,
     "fp": 1,
-    "n": 194,
-    "precision": 0.833333,
-    "recall": 0.061728,
-    "tn": 112,
-    "tp": 5
+    "n": 316,
+    "precision": 0.857143,
+    "recall": 0.045113,
+    "tn": 182,
+    "tp": 6
    },
    "P1": {
-    "f1": 0.12987,
-    "fn": 66,
-    "fp": 1,
-    "n": 177,
-    "precision": 0.833333,
-    "recall": 0.070423,
-    "tn": 105,
-    "tp": 5
+    "f1": 0.125,
+    "fn": 124,
+    "fp": 2,
+    "n": 323,
+    "precision": 0.818182,
+    "recall": 0.067669,
+    "tn": 188,
+    "tp": 9
    },
    "P2": {
-    "f1": 0.179104,
-    "fn": 55,
-    "fp": 0,
-    "n": 163,
-    "precision": 1.0,
-    "recall": 0.098361,
-    "tn": 102,
-    "tp": 6
+    "f1": 0.137405,
+    "fn": 111,
+    "fp": 2,
+    "n": 312,
+    "precision": 0.818182,
+    "recall": 0.075,
+    "tn": 190,
+    "tp": 9
    }
   },
   "human_measurement": {
    "pravda": {
     "homogeneity": {
-     "chi2": 0.624831,
-     "p_value": 0.731678
+     "chi2": 0.23796,
+     "p_value": 0.887826
     },
-    "min_detectable_diff_pp": 22.885032,
+    "min_detectable_diff_pp": 14.034941,
     "pairwise": {
      "P0-P1": {
-      "diff": 0.016941,
-      "h": 0.043374,
-      "h_ci_high": 0.452148,
-      "h_ci_low": -0.3654,
+      "diff": 0.02412,
+      "h": 0.064878,
+      "h_ci_high": 0.328491,
+      "h_ci_low": -0.198735,
       "p_holm": 1.0,
-      "p_raw": 0.835792
+      "p_raw": 0.630376
      },
      "P0-P2": {
-      "diff": -0.053571,
-      "h": -0.128861,
-      "h_ci_high": 0.289833,
-      "h_ci_low": -0.547555,
+      "diff": 0.014505,
+      "h": 0.038557,
+      "h_ci_high": 0.30217,
+      "h_ci_low": -0.225056,
       "p_holm": 1.0,
-      "p_raw": 0.543199
+      "p_raw": 0.77464
      },
      "P1-P2": {
-      "diff": -0.070513,
-      "h": -0.172235,
-      "h_ci_high": 0.280762,
-      "h_ci_low": -0.625232,
+      "diff": -0.009615,
+      "h": -0.026321,
+      "h_ci_high": 0.245477,
+      "h_ci_low": -0.298119,
       "p_holm": 1.0,
-      "p_raw": 0.456438
+      "p_raw": 0.84948
      }
     },
     "per_period": {
      "P0": {
-      "ci_high": 0.318446,
-      "ci_low": 0.113386,
-      "k": 11,
-      "n": 56,
-      "rate": 0.196429
+      "ci_high": 0.256789,
+      "ci_low": 0.11945,
+      "k": 21,
+      "n": 118,
+      "rate": 0.177966
      },
      "P1": {
-      "ci_high": 0.32668,
-      "ci_low": 0.089773,
-      "k": 7,
-      "n": 39,
-      "rate": 0.179487
+      "ci_high": 0.23538,
+      "ci_low": 0.096973,
+      "k": 16,
+      "n": 104,
+      "rate": 0.153846
      },
      "P2": {
-      "ci_high": 0.410705,
-      "ci_low": 0.137505,
-      "k": 9,
-      "n": 36,
-      "rate": 0.25
+      "ci_high": 0.246264,
+      "ci_low": 0.104635,
+      "k": 17,
+      "n": 104,
+      "rate": 0.163462
      }
     }
    },
    "ukrinform": {
     "homogeneity": {
-     "chi2": 0.697992,
-     "p_value": 0.705396
+     "chi2": 0.926522,
+     "p_value": 0.629228
     },
-    "min_detectable_diff_pp": 14.312893,
+    "min_detectable_diff_pp": 10.92089,
     "pairwise": {
      "P0-P1": {
-      "diff": 0.016396,
-      "h": 0.033346,
-      "h_ci_high": 0.237073,
-      "h_ci_low": -0.17038,
+      "diff": 0.009121,
+      "h": 0.018504,
+      "h_ci_high": 0.173583,
+      "h_ci_low": -0.136575,
       "p_holm": 1.0,
-      "p_raw": 0.748401
+      "p_raw": 0.815092
      },
      "P0-P2": {
-      "diff": 0.043293,
-      "h": 0.088559,
-      "h_ci_high": 0.29681,
-      "h_ci_low": -0.119692,
+      "diff": 0.036271,
+      "h": 0.073973,
+      "h_ci_high": 0.230398,
+      "h_ci_low": -0.082453,
       "p_holm": 1.0,
-      "p_raw": 0.405132
+      "p_raw": 0.354147
      },
      "P1-P2": {
-      "diff": 0.026897,
-      "h": 0.055213,
-      "h_ci_high": 0.267981,
-      "h_ci_low": -0.157556,
+      "diff": 0.027149,
+      "h": 0.055469,
+      "h_ci_high": 0.21105,
+      "h_ci_low": -0.100112,
       "p_holm": 1.0,
-      "p_raw": 0.611176
+      "p_raw": 0.484798
      }
     },
     "per_period": {
      "P0": {
-      "ci_high": 0.487864,
-      "ci_low": 0.350391,
-      "k": 81,
-      "n": 194,
-      "rate": 0.417526
+      "ci_high": 0.475951,
+      "ci_low": 0.367722,
+      "k": 133,
+      "n": 316,
+      "rate": 0.420886
      },
      "P1": {
-      "ci_high": 0.474696,
-      "ci_low": 0.331765,
-      "k": 71,
-      "n": 177,
-      "rate": 0.40113
+      "ci_high": 0.466167,
+      "ci_low": 0.359436,
+      "k": 133,
+      "n": 323,
+      "rate": 0.411765
      },
      "P2": {
-      "ci_high": 0.450616,
-      "ci_low": 0.303642,
-      "k": 61,
-      "n": 163,
-      "rate": 0.374233
+      "ci_high": 0.439691,
+      "ci_low": 0.332347,
+      "k": 120,
+      "n": 312,
+      "rate": 0.384615
      }
     }
    }
   },
-  "n_annotated": 868,
+  "n_annotated": 1649,
   "n_annotated_by_outlet": {
-   "pravda": 192,
-   "ukrinform": 676
+   "pravda": 450,
+   "ukrinform": 1199
   },
-  "n_military_bulletin": 203,
-  "n_uncertain": 7,
+  "n_military_bulletin": 372,
+  "n_uncertain": 24,
   "overall": {
-   "f1": 0.138528,
-   "fn": 197,
-   "fp": 2,
-   "n": 534,
-   "precision": 0.888889,
-   "recall": 0.075117,
-   "tn": 319,
-   "tp": 16
+   "f1": 0.115663,
+   "fn": 362,
+   "fp": 5,
+   "n": 951,
+   "precision": 0.827586,
+   "recall": 0.062176,
+   "tn": 560,
+   "tp": 24
   },
   "recall_drift": {
-   "chi2": 0.705877,
+   "chi2": 1.071359,
    "confounded": false,
-   "p_value": 0.70262,
+   "p_value": 0.585271,
    "per_period": {
     "P0": {
-     "hit": 5,
-     "miss": 76
+     "hit": 6,
+     "miss": 127
     },
     "P1": {
-     "hit": 5,
-     "miss": 66
+     "hit": 9,
+     "miss": 124
     },
     "P2": {
-     "hit": 6,
-     "miss": 55
+     "hit": 9,
+     "miss": 111
     }
    },
-   "recall_spread_pp": 3.663226
+   "recall_spread_pp": 2.988722
   },
   "reliability": {
-   "n_overlap": 0
+   "agreement": 0.933333,
+   "kappa": 0.856487,
+   "n_overlap": 150
   },
   "sc0_breakdown": {
-   "gold_parket_with_sc0": 10,
+   "gold_parket_with_sc0": 19,
    "note": "articles a human calls parket but the extractor found 0 sources (extraction misses); parket by definition requires sc==1, so these are recall losses, not false positives."
   }
  },
@@ -401,42 +403,42 @@
  "rates": {
   "balance": {
    "P0": {
-    "crude": 0.093328,
-    "n": 2593,
-    "n_flagged": 242,
-    "standardized": 0.09452
+    "crude": 0.0904,
+    "n": 13396,
+    "n_flagged": 1211,
+    "standardized": 0.090835
    },
    "P1": {
-    "crude": 0.086252,
-    "n": 2655,
-    "n_flagged": 229,
-    "standardized": 0.088478
+    "crude": 0.081276,
+    "n": 13288,
+    "n_flagged": 1080,
+    "standardized": 0.083089
    },
    "P2": {
-    "crude": 0.122521,
-    "n": 3126,
-    "n_flagged": 383,
-    "standardized": 0.118102
+    "crude": 0.113463,
+    "n": 15635,
+    "n_flagged": 1774,
+    "standardized": 0.110362
    }
   },
   "parket": {
    "P0": {
-    "crude": 0.045893,
-    "n": 2593,
-    "n_flagged": 119,
-    "standardized": 0.046962
+    "crude": 0.043073,
+    "n": 13396,
+    "n_flagged": 577,
+    "standardized": 0.043373
    },
    "P1": {
-    "crude": 0.041055,
-    "n": 2655,
-    "n_flagged": 109,
-    "standardized": 0.042474
+    "crude": 0.041541,
+    "n": 13288,
+    "n_flagged": 552,
+    "standardized": 0.042642
    },
    "P2": {
-    "crude": 0.066539,
-    "n": 3126,
-    "n_flagged": 208,
-    "standardized": 0.063682
+    "crude": 0.060377,
+    "n": 15635,
+    "n_flagged": 944,
+    "standardized": 0.058661
    }
   }
  },
@@ -444,980 +446,980 @@
   "sc1_focus0_atoexcluded_plus_world_crude": {
    "balance": {
     "P0": {
-     "n": 3546,
-     "rate": 0.078116
+     "n": 18169,
+     "rate": 0.076229
     },
     "P1": {
-     "n": 3641,
-     "rate": 0.072782
+     "n": 18172,
+     "rate": 0.068347
     },
     "P2": {
-     "n": 4121,
-     "rate": 0.100946
+     "n": 20705,
+     "rate": 0.095388
     }
    },
    "parket": {
     "P0": {
-     "n": 3546,
-     "rate": 0.038353
+     "n": 18169,
+     "rate": 0.036601
     },
     "P1": {
-     "n": 3641,
-     "rate": 0.035704
+     "n": 18172,
+     "rate": 0.034944
     },
     "P2": {
-     "n": 4121,
-     "rate": 0.053385
+     "n": 20705,
+     "rate": 0.049746
     }
    }
   },
   "sc1_focus0_atoexcluded_plus_world_direct": {
    "balance": {
     "P0": {
-     "n": 3546,
-     "rate": 0.079325
+     "n": 18169,
+     "rate": 0.076725
     },
     "P1": {
-     "n": 3641,
-     "rate": 0.075411
+     "n": 18172,
+     "rate": 0.070409
     },
     "P2": {
-     "n": 4121,
-     "rate": 0.095238
+     "n": 20705,
+     "rate": 0.09151
     }
    },
    "parket": {
     "P0": {
-     "n": 3546,
-     "rate": 0.039311
+     "n": 18169,
+     "rate": 0.036909
     },
     "P1": {
-     "n": 3641,
-     "rate": 0.037146
+     "n": 18172,
+     "rate": 0.036052
     },
     "P2": {
-     "n": 4121,
-     "rate": 0.049888
+     "n": 20705,
+     "rate": 0.047587
     }
    }
   },
   "sc1_focus0_atoexcluded_primary7_crude": {
    "balance": {
     "P0": {
-     "n": 2593,
-     "rate": 0.100656
+     "n": 13396,
+     "rate": 0.096223
     },
     "P1": {
-     "n": 2655,
-     "rate": 0.092279
+     "n": 13288,
+     "rate": 0.086243
     },
     "P2": {
-     "n": 3126,
-     "rate": 0.128919
+     "n": 15635,
+     "rate": 0.120115
     }
    },
    "parket": {
     "P0": {
-     "n": 2593,
-     "rate": 0.049749
+     "n": 13396,
+     "rate": 0.045461
     },
     "P1": {
-     "n": 2655,
-     "rate": 0.044068
+     "n": 13288,
+     "rate": 0.043648
     },
     "P2": {
-     "n": 3126,
-     "rate": 0.069418
+     "n": 15635,
+     "rate": 0.063703
     }
    }
   },
   "sc1_focus0_atoexcluded_primary7_direct": {
    "balance": {
     "P0": {
-     "n": 2593,
-     "rate": 0.101423
+     "n": 13396,
+     "rate": 0.096426
     },
     "P1": {
-     "n": 2655,
-     "rate": 0.094726
+     "n": 13288,
+     "rate": 0.088071
     },
     "P2": {
-     "n": 3126,
-     "rate": 0.124276
+     "n": 15635,
+     "rate": 0.116698
     }
    },
    "parket": {
     "P0": {
-     "n": 2593,
-     "rate": 0.050607
+     "n": 13396,
+     "rate": 0.04567
     },
     "P1": {
-     "n": 2655,
-     "rate": 0.045541
+     "n": 13288,
+     "rate": 0.044679
     },
     "P2": {
-     "n": 3126,
-     "rate": 0.066452
+     "n": 15635,
+     "rate": 0.061814
     }
    }
   },
   "sc1_focus0_atoincluded_plus_world_crude": {
    "balance": {
     "P0": {
-     "n": 5441,
-     "rate": 0.09796
+     "n": 25423,
+     "rate": 0.096133
     },
     "P1": {
-     "n": 4779,
-     "rate": 0.094162
+     "n": 23969,
+     "rate": 0.087613
     },
     "P2": {
-     "n": 4766,
-     "rate": 0.119387
+     "n": 23924,
+     "rate": 0.111185
     }
    },
    "parket": {
     "P0": {
-     "n": 5441,
-     "rate": 0.040434
+     "n": 25423,
+     "rate": 0.040672
     },
     "P1": {
-     "n": 4779,
-     "rate": 0.041013
+     "n": 23969,
+     "rate": 0.040385
     },
     "P2": {
-     "n": 4766,
-     "rate": 0.063785
+     "n": 23924,
+     "rate": 0.057474
     }
    }
   },
   "sc1_focus0_atoincluded_plus_world_direct": {
    "balance": {
     "P0": {
-     "n": 5441,
-     "rate": 0.093077
+     "n": 25423,
+     "rate": 0.092095
     },
     "P1": {
-     "n": 4779,
-     "rate": 0.096802
+     "n": 23969,
+     "rate": 0.08763
     },
     "P2": {
-     "n": 4766,
-     "rate": 0.130248
+     "n": 23924,
+     "rate": 0.118426
     }
    },
    "parket": {
     "P0": {
-     "n": 5441,
-     "rate": 0.040548
+     "n": 25423,
+     "rate": 0.040007
     },
     "P1": {
-     "n": 4779,
-     "rate": 0.042263
+     "n": 23969,
+     "rate": 0.040799
     },
     "P2": {
-     "n": 4766,
-     "rate": 0.069701
+     "n": 23924,
+     "rate": 0.060811
     }
    }
   },
   "sc1_focus0_atoincluded_primary7_crude": {
    "balance": {
     "P0": {
-     "n": 4488,
-     "rate": 0.115196
+     "n": 20650,
+     "rate": 0.113705
     },
     "P1": {
-     "n": 3793,
-     "rate": 0.113367
+     "n": 19085,
+     "rate": 0.105004
     },
     "P2": {
-     "n": 3771,
-     "rate": 0.147441
+     "n": 18854,
+     "rate": 0.135939
     }
    },
    "parket": {
     "P0": {
-     "n": 4488,
-     "rate": 0.04746
+     "n": 20650,
+     "rate": 0.047361
     },
     "P1": {
-     "n": 3793,
-     "rate": 0.048247
+     "n": 19085,
+     "rate": 0.047839
     },
     "P2": {
-     "n": 3771,
-     "rate": 0.07982
+     "n": 18854,
+     "rate": 0.071125
     }
    }
   },
   "sc1_focus0_atoincluded_primary7_direct": {
    "balance": {
     "P0": {
-     "n": 4488,
-     "rate": 0.111759
+     "n": 20650,
+     "rate": 0.110189
     },
     "P1": {
-     "n": 3793,
-     "rate": 0.11543
+     "n": 19085,
+     "rate": 0.104716
     },
     "P2": {
-     "n": 3771,
-     "rate": 0.158945
+     "n": 18854,
+     "rate": 0.143385
     }
    },
    "parket": {
     "P0": {
-     "n": 4488,
-     "rate": 0.048679
+     "n": 20650,
+     "rate": 0.047114
     },
     "P1": {
-     "n": 3793,
-     "rate": 0.049342
+     "n": 19085,
+     "rate": 0.048223
     },
     "P2": {
-     "n": 3771,
-     "rate": 0.086032
+     "n": 18854,
+     "rate": 0.074411
     }
    }
   },
   "sc1_focus1_atoexcluded_plus_world_crude": {
    "balance": {
     "P0": {
-     "n": 3546,
-     "rate": 0.071066
+     "n": 18169,
+     "rate": 0.069789
     },
     "P1": {
-     "n": 3641,
-     "rate": 0.067015
+     "n": 18172,
+     "rate": 0.063064
     },
     "P2": {
-     "n": 4121,
-     "rate": 0.09488
+     "n": 20705,
+     "rate": 0.088529
     }
    },
    "parket": {
     "P0": {
-     "n": 3546,
-     "rate": 0.034405
+     "n": 18169,
+     "rate": 0.033519
     },
     "P1": {
-     "n": 3641,
-     "rate": 0.032409
+     "n": 18172,
+     "rate": 0.032302
     },
     "P2": {
-     "n": 4121,
-     "rate": 0.050959
+     "n": 20705,
+     "rate": 0.046704
     }
    }
   },
   "sc1_focus1_atoexcluded_plus_world_direct": {
    "balance": {
     "P0": {
-     "n": 3546,
-     "rate": 0.072581
+     "n": 18169,
+     "rate": 0.070468
     },
     "P1": {
-     "n": 3641,
-     "rate": 0.069469
+     "n": 18172,
+     "rate": 0.065128
     },
     "P2": {
-     "n": 4121,
-     "rate": 0.089365
+     "n": 20705,
+     "rate": 0.084875
     }
    },
    "parket": {
     "P0": {
-     "n": 3546,
-     "rate": 0.035522
+     "n": 18169,
+     "rate": 0.033907
     },
     "P1": {
-     "n": 3641,
-     "rate": 0.033822
+     "n": 18172,
+     "rate": 0.033484
     },
     "P2": {
-     "n": 4121,
-     "rate": 0.047579
+     "n": 20705,
+     "rate": 0.044688
     }
    }
   },
   "sc1_focus1_atoexcluded_primary7_crude": {
    "balance": {
     "P0": {
-     "n": 2593,
-     "rate": 0.093328
+     "n": 13396,
+     "rate": 0.0904
     },
     "P1": {
-     "n": 2655,
-     "rate": 0.086252
+     "n": 13288,
+     "rate": 0.081276
     },
     "P2": {
-     "n": 3126,
-     "rate": 0.122521
+     "n": 15635,
+     "rate": 0.113463
     }
    },
    "parket": {
     "P0": {
-     "n": 2593,
-     "rate": 0.045893
+     "n": 13396,
+     "rate": 0.043073
     },
     "P1": {
-     "n": 2655,
-     "rate": 0.041055
+     "n": 13288,
+     "rate": 0.041541
     },
     "P2": {
-     "n": 3126,
-     "rate": 0.066539
+     "n": 15635,
+     "rate": 0.060377
     }
    }
   },
   "sc1_focus1_atoexcluded_primary7_direct": {
    "balance": {
     "P0": {
-     "n": 2593,
-     "rate": 0.09452
+     "n": 13396,
+     "rate": 0.090835
     },
     "P1": {
-     "n": 2655,
-     "rate": 0.088478
+     "n": 13288,
+     "rate": 0.083089
     },
     "P2": {
-     "n": 3126,
-     "rate": 0.118102
+     "n": 15635,
+     "rate": 0.110362
     }
    },
    "parket": {
     "P0": {
-     "n": 2593,
-     "rate": 0.046962
+     "n": 13396,
+     "rate": 0.043373
     },
     "P1": {
-     "n": 2655,
-     "rate": 0.042474
+     "n": 13288,
+     "rate": 0.042642
     },
     "P2": {
-     "n": 3126,
-     "rate": 0.063682
+     "n": 15635,
+     "rate": 0.058661
     }
    }
   },
   "sc1_focus1_atoincluded_plus_world_crude": {
    "balance": {
     "P0": {
-     "n": 5441,
-     "rate": 0.092262
+     "n": 25423,
+     "rate": 0.090233
     },
     "P1": {
-     "n": 4779,
-     "rate": 0.088303
+     "n": 23969,
+     "rate": 0.082565
     },
     "P2": {
-     "n": 4766,
-     "rate": 0.113093
+     "n": 23924,
+     "rate": 0.104205
     }
    },
    "parket": {
     "P0": {
-     "n": 5441,
-     "rate": 0.037677
+     "n": 25423,
+     "rate": 0.037879
     },
     "P1": {
-     "n": 4779,
-     "rate": 0.037874
+     "n": 23969,
+     "rate": 0.037882
     },
     "P2": {
-     "n": 4766,
-     "rate": 0.061057
+     "n": 23924,
+     "rate": 0.054464
     }
    }
   },
   "sc1_focus1_atoincluded_plus_world_direct": {
    "balance": {
     "P0": {
-     "n": 5441,
-     "rate": 0.087215
+     "n": 25423,
+     "rate": 0.086218
     },
     "P1": {
-     "n": 4779,
-     "rate": 0.090808
+     "n": 23969,
+     "rate": 0.082563
     },
     "P2": {
-     "n": 4766,
-     "rate": 0.123911
+     "n": 23924,
+     "rate": 0.11154
     }
    },
    "parket": {
     "P0": {
-     "n": 5441,
-     "rate": 0.037564
+     "n": 25423,
+     "rate": 0.037212
     },
     "P1": {
-     "n": 4779,
-     "rate": 0.039108
+     "n": 23969,
+     "rate": 0.038341
     },
     "P2": {
-     "n": 4766,
-     "rate": 0.066814
+     "n": 23924,
+     "rate": 0.057935
     }
    }
   },
   "sc1_focus1_atoincluded_primary7_crude": {
    "balance": {
     "P0": {
-     "n": 4488,
-     "rate": 0.109626
+     "n": 20650,
+     "rate": 0.108329
     },
     "P1": {
-     "n": 3793,
-     "rate": 0.107303
+     "n": 19085,
+     "rate": 0.100236
     },
     "P2": {
-     "n": 3771,
-     "rate": 0.140811
+     "n": 18854,
+     "rate": 0.129097
     }
    },
    "parket": {
     "P0": {
-     "n": 4488,
-     "rate": 0.045009
+     "n": 20650,
+     "rate": 0.045085
     },
     "P1": {
-     "n": 3793,
-     "rate": 0.045347
+     "n": 19085,
+     "rate": 0.045743
     },
     "P2": {
-     "n": 3771,
-     "rate": 0.076637
+     "n": 18854,
+     "rate": 0.06789
     }
    }
   },
   "sc1_focus1_atoincluded_primary7_direct": {
    "balance": {
     "P0": {
-     "n": 4488,
-     "rate": 0.106003
+     "n": 20650,
+     "rate": 0.104888
     },
     "P1": {
-     "n": 3793,
-     "rate": 0.109211
+     "n": 19085,
+     "rate": 0.099919
     },
     "P2": {
-     "n": 3771,
-     "rate": 0.152287
+     "n": 18854,
+     "rate": 0.136652
     }
    },
    "parket": {
     "P0": {
-     "n": 4488,
-     "rate": 0.045991
+     "n": 20650,
+     "rate": 0.04488
     },
     "P1": {
-     "n": 3793,
-     "rate": 0.046407
+     "n": 19085,
+     "rate": 0.046177
     },
     "P2": {
-     "n": 3771,
-     "rate": 0.082684
+     "n": 18854,
+     "rate": 0.071357
     }
    }
   },
   "sc2_focus0_atoexcluded_plus_world_crude": {
    "balance": {
     "P0": {
-     "n": 3546,
-     "rate": 0.078116
+     "n": 18169,
+     "rate": 0.076229
     },
     "P1": {
-     "n": 3641,
-     "rate": 0.072782
+     "n": 18172,
+     "rate": 0.068347
     },
     "P2": {
-     "n": 4121,
-     "rate": 0.100946
+     "n": 20705,
+     "rate": 0.095388
     }
    },
    "parket": {
     "P0": {
-     "n": 3546,
-     "rate": 0.054992
+     "n": 18169,
+     "rate": 0.052342
     },
     "P1": {
-     "n": 3641,
-     "rate": 0.050536
+     "n": 18172,
+     "rate": 0.047656
     },
     "P2": {
-     "n": 4121,
-     "rate": 0.074496
+     "n": 20705,
+     "rate": 0.069114
     }
    }
   },
   "sc2_focus0_atoexcluded_plus_world_direct": {
    "balance": {
     "P0": {
-     "n": 3546,
-     "rate": 0.079325
+     "n": 18169,
+     "rate": 0.076725
     },
     "P1": {
-     "n": 3641,
-     "rate": 0.075411
+     "n": 18172,
+     "rate": 0.070409
     },
     "P2": {
-     "n": 4121,
-     "rate": 0.095238
+     "n": 20705,
+     "rate": 0.09151
     }
    },
    "parket": {
     "P0": {
-     "n": 3546,
-     "rate": 0.056345
+     "n": 18169,
+     "rate": 0.052761
     },
     "P1": {
-     "n": 3641,
-     "rate": 0.052449
+     "n": 18172,
+     "rate": 0.049142
     },
     "P2": {
-     "n": 4121,
-     "rate": 0.069432
+     "n": 20705,
+     "rate": 0.065742
     }
    }
   },
   "sc2_focus0_atoexcluded_primary7_crude": {
    "balance": {
     "P0": {
-     "n": 2593,
-     "rate": 0.100656
+     "n": 13396,
+     "rate": 0.096223
     },
     "P1": {
-     "n": 2655,
-     "rate": 0.092279
+     "n": 13288,
+     "rate": 0.086243
     },
     "P2": {
-     "n": 3126,
-     "rate": 0.128919
+     "n": 15635,
+     "rate": 0.120115
     }
    },
    "parket": {
     "P0": {
-     "n": 2593,
-     "rate": 0.071732
+     "n": 13396,
+     "rate": 0.066214
     },
     "P1": {
-     "n": 2655,
-     "rate": 0.063277
+     "n": 13288,
+     "rate": 0.060054
     },
     "P2": {
-     "n": 3126,
-     "rate": 0.095969
+     "n": 15635,
+     "rate": 0.088455
     }
    }
   },
   "sc2_focus0_atoexcluded_primary7_direct": {
    "balance": {
     "P0": {
-     "n": 2593,
-     "rate": 0.101423
+     "n": 13396,
+     "rate": 0.096426
     },
     "P1": {
-     "n": 2655,
-     "rate": 0.094726
+     "n": 13288,
+     "rate": 0.088071
     },
     "P2": {
-     "n": 3126,
-     "rate": 0.124276
+     "n": 15635,
+     "rate": 0.116698
     }
    },
    "parket": {
     "P0": {
-     "n": 2593,
-     "rate": 0.072918
+     "n": 13396,
+     "rate": 0.066456
     },
     "P1": {
-     "n": 2655,
-     "rate": 0.06514
+     "n": 13288,
+     "rate": 0.061398
     },
     "P2": {
-     "n": 3126,
-     "rate": 0.091481
+     "n": 15635,
+     "rate": 0.085325
     }
    }
   },
   "sc2_focus0_atoincluded_plus_world_crude": {
    "balance": {
     "P0": {
-     "n": 5441,
-     "rate": 0.09796
+     "n": 25423,
+     "rate": 0.096133
     },
     "P1": {
-     "n": 4779,
-     "rate": 0.094162
+     "n": 23969,
+     "rate": 0.087613
     },
     "P2": {
-     "n": 4766,
-     "rate": 0.119387
+     "n": 23924,
+     "rate": 0.111185
     }
    },
    "parket": {
     "P0": {
-     "n": 5441,
-     "rate": 0.067818
+     "n": 25423,
+     "rate": 0.066279
     },
     "P1": {
-     "n": 4779,
-     "rate": 0.067169
+     "n": 23969,
+     "rate": 0.06304
     },
     "P2": {
-     "n": 4766,
-     "rate": 0.09295
+     "n": 23924,
+     "rate": 0.0841
     }
    }
   },
   "sc2_focus0_atoincluded_plus_world_direct": {
    "balance": {
     "P0": {
-     "n": 5441,
-     "rate": 0.093077
+     "n": 25423,
+     "rate": 0.092095
     },
     "P1": {
-     "n": 4779,
-     "rate": 0.096802
+     "n": 23969,
+     "rate": 0.08763
     },
     "P2": {
-     "n": 4766,
-     "rate": 0.130248
+     "n": 23924,
+     "rate": 0.118426
     }
    },
    "parket": {
     "P0": {
-     "n": 5441,
-     "rate": 0.065093
+     "n": 25423,
+     "rate": 0.063507
     },
     "P1": {
-     "n": 4779,
-     "rate": 0.069123
+     "n": 23969,
+     "rate": 0.062928
     },
     "P2": {
-     "n": 4766,
-     "rate": 0.104306
+     "n": 23924,
+     "rate": 0.091206
     }
    }
   },
   "sc2_focus0_atoincluded_primary7_crude": {
    "balance": {
     "P0": {
-     "n": 4488,
-     "rate": 0.115196
+     "n": 20650,
+     "rate": 0.113705
     },
     "P1": {
-     "n": 3793,
-     "rate": 0.113367
+     "n": 19085,
+     "rate": 0.105004
     },
     "P2": {
-     "n": 3771,
-     "rate": 0.147441
+     "n": 18854,
+     "rate": 0.135939
     }
    },
    "parket": {
     "P0": {
-     "n": 4488,
-     "rate": 0.080214
+     "n": 20650,
+     "rate": 0.078499
     },
     "P1": {
-     "n": 3793,
-     "rate": 0.080411
+     "n": 19085,
+     "rate": 0.075609
     },
     "P2": {
-     "n": 3771,
-     "rate": 0.115619
+     "n": 18854,
+     "rate": 0.104169
     }
    }
   },
   "sc2_focus0_atoincluded_primary7_direct": {
    "balance": {
     "P0": {
-     "n": 4488,
-     "rate": 0.111759
+     "n": 20650,
+     "rate": 0.110189
     },
     "P1": {
-     "n": 3793,
-     "rate": 0.11543
+     "n": 19085,
+     "rate": 0.104716
     },
     "P2": {
-     "n": 3771,
-     "rate": 0.158945
+     "n": 18854,
+     "rate": 0.143385
     }
    },
    "parket": {
     "P0": {
-     "n": 4488,
-     "rate": 0.078721
+     "n": 20650,
+     "rate": 0.0761
     },
     "P1": {
-     "n": 3793,
-     "rate": 0.082
+     "n": 19085,
+     "rate": 0.075245
     },
     "P2": {
-     "n": 3771,
-     "rate": 0.128126
+     "n": 18854,
+     "rate": 0.111752
     }
    }
   },
   "sc2_focus1_atoexcluded_plus_world_crude": {
    "balance": {
     "P0": {
-     "n": 3546,
-     "rate": 0.071066
+     "n": 18169,
+     "rate": 0.069789
     },
     "P1": {
-     "n": 3641,
-     "rate": 0.067015
+     "n": 18172,
+     "rate": 0.063064
     },
     "P2": {
-     "n": 4121,
-     "rate": 0.09488
+     "n": 20705,
+     "rate": 0.088529
     }
    },
    "parket": {
     "P0": {
-     "n": 3546,
-     "rate": 0.051043
+     "n": 18169,
+     "rate": 0.048985
     },
     "P1": {
-     "n": 3641,
-     "rate": 0.046965
+     "n": 18172,
+     "rate": 0.044739
     },
     "P2": {
-     "n": 4121,
-     "rate": 0.071827
+     "n": 20705,
+     "rate": 0.065685
     }
    }
   },
   "sc2_focus1_atoexcluded_plus_world_direct": {
    "balance": {
     "P0": {
-     "n": 3546,
-     "rate": 0.072581
+     "n": 18169,
+     "rate": 0.070468
     },
     "P1": {
-     "n": 3641,
-     "rate": 0.069469
+     "n": 18172,
+     "rate": 0.065128
     },
     "P2": {
-     "n": 4121,
-     "rate": 0.089365
+     "n": 20705,
+     "rate": 0.084875
     }
    },
    "parket": {
     "P0": {
-     "n": 3546,
-     "rate": 0.052556
+     "n": 18169,
+     "rate": 0.049492
     },
     "P1": {
-     "n": 3641,
-     "rate": 0.04886
+     "n": 18172,
+     "rate": 0.0463
     },
     "P2": {
-     "n": 4121,
-     "rate": 0.066861
+     "n": 20705,
+     "rate": 0.062476
     }
    }
   },
   "sc2_focus1_atoexcluded_primary7_crude": {
    "balance": {
     "P0": {
-     "n": 2593,
-     "rate": 0.093328
+     "n": 13396,
+     "rate": 0.0904
     },
     "P1": {
-     "n": 2655,
-     "rate": 0.086252
+     "n": 13288,
+     "rate": 0.081276
     },
     "P2": {
-     "n": 3126,
-     "rate": 0.122521
+     "n": 15635,
+     "rate": 0.113463
     }
    },
    "parket": {
     "P0": {
-     "n": 2593,
-     "rate": 0.067875
+     "n": 13396,
+     "rate": 0.063601
     },
     "P1": {
-     "n": 2655,
-     "rate": 0.059887
+     "n": 13288,
+     "rate": 0.057646
     },
     "P2": {
-     "n": 3126,
-     "rate": 0.09309
+     "n": 15635,
+     "rate": 0.08481
     }
    }
   },
   "sc2_focus1_atoexcluded_primary7_direct": {
    "balance": {
     "P0": {
-     "n": 2593,
-     "rate": 0.09452
+     "n": 13396,
+     "rate": 0.090835
     },
     "P1": {
-     "n": 2655,
-     "rate": 0.088478
+     "n": 13288,
+     "rate": 0.083089
     },
     "P2": {
-     "n": 3126,
-     "rate": 0.118102
+     "n": 15635,
+     "rate": 0.110362
     }
    },
    "parket": {
     "P0": {
-     "n": 2593,
-     "rate": 0.069274
+     "n": 13396,
+     "rate": 0.063945
     },
     "P1": {
-     "n": 2655,
-     "rate": 0.061714
+     "n": 13288,
+     "rate": 0.059063
     },
     "P2": {
-     "n": 3126,
-     "rate": 0.088711
+     "n": 15635,
+     "rate": 0.081884
     }
    }
   },
   "sc2_focus1_atoincluded_plus_world_crude": {
    "balance": {
     "P0": {
-     "n": 5441,
-     "rate": 0.092262
+     "n": 25423,
+     "rate": 0.090233
     },
     "P1": {
-     "n": 4779,
-     "rate": 0.088303
+     "n": 23969,
+     "rate": 0.082565
     },
     "P2": {
-     "n": 4766,
-     "rate": 0.113093
+     "n": 23924,
+     "rate": 0.104205
     }
    },
    "parket": {
     "P0": {
-     "n": 5441,
-     "rate": 0.065062
+     "n": 25423,
+     "rate": 0.06321
     },
     "P1": {
-     "n": 4779,
-     "rate": 0.063821
+     "n": 23969,
+     "rate": 0.060328
     },
     "P2": {
-     "n": 4766,
-     "rate": 0.090013
+     "n": 23924,
+     "rate": 0.080756
     }
    }
   },
   "sc2_focus1_atoincluded_plus_world_direct": {
    "balance": {
     "P0": {
-     "n": 5441,
-     "rate": 0.087215
+     "n": 25423,
+     "rate": 0.086218
     },
     "P1": {
-     "n": 4779,
-     "rate": 0.090808
+     "n": 23969,
+     "rate": 0.082563
     },
     "P2": {
-     "n": 4766,
-     "rate": 0.123911
+     "n": 23924,
+     "rate": 0.11154
     }
    },
    "parket": {
     "P0": {
-     "n": 5441,
-     "rate": 0.062109
+     "n": 25423,
+     "rate": 0.060444
     },
     "P1": {
-     "n": 4779,
-     "rate": 0.065767
+     "n": 23969,
+     "rate": 0.060257
     },
     "P2": {
-     "n": 4766,
-     "rate": 0.101222
+     "n": 23924,
+     "rate": 0.088045
     }
    }
   },
   "sc2_focus1_atoincluded_primary7_crude": {
    "balance": {
     "P0": {
-     "n": 4488,
-     "rate": 0.109626
+     "n": 20650,
+     "rate": 0.108329
     },
     "P1": {
-     "n": 3793,
-     "rate": 0.107303
+     "n": 19085,
+     "rate": 0.100236
     },
     "P2": {
-     "n": 3771,
-     "rate": 0.140811
+     "n": 18854,
+     "rate": 0.129097
     }
    },
    "parket": {
     "P0": {
-     "n": 4488,
-     "rate": 0.077763
+     "n": 20650,
+     "rate": 0.075981
     },
     "P1": {
-     "n": 3793,
-     "rate": 0.077248
+     "n": 19085,
+     "rate": 0.073304
     },
     "P2": {
-     "n": 3771,
-     "rate": 0.112437
+     "n": 18854,
+     "rate": 0.100668
     }
    }
   },
   "sc2_focus1_atoincluded_primary7_direct": {
    "balance": {
     "P0": {
-     "n": 4488,
-     "rate": 0.106003
+     "n": 20650,
+     "rate": 0.104888
     },
     "P1": {
-     "n": 3793,
-     "rate": 0.109211
+     "n": 19085,
+     "rate": 0.099919
     },
     "P2": {
-     "n": 3771,
-     "rate": 0.152287
+     "n": 18854,
+     "rate": 0.136652
     }
    },
    "parket": {
     "P0": {
-     "n": 4488,
-     "rate": 0.076034
+     "n": 20650,
+     "rate": 0.073636
     },
     "P1": {
-     "n": 3793,
-     "rate": 0.078815
+     "n": 19085,
+     "rate": 0.072984
     },
     "P2": {
-     "n": 3771,
-     "rate": 0.124779
+     "n": 18854,
+     "rate": 0.108491
     }
    }
   }
  },
  "standard_weights": {
-  "rubric-economy": 1701.0,
-  "rubric-polytics": 1668.0,
-  "rubric-regions": 3098.0,
-  "rubric-society": 1531.0,
-  "rubric-tymchasovo-okupovani": 71.0,
-  "rubric-vidbudova": 305.0
+  "rubric-economy": 8723.0,
+  "rubric-polytics": 8406.0,
+  "rubric-regions": 15415.0,
+  "rubric-society": 7805.0,
+  "rubric-tymchasovo-okupovani": 277.0,
+  "rubric-vidbudova": 1693.0
  },
  "trend_interpretable": {
   "interpretable": true,
   "note": "Precision high, recall low and period-dependent: the proxy is specific but insensitive, and its recall drifts across periods, so the raw between-period parket trend is confounded by extraction and is NOT interpreted (preregistration section 9).",
-  "precision": 0.888889,
-  "recall": 0.075117,
+  "precision": 0.827586,
+  "recall": 0.062176,
   "recall_confounded": false,
-  "recall_homogeneity_p": 0.70262,
-  "recall_spread_pp": 3.663226,
+  "recall_homogeneity_p": 0.585271,
+  "recall_spread_pp": 2.988722,
   "status": "evaluated"
  },
  "verdict": {
@@ -1428,24 +1430,24 @@
  },
  "verification": {
   "inputs_sha256": {
-   "data/raw/articles/pravda_2023-05.parquet": "dd27bf5786bcaad83a86d1bfbbbd5c18be0004457d57cddcf45b16ea4637f204",
-   "data/raw/articles/pravda_2023-06.parquet": "f496d989b99de9e5939794430167b338a89d444dd020ce31f0bc20968f2da16b",
-   "data/raw/articles/pravda_2023-07.parquet": "0562186d08c31bb23b6c68b2d8b2b93cafd32b9416851044556513b4f790b619",
-   "data/raw/articles/pravda_2023-08.parquet": "d56236c5af4dcd02c57b2079419b4eef17cc540ca87570e28595d3d4fc67ff66",
-   "data/raw/articles/pravda_2023-09.parquet": "e3cd1bb0b79b9a279d6d9b5bebd124752ed096a544e7d7c4d39ae041d91308b1",
-   "data/raw/articles/pravda_2023-10.parquet": "e5111428dab8eb4b0b0385d9d92850ae101822d622d26d82009f919585c62062",
-   "data/raw/articles/pravda_2023-11.parquet": "39245215181cc880eb4cedd7e9e2f5179bd689f6ef97f7fa6b8617fc39841fa8",
-   "data/raw/articles/pravda_2023-12.parquet": "86f1e36f72e91f98d4ba76b50e3bf00bb7ead468954e3d4e2ba7ab6033862114",
-   "data/raw/articles/pravda_2024-01.parquet": "fa49f9a2eac563cfaaa697459a596bc4cf7663c1d3c7a338652d5c7d2615c459",
-   "data/raw/articles/pravda_2024-02.parquet": "f4fbd3e9497207ae0166e0a27e5e198b4201b4cdcfb1aacd7cd7ad70c52eed72",
-   "data/raw/articles/pravda_2024-03.parquet": "4558c824839d5b20b701a5a332a9dab3ceaf383bf31135bb89802816bb904378",
-   "data/raw/articles/pravda_2024-04.parquet": "2e7a2b62c5d74c9b33fb965ccccef309e14639b23ab87fbd5172060d15dabde3",
-   "data/raw/articles/pravda_2025-07.parquet": "7315f12fcad13c8534babfb46802dbcea1ee23728bad79f617c7daf87eab0368",
-   "data/raw/articles/pravda_2025-08.parquet": "53e646adb160b864c4cc9c316aa79a1913107e3d10924a90a2986c753f297709",
-   "data/raw/articles/pravda_2025-09.parquet": "f776f24f8b2c3deea6e8d213c167b168c7ec2ca3ab0a82d1502644921f85e930",
-   "data/raw/articles/pravda_2025-10.parquet": "196bb3c5e80d27ad57ea6bb49779b9231018ec8fbc92c639ad79f015d63bce41",
-   "data/raw/articles/pravda_2025-11.parquet": "5ac53135f09934f0ae10da83a8b05510eb89ffa6f3c56547d12aa6e5b2e37bde",
-   "data/raw/articles/pravda_2025-12.parquet": "b7b3421615c86b4cbf1bff31a78b9c8ecc493b0fe148b5ee520fefd6b92857e0",
+   "data/raw/articles/pravda_2023-05.parquet": "1899121ebff966602c2e254325a9f5d8f514d2d31267d2d2fed8fc9eddeaf146",
+   "data/raw/articles/pravda_2023-06.parquet": "b095411fa567d94be5fdaea76c775064dee64fe422208ab211c587276b639cb8",
+   "data/raw/articles/pravda_2023-07.parquet": "edba2d8b06722ec4360533aa4f3d196a58bffa1f4f361cf1d2d6616f2d7a0810",
+   "data/raw/articles/pravda_2023-08.parquet": "398bfb7636437e96958877de38efdc375dce0473735c4acb5b65f81b78e619ca",
+   "data/raw/articles/pravda_2023-09.parquet": "49535f5535eeca8a9923acab63f5dbbfa242d3e23c1ae4cc2e1e4670741404f0",
+   "data/raw/articles/pravda_2023-10.parquet": "c0efdecfe9c3fc4704fc9c3ef798c4d1a2543d58ea42c31d8380f4ff96b29182",
+   "data/raw/articles/pravda_2023-11.parquet": "68197da62521fa2e9c3efbab0e58be13409b7bc78db529cc1c920ca1910a2624",
+   "data/raw/articles/pravda_2023-12.parquet": "baa74d7276f3013fdf1101e4c8a1cd714202d75a3aea1a69c0f6db4e851282b1",
+   "data/raw/articles/pravda_2024-01.parquet": "7648b2c3561fc24a206f6afb01b4034c62af2d709873365b4607e4dc1a23a858",
+   "data/raw/articles/pravda_2024-02.parquet": "18611db0c6ecf45e1ad8495e0a381d1cac83ddb8d1699639562201136099f85b",
+   "data/raw/articles/pravda_2024-03.parquet": "c01798ebc4f453c688bc73eda294e5e139f5d8545dd5b31e930115b3ee181efa",
+   "data/raw/articles/pravda_2024-04.parquet": "be843db4fc40a474dbfe8a60af99952812f15d35da8d655cbb6c4879dca02977",
+   "data/raw/articles/pravda_2025-07.parquet": "7530fa2b1cb5d9c69943608068d0bb6a115cea65f1abcaffe8e02cece65f41a9",
+   "data/raw/articles/pravda_2025-08.parquet": "aa447c53b317b6a906f8dab0a95efa0fe911b6656c6bb6b494cf963052b11665",
+   "data/raw/articles/pravda_2025-09.parquet": "c6854802cf454a53db17c436550531ef8ea7010f73d9e4bd567849d26a56634d",
+   "data/raw/articles/pravda_2025-10.parquet": "b27492ceda21fcfbe3c2a9406b3fb35051a1c85cc0a1a31fe1e46fd57edf981c",
+   "data/raw/articles/pravda_2025-11.parquet": "81f81aa18b987e105eba65a29f493e09031f90ceb017444d5703db2cadaa3090",
+   "data/raw/articles/pravda_2025-12.parquet": "a28ad56824b4c2d48513f13dcd2e6bd23040e69fb37f85e733e7d45cfa1d55e1",
    "data/raw/articles/suspilne_2019-11.parquet": "ef7108408f20fd7873a8eb53e79cb745ffdd155839a988724967f52e54691fa6",
    "data/raw/articles/suspilne_2019-12.parquet": "dd7cb8f7a534ed22e60ce425e3b2853b8ad15cd3c6be4223afee5c7cdbab7eaa",
    "data/raw/articles/suspilne_2020-01.parquet": "f4ea24d0384bf6530c8bfab08f35d7750d90c0849c8e512c0d45c5d1f79250c5",
@@ -1485,7 +1487,7 @@
    "data/raw/articles/suspilne_2022-11.parquet": "40bf9c6268cc646b2cb0903d2258b705c3b7a193f3cc98d7ea5a418c41be0921",
    "data/raw/articles/suspilne_2022-12.parquet": "89e907c49bdb7e9ce8ea9aafdfec2fec735d34ea432296e108cd0dbefdbe40db",
    "data/raw/articles/suspilne_2023-01.parquet": "d5eb3b3064e7bacf1a029fea59a9009f14da07d16801822c8c3369f46b92b812",
-   "data/raw/articles/suspilne_2023-02.parquet": "d8685854817107f45f5e6ddbc3bcc9412d9bd41b4ab2459df48205e9445d5199",
+   "data/raw/articles/suspilne_2023-02.parquet": "87562e4a1df19e0751953d59953d59fa130577fc287c1a1544700ec4335d2d9e",
    "data/raw/articles/suspilne_2023-03.parquet": "78d67b928ae8269ff3fa95338a3e03724ab6e9da6c01dc98a535c8e3ab48c88e",
    "data/raw/articles/suspilne_2023-04.parquet": "ecf15826f16838a10061db5ff07e7468549739eddebea70212558b023b335868",
    "data/raw/articles/suspilne_2023-05.parquet": "fa6ca393f08aed88299f06a0e70b4780716b3250d84b4a49aa1251bb7a315f11",
@@ -1521,26 +1523,27 @@
    "data/raw/articles/suspilne_2025-11.parquet": "1b199b3a1bd36c33fb6d806a6ceb638a59cc6e2828e58fbb6fa650bae1f30548",
    "data/raw/articles/suspilne_2025-12.parquet": "76522594a27a8af57b70f8533760b65ceb8cbbf56f7372d0464b1ca0fc0371ea",
    "data/raw/articles/suspilne_undated.parquet": "f8c73621d27e2d3f3b195a8a8b82361a372df6fd0b9e671fa580161156209069",
-   "data/raw/articles/ukrinform_2023-05.parquet": "7cc4d1480e74d0280b0db3936e62925df71a069bbda40e8ddae6c975988ff442",
-   "data/raw/articles/ukrinform_2023-06.parquet": "ec2bf9cb9fedc884f03d28ceebc3272852e28b9a5372dfaa60eeaefc0ddf1567",
-   "data/raw/articles/ukrinform_2023-07.parquet": "e51ab5e7da8cb369b64f036990c7571e87e49eb80174840d623677d4dd749aec",
-   "data/raw/articles/ukrinform_2023-08.parquet": "9f73ee3720a99dfc3ce3e4feab6606bead723ec0fdae24c307187e80e24e7e42",
-   "data/raw/articles/ukrinform_2023-09.parquet": "18686e7a811632cefb311c9902dd47a90197310f49336652109f86e88c52c8f4",
-   "data/raw/articles/ukrinform_2023-10.parquet": "2f00c5f6332ee59e561c3819a9f922cb666ba9fba3118616090fd013c2e73700",
-   "data/raw/articles/ukrinform_2023-11.parquet": "bbdde62ab3beb0785b5157bef2724db41a4969dce2eeff4ecb6599b4a34318b7",
-   "data/raw/articles/ukrinform_2023-12.parquet": "12183eb0d77a84d2a333e8d495599693c737e2f798ff49928df579e95fc78c9f",
-   "data/raw/articles/ukrinform_2024-01.parquet": "a199e04295c1298053abffdbe232410d4b3d5da978c324bbe9ea133575a6c2a2",
-   "data/raw/articles/ukrinform_2024-02.parquet": "dde80ff2f3270c8f545c2a3fe7253e52cd65400d54f7601b634614f1343beb60",
-   "data/raw/articles/ukrinform_2024-03.parquet": "059f5b7ed3ec8bfa40b6b09f4c700fdf8500c3ae6299a9fd25fc3d5fcc07dda1",
-   "data/raw/articles/ukrinform_2024-04.parquet": "ff3d7c1ff931d44fa62c743b69ba8a878d66be0492352ee01cf9bfe76b2d99d5",
-   "data/raw/articles/ukrinform_2025-06.parquet": "9aeff2cbc2c635748d75cc7a7ca6e2f41b9a63ae2d6922934e1952cd7ba39287",
-   "data/raw/articles/ukrinform_2025-07.parquet": "36cfc3c88c93ca97a3e3d4e14dcdcaef491e66c09e34178c6a08cf04cddec179",
-   "data/raw/articles/ukrinform_2025-08.parquet": "b04c88a5915e290da22d14bd937dccd00fec4be4fb9c579eed75f3fcaec50cfb",
-   "data/raw/articles/ukrinform_2025-09.parquet": "54805f5a810af3af28d4c7ed61646c8ba0f2547c10dcdeddd69b2fdbf9ecb48e",
-   "data/raw/articles/ukrinform_2025-10.parquet": "03cd0dfebfaa2bbf9f4382dd7e2e97549f3cd9c36a8f1dd4da6914dff4c58528",
-   "data/raw/articles/ukrinform_2025-11.parquet": "1c2303d4665318478f511c651559d60d31a53f13ec98d8f36213426954a81664",
-   "data/raw/articles/ukrinform_2025-12.parquet": "0cfad3fb18f559fc104ad9e95575c8d8c0e6029276f333a98ff633b61d710f9d",
-   "data/raw/articles/ukrinform_undated.parquet": "79fb8606436be0a9f8fe17cd6b1dfe218d651826c0655563de20e4195a0c0cc6"
+   "data/raw/articles/ukrinform_2020-06.parquet": "0e495880baa77eb2a012bbd80f17cbff584f8c173f315025884c807bea414772",
+   "data/raw/articles/ukrinform_2023-05.parquet": "37e8a1995a9c1a4c32d5e0c41711e65579e11283e1aca17eef80df8aa5142e3c",
+   "data/raw/articles/ukrinform_2023-06.parquet": "ee6c7dea36a7b2fd280768e81aac11460efc7ac852cc0057888b51e960886e80",
+   "data/raw/articles/ukrinform_2023-07.parquet": "e9537fda143072a28f3bc9446a8f939d6a6dcb6894a2ec346ec2f45f5cab860d",
+   "data/raw/articles/ukrinform_2023-08.parquet": "9bdf0fbfb755face6495c156193917a699b985eaadffaed6bf4b0e90a208c3f9",
+   "data/raw/articles/ukrinform_2023-09.parquet": "638fc4acddfe8aee3a0fb1756923ce7dc472502740ea2c45e39b4e828b5a94d2",
+   "data/raw/articles/ukrinform_2023-10.parquet": "65fc53723684c55f23874b309cdb79940bbeb5eaf335bde3449e5da8daddc521",
+   "data/raw/articles/ukrinform_2023-11.parquet": "aec1cba85bf7d331f49b29c0a9d1b9ffe849318d3cb8a4b0760832f8d29ce68b",
+   "data/raw/articles/ukrinform_2023-12.parquet": "89a6e7c4d7c68dc62d0e5d652ccde8c7252341aeb5457f1bfb8de375412006f6",
+   "data/raw/articles/ukrinform_2024-01.parquet": "4c81943df0c14a2930c832423315baa8704545055e2d1c40ffe4e249d26bc7b2",
+   "data/raw/articles/ukrinform_2024-02.parquet": "c30e612f9f1b3f75950de3da95ca9b714702ff7140203017975c89fc5a2f168b",
+   "data/raw/articles/ukrinform_2024-03.parquet": "28816af39b91af9bce66b7a8defe4de1692afd13e4de7efbae64ba05720b3ea6",
+   "data/raw/articles/ukrinform_2024-04.parquet": "f9fd92275ee39b173b82a1a3ec0576bfcbb396bb5ee5032581dfd18d8c9bf571",
+   "data/raw/articles/ukrinform_2025-06.parquet": "0ea3fd544067bc7d440a650f33fccf70bccfd51f9b54e79dedac245b7cfa0294",
+   "data/raw/articles/ukrinform_2025-07.parquet": "9855dd9e966de56f54de41cebd0282aabcaa1b842b7f9f7b1f63be021eb03a65",
+   "data/raw/articles/ukrinform_2025-08.parquet": "771765c0f38c704145d9c44a9d09905959f61e30a5e4b6bad4ab9799c94e158e",
+   "data/raw/articles/ukrinform_2025-09.parquet": "6ac42cd3cae11d1b4d41aef3e951489ec7c0d3fafc38e79718d3c83a2d246e0e",
+   "data/raw/articles/ukrinform_2025-10.parquet": "00ff574a91ec78b3a115664d40bb0558d0c9770c91c23e124dd1c4768bb11b0d",
+   "data/raw/articles/ukrinform_2025-11.parquet": "c8243cceab1e74c6241d6f568a8f8e9df2c9291969e237286823192f93f773ae",
+   "data/raw/articles/ukrinform_2025-12.parquet": "22255d19d8469f177ca82ac841393f03b5d2d767667673e156dc42a84b8d3708",
+   "data/raw/articles/ukrinform_undated.parquet": "3bc43fb4dc2c4d2fe4881ec2485ff19a4e7d99fa9647164c8fa3c29b0426ab3c"
   },
   "reproduce_command": "uv sync --frozen && make verify"
  }
