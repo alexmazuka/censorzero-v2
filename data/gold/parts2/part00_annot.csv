@@ -1,0 +1,56 @@
+id,label,military_bulletin,uncertain,note
+8ffe49070d15e3db,parket,false,false,single Zelensky speech relay
+6b46f7cd01a3125b,non_parket,true,false,General Staff daily briefing
+3f1b7bf812135e95,non_parket,false,false,foreign officials only
+6588fdd3a91844af,non_parket,true,false,daily war-day digest
+a4a3c1af21d6505f,parket,false,false,single presidential greeting
+e5f3a64e1b54b692,parket,false,false,single Zelensky statement
+2b5989f348cf72ff,parket,false,false,single NBU source
+1ccaf70d8fafc853,non_parket,false,false,NABU/SAP opposing voices included
+5215f6c64e4f1f66,parket,false,false,single Budanov source
+132fa0a8946af2f5,parket,false,false,single police official interview
+434af80ef2dc7a97,parket,false,false,single Zelensky source
+3b79f1f28dd418e4,non_parket,false,false,foreign story
+4e4297c2ecdf7a62,non_parket,false,false,foreign story
+1302646e8813776b,non_parket,false,false,NGO source foreign topic
+97d005bec49b6a04,non_parket,true,false,attack consequences; two officials
+f5856a909b1d74e0,non_parket,false,false,NGO fund framing
+8ca6a5a83ed2a551,parket,false,false,appointment; no independent voice
+c3a9862fc8c28e05,non_parket,false,false,foreign officials
+76658f5660366d63,non_parket,false,false,foreign story
+10df490a5e8365e0,non_parket,true,false,attack damage report
+6b1191d554f4b887,non_parket,true,false,strike consequences report
+c2a70d9967cc20da,non_parket,false,false,culture-framed story
+61036721becb29c5,parket,false,false,single ministry announcement
+aafcd6d966c13db3,non_parket,false,false,foreign officials
+63cd4b83a7739348,non_parket,false,false,foreign politician comment
+4f12ef345c6e42bf,non_parket,false,false,foreign story
+30019aa4c23ec392,non_parket,false,false,foreign officials
+13140aa5f173624d,non_parket,true,false,strike casualties; two bodies
+870965a10c8ff947,non_parket,false,false,weather; no official
+a2509e86e6f2cd94,non_parket,false,false,two official bodies quoted
+575744f538aaabe2,non_parket,true,false,monthly enemy-losses summary
+69608f656b428500,non_parket,true,false,air-raid alert notice
+1a7f7b647811da00,parket,false,false,single ministry source
+001b0ae9415ba9d0,non_parket,true,false,foreign intel frontline summary
+1366eb3004971b4c,non_parket,false,false,foreign story
+b17ec855adf62536,non_parket,true,false,air-defense activity notice
+5de688efc9db6734,non_parket,false,false,multiple sources; infrastructure event
+dee798cb1f3ba1ca,non_parket,false,false,businessman-framed; document based
+113e17aea388e8d2,non_parket,true,false,border security situation report
+61abe1b93c658ed5,parket,false,false,official ceremony; single source
+49632b4402c0ae02,non_parket,false,false,opposition voice piece
+6e147cd457cd8546,non_parket,false,false,partisan movement source
+93466f5b3e3248f3,non_parket,true,false,shelling damage report
+5b07e8c2f7f4ffc5,non_parket,false,false,foreign official
+255f36d30e6bbcf3,non_parket,false,false,foreign officials via Bloomberg
+4270958335d2d734,parket,false,false,only Syrskyi voice in recap
+488a00c94648651f,non_parket,true,false,drone attack report
+d6c5f1880a77b4f6,non_parket,false,false,foreign government
+b26bf19597c50c1c,non_parket,true,false,frontline spokesman report
+425f9f3697d28324,parket,false,false,official visit; single source
+ad7ea92b2b9af6aa,non_parket,true,false,General Staff losses
+e30ed975ae82d155,parket,false,false,single SBU source
+cd25c1370bddb057,non_parket,false,true,official decision; dissent only backgrounded
+dce9940544af549a,parket,false,false,protocol meeting; single source
+ed63b513407a8e97,non_parket,true,false,military spokesperson situation report

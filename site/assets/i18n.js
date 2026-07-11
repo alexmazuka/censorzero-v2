@@ -4,7 +4,7 @@
 window.I18N = {
   uk: {
     brand: "CensorZero — аудит Укрінформ / ІМІ",
-    nav_press: "Прес-реліз",
+    nav_press: "Прес-реліз", nav_report: "Повний звіт",
     press_h: "Прес-реліз: коротко про дослідження",
     press_what_h: "Що зроблено",
     press_what: "Проаналізовано {TOTAL} матеріалів: {UKR} статей Укрінформу за три редакційні періоди (до призначення Олексія Мацуки, за його керівництва — коли ІМІ виключив агенцію з Білого списку, і після відходу — коли її повернули) та {CTRL} статей контрольних медіа («Українська правда», Суспільне). Один відкритий алгоритм вимірював рівно ті сигнали, які ІМІ публічно назвав причиною виключення: «паркетні» матеріали (одне офіційне джерело, жодного альтернативного голосу) та баланс думок. Додатково {GOLD_N} статей розмічено вручну наосліп: розмітник не бачив ні дати, ні періоду, ні назви медіа.",
@@ -53,7 +53,7 @@ window.I18N = {
   },
   en: {
     brand: "CensorZero — Ukrinform / IMI audit",
-    nav_press: "Press summary",
+    nav_press: "Press summary", nav_report: "Full report",
     press_h: "Press summary: the study in brief",
     press_what_h: "What we did",
     press_what: "We analyzed {TOTAL} items: {UKR} Ukrinform articles across three editorial periods (before Oleksiy Matsuka's appointment, during his tenure — when IMI removed the agency from its White List, and after his departure — when it was reinstated) plus {CTRL} articles from control outlets (Ukrainska Pravda, Suspilne). One open algorithm measured exactly the signals IMI publicly cited as the reason for exclusion: 'parket' items (a single official source, no alternative voice) and balance. Additionally, {GOLD_N} articles were hand-labeled blind: the annotator saw no date, period, or outlet.",

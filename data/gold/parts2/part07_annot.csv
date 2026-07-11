@@ -1,0 +1,56 @@
+id,label,military_bulletin,uncertain,note
+9d0619119c941b00,non_parket,false,false,foreign story no UA official
+16b595ba450b17c8,non_parket,true,false,daily war digest
+b8bb3c27635dde38,non_parket,false,false,foreign officials only
+5f1deb0817195084,non_parket,true,false,air-raid explosion notice
+b8a57f6197afc3d5,parket,false,false,single GUR voice only
+bf06c9a04085ab6f,non_parket,false,false,ISW assessment cited
+e52e5377310920bd,non_parket,true,false,attack aftermath report
+ccb4d23cf3e8d735,non_parket,false,false,incident report police as channel
+314e2cf3d27488b4,non_parket,false,false,morbidity situation report
+4e49b52ed9b07bc1,non_parket,false,false,DBR plus media source
+f3a6008ff6e8d1b9,non_parket,true,false,General Staff bulletin
+93bdb9063ebdf4b4,non_parket,true,false,front-line spokesman report
+571e1829e3e9d827,non_parket,false,false,foreign official
+22541a2317b0c7f1,non_parket,false,false,expert commentary
+3879bf5b2b5c3c55,non_parket,true,false,strike casualty report
+03ef5a1b8202d14f,non_parket,false,false,Forbes as second source
+c468f9558ecc7e64,non_parket,false,false,foreign event russian sources
+fa4d268c2812b91e,parket,false,false,single OVA briefing source
+5a94bf8511014ebf,parket,false,false,ministry announcement only
+7e55a07fdf744740,non_parket,false,false,industry association and companies
+ce447bf20acdba3b,non_parket,true,false,General Staff bulletin
+f72c1702cd08e911,parket,false,false,single prosecutor source
+2824a6db81595b67,non_parket,false,true,state company situation report
+291c331b64ff8c10,non_parket,false,false,foreign police source
+fba545f893c7ab59,non_parket,false,false,foreign official
+58082778e2c748ef,non_parket,true,false,combat episode report
+33345b535fe724a4,parket,false,false,OP press release only
+3decacb9971c32ed,parket,false,false,presidential address only
+a4085cb894b41177,non_parket,true,false,shelling casualty report
+687b70db8184967a,non_parket,true,false,attack aftermath two officials
+aac20ae4706a107b,non_parket,false,false,multiple sources incl BBC
+d2e1222daf485899,non_parket,false,false,second official cited
+37016533e3a8544a,non_parket,true,false,shelling casualty report
+9e24c068f9c01b5e,non_parket,true,false,General Staff bulletin
+37974b65395f03d7,non_parket,true,false,daily war digest
+e95051cb54da4472,non_parket,true,false,strike casualty report
+d2b1bf709f817046,non_parket,false,false,Pentagon position in background
+9d5e7ee5a5dddd66,non_parket,false,false,foreign officials
+0df6f1c06461ac77,non_parket,false,false,Hansen second voice
+94a3551def88beee,non_parket,true,false,air-raid notice
+467b018ba3acd691,parket,false,false,single presidential briefing
+1320102705f762e2,non_parket,false,false,human interest family voices
+4d0d94c2f169150d,non_parket,false,false,foreign story
+f5a2240749d914ce,non_parket,true,false,losses bulletin
+6d479188f2db07b5,non_parket,true,false,strike casualty report
+aab97e163e8f6686,non_parket,false,false,foreign ministers also quoted
+488dc0fe1d3ab616,non_parket,false,false,think-tank assessment cited
+a50caeb33f37828e,non_parket,false,false,foreign story
+1ccba0e2872ca617,non_parket,false,true,event announcement no content
+ac4ddab3f7be589d,non_parket,true,false,shelling casualty report
+b3b87145711d2d42,non_parket,false,true,state company appeal ambiguous
+80f7ac110d2e641e,non_parket,false,false,EU warning context included
+3488363c64a7ef0c,non_parket,false,false,foreign official
+ed8c715ec804ae69,non_parket,true,false,regional war sit-rep
+1b3bff421e6ddbab,non_parket,true,false,strike consequence report

@@ -1,0 +1,56 @@
+id,label,military_bulletin,uncertain,note
+b8378846405c9f37,parket,false,false,single Cabinet statement
+a71872c53689906c,parket,false,false,single SZR statement relay
+b86d95156093c1c3,parket,false,false,ministry source plus background recaps
+b46e45414f2fca6b,non_parket,false,false,foreign officials
+22908dd6a6c92d66,parket,false,false,single OVA head source
+86d22f0da7483456,parket,false,false,single CNS statement relay
+3014cb3eb2cc03b4,parket,false,false,single BEB press release
+ff5a263dce252555,parket,false,false,single official speech
+e30b03471245b8cb,non_parket,false,false,foreign official
+6bf403f9824bff1a,non_parket,false,false,company source
+5c769f2918c73ca4,non_parket,false,false,media sources no Ukrainian official
+00a2f305a67e636e,non_parket,false,false,foreign official
+40d43ab0a43d3e56,non_parket,false,false,foreign ambassador interview
+2def70e47a7c66a4,non_parket,false,false,foreign officials multiple voices
+8f2c8bcaab1f2cdc,parket,false,false,single state fund source
+78429533301da582,non_parket,false,false,two MP voices
+84de2be15322419b,parket,false,false,single official register source
+549e9bb1963383b2,non_parket,true,false,foreign intel frontline summary
+2a17555e3d118749,non_parket,true,false,air raid threat notice
+10df01d7fc409b5e,parket,false,false,single OVA head source
+454f3e1bca26bc07,non_parket,true,false,two officials strike report
+d9e7f6beafdffc41,parket,false,false,official register plus background
+0f77199b6221ded5,parket,false,false,single mayor source
+64e7f849bc2eb94e,non_parket,true,false,analyst frontline summary
+767785b21069bb73,non_parket,false,false,opposing claims aired
+d6db3c3369c9c2d7,parket,false,false,single prosecutor source
+1b365fb4b25f9f90,non_parket,false,false,foreign officials
+b82e176285fbbfa7,non_parket,true,false,Russian MoD shootdown report
+25964acadd851a89,non_parket,false,false,expert main voice
+b5a15a438b3f64f1,parket,false,false,single official interview
+a1f407e92e3873fe,non_parket,false,false,foreign officials media
+0a51dac9b96d0e67,non_parket,false,false,lawyer and media voices
+5db0686d1c83ff05,parket,false,false,single PM source
+1c18c24105616c27,non_parket,false,false,Russian sides multiple voices
+33bf301c7ba2917b,non_parket,false,false,Georgian counterposition included
+56ba32d7be0ee6b7,non_parket,false,false,media investigation residents quoted
+993d73e8157ae63c,non_parket,false,false,foreign statistics body
+d2c395d26e8a83cb,parket,false,false,single minister tweet
+9917268fa8189ce2,non_parket,false,false,foreign election body
+8436b24a98318892,parket,false,false,single NGU press release
+b35c5d828f047216,non_parket,false,false,foreign MP
+b0f7d6303b179d72,non_parket,false,false,foreign news no official
+fb4c41f62a0bd652,non_parket,true,false,air raid attack report
+9a3adf325093fe89,non_parket,false,false,multiple official voices
+1b1b23da1d082e14,non_parket,true,false,strike consequences report
+95ad9375afd06252,non_parket,false,false,foreign officials media
+b299835e9326b016,non_parket,false,false,poll and expert voices
+a69ebbee5e849202,non_parket,false,false,foreign event no official
+7d6e617c589ac4c8,non_parket,true,false,attack situation report
+41f50ca2b0619d02,non_parket,false,false,two law enforcement sources
+f027478dcb9a1908,non_parket,false,false,weather no official framing
+efd308e1d2a66293,non_parket,true,false,air raid all clear
+47e7fd6f53f8e7f1,non_parket,true,false,frontline spokesman briefing
+9a06a2e13f7fceb7,non_parket,true,false,attack casualty update
+c3a9436b623a9c15,non_parket,false,false,journalist investigation

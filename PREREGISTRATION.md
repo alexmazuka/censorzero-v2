@@ -303,6 +303,21 @@ and only if §9 shows recall stability across periods.
 
 ## 11. Deviations
 
+- **2026-07-10 — Blind annotation scaled up as the primary between-period
+  instrument.** The §9 precondition failed: the automatic proxy's recall is
+  low (≈7%) and drifts across periods (0%→3%→19%, homogeneity p≈0.003), so —
+  exactly as §8.6 commits — between-period conclusions from the automatic
+  metric are withheld. The blind human/LLM annotation protocol of §9 (same
+  codebook, same blinding) is therefore extended from a validation sample to
+  a direct measurement: ~400 Ukrinform articles per period (equal allocation,
+  rubric-proportional within period) and ~150 Українська правда articles per
+  period as a control, drawn with fixed seeds. An independent re-annotation
+  of 150 articles measures inter-annotator reliability (Cohen's κ); the
+  author's blind validation of a 60-article subsample (κ vs the primary
+  annotator) is part of the protocol. Impact: the primary between-period
+  comparison no longer depends on extractor recall at all; its instrument is
+  the committed codebook.
+
 - **2026-07-10 — Суспільне fetched as a deterministic sample, not a census.**
   Wayback CDX discovery returned ~170k Суспільне article URLs across the three
   windows. Fetching all of them politely is infeasible and unnecessary for a

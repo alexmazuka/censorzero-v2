@@ -317,3 +317,553 @@ cc2c54d991c2f177,non_parket,false,false,foreign company
 c25b3b23bf333c42,non_parket,false,false,foreign accident
 61c76d652f718132,non_parket,false,false,poll foreign
 871ec6e937768dbd,non_parket,false,false,foreign parliament Thailand
+0010a6564f7fc227,non_parket,false,false,foreign official
+001222ec5993ffab,non_parket,false,false,foreign official (CoE)
+001b0ae9415ba9d0,non_parket,true,false,foreign intel frontline summary
+00a2f305a67e636e,non_parket,false,false,foreign official
+00fb866fa6246f57,non_parket,true,false,air-raid liveblog
+0134194add2905e8,non_parket,false,false,foreign intelligence source
+01cc75440d28d5a0,non_parket,false,false,foreign government
+01d42c61b6c6ba83,non_parket,true,false,missile strike notice
+0207e266ab8316c9,non_parket,false,false,company source
+024e813ed49a1544,non_parket,false,false,volunteer feature no official
+025041290e1059f4,non_parket,false,false,foreign official (Putin)
+02fa4e56f1e5bd4a,parket,false,false,only president source
+038ae0be9c78c9b3,non_parket,true,false,strike casualties report
+03ef5a1b8202d14f,non_parket,false,false,Forbes as second source
+050b0e1fb17eed2f,parket,false,false,official sole source
+058034a3721697fe,non_parket,false,false,foreign official interview
+0607e1e6e65dbcdb,non_parket,true,false,explosion/air-raid notice
+0881e650c02d281c,non_parket,false,false,foreign event
+09d4034f845a9b67,non_parket,false,false,"foreign incident, multiple sources"
+0a51dac9b96d0e67,non_parket,false,false,lawyer and media voices
+0b52a7c08d71b2ad,non_parket,false,false,foreign story
+0ce0942070452bdf,non_parket,false,false,two officials disagree
+0ce78de30a0e6f4c,non_parket,false,false,foreign politician
+0d60dd1924b62765,non_parket,true,false,OVA shelling report
+0df6f1c06461ac77,non_parket,false,false,Hansen second voice
+0e13d1bcdee71005,non_parket,false,false,Russian official statement
+0e5937713eefd5da,non_parket,true,false,daily shelling summary
+0ef67595ccefd009,non_parket,false,true,state company framing
+0f6a0d6a18dc356c,parket,false,false,minister sole source
+0f77199b6221ded5,parket,false,false,single mayor source
+10077a937d9189ac,non_parket,true,false,attack casualty report
+107c9d8a23cece73,parket,false,false,president sole source
+10d5ad441488cf71,non_parket,false,true,foreign initiative via OP
+10df01d7fc409b5e,parket,false,false,single OVA head source
+10df490a5e8365e0,non_parket,true,false,attack damage report
+113e17aea388e8d2,non_parket,true,false,border security situation report
+122f2705ccd0a071,parket,false,false,minister sole source
+124ec97b0a1f1316,non_parket,true,false,"strike consequences report, MVA"
+1302646e8813776b,non_parket,false,false,NGO source foreign topic
+13140aa5f173624d,non_parket,true,false,strike casualties; two bodies
+1320102705f762e2,non_parket,false,false,human interest family voices
+132fa0a8946af2f5,parket,false,false,single police official interview
+1366eb3004971b4c,non_parket,false,false,foreign story
+13bad8e3360b5281,non_parket,false,false,foreign court story
+13e20dda87c9d5dd,non_parket,false,false,foreign protest leader
+1476b79889bf1d02,parket,false,false,cabinet decisions single source
+15a13186c01ea774,non_parket,false,false,sport
+16b595ba450b17c8,non_parket,true,false,daily war digest
+16d15593a4ef801c,non_parket,false,false,NGO source
+18643fbf1a0c3de1,non_parket,false,false,foreign topic
+1a59d3fa7d83867b,non_parket,false,false,foreign news
+1a7f7b647811da00,parket,false,false,single ministry source
+1b1b23da1d082e14,non_parket,true,false,strike consequences report
+1b365fb4b25f9f90,non_parket,false,false,foreign officials
+1b3bff421e6ddbab,non_parket,true,false,strike consequence report
+1b83361671b0b602,non_parket,true,false,air defence combat report
+1bb44efa327847cb,parket,false,false,president sole source
+1c18c24105616c27,non_parket,false,false,Russian sides multiple voices
+1c21e7d587097a8b,non_parket,false,false,Russian/foreign officials
+1ccaf70d8fafc853,non_parket,false,false,NABU/SAP opposing voices included
+1ccba0e2872ca617,non_parket,false,true,event announcement no content
+1cfb503f95e518de,parket,false,false,single Zelensky statement
+1de7339bcc951c88,non_parket,true,false,enemy activity report
+1eb09bd8c9210b3c,non_parket,true,false,shelling aftermath report
+1ee289994f3571ab,non_parket,false,false,foreign official (Czech president)
+1fa2ead534c06525,non_parket,true,false,shelling casualty report
+1ff8e71019c33552,parket,false,false,single OVA source
+208c146399ac1e9b,parket,false,false,single regulator source
+20b2c4b4e4698516,parket,false,false,single DSNS source
+21181ff194596d45,non_parket,true,false,attack consequence summary
+21bfc76fe3ac011a,non_parket,true,false,air-defense situation report
+22493a49194f41b2,non_parket,false,false,Russian official claims
+22541a2317b0c7f1,non_parket,false,false,expert commentary
+22703d7f9903faac,parket,false,false,single DBR source
+22908dd6a6c92d66,parket,false,false,single OVA head source
+22c5a8274ea9a230,non_parket,false,false,Russian budget foreign
+236d1e3dc02124d8,non_parket,false,false,foreign media report
+23921a46d3577eb5,non_parket,false,false,foreign official (Germany)
+255f36d30e6bbcf3,non_parket,false,false,foreign officials via Bloomberg
+25964acadd851a89,non_parket,false,false,expert main voice
+25c950fc253ee4e0,non_parket,false,false,lawyer source multiple voices
+25f0cc6db056f315,non_parket,false,false,foreign analysts (ISW)
+2645a7aa5c00d9dd,non_parket,false,false,foreign topic
+26f3789a0340c609,non_parket,false,false,foreign official interview
+27d9ad965c335326,non_parket,true,false,General Staff briefing
+2824a6db81595b67,non_parket,false,true,state company situation report
+2893f9fdbe2788b4,non_parket,true,false,strike aftermath situation report
+291c331b64ff8c10,non_parket,false,false,foreign police source
+294d4d702f141b9e,non_parket,false,false,accused responds to SBU
+29bfc1875bee8811,non_parket,false,false,foreign official statement
+2a17555e3d118749,non_parket,true,false,air raid threat notice
+2a7c79c176f3218f,non_parket,true,false,air raid notice
+2ae3e6763074b0f8,non_parket,true,false,attack report two officials
+2b5989f348cf72ff,parket,false,false,single NBU source
+2bb05ecbe70301e6,non_parket,false,false,foreign official (Lithuania)
+2bd4022d3057a2d4,non_parket,true,false,strike casualties report
+2c5de0452b2a4134,non_parket,false,false,market news no official
+2d5c76b3dfe2702d,non_parket,false,false,"journalist inquiry, multiple sources"
+2d62806c21dab163,non_parket,false,false,expert commentary
+2def70e47a7c66a4,non_parket,false,false,foreign officials multiple voices
+2e7c9e05da25d3bc,non_parket,true,false,attack report via media
+2f2e8acd47c8baf6,parket,false,false,one ministry press release
+2f77fa2219f92b69,non_parket,false,false,expert and NGO voices
+2f9d67bde750ee3a,parket,false,false,ministry sole source
+2fc2fa1bfdb75026,non_parket,false,false,ex-official expert voice
+30019aa4c23ec392,non_parket,false,false,foreign officials
+3014cb3eb2cc03b4,parket,false,false,single BEB press release
+30c9f35746e010ed,non_parket,false,false,foreign officials
+313f61a72af39ef7,non_parket,true,false,General Staff briefing
+314e2cf3d27488b4,non_parket,false,false,morbidity situation report
+324130baad908490,non_parket,false,false,foreign parliament
+327cb73214db9b31,non_parket,false,false,foreign event
+33172c5b0d9421d7,parket,false,false,single agency head
+33345b535fe724a4,parket,false,false,OP press release only
+33556d9e704c5825,parket,false,false,single OVA head
+33733d6dd6162f92,non_parket,true,false,"attack report, OVA"
+33bf301c7ba2917b,non_parket,false,false,Georgian counterposition included
+33f7fd51b22ae146,non_parket,false,false,company source
+3488363c64a7ef0c,non_parket,false,false,foreign official
+34a5ec90ff546d80,non_parket,false,false,foreign ex-diplomat
+34dcbbc6b9a61630,non_parket,true,false,Russian officials war report
+36037d23dbda6cd9,non_parket,false,false,Russian official
+3693cd1ce531b6e9,non_parket,true,false,air-raid notice
+36b7f08db55622fa,parket,false,false,single minister source
+37016533e3a8544a,non_parket,true,false,shelling casualty report
+37974b65395f03d7,non_parket,true,false,daily war digest
+3809e7a3ff4508ff,non_parket,false,false,foreign intelligence source
+3836e1d28935b919,non_parket,false,false,EC and expert context
+3879bf5b2b5c3c55,non_parket,true,false,strike casualty report
+38e263615bc86a40,non_parket,false,false,foreign official
+38e389c62da9bc1d,non_parket,true,false,General Staff enemy losses
+38fd4f4c5166fe1d,non_parket,false,false,company and academy voices
+399f5df3dcf5e38a,non_parket,true,false,air-raid attack notice
+39c60a4dc0fb8f93,non_parket,true,false,shelling casualties notice
+3a839179428d3bab,parket,false,false,single police source
+3b6016c7d69f8be8,non_parket,false,false,foreign official
+3b659d65dc00a197,non_parket,false,false,science/culture news
+3b79f1f28dd418e4,non_parket,false,false,foreign story
+3c71ab06340f67e9,non_parket,false,false,NATO officials quoted
+3d298737469d1579,parket,false,false,president sole source
+3d84532abfc824c6,non_parket,false,false,foreign official
+3d91545f28c4ebb9,non_parket,false,false,foreign story
+3db5ed74e8ba98f8,non_parket,true,false,General Staff daily summary
+3decacb9971c32ed,parket,false,false,presidential address only
+3f0f45a6bdd4c0f0,non_parket,true,false,NGU weekly front-line briefing
+3f1b7bf812135e95,non_parket,false,false,foreign officials only
+3f57cad382766198,non_parket,true,false,attack report
+40576e3410407dda,parket,false,false,only Zelensky statement
+40d43ab0a43d3e56,non_parket,false,false,foreign ambassador interview
+4133210f3f11e398,non_parket,true,false,"drone attack report, OVA"
+41a61dcddb7d61ed,parket,false,false,single Zelensky statement
+41f50ca2b0619d02,non_parket,false,false,two law enforcement sources
+425a78df95d948a2,parket,false,false,single official (prosecutor) case
+425f9f3697d28324,parket,false,false,official visit; single source
+4270958335d2d734,parket,false,false,only Syrskyi voice in recap
+42b6422c58afb0a2,non_parket,true,false,shelling casualty report
+434af80ef2dc7a97,parket,false,false,single Zelensky source
+43997027c0fb822e,non_parket,false,false,foreign official
+44585afd55d2b749,non_parket,true,false,attack in progress report
+44d531158c6f938e,non_parket,false,false,feature with multiple voices
+454f3e1bca26bc07,non_parket,true,false,two officials strike report
+455dce45517ec4d6,non_parket,false,false,foreign intelligence
+467b018ba3acd691,parket,false,false,single presidential briefing
+47e59265f89fd4aa,non_parket,false,false,"no domestic official, several voices"
+47e7fd6f53f8e7f1,non_parket,true,false,frontline spokesman briefing
+48250a431782f846,non_parket,true,false,regional shelling situation report
+488a00c94648651f,non_parket,true,false,drone attack report
+488dc0fe1d3ab616,non_parket,false,false,think-tank assessment cited
+489c8c74f25f5194,parket,false,false,only Zelensky statement
+4946ef5db4d4c963,non_parket,true,false,regional shelling summary
+49632b4402c0ae02,non_parket,false,false,opposition voice piece
+499f9e533aae38f1,parket,false,false,OP sole source
+4a45473028138e9e,non_parket,true,false,shelling situation report
+4a47142de858a4a7,parket,false,false,single city council source
+4be45fcae4030cfb,parket,false,false,SBU sole source
+4d0d94c2f169150d,non_parket,false,false,foreign story
+4de726b55fbfab72,non_parket,false,false,foreign event
+4e40cf9771bf3f1c,parket,false,false,single official UN speech
+4e4297c2ecdf7a62,non_parket,false,false,foreign story
+4e49b52ed9b07bc1,non_parket,false,false,DBR plus media source
+4f12ef345c6e42bf,non_parket,false,false,foreign story
+507310da045b0b64,non_parket,false,false,foreign government
+508181e67d334bf9,non_parket,false,false,foreign official
+518c784581a788ff,non_parket,false,false,opposing Polish statements quoted
+520e18fe0603069f,non_parket,false,false,academic event not officials
+5215f6c64e4f1f66,parket,false,false,single Budanov source
+52eaa0643accec6d,non_parket,false,false,"foreign officials, Belgian aid"
+5364f1bea6246212,non_parket,false,false,ex-minister expert opinion
+5389f6aefbef0f15,non_parket,false,false,weather records
+549364e46f8b104c,non_parket,true,false,naval situation report
+549dc48a338f8c23,parket,false,false,"OP readout, single source"
+549e9bb1963383b2,non_parket,true,false,foreign intel frontline summary
+55b7fd6bc73130fa,parket,false,false,single OVA source
+55f5bfba8ee6ebab,non_parket,true,false,front-line combat report
+56320db7a6a82019,parket,false,false,single DBR source
+5655943d6f1f3061,non_parket,true,false,air defense downed drones
+56ba32d7be0ee6b7,non_parket,false,false,media investigation residents quoted
+56d76c44d61690c8,non_parket,false,false,second official in background
+571e1829e3e9d827,non_parket,false,false,foreign official
+575744f538aaabe2,non_parket,true,false,monthly enemy-losses summary
+58082778e2c748ef,non_parket,true,false,combat episode report
+58fcb5750670bcf4,parket,false,false,single source President's Office readout
+5a94bf8511014ebf,parket,false,false,ministry announcement only
+5b07e8c2f7f4ffc5,non_parket,false,false,foreign official
+5b3789e214c174b2,parket,false,false,presidential decree sole source
+5b4dcd2450a57a99,parket,false,false,ombudsman sole voice
+5bb45d0c8fb7e7ea,non_parket,true,false,air raid notice
+5c769f2918c73ca4,non_parket,false,false,media sources no Ukrainian official
+5d04044cdb6e1e4b,non_parket,false,false,foreign officials
+5db0686d1c83ff05,parket,false,false,single PM source
+5de688efc9db6734,non_parket,false,false,multiple sources; infrastructure event
+5e2c7ce6349cdc48,non_parket,false,false,IAEA second source
+5e5dd8b4986b0023,non_parket,false,false,citizen volunteer voices
+5e93f82061ce382b,non_parket,false,false,museum institution source
+5f1deb0817195084,non_parket,true,false,air-raid explosion notice
+5f4852d1a8629750,parket,false,false,single OVA official briefing
+61036721becb29c5,parket,false,false,single ministry announcement
+6114195dd75951dd,parket,false,false,single ministry source
+6163c83c32876d42,non_parket,false,false,foreign official
+61abe1b93c658ed5,parket,false,false,official ceremony; single source
+625af34c4593243b,non_parket,true,false,shelling casualties report
+638e56855a58e389,non_parket,false,false,UN body official (foreign)
+63b50ef615c565ae,non_parket,false,false,foreign official
+63cd4b83a7739348,non_parket,false,false,foreign politician comment
+648c767fa31277dc,non_parket,true,false,General Staff daily summary
+64e7f849bc2eb94e,non_parket,true,false,analyst frontline summary
+6528a493d40db3c9,non_parket,false,false,Russian event and sources
+6588fdd3a91844af,non_parket,true,false,daily war-day digest
+65e5f2f5ccd65236,non_parket,true,false,front-line situation report
+6635e2b236e7233c,parket,false,false,single military official source
+66e3facee080204a,non_parket,true,false,regional shelling summary
+670694a3174cb976,parket,false,false,president sole voice
+67d1edda68432e29,non_parket,true,false,"missile strike report, OVA"
+6832d96dbac941df,non_parket,false,false,expert voice
+686d54b1df303dc3,parket,false,false,single commander statement
+687b70db8184967a,non_parket,true,false,attack aftermath two officials
+68c5acd9071a45f1,non_parket,true,false,front-line situation report
+6924ad704f39d237,non_parket,true,false,strike situation report
+69608f656b428500,non_parket,true,false,air-raid alert notice
+69ea816e444e9d7d,parket,false,false,single ministry policy announcement
+6b1191d554f4b887,non_parket,true,false,strike consequences report
+6b46f7cd01a3125b,non_parket,true,false,General Staff daily briefing
+6bf403f9824bff1a,non_parket,false,false,company source
+6c5007a7989488d5,non_parket,true,false,attack consequence report
+6c62da26984a1124,parket,false,false,president sole source
+6d479188f2db07b5,non_parket,true,false,strike casualty report
+6d9fbf08ed983beb,non_parket,false,false,foreign officials
+6e147cd457cd8546,non_parket,false,false,partisan movement source
+6f56b1c6e2110952,parket,false,false,presidential readout single source
+6f8a487fdd3160f4,non_parket,true,false,strike casualties report
+6f9a2b2a00e032b5,non_parket,false,false,"journalists account, multiple sources"
+6fce0d896d0add94,parket,false,false,single SBU source
+7111f7a40a17beca,non_parket,false,false,two official sources
+71188e319432a519,non_parket,false,false,exchange rates data
+7188ed1658f5da94,non_parket,true,false,Genstab losses bulletin
+718e9685b573af0b,parket,false,false,single SZRU source
+73a26aa8263ba51d,non_parket,false,false,foreign officials
+73bbf4264e630e1c,non_parket,true,false,daily casualty summary
+747f9c00ef62f1a5,non_parket,false,false,foreign official
+7622221d879eb0d4,parket,false,false,OVA sole source
+76658f5660366d63,non_parket,false,false,foreign story
+767785b21069bb73,non_parket,false,false,opposing claims aired
+76b72ecf08ef28a7,non_parket,false,false,foreign story
+76c841c9615138a7,non_parket,false,false,designer interview no official
+781b6bccd197d85a,non_parket,false,false,foreign topic
+78429533301da582,non_parket,false,false,two MP voices
+7a2981e805d48b1b,non_parket,true,false,front-line summary
+7b01d532b47479b8,non_parket,false,false,foreign official
+7b5a19403598c185,parket,false,false,single police source
+7b8b8d12c4d7c2a2,non_parket,false,false,foreign official
+7d6e617c589ac4c8,non_parket,true,false,attack situation report
+7dbbddaed2809d34,non_parket,false,false,foreign official
+7dfe76ac8bc74e57,non_parket,false,false,foreign official
+7e18e26850c6f40b,non_parket,false,false,"NGO founder, not official"
+7e55a07fdf744740,non_parket,false,false,industry association and companies
+80f7ac110d2e641e,non_parket,false,false,EU warning context included
+81a69abc54c7006c,non_parket,false,false,foreign official (US State Dept)
+826d3033235d28f9,parket,false,false,single minister statement
+83715df6e72666d9,parket,false,false,single official statement
+83abbe93a1f34397,non_parket,true,false,General Staff briefing
+8436b24a98318892,parket,false,false,single NGU press release
+84dda1f8f0b3ebdd,non_parket,true,false,Genstab daily summary
+84de2be15322419b,parket,false,false,single official register source
+84e0c885f3ab8a00,non_parket,true,false,front-line POW capture
+85163b4980e59ff7,parket,false,false,single military command source
+86c1847da8815785,non_parket,false,false,foreign space news
+86d22f0da7483456,parket,false,false,single CNS statement relay
+870965a10c8ff947,non_parket,false,false,weather; no official
+883260905519c0f5,non_parket,false,false,foreign politics
+88b76128865b96be,non_parket,true,false,OVA shelling report
+892b6e481e6d187f,non_parket,false,false,foreign officials via media
+895500fda54b46e6,non_parket,false,false,foreign media and officials
+8958e6525c82b8d2,non_parket,false,false,NGO voice
+8ad7fe2b21278a7f,parket,false,false,state enterprise press release only
+8b430afe113dbc4b,non_parket,true,false,daily shelling summary
+8c950dc7be01459d,non_parket,false,false,foreign body
+8ca6a5a83ed2a551,parket,false,false,appointment; no independent voice
+8d09c72eef9a422f,non_parket,false,false,foreign analysts (RUSI)
+8df1efe90fdcd512,non_parket,false,false,foreign officials
+8e162a82b0e95fa5,non_parket,false,false,foreign official
+8e2586128e676fa0,non_parket,true,false,attack consequences report
+8f2c8bcaab1f2cdc,parket,false,false,single state fund source
+8f4b739b9b8f1bc4,parket,false,false,single official (prosecutor) case
+8f571f6d9bff702d,parket,false,false,parliament sole source
+8f9fe11125888288,parket,false,false,single official handover to unit
+8fe16c789fd375de,non_parket,true,false,"attack report, defense council"
+8ff65c410775981c,non_parket,false,false,foreign official
+8ffe49070d15e3db,parket,false,false,single Zelensky speech relay
+903a87f91f642284,non_parket,false,false,foreign official
+90774d8a479ea8c3,non_parket,true,false,Genstab front-line report
+9122135f9e76a5a1,non_parket,false,false,foreign officials
+912efe4173ca108f,non_parket,false,false,foreign official sources (Estonia/Lithuania)
+916e870e5f6835da,non_parket,false,false,weather forecast
+91cba028eed19ab6,parket,false,false,single official (FM) meeting readout
+921dcc05a76aaf93,parket,false,false,Rada action single source
+922069fac67a293b,parket,false,false,single Zelensky statement
+92f2709f4995835a,non_parket,true,false,air-raid notice
+93466f5b3e3248f3,non_parket,true,false,shelling damage report
+93bdb9063ebdf4b4,non_parket,true,false,front-line spokesman report
+94666fe466a5d7eb,non_parket,false,false,foreign court story
+94a3551def88beee,non_parket,true,false,air-raid notice
+956c5d35727b2f4d,non_parket,true,false,daily shelling summary
+95ad9375afd06252,non_parket,false,false,foreign officials media
+9717eb631c56b03f,parket,false,false,city head sole source
+97689768d7feff80,parket,false,false,official visit defense sources only
+97d005bec49b6a04,non_parket,true,false,attack consequences; two officials
+9917268fa8189ce2,non_parket,false,false,foreign election body
+991d71a74fd11b46,non_parket,false,false,two official sources
+993d73e8157ae63c,non_parket,false,false,foreign statistics body
+9979c50960808579,parket,false,false,single official no second voice
+99c3e219927e5b6c,non_parket,false,false,"media report, no official framing"
+9a06a2e13f7fceb7,non_parket,true,false,attack casualty update
+9a3adf325093fe89,non_parket,false,false,multiple official voices
+9b27a49f426d8585,parket,false,false,single MP source
+9b5ab713b99b4dc1,non_parket,false,false,foreign officials
+9b9322aa4d9283ec,non_parket,false,false,UN/foreign bodies
+9bbd3f292ab84ba1,non_parket,false,false,foreign officials
+9bd6eaa90f9af24e,non_parket,true,false,police strike report
+9be45bdc2d177549,non_parket,true,false,explosion notice media plus official
+9c781227427efb4e,parket,false,false,single official Facebook source
+9d0619119c941b00,non_parket,false,false,foreign story no UA official
+9d5e7ee5a5dddd66,non_parket,false,false,foreign officials
+9d7808278e3a8c72,non_parket,true,false,shelling casualty report
+9e24c068f9c01b5e,non_parket,true,false,General Staff bulletin
+9e37a0d60a26bf49,parket,false,false,single military source
+9ef01431f5ec28af,parket,false,false,NBU sole source
+9f8d971ee576acd0,parket,false,false,single official post
+9fae20fc58c206c5,non_parket,false,false,two official bodies
+a0ac9dda14dbe524,non_parket,false,false,UN posts quoted
+a1f407e92e3873fe,non_parket,false,false,foreign officials media
+a2509e86e6f2cd94,non_parket,false,false,two official bodies quoted
+a257e298a80a7537,non_parket,true,false,regional shelling summary
+a2b2ae6b8f1e8268,non_parket,false,false,sport
+a2bda270c3e0dc1f,non_parket,false,false,foreign official
+a2c1b900b9d352d6,non_parket,true,false,"drone attack report, MVA"
+a2f7614f561c6f40,non_parket,false,false,foreign official
+a4085cb894b41177,non_parket,true,false,shelling casualty report
+a4a3c1af21d6505f,parket,false,false,single presidential greeting
+a4b908319b6f9bab,non_parket,false,false,foreign official (Poland)
+a50caeb33f37828e,non_parket,false,false,foreign story
+a527978999e545b0,parket,false,false,OVA press service only
+a644c36ddfebe49f,non_parket,false,false,journalist investigation
+a69ebbee5e849202,non_parket,false,false,foreign event no official
+a71872c53689906c,parket,false,false,single SZR statement relay
+a753e76c17884c14,non_parket,false,false,defense lawyer second voice
+a85abfa68492df52,non_parket,false,false,crime event not official-centred
+a8fd8b238d899159,non_parket,false,false,foreign politics
+aab97e163e8f6686,non_parket,false,false,foreign ministers also quoted
+aac20ae4706a107b,non_parket,false,false,multiple sources incl BBC
+aad5586b86353a71,parket,false,false,CPD sole source
+aafcd6d966c13db3,non_parket,false,false,foreign officials
+ab5a29f2611b132a,non_parket,true,false,air defense notice
+ac02a7480edd52cd,non_parket,true,false,Genstab losses bulletin
+ac4ddab3f7be589d,non_parket,true,false,shelling casualty report
+acd6f0369941b590,non_parket,false,false,"market prices, no official"
+acd8ae91ac3698b3,non_parket,false,false,"feature, multiple voices"
+ace7a699bf878164,non_parket,false,false,foreign official (China MFA)
+ad5340c10cb36b18,non_parket,false,false,foreign story
+ad7ea92b2b9af6aa,non_parket,true,false,General Staff losses
+ae97a89ffb3ade11,non_parket,false,false,foreign government source
+af3375a639d76d6a,non_parket,true,false,General Staff daily summary
+af5381394935c5ee,non_parket,true,false,"shelling damage report, OVA"
+b03fe8cb2490f0aa,non_parket,false,false,foreign officials
+b0d5064fddabda8c,non_parket,false,false,evacuated citizen quoted
+b0f7d6303b179d72,non_parket,false,false,foreign news no official
+b1301b495113af40,non_parket,false,false,foreign military news
+b15f98264449512f,non_parket,true,false,attack casualty report
+b1607511d7f9e0e3,non_parket,false,false,foreign officials
+b17ec855adf62536,non_parket,true,false,air-defense activity notice
+b205ddad6336a3bc,non_parket,false,false,Russian bodies
+b25775f9c2a75c95,non_parket,false,false,businessman framing not official
+b26bf19597c50c1c,non_parket,true,false,frontline spokesman report
+b27592144e096185,non_parket,true,false,air-raid notice
+b299835e9326b016,non_parket,false,false,poll and expert voices
+b2b6d958724335da,non_parket,false,false,foreign officials
+b35c5d828f047216,non_parket,false,false,foreign MP
+b3b87145711d2d42,non_parket,false,true,state company appeal ambiguous
+b44d543cdbcf0bbc,parket,false,false,single DSNS official
+b45a9912a1bd99ca,non_parket,false,false,foreign official
+b46e45414f2fca6b,non_parket,false,false,foreign officials
+b4cba77aeef07d95,parket,false,false,commander sole source
+b4cf944ce3fd1c01,parket,false,false,single MFA source
+b4dded10f76e2038,non_parket,true,false,"strikes casualties report, OVAs"
+b5a15a438b3f64f1,parket,false,false,single official interview
+b5da0b0c1ea30e4e,non_parket,false,false,second official voice present
+b6643988601a441c,non_parket,true,false,General Staff losses
+b82e176285fbbfa7,non_parket,true,false,Russian MoD shootdown report
+b8378846405c9f37,parket,false,false,single Cabinet statement
+b86d95156093c1c3,parket,false,false,ministry source plus background recaps
+b8a57f6197afc3d5,parket,false,false,single GUR voice only
+b8bb3c27635dde38,non_parket,false,false,foreign officials only
+b9aee8dd85d737d5,non_parket,false,false,foreign farmers event
+baa561ced70c9800,parket,false,false,single official source
+bbbeb15a467828a7,non_parket,false,false,foreign official (UK)
+bc95896b1933906a,non_parket,false,false,foreign investigation
+bdda6f6fbfe68a8b,non_parket,false,false,Swiss official second voice
+be3d9818fe67da8b,non_parket,false,false,multiple sources
+be7aecdb045f13bf,non_parket,false,false,foreign story
+bf06c9a04085ab6f,non_parket,false,false,ISW assessment cited
+bf90a965552de792,non_parket,false,false,two voices at presser
+c03925ab28df07f2,non_parket,false,false,foreign government
+c07628378dd630eb,parket,false,false,single official (defense minister) interview
+c091e0fb43ebb7c8,parket,false,false,MOU sole source
+c0e8ba6b7c02c700,non_parket,true,false,front-line operational report
+c1df2be0d4ceb974,parket,false,false,only ombudsman statement
+c252640cc738e13e,non_parket,false,false,foreign official
+c2a70d9967cc20da,non_parket,false,false,culture-framed story
+c3a9436b623a9c15,non_parket,false,false,journalist investigation
+c3a9862fc8c28e05,non_parket,false,false,foreign officials
+c468f9558ecc7e64,non_parket,false,false,foreign event russian sources
+c499d179c1e5fcbd,parket,false,false,single official (mayor) interview
+c4bd43d906bdf291,parket,false,false,single MP source
+c53e4703399f812c,non_parket,false,false,foreign official
+c5a7be04b2b3edcd,non_parket,false,false,foreign official
+c63e2d88b44f84b2,non_parket,false,false,multiple voices Trump EU
+c726f183afc0d682,parket,false,false,single PM statement
+c7561a29ac03e381,parket,false,false,single Budanov interview
+c8579834a127cb89,non_parket,true,false,OVA shelling casualty report
+c8b6f958dc1c925d,non_parket,false,false,foreign media sources
+c9fff8108cfe2a84,non_parket,false,false,expert ex-official interview
+ca4498b3d942ec70,non_parket,false,false,"court case, not official framing"
+cacc877960c7476b,non_parket,false,false,foreign official interview
+cc13c7626c48dd05,non_parket,true,false,strike aftermath report
+cca58415f5f40cab,non_parket,false,false,Russian official
+ccb4d23cf3e8d735,non_parket,false,false,incident report police as channel
+ccdb0cd1d2699250,non_parket,false,false,foreign officials
+cce240fe384be337,non_parket,false,false,human-interest survivor story
+cd22e2433a0615e7,parket,false,false,only Zelensky statement
+cd25c1370bddb057,non_parket,false,true,official decision; dissent only backgrounded
+cd6a422359807f20,parket,false,false,OVA head sole source
+cdbd3fd14d02c706,parket,false,false,"police PR, single source"
+cdf3766e1dbd3884,non_parket,false,false,company official second voice
+ce36b581ed7a4ec5,parket,false,false,minister column sole source
+ce447bf20acdba3b,non_parket,true,false,General Staff bulletin
+d08d92f8e8a22a31,non_parket,false,false,multi-voice analytical feature
+d0ab2d959af59e3e,non_parket,false,false,foreign leader second voice
+d0ed062b7d95b36b,non_parket,false,false,foreign court story
+d170093678e87eb6,parket,false,false,single council press service
+d2292c1c5bd79f4d,non_parket,false,false,obituary no official framing
+d243d2d8b34061bd,non_parket,true,false,General Staff losses
+d2b1bf709f817046,non_parket,false,false,Pentagon position in background
+d2c395d26e8a83cb,parket,false,false,single minister tweet
+d2d4b9291df3ab2c,parket,false,false,single official interview
+d2e1222daf485899,non_parket,false,false,second official cited
+d4703338b610d3a3,non_parket,true,false,attack consequences report
+d49a8dba3633b18d,non_parket,false,false,widow second voice
+d55e12999c6f3fa8,non_parket,false,false,foreign intelligence
+d5f21d8519590f4c,non_parket,false,false,two officials quoted
+d64a17e7f75346e7,parket,false,false,single official (deputy minister)
+d677f18432a05530,non_parket,false,false,foreign topic
+d6c5f1880a77b4f6,non_parket,false,false,foreign government
+d6db3c3369c9c2d7,parket,false,false,single prosecutor source
+d70c2350572b9894,non_parket,true,false,General Staff daily summary
+d74f8c1917f10d08,non_parket,false,false,foreign story
+d8d08f8377f6bd9b,parket,false,false,single NBU source
+d9a352f4ad28ae1a,non_parket,false,false,two official sources
+d9e7f6beafdffc41,parket,false,false,official register plus background
+db9c04f0e3af40f0,parket,false,false,DBR sole source
+dce9940544af549a,parket,false,false,protocol meeting; single source
+dd08e34804bc47dd,non_parket,false,false,Russian official framing
+dee071fd682c9d73,non_parket,false,false,"international declaration, foreign source"
+dee798cb1f3ba1ca,non_parket,false,false,businessman-framed; document based
+df8bd1b616c2ee52,non_parket,false,false,foreign official centred
+dfb7189360a95506,non_parket,false,false,foreign official
+dfd17e2b92bb9d6d,non_parket,false,false,citizen and spokesperson voices
+e07441c34b023738,parket,false,false,president sole voice
+e0b3395d4598eba8,non_parket,false,false,brigade statement second voice
+e1b870b2215097d7,parket,false,false,single official briefing
+e2a27bf399f04dd2,non_parket,false,false,two officials quoted
+e30b03471245b8cb,non_parket,false,false,foreign official
+e30ed975ae82d155,parket,false,false,single SBU source
+e4471083345d92a3,non_parket,false,false,channel reps respond
+e4c36bf4cbb33ef5,non_parket,true,false,shelling incident report
+e52e5377310920bd,non_parket,true,false,attack aftermath report
+e54ba3d8cfe5d1c3,parket,false,false,official visit single source
+e5f3a64e1b54b692,parket,false,false,single Zelensky statement
+e5f827b54b86110d,non_parket,false,false,market news (oil)
+e633d55b945c8961,non_parket,false,false,foreign official
+e6ccf380b3a0de23,non_parket,false,false,foreign activist
+e6cdb3c46afd4657,non_parket,false,false,court multiple voices
+e80c1bb5c55c37b9,non_parket,false,false,foreign military command
+e85549b0dbe1ab50,non_parket,false,false,Russian figure
+e8a1b35ab3b3b53b,non_parket,false,false,foreign official
+e908e4d17d0bb504,non_parket,true,false,navy situation report
+e95051cb54da4472,non_parket,true,false,strike casualty report
+e9f1465c5ca70e50,non_parket,true,false,attack damage report
+ea3c4f076eb37a33,non_parket,false,false,foreign official (US)
+ea5d1b11c29620a1,non_parket,false,false,foreign topic and officials
+eb240aa5f9002153,non_parket,true,false,air-raid drone warning
+ec259fbb84fcde3e,non_parket,false,false,foreign actors
+ed63b513407a8e97,non_parket,true,false,military spokesperson situation report
+ed8c715ec804ae69,non_parket,true,false,regional war sit-rep
+eee82b56de4920e7,non_parket,true,false,"shelling report, OVA"
+efaf64c6c426a89e,parket,false,false,president sole source
+efd308e1d2a66293,non_parket,true,false,air raid all clear
+efe871c1ebb3db7e,non_parket,true,false,OVA attack report
+efeb1a20225172ed,non_parket,true,false,"missile attack report, Air Force"
+f027478dcb9a1908,non_parket,false,false,weather no official framing
+f1c3c373b51878a9,non_parket,true,false,air defense situation report
+f1d62d238b139bb6,non_parket,false,false,"court report, multiple voices"
+f285234a03bcd382,non_parket,true,false,General Staff summary
+f358b18f210ed8a3,non_parket,false,false,foreign event (Turkey)
+f3a6008ff6e8d1b9,non_parket,true,false,General Staff bulletin
+f56b0861f4dcdd32,parket,false,false,single OVA source
+f571aaed1d0943bc,non_parket,false,false,Russian MFA (foreign)
+f5856a909b1d74e0,non_parket,false,false,NGO fund framing
+f58b2bd9c0917b88,non_parket,false,false,"city project, second source"
+f5a2240749d914ce,non_parket,true,false,losses bulletin
+f5ae5e57f984ab5c,parket,false,false,single OVA head briefing
+f6da0e633e9d1d33,parket,false,false,president sole source
+f72c1702cd08e911,parket,false,false,single prosecutor source
+f76063d0cb4b8926,non_parket,false,false,investigative journalism
+f78b378f130c3e7c,parket,false,false,built on single OVA statement
+f79b04db58632bc4,non_parket,false,false,foreign topic diplomats
+f7db4083b1ca855a,parket,false,false,single Minfin source
+f805ff9ece96c319,non_parket,false,false,NATO/foreign sources
+f8d90437c5c062fc,parket,false,false,only Zelensky quoted
+f97b23da730a13df,non_parket,false,true,state company boundary case
+f9d9d8d5d6606f39,non_parket,false,false,foreign official
+f9e8c9074a32840f,parket,false,false,single official (deputy FM)
+fa4d268c2812b91e,parket,false,false,single OVA briefing source
+fa60aecdd5379c29,non_parket,false,false,expert voice
+fb4c41f62a0bd652,non_parket,true,false,air raid attack report
+fb7fb0a1d80940fa,non_parket,true,false,shelling casualty report
+fba545f893c7ab59,non_parket,false,false,foreign official
+fbfbc5fc5abdfe6c,non_parket,false,false,foreign official framing
+fcf9ec3051667cfe,non_parket,false,false,multi-voice analytical feature
+fdaf7f2a16ec4d4c,non_parket,true,false,air force attack report
+ff5a263dce252555,parket,false,false,single official speech
+ff887b48a7653998,non_parket,false,false,foreign official statement

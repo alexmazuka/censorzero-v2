@@ -66,6 +66,9 @@ function buildNav() {
    ["#explorer", "nav_explorer"]].forEach(([href, k]) => {
     const a = el("a", null, T(k)); a.href = href; nav.appendChild(a);
   });
+  const rep = el("a", null, T("nav_report"));
+  rep.href = LANG === "uk" ? "report_uk.html" : "report_en.html";
+  nav.appendChild(rep);
 }
 
 function renderVerdict() {

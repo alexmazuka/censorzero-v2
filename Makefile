@@ -39,7 +39,8 @@ test:
 # carries the logistic-regression companion whose iterative MLE is not
 # bit-stable across platforms (rates + bootstrap p-values, which ARE stable,
 # live in figures.json and are gated here). CI runs this on a clean checkout.
-VERIFY_PATHS = site/figures.json README.md data/interim/counts.json data/manifests/lineage.json
+VERIFY_PATHS = site/figures.json README.md data/interim/counts.json data/manifests/lineage.json \
+  docs/REPORT.uk.md docs/REPORT.en.md site/report_uk.html site/report_en.html
 
 verify: all
 	git diff --exit-code -- $(VERIFY_PATHS)

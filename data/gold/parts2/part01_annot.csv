@@ -1,0 +1,56 @@
+id,label,military_bulletin,uncertain,note
+9bbd3f292ab84ba1,non_parket,false,false,foreign officials
+0607e1e6e65dbcdb,non_parket,true,false,explosion/air-raid notice
+21bfc76fe3ac011a,non_parket,true,false,air-defense situation report
+892b6e481e6d187f,non_parket,false,false,foreign officials via media
+99c3e219927e5b6c,non_parket,false,false,"media report, no official framing"
+af3375a639d76d6a,non_parket,true,false,General Staff daily summary
+c5a7be04b2b3edcd,non_parket,false,false,foreign official
+3f0f45a6bdd4c0f0,non_parket,true,false,NGU weekly front-line briefing
+4be45fcae4030cfb,parket,false,false,SBU sole source
+1cfb503f95e518de,parket,false,false,single Zelensky statement
+7b01d532b47479b8,non_parket,false,false,foreign official
+47e59265f89fd4aa,non_parket,false,false,"no domestic official, several voices"
+7e18e26850c6f40b,non_parket,false,false,"NGO founder, not official"
+7622221d879eb0d4,parket,false,false,OVA sole source
+3693cd1ce531b6e9,non_parket,true,false,air-raid notice
+cdbd3fd14d02c706,parket,false,false,"police PR, single source"
+ea5d1b11c29620a1,non_parket,false,false,foreign topic and officials
+1c21e7d587097a8b,non_parket,false,false,Russian/foreign officials
+f97b23da730a13df,non_parket,false,true,state company boundary case
+f7db4083b1ca855a,parket,false,false,single Minfin source
+22493a49194f41b2,non_parket,false,false,Russian official claims
+00fb866fa6246f57,non_parket,true,false,air-raid liveblog
+686d54b1df303dc3,parket,false,false,single commander statement
+cce240fe384be337,non_parket,false,false,human-interest survivor story
+7b8b8d12c4d7c2a2,non_parket,false,false,foreign official
+1a59d3fa7d83867b,non_parket,false,false,foreign news
+3b659d65dc00a197,non_parket,false,false,science/culture news
+ccdb0cd1d2699250,non_parket,false,false,foreign officials
+f8d90437c5c062fc,parket,false,false,only Zelensky quoted
+83715df6e72666d9,parket,false,false,single official statement
+aad5586b86353a71,parket,false,false,CPD sole source
+549dc48a338f8c23,parket,false,false,"OP readout, single source"
+fb7fb0a1d80940fa,non_parket,true,false,shelling casualty report
+01cc75440d28d5a0,non_parket,false,false,foreign government
+f76063d0cb4b8926,non_parket,false,false,investigative journalism
+2f9d67bde750ee3a,parket,false,false,ministry sole source
+a2f7614f561c6f40,non_parket,false,false,foreign official
+499f9e533aae38f1,parket,false,false,OP sole source
+e80c1bb5c55c37b9,non_parket,false,false,foreign military command
+5364f1bea6246212,non_parket,false,false,ex-minister expert opinion
+c7561a29ac03e381,parket,false,false,single Budanov interview
+ca4498b3d942ec70,non_parket,false,false,"court case, not official framing"
+bf90a965552de792,non_parket,false,false,two voices at presser
+c03925ab28df07f2,non_parket,false,false,foreign government
+bc95896b1933906a,non_parket,false,false,foreign investigation
+acd8ae91ac3698b3,non_parket,false,false,"feature, multiple voices"
+895500fda54b46e6,non_parket,false,false,foreign media and officials
+c091e0fb43ebb7c8,parket,false,false,MOU sole source
+9b9322aa4d9283ec,non_parket,false,false,UN/foreign bodies
+41a61dcddb7d61ed,parket,false,false,single Zelensky statement
+4e40cf9771bf3f1c,parket,false,false,single official UN speech
+30c9f35746e010ed,non_parket,false,false,foreign officials
+f805ff9ece96c319,non_parket,false,false,NATO/foreign sources
+e633d55b945c8961,non_parket,false,false,foreign official
+f1d62d238b139bb6,non_parket,false,false,"court report, multiple voices"

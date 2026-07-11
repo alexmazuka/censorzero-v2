@@ -1,0 +1,56 @@
+id,label,military_bulletin,uncertain,note
+3809e7a3ff4508ff,non_parket,false,false,foreign intelligence source
+c8579834a127cb89,non_parket,true,false,OVA shelling casualty report
+058034a3721697fe,non_parket,false,false,foreign official interview
+9c781227427efb4e,parket,false,false,single official Facebook source
+22703d7f9903faac,parket,false,false,single DBR source
+9bd6eaa90f9af24e,non_parket,true,false,police strike report
+489c8c74f25f5194,parket,false,false,only Zelensky statement
+0134194add2905e8,non_parket,false,false,foreign intelligence source
+40576e3410407dda,parket,false,false,only Zelensky statement
+dd08e34804bc47dd,non_parket,false,false,Russian official framing
+d74f8c1917f10d08,non_parket,false,false,foreign story
+0b52a7c08d71b2ad,non_parket,false,false,foreign story
+94666fe466a5d7eb,non_parket,false,false,foreign court story
+29bfc1875bee8811,non_parket,false,false,foreign official statement
+5b4dcd2450a57a99,parket,false,false,ombudsman sole voice
+c9fff8108cfe2a84,non_parket,false,false,expert ex-official interview
+efe871c1ebb3db7e,non_parket,true,false,OVA attack report
+b0d5064fddabda8c,non_parket,false,false,evacuated citizen quoted
+26f3789a0340c609,non_parket,false,false,foreign official interview
+fbfbc5fc5abdfe6c,non_parket,false,false,foreign official framing
+f285234a03bcd382,non_parket,true,false,General Staff summary
+55b7fd6bc73130fa,parket,false,false,single OVA source
+cacc877960c7476b,non_parket,false,false,foreign official interview
+0e13d1bcdee71005,non_parket,false,false,Russian official statement
+718e9685b573af0b,parket,false,false,single SZRU source
+e6ccf380b3a0de23,non_parket,false,false,foreign activist
+cdf3766e1dbd3884,non_parket,false,false,company official second voice
+f79b04db58632bc4,non_parket,false,false,foreign topic diplomats
+56320db7a6a82019,parket,false,false,single DBR source
+0d60dd1924b62765,non_parket,true,false,OVA shelling report
+be7aecdb045f13bf,non_parket,false,false,foreign story
+0207e266ab8316c9,non_parket,false,false,company source
+c1df2be0d4ceb974,parket,false,false,only ombudsman statement
+cd22e2433a0615e7,parket,false,false,only Zelensky statement
+b25775f9c2a75c95,non_parket,false,false,businessman framing not official
+b44d543cdbcf0bbc,parket,false,false,single DSNS official
+b4cf944ce3fd1c01,parket,false,false,single MFA source
+6114195dd75951dd,parket,false,false,single ministry source
+d8d08f8377f6bd9b,parket,false,false,single NBU source
+97689768d7feff80,parket,false,false,official visit defense sources only
+e0b3395d4598eba8,non_parket,false,false,brigade statement second voice
+68c5acd9071a45f1,non_parket,true,false,front-line situation report
+d4703338b610d3a3,non_parket,true,false,attack consequences report
+8e2586128e676fa0,non_parket,true,false,attack consequences report
+d0ed062b7d95b36b,non_parket,false,false,foreign court story
+e1b870b2215097d7,parket,false,false,single official briefing
+b9aee8dd85d737d5,non_parket,false,false,foreign farmers event
+ff887b48a7653998,non_parket,false,false,foreign official statement
+6635e2b236e7233c,parket,false,false,single military official source
+02fa4e56f1e5bd4a,parket,false,false,only president source
+55f5bfba8ee6ebab,non_parket,true,false,front-line combat report
+88b76128865b96be,non_parket,true,false,OVA shelling report
+4a47142de858a4a7,parket,false,false,single city council source
+25c950fc253ee4e0,non_parket,false,false,lawyer source multiple voices
+1ff8e71019c33552,parket,false,false,single OVA source

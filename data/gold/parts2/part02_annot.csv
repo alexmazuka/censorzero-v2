@@ -1,0 +1,56 @@
+id,label,military_bulletin,uncertain,note
+327cb73214db9b31,non_parket,false,false,foreign event
+8ff65c410775981c,non_parket,false,false,foreign official
+2fc2fa1bfdb75026,non_parket,false,false,ex-official expert voice
+be3d9818fe67da8b,non_parket,false,false,multiple sources
+90774d8a479ea8c3,non_parket,true,false,Genstab front-line report
+9122135f9e76a5a1,non_parket,false,false,foreign officials
+8c950dc7be01459d,non_parket,false,false,foreign body
+c726f183afc0d682,parket,false,false,single PM statement
+a8fd8b238d899159,non_parket,false,false,foreign politics
+883260905519c0f5,non_parket,false,false,foreign politics
+10077a937d9189ac,non_parket,true,false,attack casualty report
+922069fac67a293b,parket,false,false,single Zelensky statement
+85163b4980e59ff7,parket,false,false,single military command source
+208c146399ac1e9b,parket,false,false,single regulator source
+520e18fe0603069f,non_parket,false,false,academic event not officials
+399f5df3dcf5e38a,non_parket,true,false,air-raid attack notice
+1476b79889bf1d02,parket,false,false,cabinet decisions single source
+8df1efe90fdcd512,non_parket,false,false,foreign officials
+921dcc05a76aaf93,parket,false,false,Rada action single source
+a2bda270c3e0dc1f,non_parket,false,false,foreign official
+b27592144e096185,non_parket,true,false,air-raid notice
+a753e76c17884c14,non_parket,false,false,defense lawyer second voice
+44585afd55d2b749,non_parket,true,false,attack in progress report
+20b2c4b4e4698516,parket,false,false,single DSNS source
+fa60aecdd5379c29,non_parket,false,false,expert voice
+d55e12999c6f3fa8,non_parket,false,false,foreign intelligence
+f9d9d8d5d6606f39,non_parket,false,false,foreign official
+d2292c1c5bd79f4d,non_parket,false,false,obituary no official framing
+16d15593a4ef801c,non_parket,false,false,NGO source
+7188ed1658f5da94,non_parket,true,false,Genstab losses bulletin
+826d3033235d28f9,parket,false,false,single minister statement
+1fa2ead534c06525,non_parket,true,false,shelling casualty report
+4de726b55fbfab72,non_parket,false,false,foreign event
+6d9fbf08ed983beb,non_parket,false,false,foreign officials
+92f2709f4995835a,non_parket,true,false,air-raid notice
+ec259fbb84fcde3e,non_parket,false,false,foreign actors
+507310da045b0b64,non_parket,false,false,foreign government
+9e37a0d60a26bf49,parket,false,false,single military source
+8958e6525c82b8d2,non_parket,false,false,NGO voice
+c252640cc738e13e,non_parket,false,false,foreign official
+1eb09bd8c9210b3c,non_parket,true,false,shelling aftermath report
+9d7808278e3a8c72,non_parket,true,false,shelling casualty report
+33172c5b0d9421d7,parket,false,false,single agency head
+33556d9e704c5825,parket,false,false,single OVA head
+73a26aa8263ba51d,non_parket,false,false,foreign officials
+e2a27bf399f04dd2,non_parket,false,false,two officials quoted
+84dda1f8f0b3ebdd,non_parket,true,false,Genstab daily summary
+0881e650c02d281c,non_parket,false,false,foreign event
+42b6422c58afb0a2,non_parket,true,false,shelling casualty report
+9fae20fc58c206c5,non_parket,false,false,two official bodies
+ab5a29f2611b132a,non_parket,true,false,air defense notice
+324130baad908490,non_parket,false,false,foreign parliament
+38e263615bc86a40,non_parket,false,false,foreign official
+ac02a7480edd52cd,non_parket,true,false,Genstab losses bulletin
+f5ae5e57f984ab5c,parket,false,false,single OVA head briefing

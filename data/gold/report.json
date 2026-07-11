@@ -1,71 +1,192 @@
 {
  "by_period": {
   "P0": {
-   "f1": null,
-   "fn": 41,
-   "fp": 0,
-   "n": 95,
-   "precision": null,
-   "recall": 0.0,
-   "tn": 54,
-   "tp": 0
+   "f1": 0.114943,
+   "fn": 76,
+   "fp": 1,
+   "n": 194,
+   "precision": 0.833333,
+   "recall": 0.061728,
+   "tn": 112,
+   "tp": 5
   },
   "P1": {
-   "f1": 0.058824,
-   "fn": 32,
-   "fp": 0,
-   "n": 82,
-   "precision": 1.0,
-   "recall": 0.030303,
-   "tn": 49,
-   "tp": 1
+   "f1": 0.12987,
+   "fn": 66,
+   "fp": 1,
+   "n": 177,
+   "precision": 0.833333,
+   "recall": 0.070423,
+   "tn": 105,
+   "tp": 5
   },
   "P2": {
-   "f1": 0.324324,
-   "fn": 25,
+   "f1": 0.179104,
+   "fn": 55,
    "fp": 0,
-   "n": 77,
+   "n": 163,
    "precision": 1.0,
-   "recall": 0.193548,
-   "tn": 46,
+   "recall": 0.098361,
+   "tn": 102,
    "tp": 6
   }
  },
- "n_annotated": 318,
- "n_military_bulletin": 64,
- "n_uncertain": 0,
+ "human_measurement": {
+  "pravda": {
+   "homogeneity": {
+    "chi2": 0.624831,
+    "p_value": 0.731678
+   },
+   "min_detectable_diff_pp": 22.885032,
+   "pairwise": {
+    "P0-P1": {
+     "diff": 0.016941,
+     "h": 0.043374,
+     "h_ci_high": 0.452148,
+     "h_ci_low": -0.3654,
+     "p_holm": 1.0,
+     "p_raw": 0.835792
+    },
+    "P0-P2": {
+     "diff": -0.053571,
+     "h": -0.128861,
+     "h_ci_high": 0.289833,
+     "h_ci_low": -0.547555,
+     "p_holm": 1.0,
+     "p_raw": 0.543199
+    },
+    "P1-P2": {
+     "diff": -0.070513,
+     "h": -0.172235,
+     "h_ci_high": 0.280762,
+     "h_ci_low": -0.625232,
+     "p_holm": 1.0,
+     "p_raw": 0.456438
+    }
+   },
+   "per_period": {
+    "P0": {
+     "ci_high": 0.318446,
+     "ci_low": 0.113386,
+     "k": 11,
+     "n": 56,
+     "rate": 0.196429
+    },
+    "P1": {
+     "ci_high": 0.32668,
+     "ci_low": 0.089773,
+     "k": 7,
+     "n": 39,
+     "rate": 0.179487
+    },
+    "P2": {
+     "ci_high": 0.410705,
+     "ci_low": 0.137505,
+     "k": 9,
+     "n": 36,
+     "rate": 0.25
+    }
+   }
+  },
+  "ukrinform": {
+   "homogeneity": {
+    "chi2": 0.697992,
+    "p_value": 0.705396
+   },
+   "min_detectable_diff_pp": 14.312893,
+   "pairwise": {
+    "P0-P1": {
+     "diff": 0.016396,
+     "h": 0.033346,
+     "h_ci_high": 0.237073,
+     "h_ci_low": -0.17038,
+     "p_holm": 1.0,
+     "p_raw": 0.748401
+    },
+    "P0-P2": {
+     "diff": 0.043293,
+     "h": 0.088559,
+     "h_ci_high": 0.29681,
+     "h_ci_low": -0.119692,
+     "p_holm": 1.0,
+     "p_raw": 0.405132
+    },
+    "P1-P2": {
+     "diff": 0.026897,
+     "h": 0.055213,
+     "h_ci_high": 0.267981,
+     "h_ci_low": -0.157556,
+     "p_holm": 1.0,
+     "p_raw": 0.611176
+    }
+   },
+   "per_period": {
+    "P0": {
+     "ci_high": 0.487864,
+     "ci_low": 0.350391,
+     "k": 81,
+     "n": 194,
+     "rate": 0.417526
+    },
+    "P1": {
+     "ci_high": 0.474696,
+     "ci_low": 0.331765,
+     "k": 71,
+     "n": 177,
+     "rate": 0.40113
+    },
+    "P2": {
+     "ci_high": 0.450616,
+     "ci_low": 0.303642,
+     "k": 61,
+     "n": 163,
+     "rate": 0.374233
+    }
+   }
+  }
+ },
+ "n_annotated": 868,
+ "n_annotated_by_outlet": {
+  "pravda": 192,
+  "ukrinform": 676
+ },
+ "n_military_bulletin": 203,
+ "n_uncertain": 7,
  "overall": {
-  "f1": 0.125,
-  "fn": 98,
-  "fp": 0,
-  "n": 254,
-  "precision": 1.0,
-  "recall": 0.066667,
-  "tn": 149,
-  "tp": 7
+  "f1": 0.138528,
+  "fn": 197,
+  "fp": 2,
+  "n": 534,
+  "precision": 0.888889,
+  "recall": 0.075117,
+  "tn": 319,
+  "tp": 16
  },
  "recall_drift": {
-  "chi2": 11.650607,
-  "confounded": true,
-  "p_value": 0.002952,
+  "chi2": 0.705877,
+  "confounded": false,
+  "p_value": 0.70262,
   "per_period": {
    "P0": {
-    "hit": 0,
-    "miss": 41
+    "hit": 5,
+    "miss": 76
    },
    "P1": {
-    "hit": 1,
-    "miss": 32
+    "hit": 5,
+    "miss": 66
    },
    "P2": {
     "hit": 6,
-    "miss": 25
+    "miss": 55
    }
   },
-  "recall_spread_pp": 19.354839
+  "recall_spread_pp": 3.663226
+ },
+ "reliability": {
+  "n_overlap": 0
  },
  "sc0_breakdown": {
-  "gold_parket_with_sc0": 5,
+  "gold_parket_with_sc0": 10,
   "note": "articles a human calls parket but the extractor found 0 sources (extraction misses); parket by definition requires sc==1, so these are recall losses, not false positives."
  }
 }

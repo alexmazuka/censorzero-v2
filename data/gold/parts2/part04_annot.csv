@@ -1,0 +1,56 @@
+id,label,military_bulletin,uncertain,note
+2f77fa2219f92b69,non_parket,false,false,expert and NGO voices
+0ef67595ccefd009,non_parket,false,true,state company framing
+f56b0861f4dcdd32,parket,false,false,single OVA source
+27d9ad965c335326,non_parket,true,false,General Staff briefing
+4a45473028138e9e,non_parket,true,false,shelling situation report
+44d531158c6f938e,non_parket,false,false,feature with multiple voices
+122f2705ccd0a071,parket,false,false,minister sole source
+549364e46f8b104c,non_parket,true,false,naval situation report
+db9c04f0e3af40f0,parket,false,false,DBR sole source
+2e7c9e05da25d3bc,non_parket,true,false,attack report via media
+038ae0be9c78c9b3,non_parket,true,false,strike casualties report
+3d91545f28c4ebb9,non_parket,false,false,foreign story
+b1607511d7f9e0e3,non_parket,false,false,foreign officials
+1bb44efa327847cb,parket,false,false,president sole source
+10d5ad441488cf71,non_parket,false,true,foreign initiative via OP
+e9f1465c5ca70e50,non_parket,true,false,attack damage report
+e4c36bf4cbb33ef5,non_parket,true,false,shelling incident report
+d243d2d8b34061bd,non_parket,true,false,General Staff losses
+6832d96dbac941df,non_parket,false,false,expert voice
+2a7c79c176f3218f,non_parket,true,false,air raid notice
+ce36b581ed7a4ec5,parket,false,false,minister column sole source
+e54ba3d8cfe5d1c3,parket,false,false,official visit single source
+5bb45d0c8fb7e7ea,non_parket,true,false,air raid notice
+b6643988601a441c,non_parket,true,false,General Staff losses
+d49a8dba3633b18d,non_parket,false,false,widow second voice
+0f6a0d6a18dc356c,parket,false,false,minister sole source
+3f57cad382766198,non_parket,true,false,attack report
+a257e298a80a7537,non_parket,true,false,regional shelling summary
+b4cba77aeef07d95,parket,false,false,commander sole source
+8f571f6d9bff702d,parket,false,false,parliament sole source
+5d04044cdb6e1e4b,non_parket,false,false,foreign officials
+bdda6f6fbfe68a8b,non_parket,false,false,Swiss official second voice
+83abbe93a1f34397,non_parket,true,false,General Staff briefing
+747f9c00ef62f1a5,non_parket,false,false,foreign official
+9717eb631c56b03f,parket,false,false,city head sole source
+107c9d8a23cece73,parket,false,false,president sole source
+4946ef5db4d4c963,non_parket,true,false,regional shelling summary
+6163c83c32876d42,non_parket,false,false,foreign official
+13bad8e3360b5281,non_parket,false,false,foreign court story
+34dcbbc6b9a61630,non_parket,true,false,Russian officials war report
+6f8a487fdd3160f4,non_parket,true,false,strike casualties report
+66e3facee080204a,non_parket,true,false,regional shelling summary
+76b72ecf08ef28a7,non_parket,false,false,foreign story
+7a2981e805d48b1b,non_parket,true,false,front-line summary
+cd6a422359807f20,parket,false,false,OVA head sole source
+d0ab2d959af59e3e,non_parket,false,false,foreign leader second voice
+9ef01431f5ec28af,parket,false,false,NBU sole source
+efaf64c6c426a89e,parket,false,false,president sole source
+e6cdb3c46afd4657,non_parket,false,false,court multiple voices
+050b0e1fb17eed2f,parket,false,false,official sole source
+6c62da26984a1124,parket,false,false,president sole source
+ad5340c10cb36b18,non_parket,false,false,foreign story
+7dfe76ac8bc74e57,non_parket,false,false,foreign official
+8e162a82b0e95fa5,non_parket,false,false,foreign official
+0010a6564f7fc227,non_parket,false,false,foreign official

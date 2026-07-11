@@ -48,8 +48,13 @@ class Checker(HTMLParser):
 def main() -> int:
     failed = False
     for path in sorted(SITE.rglob("*.html")):
+        text = path.read_text(encoding="utf-8")
+        # Files rendered by the pipeline FROM figures.json are exempt: their
+        # numbers cannot drift because CI regenerates and byte-compares them.
+        if "GENERATED-FROM-FIGURES" in text[:400]:
+            continue
         checker = Checker()
-        checker.feed(path.read_text(encoding="utf-8"))
+        checker.feed(text)
         for line, text in checker.violations:
             print(f"{path}:{line}: digit in text node: {text!r}")
             failed = True
