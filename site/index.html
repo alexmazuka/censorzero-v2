@@ -40,6 +40,37 @@
       <pre class="cmd" id="press-cmd"></pre>
       <p class="fine" data-i18n="press_verify2"></p>
     </div>
+    <div class="cta-row">
+      <button class="cta-btn cta-primary" id="cta-articles" data-i18n="cta_articles"></button>
+      <button class="cta-btn" id="cta-gold" data-i18n="cta_gold"></button>
+    </div>
+  </section>
+
+  <section id="explorer">
+    <h2 data-i18n="explorer_h"></h2>
+    <p class="explainer" data-i18n="explorer_intro"></p>
+
+    <div class="tabs" id="ex-tabs">
+      <button class="tab-btn" data-tab="articles" data-i18n="tab_articles"></button>
+      <button class="tab-btn" data-tab="gold" data-i18n="tab_gold"></button>
+    </div>
+
+    <div id="pane-articles" class="ex-pane">
+      <p class="explainer" data-i18n="articles_intro"></p>
+      <div class="chiprow" id="ex-outlet-chips"></div>
+      <div class="chiprow" id="ex-period-chips"></div>
+      <input type="search" id="ex-search" class="search-box">
+      <div class="chiprow" id="ex-status-chips"></div>
+      <div id="ex-loading" class="fine"></div>
+      <div id="explorer-out"></div>
+    </div>
+
+    <div id="pane-gold" class="ex-pane" style="display:none">
+      <p class="explainer" data-i18n="gold_intro"></p>
+      <div class="chiprow" id="gold-status-chips"></div>
+      <input type="search" id="gold-search" class="search-box">
+      <div id="gold-explorer-out"></div>
+    </div>
   </section>
 
   <section id="tldr">
@@ -87,12 +118,6 @@
     <ul id="limits-list"></ul>
   </section>
 
-  <section id="explorer">
-    <h2 data-i18n="explorer_h"></h2>
-    <p data-i18n="explorer_intro"></p>
-    <div id="explorer-controls" class="controls"></div>
-    <div id="explorer-out"></div>
-  </section>
 </main>
 
 <footer><div class="wrap">

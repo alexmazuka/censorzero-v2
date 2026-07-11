@@ -239,103 +239,204 @@ function renderLimits() {
   items.forEach(t => ul.appendChild(el("li", null, t)));
 }
 
-function renderExplorer() {
-  const ctl = $("#explorer-controls"); ctl.innerHTML = "";
-  const state = window.__ex || { mode: "summary", outlet: "", period: "", month: "", flt: "all" };
-  window.__ex = state;
+// ---- Explorer: two tabs (Articles / Gold), designed for a non-technical
+// visitor. Article data loads once per outlet (browse/{outlet}.json) and all
+// filtering/search after that happens client-side with no further network
+// calls. Gold data (blind annotation) is one small file, always fully loaded.
 
-  const mkSel = (labelKey, opts, key, onchange) => {
-    const lab = el("label", null, T(labelKey));
-    const sel = el("select");
-    opts.forEach(([v, t]) => { const o = el("option", null, t); o.value = v; if (state[key] === v) o.selected = true; sel.appendChild(o); });
-    sel.onchange = () => { state[key] = sel.value; onchange(); };
-    lab.appendChild(sel); ctl.appendChild(lab);
-    return sel;
-  };
+const EX = {
+  outlet: "ukrinform", period: "all", status: "all", q: "",
+  cache: {}, shown: 60,
+};
+const GOLD_EX = { status: "all", q: "", rows: null, shown: 60 };
 
-  mkSel("ex_mode", [["summary", T("ex_mode_sum")], ["articles", T("ex_mode_art")], ["gold", T("ex_mode_gold")]],
-    "mode", renderExplorer);
+function initExplorerTabs() {
+  const tabs = $("#ex-tabs");
+  tabs.querySelectorAll(".tab-btn").forEach(btn => {
+    btn.onclick = () => switchExTab(btn.dataset.tab);
+  });
+  $("#cta-articles").onclick = () => { switchExTab("articles"); scrollToExplorer(); };
+  $("#cta-gold").onclick = () => { switchExTab("gold"); scrollToExplorer(); };
+  $("#ex-search").oninput = (e) => { EX.q = e.target.value; EX.shown = 60; renderArticleList(); };
+  $("#gold-search").oninput = (e) => { GOLD_EX.q = e.target.value; GOLD_EX.shown = 60; renderGoldList(); };
+}
 
-  if (!EXPLORER) { $("#explorer-out").innerHTML = ""; $("#explorer-out").appendChild(el("p", "fine", "n/a")); return; }
+function scrollToExplorer() {
+  document.getElementById("explorer").scrollIntoView({ behavior: "smooth", block: "start" });
+}
 
-  if (state.mode === "articles") {
-    const outlets = [...new Set(EXPLORER.shards.map(s => s.outlet))].sort();
-    if (!state.outlet) state.outlet = outlets[0] || "";
-    mkSel("ex_outlet", outlets.map(o => [o, o]), "outlet", () => { state.period = ""; state.month = ""; renderExplorer(); });
-    const periods = [...new Set(EXPLORER.shards.filter(s => s.outlet === state.outlet).map(s => s.period))].sort();
-    if (!periods.includes(state.period)) state.period = periods[0] || "";
-    mkSel("ex_period", periods.map(p => [p, p]), "period", () => { state.month = ""; renderExplorer(); });
-    const months = EXPLORER.shards.filter(s => s.outlet === state.outlet && s.period === state.period).map(s => s.month).sort();
-    if (!months.includes(state.month)) state.month = months[0] || "";
-    mkSel("ex_month", months.map(m => [m, m]), "month", renderExplorer);
-    mkSel("ex_filter", [["all", T("ex_f_all")], ["parket", T("ex_f_parket")], ["balance", T("ex_f_balance")], ["gold", T("ex_f_gold")]],
-      "flt", renderExplorer);
-    loadArticles(`explorer/${state.outlet}_${state.period}_${state.month}.json`, state.flt, false);
-  } else if (state.mode === "gold") {
-    mkSel("ex_filter", [["all", T("ex_f_all")], ["g_parket", T("ex_f_gparket")], ["g_non", T("ex_f_gnon")], ["g_mil", T("ex_f_gmil")]],
-      "flt", renderExplorer);
-    loadArticles("explorer/gold.json", state.flt, true);
-  } else {
-    renderSummaryTable();
+function switchExTab(tab) {
+  window.__extab = tab;
+  $("#ex-tabs").querySelectorAll(".tab-btn").forEach(b => b.classList.toggle("active", b.dataset.tab === tab));
+  $("#pane-articles").style.display = tab === "articles" ? "" : "none";
+  $("#pane-gold").style.display = tab === "gold" ? "" : "none";
+  if (tab === "articles") renderArticlesPane();
+  else renderGoldPane();
+}
+
+function renderArticlesPane() {
+  $("#ex-search").placeholder = T("ph_search_articles");
+  const outlets = Object.keys((EXPLORER && EXPLORER.by_outlet) || { ukrinform: 1, pravda: 1, suspilne: 1 });
+  const outletChips = $("#ex-outlet-chips"); outletChips.innerHTML = "";
+  outlets.forEach(o => {
+    const c = el("div", "chip" + (EX.outlet === o ? " active" : ""), o);
+    c.onclick = () => { EX.outlet = o; EX.period = "all"; EX.shown = 60; renderPeriodChips(); loadOutletThen(renderArticleList); };
+    outletChips.appendChild(c);
+  });
+  renderPeriodChips();
+  renderStatusChips("#ex-status-chips", [
+    ["all", T("chip_all"), null],
+    ["parket", T("badge_parket"), "dot-parket"],
+    ["balance", T("badge_balance"), "dot-balance"],
+  ], EX.status, (v) => { EX.status = v; EX.shown = 60; renderArticleList(); });
+  loadOutletThen(renderArticleList);
+}
+
+function renderPeriodChips() {
+  const periods = ["all", ...(FIG.periods || []).map(p => p.key)];
+  const host = $("#ex-period-chips"); host.innerHTML = "";
+  periods.forEach(p => {
+    const label = p === "all" ? T("chip_all") : p;
+    const c = el("div", "chip" + (EX.period === p ? " active" : ""), label);
+    c.onclick = () => { EX.period = p; EX.shown = 60; renderArticleList(); };
+    host.appendChild(c);
+  });
+}
+
+function renderStatusChips(sel, opts, current, onPick) {
+  const host = $(sel); host.innerHTML = "";
+  opts.forEach(([v, label, dotClass]) => {
+    const c = el("div", "chip" + (current === v ? " active" : ""));
+    if (dotClass) c.appendChild(el("span", "dot " + dotClass));
+    c.appendChild(document.createTextNode(label));
+    c.onclick = () => onPick(v);
+    host.appendChild(c);
+  });
+}
+
+async function loadOutletThen(cb) {
+  if (EX.cache[EX.outlet]) { cb(); return; }
+  $("#ex-loading").textContent = T("loading");
+  $("#explorer-out").innerHTML = "";
+  try {
+    const rows = await (await fetch(`explorer/browse/${EX.outlet}.json`)).json();
+    EX.cache[EX.outlet] = rows;
+  } catch (e) {
+    $("#ex-loading").textContent = "";
+    $("#explorer-out").innerHTML = "";
+    $("#explorer-out").appendChild(el("p", "fine", "n/a"));
+    return;
+  }
+  $("#ex-loading").textContent = "";
+  cb();
+}
+
+function normSearch(s) { return (s || "").toLowerCase(); }
+
+function renderArticleList() {
+  const rows = EX.cache[EX.outlet] || [];
+  const q = normSearch(EX.q);
+  const filtered = rows.filter(r => {
+    if (EX.period !== "all" && r.p !== EX.period) return false;
+    if (EX.status === "parket" && r.a !== "parket") return false;
+    if (EX.status === "balance" && r.a !== "balance") return false;
+    if (q && !normSearch(r.t).includes(q)) return false;
+    return true;
+  });
+  const host = $("#explorer-out"); host.innerHTML = "";
+  host.appendChild(el("p", "coverage",
+    fillTokens(T(EX.q || EX.status !== "all" || EX.period !== "all" ? "n_found" : "n_shown"),
+      { N: filtered.length.toLocaleString(), TOTAL: rows.length.toLocaleString() })));
+  if (!filtered.length) { host.appendChild(el("p", "fine", T("no_results"))); return; }
+  const list = el("div", "article-list");
+  filtered.slice(0, EX.shown).forEach(r => list.appendChild(articleRow(r)));
+  host.appendChild(list);
+  if (filtered.length > EX.shown) {
+    const btn = el("button", "load-more", T("load_more"));
+    btn.onclick = () => { EX.shown += 100; renderArticleList(); };
+    host.appendChild(btn);
   }
 }
 
-function renderSummaryTable() {
-  const host = $("#explorer-out"); host.innerHTML = "";
-  const tbl = el("table");
-  const head = el("tr"); [T("ex_outlet"), T("ex_period"), "month", T("ex_n"), T("ex_parket"), T("ex_balance"), T("ex_goldn")].forEach(t => head.appendChild(el("th", null, t)));
-  const thead = el("thead"); thead.appendChild(head); tbl.appendChild(thead);
-  const tb = el("tbody");
-  (EXPLORER.shards || []).forEach(s => {
-    const tr = el("tr");
-    [s.outlet, s.period, s.month, s.n, s.n_parket, s.n_balance, s.n_gold ?? 0].forEach((v, i) =>
-      tr.appendChild(el("td", null, i >= 3 ? Number(v).toLocaleString() : v)));
-    tb.appendChild(tr);
-  });
-  tbl.appendChild(tb); host.appendChild(tbl);
+function articleRow(r) {
+  const row = el("div", "article-row");
+  row.appendChild(el("div", "a-date", r.d ? r.d.slice(0, 10) : ""));
+  const a = el("a", "a-title", r.t || r.u);
+  a.href = r.u; a.target = "_blank"; a.rel = "noopener";
+  row.appendChild(a);
+  const badges = el("div", "a-badges");
+  if (r.a === "parket") badges.appendChild(el("span", "badge badge-parket", T("badge_parket")));
+  else if (r.a === "balance") badges.appendChild(el("span", "badge badge-balance", T("badge_balance")));
+  if (r.g === "parket") badges.appendChild(el("span", "badge badge-parket", T("badge_gparket")));
+  else if (r.g === "non_parket") badges.appendChild(el("span", "badge badge-nonparket", T("badge_gnonparket")));
+  else if (r.g === "military") badges.appendChild(el("span", "badge badge-military", T("badge_gmilitary")));
+  row.appendChild(badges);
+  return row;
 }
 
-async function loadArticles(path, flt, isGold) {
-  const host = $("#explorer-out"); host.innerHTML = "";
-  host.appendChild(el("p", "fine", "…"));
-  let rows;
-  try { rows = await (await fetch(path)).json(); }
-  catch (e) { host.innerHTML = ""; host.appendChild(el("p", "fine", "n/a")); return; }
-  host.innerHTML = "";
-  const match = (r) => {
-    if (flt === "parket") return r.parket;
-    if (flt === "balance") return r.balance_risk;
-    if (flt === "gold") return r.gold_label != null;
-    if (flt === "g_parket") return r.gold_label === "parket";
-    if (flt === "g_non") return r.gold_label === "non_parket" && !r.gold_military;
-    if (flt === "g_mil") return !!r.gold_military;
+function renderGoldPane() {
+  $("#gold-search").placeholder = T("ph_search_gold");
+  renderStatusChips("#gold-status-chips", [
+    ["all", T("chip_all"), null],
+    ["parket", T("badge_gparket"), "dot-parket"],
+    ["non_parket", T("badge_gnonparket"), "dot-nonparket"],
+    ["military", T("badge_gmilitary"), "dot-military"],
+  ], GOLD_EX.status, (v) => { GOLD_EX.status = v; GOLD_EX.shown = 60; renderGoldList(); });
+  loadGoldThen(renderGoldList);
+}
+
+async function loadGoldThen(cb) {
+  if (GOLD_EX.rows) { cb(); return; }
+  $("#gold-explorer-out").innerHTML = "";
+  $("#gold-explorer-out").appendChild(el("p", "fine", T("loading")));
+  try {
+    GOLD_EX.rows = await (await fetch("explorer/gold.json")).json();
+  } catch (e) {
+    $("#gold-explorer-out").innerHTML = "";
+    $("#gold-explorer-out").appendChild(el("p", "fine", "n/a"));
+    return;
+  }
+  cb();
+}
+
+function renderGoldList() {
+  const rows = GOLD_EX.rows || [];
+  const q = normSearch(GOLD_EX.q);
+  const filtered = rows.filter(r => {
+    if (GOLD_EX.status !== "all" && r.gold !== GOLD_EX.status) return false;
+    if (q && !normSearch(r.title).includes(q)) return false;
     return true;
-  };
-  const sel = rows.filter(match);
-  host.appendChild(el("p", "coverage", `${T("ex_shown")}: ${Math.min(sel.length, 500).toLocaleString()} / ${sel.length.toLocaleString()}`));
-  const tbl = el("table");
-  const head = el("tr");
-  const cols = isGold
-    ? [T("ex_outlet"), T("ex_period"), T("ex_date"), T("ex_title"), T("ex_algostatus"), T("ex_goldstatus")]
-    : [T("ex_date"), T("ex_title"), "src", T("ex_algostatus"), T("ex_goldstatus")];
-  cols.forEach(t => head.appendChild(el("th", null, t)));
-  const thead = el("thead"); thead.appendChild(head); tbl.appendChild(thead);
-  const tb = el("tbody");
-  const algoStatus = (r) => r.parket ? T("st_parket") : (r.balance_risk ? T("st_balance") : "—");
-  const goldStatus = (r) => r.gold_label == null ? "" :
-    (r.gold_military ? T("st_gmil") : (r.gold_label === "parket" ? T("st_gparket") : T("st_gnon")));
-  sel.slice(0, 500).forEach(r => {
-    const tr = el("tr");
-    if (isGold) { tr.appendChild(el("td", null, r.outlet)); tr.appendChild(el("td", null, r.period)); }
-    tr.appendChild(el("td", null, r.date_published));
-    const tdT = el("td"); const a = el("a", null, r.title || r.url);
-    a.href = r.url; a.target = "_blank"; a.rel = "noopener"; tdT.style.textAlign = "left"; tdT.appendChild(a); tr.appendChild(tdT);
-    if (!isGold) tr.appendChild(el("td", null, String(r.sc)));
-    tr.appendChild(el("td", null, algoStatus(r)));
-    tr.appendChild(el("td", null, goldStatus(r)));
-    tb.appendChild(tr);
   });
-  tbl.appendChild(tb); host.appendChild(tbl);
+  const host = $("#gold-explorer-out"); host.innerHTML = "";
+  host.appendChild(el("p", "coverage",
+    fillTokens(T(GOLD_EX.q || GOLD_EX.status !== "all" ? "n_found" : "n_shown"),
+      { N: filtered.length.toLocaleString(), TOTAL: rows.length.toLocaleString() })));
+  if (!filtered.length) { host.appendChild(el("p", "fine", T("no_results"))); return; }
+  const list = el("div", "article-list");
+  filtered.slice(0, GOLD_EX.shown).forEach(r => {
+    const row = el("div", "article-row");
+    row.appendChild(el("div", "a-date", (r.date_published || "").slice(0, 10)));
+    const a = el("a", "a-title", r.title || r.url);
+    a.href = r.url; a.target = "_blank"; a.rel = "noopener";
+    row.appendChild(a);
+    const badges = el("div", "a-badges");
+    if (r.gold === "parket") badges.appendChild(el("span", "badge badge-parket", T("badge_gparket")));
+    else if (r.gold === "military") badges.appendChild(el("span", "badge badge-military", T("badge_gmilitary")));
+    else badges.appendChild(el("span", "badge badge-nonparket", T("badge_gnonparket")));
+    row.appendChild(badges);
+    list.appendChild(row);
+  });
+  host.appendChild(list);
+  if (filtered.length > GOLD_EX.shown) {
+    const btn = el("button", "load-more", T("load_more"));
+    btn.onclick = () => { GOLD_EX.shown += 100; renderGoldList(); };
+    host.appendChild(btn);
+  }
+}
+
+function renderExplorer() {
+  initExplorerTabs();
+  switchExTab(window.__extab || "articles");
 }
 
 boot();

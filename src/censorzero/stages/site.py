@@ -1,11 +1,23 @@
-"""site stage: interim articles -> chunked explorer data for the static site.
+"""site stage: interim articles -> browsable data for the static site.
 
-No monolithic JSON in the browser (v1 shipped a 70 MB file). Explorer data is
-written as one compact JSON shard per (outlet, period, month) under
-site/explorer/, plus site/explorer/index.json listing the shards and totals,
-plus site/explorer/gold.json — every blind-annotated article with its label,
-so the public UI can show exactly which articles were assessed and how.
-Deterministic ordering throughout.
+Two kinds of output, both designed for a non-technical visitor:
+
+  site/explorer/browse/{outlet}.json
+      Every article of that outlet, ALL periods, with only the fields needed
+      to browse and search: date, title, url, rubric, period, and a plain
+      status for the algorithm and (if present) the blind human annotation.
+      One file per outlet (not per month) so the browser fetches it once and
+      then filters/searches instantly with no further network calls.
+
+  site/explorer/gold.json
+      Every blind-annotated article with its human label — "which articles
+      did we actually check by hand, and what did we find" in one small file.
+
+  site/explorer/index.json
+      Just counts (per outlet, per outlet+period) for the summary view.
+
+No monolithic 70 MB blob (v1's mistake) and no per-month fragmentation that
+forces a user to guess which of 50 files to open (v2's earlier mistake).
 """
 
 import csv
@@ -20,10 +32,14 @@ REPO_ROOT = Path(__file__).resolve().parents[3]
 INTERIM = REPO_ROOT / "data" / "interim"
 GOLD = REPO_ROOT / "data" / "gold"
 EXPLORER = REPO_ROOT / "site" / "explorer"
+BROWSE = EXPLORER / "browse"
 
-DISPLAY_COLUMNS = ["url", "date_published", "rubric", "title", "sc", "oc", "fc",
-                   "nc", "official_focus", "parket", "balance_risk",
-                   "gold_label", "gold_military", "sources_json"]
+# Short keys keep the browse files small; gzip (served automatically by
+# GitHub Pages) collapses the repetition further.
+BROWSE_COLUMNS = {
+    "url": "u", "date_published": "d", "title": "t", "rubric": "r",
+    "period": "p", "algo": "a", "gold": "g",
+}
 
 
 def _gold_by_url() -> dict[str, dict]:
@@ -47,6 +63,22 @@ def _gold_by_url() -> dict[str, dict]:
     return out
 
 
+def _algo_status(row) -> str | None:
+    if row.parket:
+        return "parket"
+    if row.balance_risk:
+        return "balance"
+    return None
+
+
+def _gold_status(row) -> str | None:
+    if row.gold_label is None:
+        return None
+    if row.gold_military:
+        return "military"
+    return row.gold_label  # "parket" | "non_parket"
+
+
 def run() -> None:
     df = pd.read_parquet(INTERIM / "articles.parquet")
     gold = _gold_by_url()
@@ -55,38 +87,45 @@ def run() -> None:
         lambda u: bool((gold.get(u) or {}).get("military", False)))
 
     EXPLORER.mkdir(parents=True, exist_ok=True)
+    BROWSE.mkdir(parents=True, exist_ok=True)
     for old in EXPLORER.glob("*.json"):
         old.unlink()
+    for old in BROWSE.glob("*.json"):
+        old.unlink()
 
-    df = df.assign(month=df["date_published"].str.slice(0, 7))
-    index = {"shards": [], "totals": {}}
+    df["algo"] = [_algo_status(r) for r in df.itertuples()]
+    df["gold"] = [_gold_status(r) for r in df.itertuples()]
 
-    for (outlet, period, month), part in df.groupby(["outlet", "period", "month"], sort=True):
-        part = part.sort_values("url")
-        rows = part[DISPLAY_COLUMNS].to_dict(orient="records")
-        name = f"{outlet}_{period}_{month}.json"
-        write_json(EXPLORER / name, rows)
-        index["shards"].append({
-            "file": name, "outlet": outlet, "period": period, "month": month,
-            "n": len(rows), "n_parket": int(part["parket"].sum()),
-            "n_balance": int(part["balance_risk"].sum()),
-            "n_gold": int(part["gold_label"].notna().sum()),
-        })
+    index = {"by_outlet": {}, "by_outlet_period": {}}
 
     for outlet, part in df.groupby("outlet", sort=True):
-        index["totals"][outlet] = {
+        part = part.sort_values("date_published", ascending=False)
+        rows = [
+            {short: getattr(r, long) for long, short in BROWSE_COLUMNS.items()}
+            for r in part.itertuples()
+        ]
+        write_json(BROWSE / f"{outlet}.json", rows)
+        index["by_outlet"][outlet] = {
             "n": int(len(part)),
-            "n_parket": int(part["parket"].sum()),
-            "n_balance": int(part["balance_risk"].sum()),
+            "n_parket": int((part["algo"] == "parket").sum()),
+            "n_balance": int((part["algo"] == "balance").sum()),
             "n_gold": int(part["gold_label"].notna().sum()),
         }
+        for period, sub in part.groupby("period"):
+            index["by_outlet_period"].setdefault(outlet, {})[period] = {
+                "n": int(len(sub)),
+                "n_parket": int((sub["algo"] == "parket").sum()),
+                "n_balance": int((sub["algo"] == "balance").sum()),
+                "n_gold": int(sub["gold_label"].notna().sum()),
+            }
     write_json(EXPLORER / "index.json", index)
 
-    # One compact file with every blind-annotated article (the gold sample is
-    # small by design, so this stays a few hundred KB).
+    # Every blind-annotated article with its human label, small by design.
     g = df[df["gold_label"].notna()].sort_values(["outlet", "period", "url"])
-    gold_rows = g[["outlet", "period"] + DISPLAY_COLUMNS].to_dict(orient="records")
+    gold_cols = ["outlet", "period", "url", "date_published", "title", "rubric",
+                 "algo", "gold"]
+    gold_rows = g[gold_cols].to_dict(orient="records")
     write_json(EXPLORER / "gold.json", gold_rows)
 
-    print(f"site: {len(index['shards'])} explorer shards + gold.json "
-          f"({len(gold_rows)} annotated articles) written")
+    print(f"site: browse/{{outlet}}.json x{len(index['by_outlet'])} "
+          f"+ gold.json ({len(gold_rows)} annotated articles) written")
