@@ -1,0 +1,56 @@
+id,label,military_bulletin,uncertain,note
+894d3c17b62c4930,non_parket,true,false,air-raid report with multiple sources
+8cf06858703411bb,parket,false,false,joint gov announcement single voice
+300af6875ee11062,non_parket,true,false,navy strike report
+5aa96cf4791176a9,parket,false,false,single DPSU spokesman
+43e2c53228035ecd,non_parket,false,false,rating story with expert voice
+7b296fe174fa0e71,non_parket,false,false,foreign officials
+31c4ff174ec5060a,non_parket,true,false,front-line command report
+d0c37d85156b1d32,non_parket,false,true,incident-centred single DSNS source
+81d34753ef83aa9d,non_parket,true,false,shelling casualties report
+f1cb6354a6c8ea91,parket,false,false,single MOD official interview
+9803f4b440a377d3,non_parket,true,false,front situation report
+44f8a05f44c3d2dc,parket,false,false,single NBU official
+48d79134e8b73eaa,non_parket,false,false,media investigation second voice
+478f159b2abfa08e,parket,false,false,single AF spokesman interview
+ebbd0aef10b3d913,non_parket,false,true,state company PR not official
+2c0374dd4cc22f1f,non_parket,true,false,air defence notice
+0b7c6882ef868e01,non_parket,false,false,NGO source multiple voices
+a6a5cbd5bca130c9,parket,false,false,single OVA head statement
+582b9d174c515cc7,non_parket,false,false,foreign official
+16cc3938ba8de46a,non_parket,false,false,company director via trade media
+1773108879951565,non_parket,true,false,shelling report
+c688ed69ad04bf9f,non_parket,true,false,strike damage via state company
+580d1915422ceecb,non_parket,true,false,strike damage via private company
+26554b6f53346bad,non_parket,false,false,sport story
+29f662d8c2783c69,non_parket,false,false,foreign ministry
+ec4489e465fd8d39,non_parket,true,false,foreign intel front summary
+56d31e4fd662e9c9,non_parket,false,false,foreign company story
+46446abdab41449d,non_parket,false,false,foreign official
+a88e4b6f3a1e8e36,non_parket,true,false,attack aftermath report
+ab3eb040326feeeb,parket,false,false,minister visit single source
+4d458d201e0c07ab,parket,false,false,single ombudsman source
+05702c9778a4c17e,non_parket,false,false,foreign official
+9b08c3915e524691,non_parket,false,false,foreign official
+b204c59135e27fc4,non_parket,false,false,foreign officials
+c567938a25de1fd8,non_parket,false,false,foreign monarch
+29946026a65aa6be,non_parket,false,false,foreign story
+3b8a4566a3185cee,non_parket,false,false,foreign story
+141e5feb363e9b7e,non_parket,true,false,drone attack report
+341605507dbe890f,non_parket,true,false,air alert notice
+0df854c65b9b9e77,non_parket,true,false,GenStaff briefing
+54706d5905a37ee4,non_parket,false,false,journalist investigation
+2198867042620d20,parket,false,false,single presidential statement
+93ed6b3c2880d306,parket,false,false,single presidential statement
+17d435b88cce916e,non_parket,true,false,attack casualties update
+b6fce530a0951bb2,non_parket,false,false,research with expert voices
+eb36b46ec95a7d54,parket,false,false,single regulator head interview
+a17077bced8ffd24,non_parket,false,false,price roundup no official
+3faa1d3a22e2853a,non_parket,false,false,NATO official
+b74b3e596dba7ada,non_parket,true,false,GenStaff briefing
+896e88df1bf9a283,non_parket,false,false,state company service notice
+59e61085baefc037,non_parket,true,false,OVA daily roundup
+acf5edfd82cfa326,non_parket,true,false,attack casualties report
+b3ab087ac7a2e4e0,non_parket,false,false,research institute source
+94de37e16e83f086,non_parket,false,true,single MP source on vote
+448fd300651916bb,non_parket,false,false,foreign event

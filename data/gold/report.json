@@ -1,192 +1,194 @@
 {
  "by_period": {
   "P0": {
-   "f1": 0.114943,
-   "fn": 76,
+   "f1": 0.085714,
+   "fn": 127,
    "fp": 1,
-   "n": 194,
-   "precision": 0.833333,
-   "recall": 0.061728,
-   "tn": 112,
-   "tp": 5
+   "n": 316,
+   "precision": 0.857143,
+   "recall": 0.045113,
+   "tn": 182,
+   "tp": 6
   },
   "P1": {
-   "f1": 0.12987,
-   "fn": 66,
-   "fp": 1,
-   "n": 177,
-   "precision": 0.833333,
-   "recall": 0.070423,
-   "tn": 105,
-   "tp": 5
+   "f1": 0.125,
+   "fn": 124,
+   "fp": 2,
+   "n": 323,
+   "precision": 0.818182,
+   "recall": 0.067669,
+   "tn": 188,
+   "tp": 9
   },
   "P2": {
-   "f1": 0.179104,
-   "fn": 55,
-   "fp": 0,
-   "n": 163,
-   "precision": 1.0,
-   "recall": 0.098361,
-   "tn": 102,
-   "tp": 6
+   "f1": 0.137405,
+   "fn": 111,
+   "fp": 2,
+   "n": 312,
+   "precision": 0.818182,
+   "recall": 0.075,
+   "tn": 190,
+   "tp": 9
   }
  },
  "human_measurement": {
   "pravda": {
    "homogeneity": {
-    "chi2": 0.624831,
-    "p_value": 0.731678
+    "chi2": 0.23796,
+    "p_value": 0.887826
    },
-   "min_detectable_diff_pp": 22.885032,
+   "min_detectable_diff_pp": 14.034941,
    "pairwise": {
     "P0-P1": {
-     "diff": 0.016941,
-     "h": 0.043374,
-     "h_ci_high": 0.452148,
-     "h_ci_low": -0.3654,
+     "diff": 0.02412,
+     "h": 0.064878,
+     "h_ci_high": 0.328491,
+     "h_ci_low": -0.198735,
      "p_holm": 1.0,
-     "p_raw": 0.835792
+     "p_raw": 0.630376
     },
     "P0-P2": {
-     "diff": -0.053571,
-     "h": -0.128861,
-     "h_ci_high": 0.289833,
-     "h_ci_low": -0.547555,
+     "diff": 0.014505,
+     "h": 0.038557,
+     "h_ci_high": 0.30217,
+     "h_ci_low": -0.225056,
      "p_holm": 1.0,
-     "p_raw": 0.543199
+     "p_raw": 0.77464
     },
     "P1-P2": {
-     "diff": -0.070513,
-     "h": -0.172235,
-     "h_ci_high": 0.280762,
-     "h_ci_low": -0.625232,
+     "diff": -0.009615,
+     "h": -0.026321,
+     "h_ci_high": 0.245477,
+     "h_ci_low": -0.298119,
      "p_holm": 1.0,
-     "p_raw": 0.456438
+     "p_raw": 0.84948
     }
    },
    "per_period": {
     "P0": {
-     "ci_high": 0.318446,
-     "ci_low": 0.113386,
-     "k": 11,
-     "n": 56,
-     "rate": 0.196429
+     "ci_high": 0.256789,
+     "ci_low": 0.11945,
+     "k": 21,
+     "n": 118,
+     "rate": 0.177966
     },
     "P1": {
-     "ci_high": 0.32668,
-     "ci_low": 0.089773,
-     "k": 7,
-     "n": 39,
-     "rate": 0.179487
+     "ci_high": 0.23538,
+     "ci_low": 0.096973,
+     "k": 16,
+     "n": 104,
+     "rate": 0.153846
     },
     "P2": {
-     "ci_high": 0.410705,
-     "ci_low": 0.137505,
-     "k": 9,
-     "n": 36,
-     "rate": 0.25
+     "ci_high": 0.246264,
+     "ci_low": 0.104635,
+     "k": 17,
+     "n": 104,
+     "rate": 0.163462
     }
    }
   },
   "ukrinform": {
    "homogeneity": {
-    "chi2": 0.697992,
-    "p_value": 0.705396
+    "chi2": 0.926522,
+    "p_value": 0.629228
    },
-   "min_detectable_diff_pp": 14.312893,
+   "min_detectable_diff_pp": 10.92089,
    "pairwise": {
     "P0-P1": {
-     "diff": 0.016396,
-     "h": 0.033346,
-     "h_ci_high": 0.237073,
-     "h_ci_low": -0.17038,
+     "diff": 0.009121,
+     "h": 0.018504,
+     "h_ci_high": 0.173583,
+     "h_ci_low": -0.136575,
      "p_holm": 1.0,
-     "p_raw": 0.748401
+     "p_raw": 0.815092
     },
     "P0-P2": {
-     "diff": 0.043293,
-     "h": 0.088559,
-     "h_ci_high": 0.29681,
-     "h_ci_low": -0.119692,
+     "diff": 0.036271,
+     "h": 0.073973,
+     "h_ci_high": 0.230398,
+     "h_ci_low": -0.082453,
      "p_holm": 1.0,
-     "p_raw": 0.405132
+     "p_raw": 0.354147
     },
     "P1-P2": {
-     "diff": 0.026897,
-     "h": 0.055213,
-     "h_ci_high": 0.267981,
-     "h_ci_low": -0.157556,
+     "diff": 0.027149,
+     "h": 0.055469,
+     "h_ci_high": 0.21105,
+     "h_ci_low": -0.100112,
      "p_holm": 1.0,
-     "p_raw": 0.611176
+     "p_raw": 0.484798
     }
    },
    "per_period": {
     "P0": {
-     "ci_high": 0.487864,
-     "ci_low": 0.350391,
-     "k": 81,
-     "n": 194,
-     "rate": 0.417526
+     "ci_high": 0.475951,
+     "ci_low": 0.367722,
+     "k": 133,
+     "n": 316,
+     "rate": 0.420886
     },
     "P1": {
-     "ci_high": 0.474696,
-     "ci_low": 0.331765,
-     "k": 71,
-     "n": 177,
-     "rate": 0.40113
+     "ci_high": 0.466167,
+     "ci_low": 0.359436,
+     "k": 133,
+     "n": 323,
+     "rate": 0.411765
     },
     "P2": {
-     "ci_high": 0.450616,
-     "ci_low": 0.303642,
-     "k": 61,
-     "n": 163,
-     "rate": 0.374233
+     "ci_high": 0.439691,
+     "ci_low": 0.332347,
+     "k": 120,
+     "n": 312,
+     "rate": 0.384615
     }
    }
   }
  },
- "n_annotated": 868,
+ "n_annotated": 1649,
  "n_annotated_by_outlet": {
-  "pravda": 192,
-  "ukrinform": 676
+  "pravda": 450,
+  "ukrinform": 1199
  },
- "n_military_bulletin": 203,
- "n_uncertain": 7,
+ "n_military_bulletin": 372,
+ "n_uncertain": 24,
  "overall": {
-  "f1": 0.138528,
-  "fn": 197,
-  "fp": 2,
-  "n": 534,
-  "precision": 0.888889,
-  "recall": 0.075117,
-  "tn": 319,
-  "tp": 16
+  "f1": 0.115663,
+  "fn": 362,
+  "fp": 5,
+  "n": 951,
+  "precision": 0.827586,
+  "recall": 0.062176,
+  "tn": 560,
+  "tp": 24
  },
  "recall_drift": {
-  "chi2": 0.705877,
+  "chi2": 1.071359,
   "confounded": false,
-  "p_value": 0.70262,
+  "p_value": 0.585271,
   "per_period": {
    "P0": {
-    "hit": 5,
-    "miss": 76
+    "hit": 6,
+    "miss": 127
    },
    "P1": {
-    "hit": 5,
-    "miss": 66
+    "hit": 9,
+    "miss": 124
    },
    "P2": {
-    "hit": 6,
-    "miss": 55
+    "hit": 9,
+    "miss": 111
    }
   },
-  "recall_spread_pp": 3.663226
+  "recall_spread_pp": 2.988722
  },
  "reliability": {
-  "n_overlap": 0
+  "agreement": 0.933333,
+  "kappa": 0.856487,
+  "n_overlap": 150
  },
  "sc0_breakdown": {
-  "gold_parket_with_sc0": 10,
+  "gold_parket_with_sc0": 19,
   "note": "articles a human calls parket but the extractor found 0 sources (extraction misses); parket by definition requires sc==1, so these are recall losses, not false positives."
  }
 }

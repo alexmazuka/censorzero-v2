@@ -1,0 +1,56 @@
+id,label,military_bulletin,uncertain,note
+73b7b5fc3caec530,non_parket,false,false,Russian actors; no domestic framing
+9003f10218c1667c,non_parket,false,false,Russian sources; foreign event
+dbf5524ecf000774,parket,false,false,single ombudsman source
+2f61342ecf16cc29,non_parket,false,false,foreign officials
+6f556db765692492,non_parket,true,false,attack casualty report
+501e6fbb7134248e,parket,false,false,single intel agency source
+f7b7d17214fd1a27,parket,false,false,only Zelensky remarks
+f705a2b7e1abbe19,non_parket,false,true,state company PR; framing unclear
+226b86371780a055,non_parket,true,false,shelling casualty report
+8f74ca13ed036517,parket,false,false,single OVA source
+0959a1627bdfab24,non_parket,false,false,no official framing
+caa186ed7b442224,parket,false,false,only presidential statement
+a65b71a1b9168a56,non_parket,false,false,foreign official
+a5c0a04a8556f9cd,non_parket,false,false,foreign topic; agency source
+5a779a099d1026a2,non_parket,true,false,strike report; multiple sources
+5e2163dfc3f12188,non_parket,true,false,air raid notice
+34c56a4977b74183,non_parket,true,false,shelling casualties summary
+9855cf5a8c8597b6,non_parket,false,false,foreign official
+ff2ed7ec523001f5,non_parket,false,false,foreign officials
+9b9e72e93a760f0b,non_parket,true,false,war casualty report
+c477f053354a93a6,non_parket,false,false,incident report; not official-centred
+0cd1bed9595647b9,non_parket,false,false,Russian event and sources
+53f20433f7d7909e,non_parket,false,false,foreign official
+c9b2d0b3436e3955,non_parket,false,false,foreign officials; media source
+a695187356f9dfe7,non_parket,false,false,foreign officials
+6ffcd1cd20d8b691,non_parket,false,false,two officials; media framing
+c79d73d71533a8eb,non_parket,false,false,foreign event; agency source
+8fd937d11ca8c38b,non_parket,false,false,foreign official
+be39063f5e96a6ce,non_parket,true,false,attack casualty report
+72be814ec9c9985b,non_parket,true,false,front-line spokesman briefing
+82485223734a5bf3,non_parket,false,false,Russian event; multiple sources
+bf30a35872df0b64,non_parket,false,false,Kremlin and media voices
+dd50767a451ac3e0,non_parket,false,false,weather consequences report
+fa401e01b7717c25,non_parket,false,true,crime report; single official source
+e3865a585db1bb55,non_parket,false,false,foreign event
+4aa2934970af94a8,non_parket,true,false,shelling damage report
+e11323f17c70d7cd,non_parket,false,false,many citizen voices
+de1576b4986323c8,non_parket,false,false,foreign official
+00900081caefa6ab,parket,false,false,single state agency source
+23659a0fae755216,non_parket,true,false,front-line situation report
+ebdd25cba5dafd0d,non_parket,true,false,military command war statement
+f87785e1448ca46d,parket,false,false,single spokesman statement
+b10d2684219b3fe4,parket,false,false,single ministry source
+504bdcca70a36e93,non_parket,false,true,state company promo
+b449671e12c70d2e,non_parket,false,false,international body
+400c5e51b79882b2,non_parket,false,false,multiple media sources
+5f4b25cc8d21004d,non_parket,true,false,shelling casualty report
+46743965945e59e7,non_parket,true,false,attack damage report
+977a78854989b0bf,non_parket,false,false,foreign official
+5af9fc00065cfbf3,parket,false,false,single state body source
+c28877171a5ba648,non_parket,false,false,foreign official
+5edd2e11e9c5a329,parket,false,false,single ambassador source
+3807aa24f5ebd08b,non_parket,true,false,General Staff daily summary
+30501bdcf871d010,non_parket,false,false,NATO event; foreign sources
+56dd86ba429a5948,non_parket,false,false,multiple sources and voices

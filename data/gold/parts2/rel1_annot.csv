@@ -1,0 +1,51 @@
+id,label,military_bulletin,uncertain,note
+4425e96682a05b5b,non_parket,false,true,company framing; official status unclear
+44a097415d42789a,non_parket,false,false,foreign event
+49d0ca66dad568cc,parket,false,false,single official body source
+4a13610e129b0bd4,non_parket,false,false,foreign event
+4d1898c53e442edb,non_parket,false,false,foreign police
+4ec25e9602499e5e,non_parket,false,false,Russian bodies
+4f2634c030cc8e99,non_parket,false,false,foreign official plus Reuters
+52058887404dfd1d,parket,false,false,single Zelensky statement
+5287eced4c189c0f,parket,false,false,single prosecutor source
+53113cd2f647f967,non_parket,true,false,strike situation report
+53ee6d8ac6f96d30,parket,false,false,single PM statement
+55ce2fb6167c2e70,non_parket,true,false,daily strike casualty report
+567c221f5a5e615c,non_parket,true,false,drone attack notice
+59ee0bb14e9f9df5,non_parket,true,false,shelling consequences report
+5c405a73241cfe8c,parket,false,false,single OVA official
+60197f5762140f3e,parket,false,false,single ministry source
+61c76d652f718132,non_parket,false,false,foreign poll
+621a067a9c1d3eb5,non_parket,false,false,foreign event; two sources
+6273ba6325bbae18,parket,false,false,single OP press service
+63b461b03e719b0b,non_parket,false,false,foreign official
+64fdbade54676cd2,non_parket,false,false,foreign event
+66b7e04a12ed7ae3,non_parket,true,false,military strike report
+69d8ae911ba64b98,parket,false,false,single official post
+6bf62e11197ef3a2,non_parket,false,false,no domestic official
+6cd958bdb3cbfec4,non_parket,false,false,foreign media report
+6cdf889a239bfe9d,non_parket,false,false,foreign official
+6d02cb98f6f72e9f,non_parket,false,false,expert voice
+6f8aa136c89a21c6,non_parket,false,false,foreign official
+6fe736fa82a0a71f,parket,false,false,single official presentation
+70a8d4340ad55fec,parket,false,false,single OVA official
+71be159cbd118554,parket,false,false,single GUR official
+7414978afbb93bcb,parket,false,false,single minister comment
+74350b87b8927eb7,non_parket,true,false,front-line situation report
+74f81410caec0a37,non_parket,false,true,official source but soldier-centred
+75d086a051d33f5d,non_parket,false,false,foreign UN official
+798de1918391122c,parket,false,false,single NABU source
+79ef19fd1f702e9e,parket,false,false,single ministry source
+7e5ac63c996cf808,non_parket,true,false,General Staff daily briefing
+7ecefd975436b1db,non_parket,false,false,foreign official
+825c3445f10596cc,non_parket,false,false,foreign media report
+82c3447b8558e3c9,parket,false,false,single presidential address
+835066470f292534,parket,false,false,single MP statement
+83d73cce76182a31,non_parket,false,false,expert voice
+84bf8de8f4bd67f9,non_parket,true,false,daily shelling summary
+852f3a6c82e7a07a,non_parket,false,false,foreign event
+86ca26ed4013112c,parket,false,false,single minister statement
+871abf737d8d4547,non_parket,true,false,naval situation report
+876fb5ae7708dc50,non_parket,false,false,foreign event
+908154c6a80a8ce9,non_parket,false,false,multiple non-official voices
+937c6908c4fbf73f,parket,false,false,single council source

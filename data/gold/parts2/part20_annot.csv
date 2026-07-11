@@ -1,0 +1,56 @@
+id,label,military_bulletin,uncertain,note
+c34c39c20e5c40b7,non_parket,false,false,second source: Macron office release
+a5edfc7fcbe5ebca,non_parket,false,false,foreign officials
+ea819cc39ab32ebc,non_parket,true,false,front-line situation report
+b5689f3dbb999f84,non_parket,false,false,no official framing
+f48762b9734688ac,non_parket,true,false,daily war summary
+d8a9979befce867a,non_parket,false,false,foreign official
+d08cd7bea9723420,non_parket,false,false,no official actor
+92c9309ef2079359,parket,false,false,single spokesman source only
+34b523ac0bd4fd7e,non_parket,true,false,strike casualty report
+9173dfca24dfcd0b,parket,false,false,single source: Zelensky Telegram
+98e7b4472759f78e,non_parket,false,false,foreign official
+94b9a24de1f14220,non_parket,false,false,foreign ministry
+4d79cf62ad516f7d,non_parket,false,false,foreign military body
+47392c24c5067610,non_parket,false,false,foreign officials
+00f7a379884d0cef,parket,false,false,single police source
+c7875be36c02b773,parket,false,false,single source: Zelensky Telegram
+480151b44edec89c,non_parket,true,false,shelling casualty report
+c409d79c59033d88,non_parket,false,false,EU body — foreign
+2547b8028be72ac4,parket,false,false,single OP source
+bf5b0560114eda81,non_parket,true,false,strike casualty report
+646d2e16f7b4d207,parket,false,false,single OVA official source
+a55b793c6998da42,non_parket,false,false,foreign officials
+3274c5947f5e4624,non_parket,false,false,foreign police
+6b45402714a13840,non_parket,true,false,air attack report
+048da71fda239703,non_parket,false,false,foreign event
+b07f4fa6af0aaa24,non_parket,true,false,shelling casualty report
+48fe70d1462a5775,non_parket,false,false,second voice: MP criticism
+c29ad99dbcad639e,non_parket,true,false,shelling report
+9aa992123d0572c8,non_parket,false,false,historical essay
+1e81a5fda3f3e9e5,parket,false,false,single diplomat source
+2160bcc1794982db,non_parket,true,false,attack consequences report
+3a845ea425d9f308,non_parket,false,false,foreign event
+cf4d015ad8bde623,non_parket,true,false,shelling report
+b1cedb708502b49f,parket,false,false,speech only source
+d08e2d72442faa66,non_parket,false,false,foreign official
+c51def5958943db6,non_parket,false,false,foreign officials
+672f60dd84e69f68,parket,false,false,single city official source
+529e8aa7bccec65b,parket,false,false,single NABU official source
+a09d216f04e3a4bd,non_parket,true,false,strike report
+bcff73afa375d114,parket,false,false,presidential decree only
+1884638983e3a206,non_parket,false,false,foreign official
+24d037ca878bedba,non_parket,false,true,occupation report; unclear framing
+bda19e9be1650078,non_parket,false,false,multiple sources in backstory
+6ac310ffb7d2f471,non_parket,false,false,media sources
+1b63ee753a36ec45,non_parket,false,false,expert voice
+8e8580c03c2da01f,parket,false,false,single ministry source
+f6e9863d085eaac4,non_parket,false,false,EU decision — foreign framing
+d8c061de2cd12464,non_parket,true,false,shelling casualty report
+5f444c2b6f3e01b6,parket,false,false,single source: Shmyhal Telegram
+b9ab2e1cc671b02a,non_parket,false,false,foreign official
+db158a2cb85fa53f,non_parket,false,false,sport
+a3ffc73f5473751d,non_parket,false,false,two official sources
+fa32b1e8c3135218,non_parket,true,false,air-raid notice
+2fd43210f463c4f1,parket,false,false,single MP source; no assessment
+0a3fb354b7377ce3,non_parket,false,false,foreign NGO voice

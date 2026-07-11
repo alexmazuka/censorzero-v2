@@ -1,0 +1,51 @@
+id,label,military_bulletin,uncertain,note
+94b7e8487dc2e410,parket,false,false,single CPD/RNBO source
+9639e43d31ea67af,parket,false,false,single MP statement only
+9bfbef9735c7d1c1,non_parket,false,true,community leader not clearly official
+9ca2faab2a37639c,parket,false,false,single SBU source
+9eabc67ff8b335d3,parket,false,false,joint presser one official position
+9f15746f298e4de5,non_parket,true,false,General Staff daily briefing
+a21d92da4819e92e,parket,false,false,single OVA head source
+a3def7e965598fb6,parket,false,false,single OVA head source
+a4ae2293fb0152bd,non_parket,false,false,journalist award multiple voices
+a4b2391bcb0d124c,parket,false,false,single ministry source
+a624188801e023f4,non_parket,false,false,second official voice OGP
+a7f43051415d962d,parket,false,false,single SBU announcement
+a8518a1c6eb21ece,non_parket,false,false,foreign court via media
+aac350ec903c6278,parket,false,false,single Zelensky statement
+abee4437089888ad,non_parket,false,false,utility company service notice
+b017d1abb18af2d4,non_parket,false,false,survey findings centred not official
+b26f98fd6123d7d5,non_parket,false,false,foreign official
+b3de4322bcc5dfec,non_parket,false,false,UN official not domestic
+b525cd519efea7bb,parket,false,false,single state fund source
+b766b141eef72ab0,non_parket,false,false,expert economist framing
+b841ecf605be4cbb,non_parket,false,false,foreign leader
+bde0e44cbe752647,non_parket,false,false,markets no official actor
+bfd6d8c66681252e,non_parket,true,false,attack aftermath notice
+c088233fd538800c,parket,false,false,single OGP statistics release
+c25b3b23bf333c42,non_parket,false,false,foreign event via media
+c596e95071ed108a,non_parket,true,false,air-raid alert notice
+c61b9a228deda917,non_parket,false,false,rights defender via media
+c74e2e6c9cf91c1e,parket,false,false,single police official notice
+cb69cd64d481f84b,non_parket,false,false,weather no official framing
+ccea4f70bc6a78e2,parket,false,false,single speaker statement
+cdedcc8a857f9d2d,non_parket,false,false,foreign minister
+ce8ce59c74a4defd,parket,false,false,single military spokesman
+cfc384cb260df09c,non_parket,false,false,NATO foreign official
+d13b8e32282e522d,parket,false,false,single police source
+d3f781392a7b5653,non_parket,false,false,volunteer second voice
+d58ffaa576a7b191,parket,false,false,only Zelensky quoted
+dd9aa78d9c14aa83,non_parket,false,false,foreign company weather
+e2856d174f3b47c2,parket,false,false,single MP statement
+e76fad4fadf23624,non_parket,false,false,foreign ministry framing
+eaa70b38024ac6f1,non_parket,false,false,foreign event via Reuters
+ee755797df6f86d1,non_parket,false,false,foreign senator
+ee983654ae080911,parket,false,false,single Zelensky speech
+eeeb966f122425cd,non_parket,false,false,foreign ambassador source
+f31cef093394d02a,non_parket,false,false,company no official
+f3c20ffbefa8b4b0,parket,false,false,single military spokesman
+f4afafd5d4743dce,parket,false,false,single ministry source
+f677c0e01d7a1ad6,non_parket,false,false,community event not official-centred
+f70e18f671a60536,parket,false,false,single OGP statistics release
+f9fd4dc6ecc2ab94,parket,false,false,single MFA statement
+fb63997b3b6f24dd,non_parket,true,false,attack aftermath notice

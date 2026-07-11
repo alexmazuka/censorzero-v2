@@ -1,0 +1,56 @@
+id,label,military_bulletin,uncertain,note
+b4891231fcf9c1c5,parket,false,false,single minister source
+072f5b46756dc313,non_parket,false,false,expert voice
+8d01d73400fb88ab,non_parket,false,false,historical piece no official framing
+61ebbce2a3fbf4cf,non_parket,false,false,company source plus OVA
+876ad4cb7410f48d,non_parket,true,false,daily war summary
+209510538aa172c4,non_parket,false,false,journalist investigation foreign topic
+ce4da127819f1667,non_parket,true,false,air defence report
+d8ef5abd45f6a3d8,non_parket,true,false,general staff losses
+59d42e1a0a68bacd,non_parket,false,false,foreign source
+e832d66e6691c532,non_parket,false,false,event announcement mixed participants
+a27cdbb886414e25,non_parket,false,false,multiple sources
+a8090fbfb63f4aa2,parket,false,false,single official interview
+e5862e526e0f7720,non_parket,false,false,weather
+a3da4cde38d03f83,non_parket,true,false,general staff frontline
+d5b5aeddf87b0685,parket,false,false,single DSNS source
+f163320e375ef9d6,non_parket,false,false,foreign business news
+27f36e432f9c6e31,parket,false,false,single OVA source
+627eb65e26ba0b09,non_parket,true,false,air force attack report
+b01288a1622103a0,non_parket,false,false,health study
+6a5b7cff107392bf,parket,false,false,president single source
+86d56977616e7076,non_parket,false,false,multiple sources incl NGO
+fceaf07664336303,non_parket,true,false,combat action report
+7ed0a8e118208fba,non_parket,false,false,media sources
+1de9bdb157fb16d3,parket,false,false,single official source
+100567284c6297e8,parket,false,false,single official speech
+1063a60e1d1aecde,non_parket,false,true,"two officials, one campaign"
+477b7b751b243db6,non_parket,false,false,company source
+973e8b20539bd20c,non_parket,true,false,occupied city military situation
+1c62af9bdb3ff2f3,non_parket,false,false,foreign officials
+35139b36bfbb26dd,non_parket,false,false,foreign officials
+ff40176b85e1a046,non_parket,true,false,combat action report
+fd1c7c755cd348bd,parket,false,false,single MP source
+ace57ff240870cd5,non_parket,false,false,foreign sources
+7ac61be7791028b6,parket,false,false,single GUR source
+d94edd98b00c4c9e,non_parket,false,false,foreign topic
+82340d98024159bb,non_parket,false,false,foreign official
+f7d2f0a919db3b85,non_parket,false,false,foreign case
+39cb487b02ebf0b6,non_parket,true,false,air raid notice
+995fcce782a59bdf,non_parket,true,false,military situation report
+049b583a6aa32f35,non_parket,false,false,many voices feature
+19090f58fdc01334,non_parket,false,false,foreign official
+3821fb5d92323980,non_parket,true,false,enemy military situation
+010274fffcc06c5c,non_parket,false,false,citizens action no official framing
+8d66e7c6a4988e6c,non_parket,false,false,independent media background
+7d4fb666aa408e64,non_parket,false,false,foreign officials
+46e85b01a620b7e8,non_parket,false,false,foreign official
+ca9911eb300228be,non_parket,false,false,foreign official
+efe774ee1ed3f5e1,parket,false,false,single OVA source
+8c79909183071051,non_parket,false,false,two official bodies
+569e71a16ed15d67,non_parket,false,false,foreign think tank
+124bf17abaf21acc,non_parket,false,false,multiple voices
+a626f843d0c33320,parket,false,false,single court ruling source
+01637b8ef1fcb143,non_parket,false,true,obituary unclear framing
+607052832715490c,non_parket,true,false,air raid notice
+973c23bce15e6549,non_parket,false,false,international organization

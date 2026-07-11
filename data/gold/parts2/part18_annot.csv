@@ -1,0 +1,56 @@
+id,label,military_bulletin,uncertain,note
+e37fbb444fb9cc46,non_parket,false,false,"event report, multiple sources"
+d0a4b1a7e7f14176,non_parket,false,false,foreign media report
+0ed17279f5889cd3,non_parket,false,false,foreign crime news
+29cfcf02923546b5,non_parket,true,false,enemy movement report
+3d5c8400efd85c5e,non_parket,false,false,foreign officials
+3d65b447e598b3a3,non_parket,false,false,about enemy actions
+251673093db5d8c1,non_parket,false,false,expert voice
+ca1ef68ff7605930,non_parket,false,false,second voices present
+2389e7f512d71f5b,non_parket,false,false,foreign topic
+dfc17a5031874d32,non_parket,false,false,strike aftermath report
+451a8bb19fbadf71,non_parket,false,false,strike aftermath report
+a63397936a7214f2,non_parket,false,false,war crime event report
+84e50617c0b5ee18,non_parket,false,false,multiple voices
+b795fac4f9eca70f,non_parket,false,false,"strike report, two official bodies"
+3a9997933d796991,non_parket,false,false,"event report, two sources"
+c65536f6f73baa02,non_parket,true,false,attack notice
+abf74d42c8ae8668,non_parket,false,false,foreign official
+3b7f907e10402909,parket,false,false,single official statement
+61bde0dfb7b330a7,parket,false,false,only Zelensky quoted
+c65b8c8ede4fb76a,non_parket,false,false,strike aftermath report
+8d2a3cdc844385cf,parket,false,false,single state body activity
+96dd333951be7453,parket,false,false,single official statement
+ac61952bec9e6514,non_parket,false,false,strike aftermath report
+45ef0c7b34917a85,non_parket,false,false,foreign officials
+5996e4d9fb4868f6,parket,false,false,single ministry source
+90ba91810daeeb5f,non_parket,false,false,no official framing
+0d2b954b0342b65c,non_parket,false,false,about enemy actions
+1bdd5c9b0145f5d2,non_parket,false,false,war crime event report
+4b26b715e4a745cc,non_parket,true,false,General Staff briefing
+39ed9e61a19e0254,parket,false,false,single official body source
+3a12b38563f79996,non_parket,false,false,currency rates info
+7166daba28f7bf17,non_parket,false,false,expert voice
+cc1eaab06ba98a54,non_parket,false,false,weather warning
+d1f1f6449d9409d5,non_parket,true,false,General Staff losses report
+2e80b2713404d20e,non_parket,false,false,foreign officials
+ff68296813a9a4c9,non_parket,false,false,foreign think tank
+c15b10ca018cef67,non_parket,true,false,General Staff briefing
+8dfdf29258e7a3e3,parket,false,false,only Zelensky quoted
+c53c72ca8ae992cb,non_parket,false,false,foreign official
+10bbdc8a853aeaec,non_parket,false,false,weather forecast
+43b40516138108d2,non_parket,false,false,outage status report
+7e3de750cf01cfa1,non_parket,false,false,crime event report
+95ed75f4560d9c78,non_parket,false,false,"event report, two sources"
+b6c99b8b59ccceb5,parket,false,false,single official statement
+19daf7fcccd0dd80,non_parket,false,false,"lawyer voice, foreign case"
+49e3cec9482d6985,non_parket,false,false,accident event report
+da618a733fa75bfc,non_parket,false,false,strike aftermath report
+cbc819803e4394a9,non_parket,false,false,foreign officials
+342252387547913b,parket,false,false,single official activity
+273916e59a4705a8,non_parket,false,false,multiple voices
+7b26f7c58dbdebf2,non_parket,false,false,NGO announcement
+812a25d9761767cd,non_parket,false,false,foreign NGO report
+c609b76468064407,non_parket,false,false,foreign politics
+99fcfedbe702fff5,non_parket,false,false,rescue event report
+5032d21e454514ff,non_parket,false,false,science news

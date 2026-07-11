@@ -1,0 +1,56 @@
+id,label,military_bulletin,uncertain,note
+010ea94071ce7b3c,non_parket,true,false,strike aftermath report
+9222c0050414964e,non_parket,false,false,industry association not official
+e0c2a530d6a89d35,non_parket,false,false,foreign event
+782a80a26e78d116,parket,false,false,single official source ombudsman
+d57700bbaf8bc63d,parket,false,false,ministry press release only
+d3f2f48dec5eaaab,non_parket,false,false,foreign business story
+0098931e591a2760,non_parket,false,false,foreign officials
+5c783b73d825740a,non_parket,true,false,general staff losses summary
+ab4a31228fa4ca81,non_parket,false,false,flood event not official framing
+3e6f458911c0db86,non_parket,false,false,foreign official
+439314d75b6c1b50,non_parket,true,false,navy situation report
+c3fe90f0c1e78e8b,non_parket,false,false,foreign topic multiple voices
+eec2ce6a4f34db5b,non_parket,true,false,front situation briefing
+5db1b7251a302908,non_parket,false,false,multiple voices human story
+60294b9e96dd85dd,non_parket,false,false,russian official
+7c68b27a676a6664,non_parket,false,false,foreign official
+193e805c76394243,non_parket,false,false,EU story foreign
+f4a2e227f55fc0e4,non_parket,false,false,company news no official
+a5908b50a9941b62,non_parket,false,false,foreign event
+3cf85bab53173f84,parket,false,false,single official body meeting
+e0397b66e837fe56,non_parket,true,false,general staff daily summary
+c0cc3baf231a20f8,parket,false,false,single official deputy minister
+f17712e3b8558459,non_parket,false,false,crime event police source
+fa83e16437887d3f,non_parket,false,false,enemy activity focus
+fb14be9479999e7b,parket,false,false,single official statement
+a2c3966264b4529c,non_parket,false,false,russian sources
+50fa716cd6b49949,non_parket,false,false,foreign media sources
+3e28b163824dbfe9,non_parket,false,false,UN report
+5c1d1a51fa670ccc,non_parket,false,false,partisan movement source
+a4a2410fbcac63f5,non_parket,false,false,foreign official
+46f01c9bdb4e9934,non_parket,false,false,foreign official
+8597cf056c1576be,non_parket,true,false,front situation report
+66267e6717bf5f6c,non_parket,true,false,military ops report
+6a106d844dbf3a1e,non_parket,true,false,attack aftermath report
+5bae0c4f5eee037a,non_parket,false,false,foreign official
+9c98639576fdbaff,non_parket,false,false,flood damage utility source
+d04aa83edefecbc0,non_parket,false,false,disinfo debunk enemy focus
+fd22d9458e8fa72c,non_parket,false,false,foreign officials
+219e5df54e0e87c0,non_parket,false,false,journalist investigation
+6693e794d924e893,non_parket,false,false,foreign official
+c990b6873b5555f3,non_parket,false,false,russian event
+5360bbe601d51b56,non_parket,false,false,UN and NGO voices
+6dcbd6af80a60486,non_parket,true,false,attack aftermath report
+36d9cc878f4104a9,non_parket,false,false,multiple MPs incl opposition
+846bebcb5a832fd6,parket,false,false,single official interview
+f9209314fed32907,non_parket,false,false,crime report prosecutor source
+9fb35f108b7785f7,parket,false,false,single official comment
+e63b123bc2b0f09b,non_parket,false,false,international body statement
+de8905bbb042b5ad,non_parket,false,false,crime report police source
+ffb69fede77e967e,non_parket,false,false,foreign military news
+c52f457f33b22c79,non_parket,false,false,EU plans media source
+0eaa52f967042938,non_parket,false,false,crime case report
+179eea90602733d9,non_parket,false,false,foreign multiple sources
+6def768c9223628e,non_parket,false,false,second voice local deputy
+86cd41d84e02b1de,non_parket,false,false,foreign dispute

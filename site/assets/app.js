@@ -240,16 +240,99 @@ function renderLimits() {
 }
 
 function renderExplorer() {
+  const ctl = $("#explorer-controls"); ctl.innerHTML = "";
+  const state = window.__ex || { mode: "summary", outlet: "", period: "", month: "", flt: "all" };
+  window.__ex = state;
+
+  const mkSel = (labelKey, opts, key, onchange) => {
+    const lab = el("label", null, T(labelKey));
+    const sel = el("select");
+    opts.forEach(([v, t]) => { const o = el("option", null, t); o.value = v; if (state[key] === v) o.selected = true; sel.appendChild(o); });
+    sel.onchange = () => { state[key] = sel.value; onchange(); };
+    lab.appendChild(sel); ctl.appendChild(lab);
+    return sel;
+  };
+
+  mkSel("ex_mode", [["summary", T("ex_mode_sum")], ["articles", T("ex_mode_art")], ["gold", T("ex_mode_gold")]],
+    "mode", renderExplorer);
+
+  if (!EXPLORER) { $("#explorer-out").innerHTML = ""; $("#explorer-out").appendChild(el("p", "fine", "n/a")); return; }
+
+  if (state.mode === "articles") {
+    const outlets = [...new Set(EXPLORER.shards.map(s => s.outlet))].sort();
+    if (!state.outlet) state.outlet = outlets[0] || "";
+    mkSel("ex_outlet", outlets.map(o => [o, o]), "outlet", () => { state.period = ""; state.month = ""; renderExplorer(); });
+    const periods = [...new Set(EXPLORER.shards.filter(s => s.outlet === state.outlet).map(s => s.period))].sort();
+    if (!periods.includes(state.period)) state.period = periods[0] || "";
+    mkSel("ex_period", periods.map(p => [p, p]), "period", () => { state.month = ""; renderExplorer(); });
+    const months = EXPLORER.shards.filter(s => s.outlet === state.outlet && s.period === state.period).map(s => s.month).sort();
+    if (!months.includes(state.month)) state.month = months[0] || "";
+    mkSel("ex_month", months.map(m => [m, m]), "month", renderExplorer);
+    mkSel("ex_filter", [["all", T("ex_f_all")], ["parket", T("ex_f_parket")], ["balance", T("ex_f_balance")], ["gold", T("ex_f_gold")]],
+      "flt", renderExplorer);
+    loadArticles(`explorer/${state.outlet}_${state.period}_${state.month}.json`, state.flt, false);
+  } else if (state.mode === "gold") {
+    mkSel("ex_filter", [["all", T("ex_f_all")], ["g_parket", T("ex_f_gparket")], ["g_non", T("ex_f_gnon")], ["g_mil", T("ex_f_gmil")]],
+      "flt", renderExplorer);
+    loadArticles("explorer/gold.json", state.flt, true);
+  } else {
+    renderSummaryTable();
+  }
+}
+
+function renderSummaryTable() {
   const host = $("#explorer-out"); host.innerHTML = "";
-  if (!EXPLORER) { host.appendChild(el("p", "fine", "n/a")); return; }
   const tbl = el("table");
-  const head = el("tr"); [T("ex_outlet"), T("ex_period"), "month", T("ex_n"), T("ex_parket"), T("ex_balance")].forEach(t => head.appendChild(el("th", null, t)));
+  const head = el("tr"); [T("ex_outlet"), T("ex_period"), "month", T("ex_n"), T("ex_parket"), T("ex_balance"), T("ex_goldn")].forEach(t => head.appendChild(el("th", null, t)));
   const thead = el("thead"); thead.appendChild(head); tbl.appendChild(thead);
   const tb = el("tbody");
-  (EXPLORER.shards || []).slice(0, 400).forEach(s => {
+  (EXPLORER.shards || []).forEach(s => {
     const tr = el("tr");
-    [s.outlet, s.period, s.month, s.n, s.n_parket, s.n_balance].forEach((v, i) =>
+    [s.outlet, s.period, s.month, s.n, s.n_parket, s.n_balance, s.n_gold ?? 0].forEach((v, i) =>
       tr.appendChild(el("td", null, i >= 3 ? Number(v).toLocaleString() : v)));
+    tb.appendChild(tr);
+  });
+  tbl.appendChild(tb); host.appendChild(tbl);
+}
+
+async function loadArticles(path, flt, isGold) {
+  const host = $("#explorer-out"); host.innerHTML = "";
+  host.appendChild(el("p", "fine", "…"));
+  let rows;
+  try { rows = await (await fetch(path)).json(); }
+  catch (e) { host.innerHTML = ""; host.appendChild(el("p", "fine", "n/a")); return; }
+  host.innerHTML = "";
+  const match = (r) => {
+    if (flt === "parket") return r.parket;
+    if (flt === "balance") return r.balance_risk;
+    if (flt === "gold") return r.gold_label != null;
+    if (flt === "g_parket") return r.gold_label === "parket";
+    if (flt === "g_non") return r.gold_label === "non_parket" && !r.gold_military;
+    if (flt === "g_mil") return !!r.gold_military;
+    return true;
+  };
+  const sel = rows.filter(match);
+  host.appendChild(el("p", "coverage", `${T("ex_shown")}: ${Math.min(sel.length, 500).toLocaleString()} / ${sel.length.toLocaleString()}`));
+  const tbl = el("table");
+  const head = el("tr");
+  const cols = isGold
+    ? [T("ex_outlet"), T("ex_period"), T("ex_date"), T("ex_title"), T("ex_algostatus"), T("ex_goldstatus")]
+    : [T("ex_date"), T("ex_title"), "src", T("ex_algostatus"), T("ex_goldstatus")];
+  cols.forEach(t => head.appendChild(el("th", null, t)));
+  const thead = el("thead"); thead.appendChild(head); tbl.appendChild(thead);
+  const tb = el("tbody");
+  const algoStatus = (r) => r.parket ? T("st_parket") : (r.balance_risk ? T("st_balance") : "—");
+  const goldStatus = (r) => r.gold_label == null ? "" :
+    (r.gold_military ? T("st_gmil") : (r.gold_label === "parket" ? T("st_gparket") : T("st_gnon")));
+  sel.slice(0, 500).forEach(r => {
+    const tr = el("tr");
+    if (isGold) { tr.appendChild(el("td", null, r.outlet)); tr.appendChild(el("td", null, r.period)); }
+    tr.appendChild(el("td", null, r.date_published));
+    const tdT = el("td"); const a = el("a", null, r.title || r.url);
+    a.href = r.url; a.target = "_blank"; a.rel = "noopener"; tdT.style.textAlign = "left"; tdT.appendChild(a); tr.appendChild(tdT);
+    if (!isGold) tr.appendChild(el("td", null, String(r.sc)));
+    tr.appendChild(el("td", null, algoStatus(r)));
+    tr.appendChild(el("td", null, goldStatus(r)));
     tb.appendChild(tr);
   });
   tbl.appendChild(tb); host.appendChild(tbl);

@@ -1,0 +1,56 @@
+id,label,military_bulletin,uncertain,note
+6585c11d4887b582,non_parket,false,false,foreign official framing
+3750ae1c8c6ee9f8,non_parket,false,false,foreign sources and officials
+63bcd7a6869fd4fe,non_parket,false,false,media second voice
+db0dd260f971a70b,parket,false,false,single ministry official
+8a98008d3877d764,non_parket,false,true,interview; residents quoted in questions
+28b08fd84580baba,non_parket,false,false,think tank source
+ed182db781b573d4,non_parket,false,false,foreign official
+650172f97bb12b4a,non_parket,false,false,foreign official
+b2d3fed1fcce2c1e,parket,false,false,single official statement
+3fc9d14152b2944c,non_parket,false,false,foreign official
+5ea32cebdd63109d,non_parket,false,false,foreign official
+7a594dca4faba169,non_parket,false,false,foreign official
+4c6c88dd92fcab9e,non_parket,true,false,air attack report
+58b206ac96338b7f,non_parket,false,true,state company sole source
+91b63f6269261567,parket,false,false,single SBU source
+47d69e38c04192ce,non_parket,false,false,foreign official
+f162ac235d44cb60,non_parket,false,false,expert voice only
+af9755ff5d271c97,non_parket,true,false,air-raid notice
+066541073eefe5b3,non_parket,false,false,foreign officials
+9813b14e08470ada,parket,false,false,single ministry source
+eb2bdfed6aa9abd2,non_parket,false,false,foreign official
+ad86ecd3f08c6934,non_parket,false,false,foreign official
+19940a6f3d197ae1,non_parket,false,false,foreign official
+787b4f11c5f6c2a9,parket,false,false,single prosecutor source
+ae165c7d9e3933fe,non_parket,true,false,General Staff report
+09d6d5d670265707,non_parket,false,false,foreign official
+494e17bd2a831d32,parket,false,false,single minister source
+273336123c0a0849,non_parket,false,false,party news via insiders
+61c4bcd8ec06288f,non_parket,false,false,media and satellite source
+65126029e322042b,parket,false,false,single OVA head source
+2a36beefb910dd11,non_parket,true,false,regional attack summary
+c0ce2071ef659a38,non_parket,false,false,foreign official
+5e31c080d922c459,non_parket,true,false,attack aftermath report
+5e2e0e3cbda16a7f,non_parket,true,false,attack casualty report
+0f0990094088f015,non_parket,false,false,foreign officials
+9200e1deeee0606d,non_parket,true,false,air-raid alert
+941aa565c58bc5c8,non_parket,false,false,foreign officials
+8222fd7095f4f564,non_parket,true,false,shelling damage report
+1886152e0305b76a,non_parket,true,false,attack damage report
+63b967cf14a5467d,non_parket,true,false,General Staff briefing
+5bef74de699ccbe1,non_parket,false,false,foreign media report
+d9eceb7035ec477e,parket,false,false,single official speech
+99a637d98afb3d26,non_parket,true,false,front-line combat report
+12adbae85a838919,parket,false,false,single official interview
+3a6edb7a27efe94e,parket,false,false,single minister interview
+974de1b03b9f79de,parket,false,false,single minister interview
+a9bbeb7cecf42aaf,non_parket,false,false,foreign officials
+da37d449a6f02820,non_parket,false,false,crime news not official-centred
+13bddfae14589c2e,parket,false,false,single official source
+6e3d947aa76214e3,non_parket,true,false,strike report
+bd56625fbcd2b5ae,non_parket,false,false,two official bodies cited
+8dbd52413056bc52,non_parket,false,false,foreign topic and sources
+6f83426ecc1cb2a1,non_parket,false,false,foreign officials
+bb5e016dd3ec824d,parket,false,false,single ministry source
+4f6d54042b748152,non_parket,false,false,Russian sources

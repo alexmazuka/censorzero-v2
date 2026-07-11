@@ -1,0 +1,56 @@
+id,label,military_bulletin,uncertain,note
+8b8c6ff653460bfa,non_parket,true,false,air-raid notice
+8d267db127e9a745,parket,false,false,single official interview
+98500f8640f75b01,parket,false,false,local official sole voice
+fef9758c02c8222c,non_parket,true,false,shelling situation report
+25357c96d38c5043,parket,false,false,single OVA source
+6b358baf151402f2,parket,false,false,president sole source
+9c9f50a592cc1aaa,non_parket,false,false,foreign official
+2c7327c480643214,parket,false,false,OVA sole source
+edd4c958c6882ad6,parket,false,false,presidential address only
+208beb8169533785,non_parket,false,false,"foreign media, many voices"
+04ca77e472142f2c,non_parket,false,false,program announcement
+1da6de167e4f081c,parket,false,false,border service spokesman only
+d7c361e66388d19c,non_parket,false,false,foreign official
+07eb14866a3c4447,non_parket,false,false,foreign story
+c7d8947b58f06366,non_parket,true,false,General Staff report
+88faccd61a90cfec,non_parket,false,false,two official bodies cited
+5ba965677a5df642,parket,false,false,government sources one voice
+c3765539d05a5bc0,non_parket,true,false,air defense report
+cec692debc5b317c,non_parket,false,false,audit findings second voice
+482c175ed512085e,non_parket,true,false,casualty situation report
+a724ac0bd4e3e5e2,non_parket,false,false,privatization auction data
+7683da8d20c07b6d,non_parket,true,false,attack casualty update
+d8c510eb51521bb1,non_parket,false,false,foreign official
+0fa220dc088f7c83,non_parket,false,false,weather
+469857c733aa35d9,non_parket,true,false,shelling consequences report
+e49a9a3bdac12a38,parket,false,false,single minister interview
+6b0831029595764f,non_parket,false,false,foreign story
+5297433850573952,parket,false,false,MFA sole source
+613a48a389f52629,non_parket,false,false,foreign official
+d9fad1cc63652c41,parket,false,false,president sole source
+ec361b0817af9ba9,non_parket,false,false,foreign officials
+40745a846db0b383,non_parket,true,false,attack casualty report
+47fe249588dbe340,non_parket,false,false,foreign official
+530017285b6e9d5f,non_parket,false,false,foreign EU official
+4045d6f460a0006c,parket,false,false,president sole source
+6958e85e293d6485,non_parket,true,false,General Staff summary
+291049b1fbec717c,parket,false,false,minister sole source
+4178a91f0c1c42a3,non_parket,false,false,think tank analysis
+b12776ec03c9d7bb,non_parket,true,false,shelling situation report
+9fa8a64a8dd125bd,non_parket,true,false,attack damage report
+a900c0f94b28154b,non_parket,true,false,air defense summary
+8e8e56d9b73cfd64,parket,false,false,intelligence agency sole source
+4a60a8fbad4de7c4,parket,false,false,speaker sole source
+eaac5100d1e3cbe0,parket,false,false,ministry sole source
+acabf19643d7f936,parket,false,false,minister sole source
+d0fdafe24afbcc50,non_parket,false,false,NATO official
+9ad5e1911bd91ed8,non_parket,false,false,foreign politics
+4e8023a6323c7382,non_parket,false,false,think tank analysis
+662f8584c4be0069,non_parket,false,true,"state company head, not official"
+550a85a7b1a95966,non_parket,false,false,expert voice
+9a5e08776ca8b9ad,parket,false,false,intelligence agency sole source
+f386ed02e26c3e06,non_parket,false,false,"incident report, no official framing"
+11ae8adb2e739edc,non_parket,true,false,air threat notice
+71624cfe4015dbd2,parket,false,false,presidential decree sole source
+55b3326519bac21d,non_parket,false,false,Russian body source

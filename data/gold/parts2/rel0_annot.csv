@@ -1,0 +1,51 @@
+id,label,military_bulletin,uncertain,note
+0230d62e12ab7775,non_parket,false,false,foreign officials and multiple sources
+02a409fd42cb9f96,parket,false,false,single OVA source only
+02c1b84f64fdfb9d,non_parket,false,false,second voice: girlfriend and media
+03e539896b2b0cdf,non_parket,false,false,NGO DEJURE second voice
+048b8b208dc34456,non_parket,false,false,foreign official
+04ceee1f5d2b943e,non_parket,false,false,foreign parliament
+051e498ce44e8690,non_parket,true,false,enemy forces situation report
+06024e1b2c633fc9,non_parket,true,false,air defence report
+0693a14478b59617,non_parket,true,false,shelling casualties report
+0a3126573ee94342,non_parket,false,false,foreign minister main voice
+0c4c4389e64289f1,parket,false,false,single MOZ official source
+0e6c0cedd8a4cd5e,non_parket,false,false,expert commentary
+14053dd3bd67226e,non_parket,true,false,front-line summary
+1461b82f4610b63f,parket,false,false,single official no second voice
+1c01b7034f7cfa30,non_parket,true,false,front-line summary
+1df8ba9898ee9794,parket,false,false,single city official source
+2088aa27e5cea0f0,non_parket,false,false,foreign official
+2146e97000a31c13,parket,false,false,single official promotional piece
+23ee411eab39cfca,non_parket,true,false,shelling damage report
+25868d7756d854ad,parket,false,false,single SZR statement relay
+265b037fec0b826f,parket,false,false,single government portal source
+270497801230fcca,non_parket,false,false,foreign intelligence
+2795a2d15c22bfcb,non_parket,false,true,state company grid status report
+2823305597456ee0,non_parket,false,false,foreign intelligence
+296f5400156cd0a1,parket,false,false,single SAP source
+298ea6499f61624f,non_parket,false,false,foreign ministry
+2a124259a1e6bf9c,non_parket,false,false,memorial piece multiple voices
+2ab83496f5c4e6e4,non_parket,false,false,photo selection no official actor
+2b4bd5db02898a83,non_parket,false,false,opposing Austrian stance paraphrased
+2bd51f3368f29c6b,non_parket,false,false,foreign leader
+2c02c48539a8f5bf,non_parket,false,false,market news with analyst
+2ced5a7d9d42d7ae,non_parket,false,false,foreign parliament
+2d2ffd050f0cb8da,non_parket,false,false,market analytics no official framing
+2f0cb9f973c14604,parket,false,true,state company program promo
+326d32bfce4dcdac,non_parket,false,false,foreign diplomat
+3297e5e460e083a0,non_parket,true,false,front-line strike report
+341e0ed234b0630f,parket,false,false,single CNS statement relay
+35d887abba488cd0,non_parket,false,false,analysis of foreign politics
+3691490ec34145f1,parket,false,false,single OVA official source
+36ae8e472a55f8a1,non_parket,true,false,shelling report
+372ea257782f6742,parket,false,false,single police source
+39201afabd9c968c,non_parket,true,false,air force daily bulletin
+3924a62f9c4b5f8e,non_parket,false,false,donor appeal not official framing
+39af41eaf290a699,non_parket,false,false,industry association voice
+3ef429766cf4b95b,parket,false,false,single prosecutor source
+3f00d038b7307dcb,non_parket,true,false,strike damage report
+40eeed4e8f667ec5,parket,false,false,single city official statement
+41e57c1805f8fcd0,non_parket,false,false,foreign expert
+422271778919c598,parket,false,false,officials only single source
+4414d2cb4880e22f,parket,false,false,full speech single official

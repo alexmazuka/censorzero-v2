@@ -1,0 +1,56 @@
+id,label,military_bulletin,uncertain,note
+50c92ccf12a3edad,parket,false,false,single ministry press release
+611ae2589b836384,non_parket,false,false,foreign official
+52c024f20d947e63,non_parket,false,false,multiple official voices
+7addd45febe2ea7f,parket,false,false,single MoD press release
+264a70ec9c7efae7,parket,false,false,only Zelensky quoted
+90bec2d5928bd6eb,parket,false,false,single ministry source
+a51071e97e5cf712,non_parket,false,false,Russian officials
+d3df18148a8f9690,parket,false,false,single NAZK head source
+8bf86c32381dcf45,non_parket,false,false,foreign weather story
+9d604a70dd1336da,non_parket,false,false,foreign official
+695ab0caaa6c7ea5,non_parket,true,false,strike aftermath report
+c695cf66b731b73f,non_parket,false,false,no official actor
+8a504c585ebc9d16,non_parket,true,false,air-raid notice
+88724e4da34fb2d7,parket,false,false,single MoD source
+01957a9bd3c3e6a4,non_parket,false,false,foreign official
+ebdf00f7e8b1971e,non_parket,false,false,foreign case
+edb78df981c810d2,non_parket,true,false,strike report two officials
+088df25907d79f67,non_parket,false,false,foreign official
+624478fa1c25e528,non_parket,true,false,attack consequences report
+c453548580f25469,parket,false,false,single prosecutor general source
+12bfa456db6b14b7,parket,false,false,only Zelensky address
+7496b527287ef949,non_parket,false,false,multiple voices incl citizen
+c43064ac72df3410,non_parket,false,false,EU officials media
+e6d905ecdaad8071,non_parket,true,false,General Staff losses tally
+48b0fd828fe2abe6,non_parket,true,false,front-line combat footage
+4d8f59993f24d446,parket,false,false,single Syrskyi statement
+860e0eab3001ed62,non_parket,false,false,second source White House
+1f44e607a9344469,non_parket,false,false,NGO and family sources
+68ee6ea8b75742e2,non_parket,true,false,strike report
+79a3ffa811084c38,non_parket,false,false,foreign leader plus Zelensky
+7c8687111f5a67c1,non_parket,false,false,foreign officials
+783561640a1f6ae6,non_parket,false,false,Russian official
+118fd2b7c74c2178,non_parket,false,false,Russian ministry claim
+07487fe6c2a63290,parket,false,false,single SZRU source
+44bf30c7485cbf53,non_parket,false,false,foreign official
+7157ea75e98cd66e,parket,false,false,single tax service source
+3b0dc70d0caea55d,parket,false,false,single Cabinet rep source
+66d38455c77e35aa,non_parket,true,false,General Staff daily briefing
+8093ced0a789bc5a,non_parket,false,false,journalists multiple soldier sources
+b3c0ad5f797197cb,parket,false,false,only Zelensky interview
+ce68475a0c8cc581,non_parket,false,false,foreign official
+b09b89d93cfe3045,non_parket,false,false,foreign leaders
+dbdc3404016f7bb8,parket,false,false,single ministry source
+b2d7d0f625939ed0,non_parket,true,false,General Staff daily briefing
+0686123db0a13698,non_parket,false,false,foreign officials
+b5d54aff0c5e1887,non_parket,false,false,foreign official framing
+63f90c5b8f377628,non_parket,false,false,DSNS plus media eyewitnesses
+2d4308776ce3268e,non_parket,false,false,expert second voice
+d809f0020ca1e1f2,non_parket,true,false,strike report
+b5011b5ba8adde81,non_parket,false,false,foreign official
+d692e9300c26305a,non_parket,true,false,war situation report
+66dc5b0cb0560410,parket,false,false,single police source
+75401e5968c79bbe,non_parket,false,false,foreign officials
+327c4d007fc18d75,parket,false,false,single ministry source
+5615d1dfa4e9cbc2,non_parket,false,false,foreign politics

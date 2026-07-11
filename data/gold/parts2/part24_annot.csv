@@ -1,0 +1,12 @@
+id,label,military_bulletin,uncertain,note
+ff0eb97f77000ff5,parket,false,false,single official voice praising SBU
+2eaebbc780c11e6b,non_parket,false,false,poll no official framing
+91c67fe4d6744794,non_parket,false,false,foreign official plus expert
+f776248dfd6872a3,non_parket,true,false,air defense notice
+3fc45682782c7b78,parket,false,false,single police source only
+8836c61fef985547,non_parket,false,false,foreign officials add second voice
+98262449c0587df6,non_parket,false,false,foreign Polish official
+d5a0223fb2de7071,non_parket,true,false,front-line situation report
+b2a39b2f11d0e3b5,non_parket,false,false,US foreign body framing
+71221e783b00eafe,non_parket,false,false,multiple opposing voices
+015324b21dbf8f53,non_parket,false,false,foreign Estonian PM

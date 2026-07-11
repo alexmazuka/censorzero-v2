@@ -1,0 +1,56 @@
+id,label,military_bulletin,uncertain,note
+3ef461b5ec93f578,non_parket,true,false,General Staff daily losses bulletin
+89ca0b9792a9bc2b,non_parket,true,false,front-line report with independent sources
+7b9571e7f7bf1b8d,parket,false,false,single DPSU source only
+1b315b885eca7d0c,parket,false,false,single PM statement only
+4ee1ece67bed5000,non_parket,false,false,culture feature no official
+c9145b98e40e98b1,non_parket,false,false,foreign officials only
+6a37209676e8ca7e,parket,false,false,single city council source
+3319e924783b5d89,non_parket,false,false,foreign expert analysis
+bc6e46ed15e68ff7,non_parket,false,true,multiple official bodies cited
+e62dc8077f57f5af,non_parket,true,false,air-raid notice
+d78c56ed0d5aed3c,parket,false,false,single ministry source only
+77996a44f0f77abd,parket,false,false,single GUR official interview
+3683376228302f3f,non_parket,false,false,foreign official
+1967ba8ec2709d39,non_parket,true,false,front-line liberation report
+ab295558550e2ac2,parket,false,false,single ZSU official source
+61e57d1a403469c3,non_parket,false,false,White House readout foreign source
+998b8c4bfacd1ddb,non_parket,true,false,strike aftermath situation report
+29dd11e6d5333214,non_parket,false,false,foreign official
+d90077e68c6bfd9d,non_parket,true,false,General Staff daily losses bulletin
+3392a2207eb64595,non_parket,false,false,IAEA voice included
+da6288afaa5f15d1,non_parket,false,false,foreign conference report
+5969103c7f59b1f2,non_parket,false,false,year recap feature
+4f0b2e8d2e762754,non_parket,true,false,strike casualties situation report
+5f811bd01a638061,non_parket,false,false,church figures no state official
+e4c4f9037a31cd27,non_parket,false,false,foreign media fact-check
+4b5d7778446975d6,non_parket,false,false,company source no official
+f5becc6b7d1cf323,parket,false,false,single consul source only
+4ee51bac677c3a93,non_parket,false,false,state company PR
+6d39a499898ba938,non_parket,false,false,foreign actors only
+0c2dc76417f4d777,non_parket,true,false,strike aftermath situation report
+6047dc08bdc5d87f,parket,false,false,single AF spokesman source
+7033914204b8adb3,non_parket,false,false,foreign officials
+65a3abb23035d1c3,non_parket,true,false,drone attack notice
+22133f0f6e0ae8af,non_parket,false,false,foreign official
+d656320a3783b7c9,non_parket,false,false,think tank plus officials
+96d1b45cbfa017a1,non_parket,true,false,air attack notice
+29a6d5f2d6071557,non_parket,false,false,reportage with citizen voices
+cbc91fa9785d6da5,non_parket,true,false,shelling report two officials
+474e003e165ddb1c,non_parket,true,false,shelling casualties report
+303ea978025cc9fd,non_parket,false,false,MP claim vs SBU version
+751397c68609d278,parket,false,false,single state fund source
+db4cabd65d30c7db,non_parket,false,false,EU official foreign
+fe4a9b9ce2015560,non_parket,true,false,strike casualties report
+1240ff4f0b07a225,non_parket,true,false,front-line unit report
+205f05fe700bb483,non_parket,false,false,UN official foreign
+e0e53ffd8d8dc2f8,parket,false,false,single committee head source
+9622eb185f02a61d,non_parket,true,false,air-war situation report
+d4ef0195dd5e3176,non_parket,false,false,EU officials foreign
+0ab51b9f71733fdc,non_parket,false,false,several official sources
+1f240a45738758ae,non_parket,false,false,NGO survey no official framing
+aee84e9ffdafe422,non_parket,false,false,foreign event
+5caebed2bf2f99fb,parket,false,false,single DSNS source only
+ede87ae3a245c7a4,parket,false,false,single police source only
+325cbebe29f6495e,non_parket,false,false,foreign actors multiple voices
+533d28c2efb37231,parket,false,false,single CPD source only

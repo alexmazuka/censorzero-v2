@@ -1,0 +1,56 @@
+id,label,military_bulletin,uncertain,note
+d45129f1eebd24ce,non_parket,false,false,foreign official
+a20035858da3f984,non_parket,true,false,attack damage report
+7233408fd031803b,non_parket,false,false,foreign officials
+4dbc0b60f0517d97,non_parket,false,false,weather
+4a7e27357a228202,non_parket,false,false,foreign militaries
+89a91c2076200a04,parket,false,false,single DBR source
+6840dd22de9f7f01,parket,false,false,single minister source
+717cc88dea854066,non_parket,true,false,General Staff losses bulletin
+2b8a270dc5b58237,non_parket,true,false,strike aftermath report
+2dab5c2f34bf3050,parket,false,false,single official comment
+53f1eda302c2754e,non_parket,true,false,General Staff strike report
+10fa6b74cc53fcd6,non_parket,false,false,"second voices: journalists, NGO"
+d014a7e718dd502d,non_parket,false,false,foreign agency
+4619ca9a34cd95b2,parket,false,false,single police source
+52d28cf565980a93,parket,false,false,single minister source
+d631b5500814f91f,non_parket,false,false,foreign official plus experts
+d7362bbda3f05df1,non_parket,false,false,foreign official
+d4c6f5385f3d3edc,non_parket,false,false,foreign media report
+cd2031994ce790e2,non_parket,false,false,foreign event
+6b8180f04af030f4,parket,false,false,single state-body source
+ff0556887ef8e79b,non_parket,false,false,briefing announcement
+c7d37af46840450c,non_parket,false,false,foreign companies
+ad3bbd995d1f951f,non_parket,false,false,multiple voices
+526844c359c3f643,non_parket,false,false,foreign
+65a4fdd816e1df07,non_parket,true,false,air-raid notice
+624d2b786cb749c2,non_parket,false,false,foreign official
+f5716284824db096,non_parket,true,false,strike aftermath report
+01adb170bede2dcd,non_parket,true,false,air-raid notice
+b928e1ed9d75a2fb,non_parket,false,false,foreign event
+7f25e45d7f4efa22,non_parket,true,false,front-line summary
+6edb7d6f4d14ce27,non_parket,false,false,second official voice cited
+4e078385f6528ca3,parket,false,false,single official source
+49dee69a7dfc643a,non_parket,false,false,expert analysis multiple sources
+a6abdc352dd19f6d,non_parket,false,false,multiple sources
+8dbba00f0572e387,non_parket,false,false,two official sources
+d1d028f474aa5286,non_parket,false,false,foreign officials
+efdd5b9ee3150b85,parket,false,false,official front visit single source
+0cbc9930a79cf7c4,non_parket,false,false,international body
+189406afad780de7,non_parket,true,false,air force attack bulletin
+e1da690492c617e7,non_parket,false,false,foreign official
+a2c5faeb8530b5b9,non_parket,true,false,daily attack summary
+25ec2e80864b5ae8,non_parket,false,false,foreign body
+1105babbeb759427,non_parket,false,false,expert commentary
+9b90a3098b6b13bf,non_parket,true,true,"attack recovery report, borderline"
+9ce486d44a02c86d,non_parket,true,false,strike aftermath report
+6b1265acb1be9087,non_parket,true,false,General Staff daily briefing
+0a1a7a33ebfabd1a,non_parket,false,false,foreign event
+094ba10b0cc4f01f,parket,false,false,single police source
+4e2864d18861329b,non_parket,false,false,foreign official
+c808de872644a2ed,non_parket,true,false,daily attack summary
+f97e94e1ca35d973,non_parket,false,false,company news
+4a4ec1dbe9163704,parket,false,false,single official source
+f7dd4b3fbccf5ea0,non_parket,false,false,foreign official
+930f377f12b0a18d,non_parket,false,false,foreign officials
+9ef7954a8496c9a1,non_parket,true,false,strike aftermath report

@@ -1,0 +1,56 @@
+id,label,military_bulletin,uncertain,note
+db5b166c69ea0aea,non_parket,false,false,second voices present
+a62e779bf443e6cb,parket,false,false,single official source
+abd6eb907453852b,non_parket,false,false,foreign officials
+8a9bcd3e5246d29a,parket,false,false,presidential press service only
+3be880736058d68a,parket,false,false,single mayor source
+fb8dfd2977b38da9,parket,false,false,GUR statement only
+18103d3e3c70ca6e,parket,false,false,single minister source
+70b133d87a203fb5,parket,false,false,city council sole source
+311e6b7d1dc99cc9,parket,false,false,single official voice
+a158f5e5f6d73ac0,parket,false,false,single state body source
+6b4087ac7f3dd39b,parket,false,false,SSO press service only
+06a02243149022b7,non_parket,false,true,state company CEO borderline
+37e7994a90cf448e,non_parket,false,false,foreign officials
+707da5e154babb77,non_parket,false,false,foreign topic media sources
+7edf01e1bcb6a79f,non_parket,true,false,air raid notice
+7a01005437c50ff8,parket,false,false,brigade sole source
+9011a4bb1596d605,parket,false,false,single minister source
+6a42890c45f39054,parket,false,false,single OVA source
+b94a27be46fc8433,parket,false,false,single OVA source
+49e60aea611147aa,non_parket,false,false,foreign company story
+b6af9788ed79df3d,non_parket,false,false,multiple voices
+02d9f7d8d79978af,non_parket,false,false,no official framing
+e2da419b5fc67b2d,parket,false,false,NBU sole source
+53693c1ab5848c9d,non_parket,false,false,foreign event
+f6363c7eb37f0b1b,parket,false,false,single minister source
+29b95b91e6408f6a,non_parket,false,true,state company head borderline
+2b1c0afbb2ae3aa2,non_parket,false,false,foreign officials
+ef1b6dc38e411035,parket,false,false,Zelensky speech only
+b6ff00a03fb3be8a,parket,false,false,single OVA source
+afee822b08a4a857,non_parket,true,false,air threat notice
+2b700a96ddae2f23,non_parket,false,false,citizen petition topic
+fcbd95d71af975d3,non_parket,false,false,second official assessment
+9ecdb50f64602f04,non_parket,false,false,foreign official
+bd364ce585d0c674,parket,false,false,agency presser sole source
+1e03537a6b61a7b1,parket,false,false,prosecutors sole source
+0359d4344d3d62cd,parket,false,false,single OVA source
+2f6e5ecda4461615,parket,false,false,commander FB only
+82826ab98946ee21,non_parket,false,false,foreign officials
+35305902e1245efb,non_parket,false,false,foreign body
+ba5477a64bef2a87,parket,false,false,single official interview
+01997be13b888098,parket,false,false,single OVA source
+eb5cdb19a3f031e8,non_parket,false,false,foreign officials
+1d8397766aa14e1d,non_parket,false,false,foreign ambassador
+b577f62d2bdd0638,parket,false,false,cabinet rep sole source
+288968907e2264fa,non_parket,false,false,event announcement
+ea788e402096953c,parket,false,false,single deputy minister
+697bb6b500122555,non_parket,true,false,daily shelling summary
+168309c5a6b21be8,non_parket,true,false,daily regional situation report
+220c0b8471a16b26,parket,false,false,single MP source
+29677840b3dac533,non_parket,true,false,daily shelling summary
+d3ad7482b3d5d76b,parket,false,false,single official source
+9c1d4feaf46fdaab,non_parket,false,true,state company source borderline
+50402a829521f7d9,non_parket,false,false,foreign event
+7f32b426d10f9806,non_parket,false,false,second official assessments
+55c7aac7d5764835,parket,false,false,Zelensky remarks only
