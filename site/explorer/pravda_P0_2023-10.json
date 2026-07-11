@@ -44,6 +44,20 @@
  {
   "balance_risk": false,
   "date_published": "2023-10-01",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Донеччина: через обстріл росіян під завалами власного будинку опинилася ціла родина",
+  "url": "https://www.pravda.com.ua/news/2023/10/01/7422143/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-01",
   "fc": 2,
   "nc": 2,
   "oc": 0,
@@ -310,6 +324,20 @@
  {
   "balance_risk": false,
   "date_published": "2023-10-02",
+  "fc": 1,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "ЄС бере на себе відповідальність за постачання Україні 155-мм боєприпасів\"::foreign_official",
+  "title": "Данія виділить понад 13 млн євро на боєприпаси для України",
+  "url": "https://www.pravda.com.ua/news/2023/10/02/7422360/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-02",
   "fc": 0,
   "nc": 1,
   "oc": 0,
@@ -410,6 +438,20 @@
   "date_published": "2023-10-03",
   "fc": 0,
   "nc": 0,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Генштабу ЗСУ::ukrainian_official | Генштаб ЗСУ::ukrainian_official",
+  "title": "Росія втратила у війні проти України ще 360 \"штиків\" і 15 танків – Генштаб ЗСУ",
+  "url": "https://www.pravda.com.ua/news/2023/10/03/7422398/"
+ },
+ {
+  "balance_risk": true,
+  "date_published": "2023-10-03",
+  "fc": 0,
+  "nc": 0,
   "oc": 1,
   "official_focus": true,
   "parket": true,
@@ -502,6 +544,20 @@
   "sources_json": "Перед голосуванням дві опозиційні фракції::non_official | При цьому він::non_official | Росії, то днями представник Вірменії з міжнародних правових питань Єгіше Кіракосян::non_official",
   "title": "Вірменія ратифікувала Римський статут попри розлючення Росії",
   "url": "https://www.pravda.com.ua/news/2023/10/03/7422440/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-03",
+  "fc": 0,
+  "nc": 2,
+  "oc": 3,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 5,
+  "sources_json": "Деталі : Він::non_official | Оновлено: Прокудін::ukrainian_official | Пізніше очільник Херсонської МВА Роман Мрочко::non_official | Прокудін::ukrainian_official | Пізніше Прокудін::ukrainian_official",
+  "title": "РФ обстріляла Херсон та його околиці: є загиблий та поранені",
+  "url": "https://www.pravda.com.ua/news/2023/10/03/7422459/"
  },
  {
   "balance_risk": false,
@@ -658,6 +714,20 @@
   "url": "https://www.pravda.com.ua/news/2023/10/04/7422561/"
  },
  {
+  "balance_risk": true,
+  "date_published": "2023-10-04",
+  "fc": 0,
+  "nc": 0,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "НАБУ::ukrainian_official | НАБУ і САП::ukrainian_official",
+  "title": "НАБУ за 4,5 місяці завершило слідство у справі ексголови Верховного Суду",
+  "url": "https://www.pravda.com.ua/news/2023/10/04/7422576/"
+ },
+ {
   "balance_risk": false,
   "date_published": "2023-10-04",
   "fc": 0,
@@ -684,6 +754,20 @@
   "sources_json": "",
   "title": "Зеленський провів щоденний селектор: довго говорив із Будановим, є про що розказати",
   "url": "https://www.pravda.com.ua/news/2023/10/04/7422622/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-04",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Українці підтримали петицію про перейменування проспекту у Києві на честь Повітряних Сил",
+  "url": "https://www.pravda.com.ua/news/2023/10/04/7422651/"
  },
  {
   "balance_risk": false,
@@ -740,6 +824,34 @@
   "sources_json": "Велика Британія::non_official | Ще деталі: Британська влада::non_official",
   "title": "Розвідка Британії звинуватила Росію в намірі замінувати \"зерновий коридор\"",
   "url": "https://www.pravda.com.ua/news/2023/10/05/7422703/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-05",
+  "fc": 0,
+  "nc": 0,
+  "oc": 1,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Оновлення: Згодом прокуратура::ukrainian_official",
+  "title": "Росіяни вночі вдарили по Печенігах на Харківщині з \"Торнадо\"",
+  "url": "https://www.pravda.com.ua/news/2023/10/05/7422713/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-05",
+  "fc": 0,
+  "nc": 1,
+  "oc": 3,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 4,
+  "sources_json": "Деталі: Стосовно куль у тілі загиблого Сапьян::non_official | На уточнююче запитання представниця ДБР::ukrainian_official | Міністр внутрішніх справ Ігор Клименко::ukrainian_official | В ДБР::ukrainian_official",
+  "title": "Слідство дало нові подробиці стрілянини в Дніпрі: в крові супутниці загиблого теж був алкоголь",
+  "url": "https://www.pravda.com.ua/news/2023/10/05/7422734/"
  },
  {
   "balance_risk": false,
@@ -812,6 +924,34 @@
   "url": "https://www.pravda.com.ua/news/2023/10/05/7422792/"
  },
  {
+  "balance_risk": true,
+  "date_published": "2023-10-05",
+  "fc": 1,
+  "nc": 0,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Деталі: Також Зеленський::ukrainian_official | Після ратифікації Вірменією Римського статуту у Кремлі::foreign_official",
+  "title": "Зеленський вперше зустрівся з Пашиняном",
+  "url": "https://www.pravda.com.ua/news/2023/10/05/7422793/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-05",
+  "fc": 0,
+  "nc": 0,
+  "oc": 1,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Вірменський прем’єр Нікол Пашинян::ukrainian_official",
+  "title": "Європарламент засудив дії Азербайджана в Карабаху та хоче переглянути відносини з Баку",
+  "url": "https://www.pravda.com.ua/news/2023/10/05/7422794/"
+ },
+ {
   "balance_risk": false,
   "date_published": "2023-10-05",
   "fc": 2,
@@ -838,6 +978,20 @@
   "sources_json": "Зеленським на полях саміту Європейської політичної спільноти в іспанській Гранаді::foreign_official",
   "title": "В.о. прем'єра Словаччини запевнив Зеленського в постійній підтримці України",
   "url": "https://www.pravda.com.ua/news/2023/10/05/7422802/"
+ },
+ {
+  "balance_risk": true,
+  "date_published": "2023-10-05",
+  "fc": 0,
+  "nc": 0,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Клименка::ukrainian_official | ОВА::ukrainian_official",
+  "title": "Удар по селу Гроза став наймасовішим злочином росіян на Харківщині за час війни – ОВА",
+  "url": "https://www.pravda.com.ua/news/2023/10/05/7422826/"
  },
  {
   "balance_risk": true,
@@ -911,6 +1065,34 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2023-10-05",
+  "fc": 1,
+  "nc": 1,
+  "oc": 1,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 5,
+  "sources_json": "Деталі : Представниця Білого дому::foreign_official | Це неймовірно жахливо для українців, ваших колег, які::unknown | Це відбувається в Україні щодня\"::unknown | Україні, її сміливим людям боротись за їхні свободу й демократію\"::non_official | Очільник МВС Ігор Клименко::ukrainian_official",
+  "title": "Білий дім засудив удар Росії по кафе на Харківщині",
+  "url": "https://www.pravda.com.ua/news/2023/10/05/7422863/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-05",
+  "fc": 1,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Пентагоні::foreign_official",
+  "title": "Наступний \"Рамштайн\" пройде 10 жовтня у Брюсселі",
+  "url": "https://www.pravda.com.ua/news/2023/10/05/7422864/"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2023-10-06",
   "fc": 1,
   "nc": 3,
@@ -966,6 +1148,20 @@
   "url": "https://www.pravda.com.ua/news/2023/10/06/7422880/"
  },
  {
+  "balance_risk": false,
+  "date_published": "2023-10-06",
+  "fc": 2,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 4,
+  "sources_json": "Канцлер Німеччини Олаф Шольц вчергове::foreign_official | Зрештою, коли війна триває так довго, ці міркування не можуть припинитися відразу\"::non_official | Це також є моїм завданням як канцлера\"::unknown | Шольц не::foreign_official",
+  "title": "Шольц досі бідкається, що передача Києву ракет Taurus призведе до \"ескалації\" війни",
+  "url": "https://www.pravda.com.ua/news/2023/10/06/7422882/"
+ },
+ {
   "balance_risk": true,
   "date_published": "2023-10-06",
   "fc": 0,
@@ -997,6 +1193,34 @@
   "balance_risk": false,
   "date_published": "2023-10-06",
   "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "До ОГП передали подання на нардепів, які зчинили бійку в Києві – джерело",
+  "url": "https://www.pravda.com.ua/news/2023/10/06/7422896/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-06",
+  "fc": 0,
+  "nc": 1,
+  "oc": 1,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Саме як ви::non_official | Міністр внутрішніх справ Ігор Клименко::ukrainian_official",
+  "title": "Удар по Грозі: росіяни могли думати, що в кафе військові, – але там були цивільні",
+  "url": "https://www.pravda.com.ua/news/2023/10/06/7422901/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-06",
+  "fc": 0,
   "nc": 1,
   "oc": 1,
   "official_focus": false,
@@ -1006,6 +1230,20 @@
   "sources_json": "ОГП::non_official | Поліція::ukrainian_official",
   "title": "Арештований митрополит УПЦ МП продовжив знімати провокативні відео і отримав нову підозру",
   "url": "https://www.pravda.com.ua/news/2023/10/06/7422913/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-06",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Іноземець замовив убивство власника клініки у Києві та його дружини: затримали",
+  "url": "https://www.pravda.com.ua/news/2023/10/06/7422918/"
  },
  {
   "balance_risk": false,
@@ -1062,6 +1300,20 @@
   "sources_json": "",
   "title": "AFP: \"Вагнерівці\" замовляли в компанії з Китаю супутникові знімки, зокрема Москви",
   "url": "https://www.pravda.com.ua/news/2023/10/06/7422989/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-06",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Удар росіян по Харкову: рятувальники завершили пошуки",
+  "url": "https://www.pravda.com.ua/news/2023/10/06/7422991/"
  },
  {
   "balance_risk": false,
@@ -1204,6 +1456,20 @@
   "url": "https://www.pravda.com.ua/news/2023/10/07/7423064/"
  },
  {
+  "balance_risk": true,
+  "date_published": "2023-10-07",
+  "fc": 0,
+  "nc": 0,
+  "oc": 1,
+  "official_focus": true,
+  "parket": true,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "МЗС::ukrainian_official",
+  "title": "Українців немає серед постраждалих в Ізраїлі – МЗС",
+  "url": "https://www.pravda.com.ua/news/2023/10/07/7423070/"
+ },
+ {
   "balance_risk": false,
   "date_published": "2023-10-07",
   "fc": 2,
@@ -1314,6 +1580,20 @@
   "sources_json": "Ізраїльська армія::non_official | Деталі : Речник::non_official | Ізраїлю Йоав Галант вирішив поширити режим надзвичайної ситуації на всю територію держави::non_official",
   "title": "Ізраїль заявив про відновлення контролю над більшістю південних населених пунктів",
   "url": "https://www.pravda.com.ua/news/2023/10/07/7423111/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-08",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Палестинському ісламському джихаду::non_official",
+  "title": "ЦАХАЛ: Уражено ракетні установки, терористичний осередок і штаб-квартиру ХАМАСу в Газі",
+  "url": "https://www.pravda.com.ua/news/2023/10/08/7423117/"
  },
  {
   "balance_risk": false,
@@ -1711,6 +1991,20 @@
   "balance_risk": false,
   "date_published": "2023-10-09",
   "fc": 0,
+  "nc": 1,
+  "oc": 1,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "У прокуратурі Корсики::ukrainian_official | У короткій заяві для місцевої газети Corse-Matin під назвою \"Франція геть\" рух::non_official",
+  "title": "На Корсиці сепаратисти влаштували серію вибухів: вимагають повної незалежності від Франції",
+  "url": "https://www.pravda.com.ua/news/2023/10/09/7423317/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-09",
+  "fc": 0,
   "nc": 0,
   "oc": 0,
   "official_focus": false,
@@ -1963,6 +2257,20 @@
   "balance_risk": false,
   "date_published": "2023-10-10",
   "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Україна та Румунія підписали декларацію про співпрацю у ключових сферах",
+  "url": "https://www.pravda.com.ua/news/2023/10/10/7423475/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-10",
+  "fc": 0,
   "nc": 3,
   "oc": 3,
   "official_focus": true,
@@ -2056,6 +2364,20 @@
   "sources_json": "Деталі : Перед цим Штупун::non_official | Генштаб ЗСУ у вечірньому зведенні 10 жовтня::ukrainian_official | Начальник Авдіївської міської військової адміністрації Віталій Барабаш::ukrainian_official | Штупун::non_official",
   "title": "На Авдіївському напрямку захисники відбили всі ворожі атаки – Штупун",
   "url": "https://www.pravda.com.ua/news/2023/10/10/7423540/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-10",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Міноборони України і Бельгії обговорили постачання F16",
+  "url": "https://www.pravda.com.ua/news/2023/10/10/7423548/"
  },
  {
   "balance_risk": false,
@@ -2196,6 +2518,20 @@
   "sources_json": "",
   "title": "Окупанти запустили снаряд із агітками на півдні України, але \"операція\" провалилася",
   "url": "https://www.pravda.com.ua/news/2023/10/11/7423607/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-11",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "СБУ і поліція затримали диверсанта, який закладав вибухівку на АЗС",
+  "url": "https://www.pravda.com.ua/news/2023/10/11/7423627/"
  },
  {
   "balance_risk": false,
@@ -2579,6 +2915,34 @@
   "balance_risk": false,
   "date_published": "2023-10-12",
   "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Авдіївка: за добу бійці ССО знищили 8 одиниць техніки та десятки росіян",
+  "url": "https://www.pravda.com.ua/news/2023/10/12/7423871/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-12",
+  "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Росія має компенсувати Україні всю завдану війною шкоду \"::non_official | Росією Україні, не повинні надходити лише від платників податків інших країн\"::non_official",
+  "title": "Уряд Естонії схвалив законопроєкт про використання російських заморожених активів",
+  "url": "https://www.pravda.com.ua/news/2023/10/12/7423888/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-12",
+  "fc": 0,
   "nc": 2,
   "oc": 0,
   "official_focus": false,
@@ -2686,6 +3050,20 @@
   "sources_json": "Міністр оборони Ізраїлю Йоав Галант::foreign_official",
   "title": "Армія оборони Ізраїлю показала, як відбила в ХАМАСу військовий пост",
   "url": "https://www.pravda.com.ua/news/2023/10/13/7423926/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-13",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Сили оборони відбили пів сотні атак ворога на 6 напрямках − Генштаб",
+  "url": "https://www.pravda.com.ua/news/2023/10/13/7423929/"
  },
  {
   "balance_risk": false,
@@ -2826,6 +3204,20 @@
   "sources_json": "Керівник юридичного відділу команди Навального В'ячеслав Гімаді::non_official | Ще один прихильник політика Леонід Волков::non_official | Це страшний крок до його повної ізоляції\"::unknown",
   "title": "У Росії затримали трьох адвокатів Навального",
   "url": "https://www.pravda.com.ua/news/2023/10/13/7423982/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-13",
+  "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Тель-Авіва прибув держсекретар США Ентоні Блінкен та::non_official | Блінкен::non_official",
+  "title": "Блінкен зустрівся з президентом Палестини",
+  "url": "https://www.pravda.com.ua/news/2023/10/13/7423983/"
  },
  {
   "balance_risk": false,
@@ -3008,6 +3400,20 @@
   "sources_json": "Деталі : Нетаньягу::non_official | Ізраїлю проти правителів ХАМАСу в Газі::non_official | Офіс Аббаса::non_official | Армія оборони Ізраїлю::non_official",
   "title": "Президент Палестини заявив Байдену, що виключає евакуацію палестинців із Гази",
   "url": "https://www.pravda.com.ua/news/2023/10/15/7424177/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-15",
+  "fc": 0,
+  "nc": 4,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 4,
+  "sources_json": "Деталі : Високопоставлений американський чиновник і посадовець::non_official | Eisenhower почати рух до Східного Середземномор'я\"::non_official | Цього тижня високопосадовці США публічно::non_official | ЗМІ::non_official",
+  "title": "США відправляють другий авіаносець у східне Середземномор’я – ЗМІ",
+  "url": "https://www.pravda.com.ua/news/2023/10/15/7424185/"
  },
  {
   "balance_risk": true,
@@ -3405,6 +3811,20 @@
   "balance_risk": false,
   "date_published": "2023-10-17",
   "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Колаборант, так званий глава Криму Сергій Аксьонов::non_official | Деталі : Жодних подробиць нібито атаки Аксьонов не::non_official",
+  "title": "Окупанти заявили, що біля Криму нібито збили 8 БПЛА",
+  "url": "https://www.pravda.com.ua/news/2023/10/17/7424442/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-17",
+  "fc": 0,
   "nc": 0,
   "oc": 0,
   "official_focus": false,
@@ -3573,6 +3993,34 @@
   "balance_risk": false,
   "date_published": "2023-10-18",
   "fc": 0,
+  "nc": 3,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Лідер сенатської більшості Чак Шумер у вівторок::non_official | Ізраїлі, так і в Україні\"::non_official | ЗМІ::non_official",
+  "title": "Байден планує просити у Конгресу $100 млрд допомоги Україні та Ізраїлю – ЗМІ",
+  "url": "https://www.pravda.com.ua/news/2023/10/18/7424579/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-18",
+  "fc": 1,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Представник Білого дому::foreign_official | Діна Кавар, посол Йорданії в США, також::non_official",
+  "title": "Йорданія скасувала саміт за участю Байдена",
+  "url": "https://www.pravda.com.ua/news/2023/10/18/7424581/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-18",
+  "fc": 0,
   "nc": 4,
   "oc": 0,
   "official_focus": false,
@@ -3684,6 +4132,20 @@
  {
   "balance_risk": false,
   "date_published": "2023-10-18",
+  "fc": 1,
+  "nc": 6,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 8,
+  "sources_json": "Африка – щодо необхідності підтримувати глобальний порядок, заснований на правилах::non_official | Нас більше ніколи не будуть слухати\"::non_official | Те, що ми::unknown | В іншому випадку ми втрачаємо всю нашу довіру\"::non_official | Близькому Сході або в арабському світі\"::non_official | України ми побачимо великий вибух у кількості тих, хто утримався\"::non_official | Один із західних міністрів закордонних справ::non_official | Раніше президентка Єврокомісії Урсула фон дер Ляєн::foreign_official",
+  "title": "FT: Поспішна підтримка Ізраїлю Заходом підриває прихильність до України країн, що розвиваються",
+  "url": "https://www.pravda.com.ua/news/2023/10/18/7424666/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-18",
   "fc": 0,
   "nc": 0,
   "oc": 0,
@@ -3708,6 +4170,20 @@
   "sources_json": "А заяву схибленого диктатора, хай краще::non_official | Кинджалів\" означатимуть для українців частіші виття сирен, Ігнат::ukrainian_official",
   "title": "У Повітряних силах прокоментували \"Кинджали над Чорним морем\": можливо, страшилки РФ для НАТО",
   "url": "https://www.pravda.com.ua/news/2023/10/18/7424673/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-18",
+  "fc": 1,
+  "nc": 1,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Міністерства внутрішніх справ Ізраїлю::foreign_official | Деталі: У МЗС України::ukrainian_official | Ввечері 17 жовтня перша леді Олена Зеленська::non_official",
+  "title": "В Ізраїлі повідомили про 23 загиблих українців, Україна наразі не підтверджує це",
+  "url": "https://www.pravda.com.ua/news/2023/10/18/7424684/"
  },
  {
   "balance_risk": false,
@@ -3792,6 +4268,20 @@
   "sources_json": "",
   "title": "Поліція Києва затримала водія, який збив дитину та втік",
   "url": "https://www.pravda.com.ua/news/2023/10/18/7424744/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-19",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "У Запоріжжі завершили рятувальну операцію: 5 загиблих, 5 поранених",
+  "url": "https://www.pravda.com.ua/news/2023/10/19/7424786/"
  },
  {
   "balance_risk": false,
@@ -3890,6 +4380,20 @@
   "sources_json": "Альянсу Естонією і Фінляндією і нашим партнером Швецією\"::non_official | Генсек НАТО::foreign_official",
   "title": "НАТО посилює патрулі в Балтійському морі",
   "url": "https://www.pravda.com.ua/news/2023/10/19/7424898/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-19",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Окупанти обстріляли Станіслав на Херсонщині: постраждав чоловік",
+  "url": "https://www.pravda.com.ua/news/2023/10/19/7424905/"
  },
  {
   "balance_risk": false,
@@ -4258,6 +4762,20 @@
  {
   "balance_risk": false,
   "date_published": "2023-10-21",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "На фронті відбулося 68 бойових зіткнень – зведення Генштабу",
+  "url": "https://www.pravda.com.ua/news/2023/10/21/7425135/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-21",
   "fc": 1,
   "nc": 0,
   "oc": 0,
@@ -4359,6 +4877,20 @@
   "fc": 0,
   "nc": 1,
   "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Прокуратура::ukrainian_official | ОГП::non_official",
+  "title": "ОГП повідомив деталі російського обстрілу \"Нової пошти\", де загинули шестеро цивільних",
+  "url": "https://www.pravda.com.ua/news/2023/10/22/7425173/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-22",
+  "fc": 0,
+  "nc": 1,
+  "oc": 1,
   "official_focus": false,
   "parket": false,
   "rubric": "news",
@@ -4394,6 +4926,20 @@
   "sources_json": "",
   "title": "Удар по терміналу \"Нової пошти\" на Харківщині: зросла кількість постраждалих",
   "url": "https://www.pravda.com.ua/news/2023/10/22/7425217/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-22",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Росіяни на Донеччині вбили ще двох і поранили трьох цивільних",
+  "url": "https://www.pravda.com.ua/news/2023/10/22/7425220/"
  },
  {
   "balance_risk": false,
@@ -4441,6 +4987,20 @@
   "balance_risk": false,
   "date_published": "2023-10-23",
   "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Окупанти з мінометів обстрілювали прикордоння Сумщини",
+  "url": "https://www.pravda.com.ua/news/2023/10/23/7425249/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-23",
+  "fc": 0,
   "nc": 2,
   "oc": 0,
   "official_focus": false,
@@ -4464,6 +5024,20 @@
   "sources_json": "У ранковому зведенні Генштаб::ukrainian_official",
   "title": "870 окупантів, 12 танків і 2 засоби ППО: Генштаб ЗСУ озвучив втрати Росії за добу",
   "url": "https://www.pravda.com.ua/news/2023/10/23/7425262/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-23",
+  "fc": 0,
+  "nc": 2,
+  "oc": 1,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "І тільки що наш представник у Палестині::non_official | Деталі: Корнійчук::non_official | Раніше уповноважений Верховної Ради з прав людини Дмитро Лубінець::ukrainian_official",
+  "title": "На евакуацію із Сектора Гази очікують понад 330 українців – посол",
+  "url": "https://www.pravda.com.ua/news/2023/10/23/7425286/"
  },
  {
   "balance_risk": false,
@@ -4690,6 +5264,20 @@
   "url": "https://www.pravda.com.ua/news/2023/10/24/7425428/"
  },
  {
+  "balance_risk": true,
+  "date_published": "2023-10-24",
+  "fc": 0,
+  "nc": 0,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Деталі: СБУ::ukrainian_official | Прокуратура::ukrainian_official",
+  "title": "Навели удар на кумів і полювали на Abrams: на Донеччині затримали агентів РФ",
+  "url": "https://www.pravda.com.ua/news/2023/10/24/7425447/"
+ },
+ {
   "balance_risk": false,
   "date_published": "2023-10-24",
   "fc": 0,
@@ -4762,6 +5350,20 @@
  {
   "balance_risk": false,
   "date_published": "2023-10-24",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "СБУ заявила про нові \"схеми ухилянтів\": серед викритих – очільник військкомату та керівниця ВЛК",
+  "url": "https://www.pravda.com.ua/news/2023/10/24/7425510/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-24",
   "fc": 1,
   "nc": 5,
   "oc": 0,
@@ -4800,6 +5402,20 @@
   "sources_json": "Радник глави Офісу президента Михайло Подоляк::ukrainian_official | Пряма мова : \"Маск::non_official | Мільярдер Ілон Маск, виступаючи на онлайн-дискусії::non_official",
   "title": "У Зеленського відповіли Маску, який закликає \"здати\" Росії українські землі",
   "url": "https://www.pravda.com.ua/news/2023/10/24/7425530/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-24",
+  "fc": 1,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Деталі : Також Корнійчук::non_official | А вже 13 жовтня президент країни-агресора Володимир Путін::foreign_official | Згодом ЗМІ::non_official",
+  "title": "Ізраїль стане більш проукраїнським після атаки ХАМАС і позиції РФ – посол",
+  "url": "https://www.pravda.com.ua/news/2023/10/24/7425531/"
  },
  {
   "balance_risk": false,
@@ -5363,6 +5979,34 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2023-10-26",
+  "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Bihus::non_official | Info Тишлек::non_official",
+  "title": "Дружина заступника голови Нацполіції Тишлека має російський паспорт —  Bihus.Info",
+  "url": "https://www.pravda.com.ua/news/2023/10/26/7425910/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-26",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Там::unknown | У лютому Болгарія::non_official",
+  "title": "Угорщина через шість місяців таки вийшла з російського \"банку-шпигуна\"",
+  "url": "https://www.pravda.com.ua/news/2023/10/26/7425921/"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2023-10-27",
   "fc": 1,
   "nc": 1,
@@ -5588,6 +6232,20 @@
  {
   "balance_risk": false,
   "date_published": "2023-10-27",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "У Києві знесли пам’ятник більшовицькому діячу та погруддя Пушкіна",
+  "url": "https://www.pravda.com.ua/news/2023/10/27/7426044/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-27",
   "fc": 2,
   "nc": 1,
   "oc": 0,
@@ -5626,6 +6284,20 @@
   "sources_json": "",
   "title": "За замахом на Царьова стоїть СБУ – джерело",
   "url": "https://www.pravda.com.ua/news/2023/10/27/7426090/"
+ },
+ {
+  "balance_risk": true,
+  "date_published": "2023-10-27",
+  "fc": 0,
+  "nc": 0,
+  "oc": 1,
+  "official_focus": true,
+  "parket": true,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Президент України Володимир Зеленський::ukrainian_official",
+  "title": "Зеленський провів Військовий кабінет щодо ситуації на основних бойових напрямках",
+  "url": "https://www.pravda.com.ua/news/2023/10/27/7426091/"
  },
  {
   "balance_risk": false,
@@ -5710,6 +6382,20 @@
   "sources_json": "",
   "title": "Сили оборони відбили найбільше ворожих атак на Мар’їнському напрямку – зведення",
   "url": "https://www.pravda.com.ua/news/2023/10/28/7426120/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-28",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Оборонці знищили ще 740 російських вояк і 22 танки ворога",
+  "url": "https://www.pravda.com.ua/news/2023/10/28/7426122/"
  },
  {
   "balance_risk": false,
@@ -5864,6 +6550,20 @@
   "sources_json": "",
   "title": "У Херсоні пролунали потужні вибухи",
   "url": "https://www.pravda.com.ua/news/2023/10/29/7426205/"
+ },
+ {
+  "balance_risk": true,
+  "date_published": "2023-10-29",
+  "fc": 0,
+  "nc": 0,
+  "oc": 1,
+  "official_focus": true,
+  "parket": true,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Генштаб::ukrainian_official",
+  "title": "Авіація завдала п'ять ударів по районах зосередження окупантів – Генштаб",
+  "url": "https://www.pravda.com.ua/news/2023/10/29/7426208/"
  },
  {
   "balance_risk": false,
@@ -6116,6 +6816,34 @@
   "sources_json": "",
   "title": "У Фінляндії приватна особа домоглася скасування демонтажу пам’ятника Леніну",
   "url": "https://www.pravda.com.ua/news/2023/10/31/7426476/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-31",
+  "fc": 1,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Деталі: Кірбі::non_official | Минулого тижня виконувач обов’язків прем’єр-міністра Іспанії Педро Санчес::foreign_official",
+  "title": "США підтримали намір Ізраїлю не припиняти вогонь у Секторі Гази",
+  "url": "https://www.pravda.com.ua/news/2023/10/31/7426483/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-10-31",
+  "fc": 0,
+  "nc": 4,
+  "oc": 1,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 5,
+  "sources_json": "Кадирова::non_official | Більше деталей: Він в дусі російської пропаганди::non_official | Кадиров::non_official | України Володимир Зеленський після відео зі штурмом аеропорту Махачкали з пошуком євреїв::ukrainian_official | Після нападу палестинських бойовиків на Ізраїль, Рамзан Кадиров::non_official",
+  "title": "Кадиров дозволив стріляти на ураження в протестуючих",
+  "url": "https://www.pravda.com.ua/news/2023/10/31/7426491/"
  },
  {
   "balance_risk": false,

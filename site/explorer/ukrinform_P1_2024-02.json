@@ -171,6 +171,20 @@
   "balance_risk": false,
   "date_published": "2024-02-02",
   "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-ato",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Армія РФ знову вдарила по Херсону, є поранена",
+  "url": "https://www.ukrinform.ua/rubric-ato/3821963-armia-rf-znovu-vdarila-po-hersonu-e-poranena.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-02",
+  "fc": 0,
   "nc": 1,
   "oc": 0,
   "official_focus": false,
@@ -264,6 +278,20 @@
   "sources_json": "це пресслужба Сухопутних військ ЗСУ::ukrainian_official | Сирського::ukrainian_official | Сирський::ukrainian_official",
   "title": "На Куп’янському напрямку відбувся перерозподіл сил та засобів ЗСУ - Сирський",
   "url": "https://www.ukrinform.ua/rubric-ato/3822225-na-kupanskomu-napramku-vidbuvsa-pererozpodil-sil-ta-zasobiv-zsu-sirskij.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-03",
+  "fc": 0,
+  "nc": 2,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-ato",
+  "sc": 3,
+  "sources_json": "передає Укрінформ, про це у Фейсбуці::non_official | Пізніше Телеграм-канал \"Крымский ветер\" з посиланням на російські ЗМІ::non_official | Оперативного командування \"Південь\" Наталія Гуменюк::ukrainian_official",
+  "title": "У РФ розстріляли командира екіпажу Ту-95, який причетний до ударів по Україні - розвідка",
+  "url": "https://www.ukrinform.ua/rubric-ato/3822296-u-rf-rozstrilali-komandira-ekipazu-tu95-akij-pricetnij-do-udariv-po-ukraini-rozvidka.html"
  },
  {
   "balance_risk": false,
@@ -437,6 +465,20 @@
   "balance_risk": false,
   "date_published": "2024-02-07",
   "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-ato",
+  "sc": 2,
+  "sources_json": "передає власкор Укрінформу у Нью-Йорку, про це::non_official | Дворника::non_official",
+  "title": "Україна в ООН: якщо посланник РФ хоче звинуватити когось у кровопролитті, хай подивиться у дзеркало",
+  "url": "https://www.ukrinform.ua/rubric-ato/3823703-ukraina-v-oon-akso-poslannik-rf-hoce-zvinuvatiti-kogos-u-krovoprolitti-haj-glane-u-dzerkalo.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-07",
+  "fc": 0,
   "nc": 1,
   "oc": 1,
   "official_focus": true,
@@ -600,6 +642,20 @@
   "sources_json": "",
   "title": "На фронті за добу - 65 боєзіткнень, авіація ЗСУ завдала сім ударів по ворогу",
   "url": "https://www.ukrinform.ua/rubric-ato/3824775-na-fronti-za-dobu-65-boezitknen-aviacia-zsu-zavdala-sim-udariv-po-vorogu.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-09",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-ato",
+  "sc": 1,
+  "sources_json": "це у Фейсбуці::unknown",
+  "title": "Загарбники вдарили дронами по селу на Миколаївщині - поцілили у фермерське господарство",
+  "url": "https://www.ukrinform.ua/rubric-ato/3824799-zagarbniki-vdarili-dronami-po-selu-na-mikolaivsini-pocilili-u-fermerske-gospodarstvo.html"
  },
  {
   "balance_risk": false,
@@ -1218,6 +1274,20 @@
   "url": "https://www.ukrinform.ua/rubric-ato/3827078-predstavniki-minoboroni-i-posolstva-ssa-obgovorili-monitoring-vikoristanna-vijskovoi-dopomogi.html"
  },
  {
+  "balance_risk": false,
+  "date_published": "2024-02-14",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-ato",
+  "sc": 1,
+  "sources_json": "ЗМІ::non_official",
+  "title": "«Цезар Куніков»: що відомо",
+  "url": "https://www.ukrinform.ua/rubric-ato/3827115-cezar-kunikov-so-vidomo.html"
+ },
+ {
   "balance_risk": true,
   "date_published": "2024-02-14",
   "fc": 0,
@@ -1543,6 +1613,20 @@
   "balance_risk": false,
   "date_published": "2024-02-17",
   "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-ato",
+  "sc": 1,
+  "sources_json": "Повітряне командування \"Південь\" повідомило у Фейсбуці і оприлюднило ві::non_official",
+  "title": "На Херсонщині сили ППО знищили два розвідувальні безпілотники",
+  "url": "https://www.ukrinform.ua/rubric-ato/3828684-na-hersonsini-sili-ppo-znisili-dva-rozviduvalni-bezpilotniki.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-17",
+  "fc": 0,
   "nc": 3,
   "oc": 1,
   "official_focus": false,
@@ -1776,6 +1860,20 @@
   "sources_json": "Євлаш::non_official | Своєю чергою у британській розвідці::non_official | ISW::non_official",
   "title": "Росія знизила темп наступу під Авдіївкою - ISW",
   "url": "https://www.ukrinform.ua/rubric-ato/3829548-rosia-znizila-temp-nastupu-pid-avdiivkou-isw.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-25",
+  "fc": 0,
+  "nc": 7,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-ato",
+  "sc": 7,
+  "sources_json": "Він був дуже різноплановий»::non_official | Остап::non_official | Локо»::non_official | Маріуполі не була»::non_official | Хлопецький::non_official | Без бою нема слави» казав Богдан»::non_official | Ми втратили справжнього друга, а Україна втратила справжнього героя»::non_official",
+  "title": "Пам'яті нацгвардійця Богдана Кріля (позивний «Гатило»)",
+  "url": "https://www.ukrinform.ua/rubric-ato/3829557-pamati-nacgvardijca-bogdana-krila-pozivnij-gatilo.html"
  },
  {
   "balance_risk": false,
@@ -2154,6 +2252,20 @@
   "sources_json": "це у Телеграмі::unknown | Соболевський::non_official",
   "title": "Росіяни масовано обстрілюють Херсон",
   "url": "https://www.ukrinform.ua/rubric-ato/3831512-rosiani-masovano-obstriluut-herson.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-24",
+  "fc": 0,
+  "nc": 1,
+  "oc": 5,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-ato",
+  "sc": 6,
+  "sources_json": "Головного управління розвідки Міністерства оборони України генерал-лейтенант Кирило Буданов::ukrainian_official | Але це не таке масове явище, як інколи здається\"::non_official | Керівник ГУР::ukrainian_official | Буданова::ukrainian_official | України генерал-лейтенант Кирило Буданов у розмові із журналістами The Wall Street Journal::ukrainian_official | Буданов::ukrainian_official",
+  "title": "Українська агентура активно взаємодіє з партизанами у Росії - Буданов",
+  "url": "https://www.ukrinform.ua/rubric-ato/3831590-ukrainska-agentura-aktivno-vzaemodie-z-partizanami-u-rosii-budanov.html"
  },
  {
   "balance_risk": false,
@@ -2636,6 +2748,20 @@
   "date_published": "2024-02-29",
   "fc": 0,
   "nc": 1,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-ato",
+  "sc": 2,
+  "sources_json": "це в Телеграмі::unknown | І забрали життя безневинної людини”::non_official",
+  "title": "Російська авіація скинула бомбу на село неподалік Запоріжжя, є загиблий",
+  "url": "https://www.ukrinform.ua/rubric-ato/3833936-rosijska-aviacia-skinula-bombu-na-selo-nepodalik-zaporizza-e-zagiblij.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-29",
+  "fc": 0,
+  "nc": 1,
   "oc": 1,
   "official_focus": true,
   "parket": false,
@@ -2872,6 +2998,20 @@
  {
   "balance_risk": false,
   "date_published": "2024-02-08",
+  "fc": 1,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-economy",
+  "sc": 2,
+  "sources_json": "передає Укрінформ, про це з посиланням на Мінторгівлі США::non_official | Китаї , чим американські корпорації давно займаються, адміністрація Байдена::foreign_official",
+  "title": "Китай вперше за понад 20 років втратив першість в імпорті товарів до США",
+  "url": "https://www.ukrinform.ua/rubric-economy/3824303-kitaj-vperse-za-ponad-20-rokiv-vtrativ-persist-v-importi-tovariv-do-ssa.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-08",
   "fc": 0,
   "nc": 1,
   "oc": 0,
@@ -3036,6 +3176,20 @@
   "sources_json": "це в інтерв'ю Reuters::unknown | Британський урядовець::non_official | Криму, забезпечивши глобально важливий експортний маршрут у Чорному морі\"::non_official | Чорному морі\"::non_official | Він::non_official | Представник ООН::foreign_official | Ситуація, однак, залишається нестабільною\"::non_official | МЗС Британії::foreign_official",
   "title": "Україна зможе до травня здійснити запланований експорт зерна за 2023 рік - МЗС Британії",
   "url": "https://www.ukrinform.ua/rubric-economy/3826796-ukraina-zmoze-do-travna-zdijsniti-zaplanovanij-eksport-zerna-za-2023-rik-mzs-britanii.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-14",
+  "fc": 0,
+  "nc": 4,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-economy",
+  "sc": 4,
+  "sources_json": "На цьому у коментарі Укрінформу::non_official | Він::non_official | Україною та ЄС”::non_official | України та всього цивілізованого світу, у тому числі і проти Польщі”::non_official",
+  "title": "У польських фермерів немає підстав для загострення протесту на кордоні - посол Зварич",
+  "url": "https://www.ukrinform.ua/rubric-economy/3827082-u-polskih-fermeriv-nemae-pidstav-dla-zagostrenna-protestu-na-kordoni-posol-zvaric.html"
  },
  {
   "balance_risk": false,
@@ -3221,6 +3375,20 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2024-02-16",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-economy",
+  "sc": 1,
+  "sources_json": "Він також::non_official",
+  "title": "Перші «рибні» аукціони в Україні принесли торік бюджету понад ₴95 мільйонів",
+  "url": "https://www.ukrinform.ua/rubric-economy/3828157-persi-ribni-aukcioni-v-ukraini-prinesli-torik-budzetu-ponad-95-miljoniv.html"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2024-02-17",
   "fc": 0,
   "nc": 1,
@@ -3232,6 +3400,20 @@
   "sources_json": "В чергах на в'їзд в Україну стоїть 3300 вантажівок \"::non_official | Речник ДПСУ::ukrainian_official",
   "title": "На кордоні з Польщею заблоковані шість пунктів пропуску, у чергах - 3300 вантажівок",
   "url": "https://www.ukrinform.ua/rubric-economy/3828345-na-kordoni-z-polseu-zablokovani-sist-punktiv-propusku-u-cergah-3300-vantazivok.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-17",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-economy",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Укроборонпром співпрацюватиме з провідним німецьким виробником зброї",
+  "url": "https://www.ukrinform.ua/rubric-economy/3828609-ukroboronprom-spivpracuvatime-z-providnim-nimeckim-virobnikom-zbroi.html"
  },
  {
   "balance_risk": false,
@@ -3456,6 +3638,20 @@
   "sources_json": "Посол також::non_official | Ми в Міннесоті це розуміємо»::non_official | Він::non_official | Україною зміцнювалося в процесі нашого просування далі»::non_official | Він також::non_official",
   "title": "Штат Міннесота і Чернігівська область поглиблять взаємодію в аграрному секторі",
   "url": "https://www.ukrinform.ua/rubric-economy/3830401-stat-minnesota-i-cernigivska-oblast-pogliblat-vzaemodiu-v-agrarnomu-sektori.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-22",
+  "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-economy",
+  "sc": 2,
+  "sources_json": "передає Укрінформ, про це::non_official | Державна інспекція ядерного регулювання (ДІЯРУ)::non_official",
+  "title": "На чотирьох українських АЕС відбулися чергові ротації місій МАГАТЕ",
+  "url": "https://www.ukrinform.ua/rubric-economy/3830507-na-cotiroh-ukrainskih-aes-vidbulisa-cergovi-rotacii-misij-magate.html"
  },
  {
   "balance_risk": false,
@@ -3755,6 +3951,34 @@
   "balance_risk": false,
   "date_published": "2024-02-27",
   "fc": 0,
+  "nc": 1,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-economy",
+  "sc": 2,
+  "sources_json": "передає Укрінформ, про це::non_official | НЕК «Укренерго» у Фейсбуці::ukrainian_official",
+  "title": "В українській енергосистемі у вівторок утворився надлишок - його купує Польща",
+  "url": "https://www.ukrinform.ua/rubric-economy/3832907-v-ukrainskij-energosistemi-u-vivtorok-utvorivsa-nadlisok-jogo-kupue-polsa.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-27",
+  "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-economy",
+  "sc": 2,
+  "sources_json": "передає Укрінформ, про це::non_official | ВДЕ, - це ще один крок до розбудови «зеленої» енергетики в Україні»::non_official",
+  "title": "В Україні розвиватимуть нові потужності з відновлювальних джерел енергії",
+  "url": "https://www.ukrinform.ua/rubric-economy/3832999-v-ukraini-rozvivatimut-novi-potuznosti-z-vidnovluvalnih-dzerel-energii.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-27",
+  "fc": 0,
   "nc": 0,
   "oc": 0,
   "official_focus": true,
@@ -3820,6 +4044,20 @@
   "sources_json": "ЄС та його держави-члени вкотре::foreign_official | Статуту ООН, а також ключових принципів і зобов'язань ОБСЄ\"::foreign_official",
   "title": "Участь 83 країн в обговоренні української Формули миру засвідчила ізоляцію Росії - ЄС",
   "url": "https://www.ukrinform.ua/rubric-polytics/3821057-ucast-83-kraini-v-obgovorenni-ukrainskoi-formuli-miru-zasvidcila-izolaciu-rosii-es.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-01",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-polytics",
+  "sc": 1,
+  "sources_json": "Європейська бізнес асоціація::non_official",
+  "title": "Індекс реформ 227: освіта нацменшин мовами ЄС та незалежність Спеціалізованої антикорупційної прокуратури",
+  "url": "https://www.ukrinform.ua/rubric-polytics/3821166-indeks-reform-227-osvita-nacmensin-movami-es-ta-nezaleznist-specializovanoi-antikorupcijnoi-prokuraturi.html"
  },
  {
   "balance_risk": false,
@@ -3960,6 +4198,20 @@
   "sources_json": "це він::unknown | Якщо цей законопроєкт дійде до Палати представників, він буде мертвим по прибуттю»::non_official",
   "title": "Спікер Палати представників США заявив, що «поховає» законопроєкт із допомогою для України",
   "url": "https://www.ukrinform.ua/rubric-polytics/3822804-spiker-palati-predstavnikiv-ssa-zaaviv-so-pohovae-zakonoproekt-iz-dopomogou-dla-ukraini.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-05",
+  "fc": 0,
+  "nc": 1,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-polytics",
+  "sc": 3,
+  "sources_json": "Говорячи про підсумки літніх дій, Володимир Зеленський::ukrainian_official | Ідеться конкретно про контрнаступальні дії на півдні\"::non_official | Я б::unknown",
+  "title": "ОП: В інтерв'ю Зеленського йшлося не про патову ситуацію на фронті, а про стагнацію",
+  "url": "https://www.ukrinform.ua/rubric-polytics/3822856-op-v-intervu-zelenskogo-jslosa-ne-pro-patovu-situaciu-na-fronti-a-pro-stagnaciu.html"
  },
  {
   "balance_risk": false,
@@ -4159,6 +4411,20 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2024-02-07",
+  "fc": 3,
+  "nc": 6,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-polytics",
+  "sc": 9,
+  "sources_json": "Альянсу::non_official | НАТО Єнс Столтенберг::foreign_official | Тож це справа європейської безпеки, і це справа американської безпеки»::non_official | Він::non_official | Я також розраховую, що всі союзники будуть дотримуватися своїх зобов’язань»::non_official | Столтенберга::foreign_official | Ми ніколи не можемо сприймати мир як даність»::non_official | При цьому він::non_official | Столтенберг::foreign_official",
+  "title": "Підтримка України є справою безпеки для Європи і США - Столтенберг",
+  "url": "https://www.ukrinform.ua/rubric-polytics/3824176-pidtrimka-ukraini-e-spravou-bezpeki-dla-evropi-j-ameriki-stoltenberg.html"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2024-02-08",
   "fc": 0,
   "nc": 2,
@@ -4254,6 +4520,20 @@
   "sources_json": "це вона::unknown | Це стосується зерна, зброї, історичних подій і багато чого іншого»::unknown | Водночас вона::non_official | Який у нас один – Росія»::non_official | повідомляв Укрінформ, глава польського уряду Дональд Туск::foreign_official",
   "title": "Маркарова - про ситуацію з українським зерном: Суперечки треба вирішувати конструктивно",
   "url": "https://www.ukrinform.ua/rubric-polytics/3826026-markarova-pro-situaciu-z-ukrainskim-zernom-superecki-treba-virisuvati-konstruktivno.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-12",
+  "fc": 1,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-polytics",
+  "sc": 3,
+  "sources_json": "Мюнхенської безпекової конференції-2024, оприлюдненій у понеділок у Берліні::non_official | Кремль виклав своє бачення того, що він::foreign_official | Мюнхенська безпекова конференція::non_official",
+  "title": "Українці не готові домовлятися про мир із РФ на її умовах - Мюнхенська безпекова конференція",
+  "url": "https://www.ukrinform.ua/rubric-polytics/3826116-ukrainci-ne-gotovi-domovlatisa-pro-mir-iz-rf-na-ii-umovah-munhenska-bezpekova-konferencia.html"
  },
  {
   "balance_risk": false,
@@ -4506,6 +4786,20 @@
   "sources_json": "Це спонукало його продовжувати вбивати людей»::unknown | повідомлялося, 16 лютого Федеральна служба виконання покарань РФ::non_official",
   "title": "Кулеба нагадав про Політковську й Нємцова: Навальний - у довгому списку критиків режиму, вбитих Путіним",
   "url": "https://www.ukrinform.ua/rubric-polytics/3828110-kuleba-nagadav-pro-politkovsku-j-nemcova-navalnij-u-dovgomu-spisku-kritikiv-rezimu-vbitih-putinim.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-16",
+  "fc": 1,
+  "nc": 3,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-polytics",
+  "sc": 5,
+  "sources_json": "це він::unknown | Його позиція, на жаль, дуже близька до російської»::non_official | Я думаю, що це навіть не з вини України»::non_official | повідомлялося, постійний представник Китаю в ООН Чжан Цзюнь::foreign_official | Крім того, представник КНР::non_official",
+  "title": "Ознак, що Китай відіграватиме конструктивну роль у війні РФ проти України, немає - експерт",
+  "url": "https://www.ukrinform.ua/rubric-polytics/3828207-oznak-so-kitaj-vidigravatime-konstruktivnu-rol-u-vijni-rf-proti-ukraini-nemae-ekspert.html"
  },
  {
   "balance_risk": false,
@@ -4772,6 +5066,20 @@
   "sources_json": "це вона::unknown | Десятиліття потому їхнє бачення та ідеали перемогли»::non_official",
   "title": "Президентка Єврокомісії про Героїв Небесної сотні: Їхнї ідеали перемогли",
   "url": "https://www.ukrinform.ua/rubric-polytics/3829565-prezidentka-evrokomisii-pro-geroiv-nebesnoi-sotni-ihni-ideali-peremogli.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-20",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-polytics",
+  "sc": 2,
+  "sources_json": "це він::unknown | Ми маємо не допустити цього\"::non_official",
+  "title": "Глава МЗС Чехії: Росія прагне захопити всю Україну - маємо не допустити цього",
+  "url": "https://www.ukrinform.ua/rubric-polytics/3829753-glava-mzs-cehii-rosia-pragne-zahopiti-vsu-ukrainu-maemo-ne-dopustiti-cogo.html"
  },
  {
   "balance_risk": false,
@@ -5056,6 +5364,20 @@
  {
   "balance_risk": false,
   "date_published": "2024-02-24",
+  "fc": 1,
+  "nc": 3,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-polytics",
+  "sc": 7,
+  "sources_json": "передає власкор Укрінформу у Нью-Йорку, Кулеба::ukrainian_official | Російській Федерації»::non_official | Це приклад того, «як дрібне шахрайство призвело до глобальної катастрофи»::unknown | Розповідаючи про переможні реляції російських пропагандистів щодо взяття Авдіївки, Кулеба::foreign_official | Кулеба::ukrainian_official | Росії, тому що вона сама є проблемою»::non_official | Росії безперешкодно вбивати нас на шляху до миру::non_official",
+  "title": "Кулеба: Поки в Радбезі ООН обговорюють можливість досягнення миру, Росія продовжує вбивати",
+  "url": "https://www.ukrinform.ua/rubric-polytics/3831412-kuleba-poki-v-radbezi-oon-obgovoruut-mozlivist-dosagnenna-miru-rosia-prodovzue-vbivati.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-24",
   "fc": 0,
   "nc": 1,
   "oc": 0,
@@ -5153,6 +5475,20 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2024-02-24",
+  "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-polytics",
+  "sc": 2,
+  "sources_json": "передає Укрінформ, про це::non_official | Мініоборони::non_official",
+  "title": "У Міноборони обговорили з парламентаріями країн-партнерів підтримку України",
+  "url": "https://www.ukrinform.ua/rubric-polytics/3831734-u-minoboroni-obgovorili-z-parlamentariami-krainpartneriv-pidtrimku-ukraini.html"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2024-02-25",
   "fc": 0,
   "nc": 3,
@@ -5178,6 +5514,20 @@
   "sources_json": "Рік 2024»::non_official | І ми не дозволимо перетворювати усі ці бюрократичні рішення у політичні»::non_official | І третій етап::non_official | Він::non_official",
   "title": "Жовква закликав не перетворювати бюрократичні рішення у політичні на шляху України до ЄС",
   "url": "https://www.ukrinform.ua/rubric-polytics/3831975-zovkva-zaklikav-ne-peretvoruvati-burokraticni-risenna-u-politicni-na-slahu-ukraini-do-es.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-25",
+  "fc": 0,
+  "nc": 2,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-polytics",
+  "sc": 4,
+  "sources_json": "це він::unknown | Рік 2024»::non_official | Я думаю, що найближчим часом ще декілька країн підпишуть такі двосторонні угоди»::non_official | Єрмак::ukrainian_official",
+  "title": "Безпекові угоди не стануть черговим Будапештським меморандумом - Єрмак",
+  "url": "https://www.ukrinform.ua/rubric-polytics/3832029-bezpekovi-ugodi-ne-stanut-cergovim-budapestskim-memorandumom-ermak.html"
  },
  {
   "balance_risk": false,
@@ -5346,6 +5696,20 @@
   "sources_json": "передає кореспондент Укрінформу, про це::non_official | Костенко::non_official | Однак це не стосується Російської Федерації, \"де кремлівський режим::non_official | Заступниця глави місії України в ОБСЄ::foreign_official | Статуту ООН\"::non_official | Україна в ОБСЄ::foreign_official",
   "title": "Росіяни входять у зруйновані ними безлюдні міста і називають це «звільненням» - Україна в ОБСЄ",
   "url": "https://www.ukrinform.ua/rubric-polytics/3833657-rosiani-vhodat-u-zrujnovani-nimi-bezludni-mista-i-nazivaut-ce-zvilnennam-ukraina-v-obse.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-29",
+  "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-polytics",
+  "sc": 3,
+  "sources_json": "це перша леді::unknown | Вікторією Аткінс»::non_official | Зеленська::non_official",
+  "title": "Зеленська в Лондоні зустрілася з главою МЗС Британії",
+  "url": "https://www.ukrinform.ua/rubric-polytics/3833704-zelenska-v-londoni-zustrilasa-z-glavou-mzs-britanii.html"
  },
  {
   "balance_risk": true,
@@ -5799,6 +6163,20 @@
   "balance_risk": false,
   "date_published": "2024-02-08",
   "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-regions",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Сагайдачний, Врубель, Марк Твен: в Одесі підтримали зміну 46 назв парків і вулиць",
+  "url": "https://www.ukrinform.ua/rubric-regions/3824458-sagajdacnij-vrubel-mark-tven-v-odesi-pidtrimali-zminu-46-nazv-parkiv-i-vulic.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-08",
+  "fc": 0,
   "nc": 2,
   "oc": 1,
   "official_focus": true,
@@ -6144,6 +6522,20 @@
   "sources_json": "",
   "title": "У Франківську школам знову пропонують перейти на дистанційне навчання",
   "url": "https://www.ukrinform.ua/rubric-regions/3826064-u-frankivsku-skolam-znovu-proponuut-perejti-na-distancijne-navcanna.html"
+ },
+ {
+  "balance_risk": true,
+  "date_published": "2024-02-13",
+  "fc": 0,
+  "nc": 0,
+  "oc": 1,
+  "official_focus": true,
+  "parket": true,
+  "rubric": "rubric-regions",
+  "sc": 1,
+  "sources_json": "це начальник обласної військової адміністрації Олександр Прокудін::ukrainian_official",
+  "title": "На Херсонщині внаслідок обстрілу РФ загинула літня жінка",
+  "url": "https://www.ukrinform.ua/rubric-regions/3826415-na-hersonsini-vnaslidok-obstrilu-rf-zaginula-litna-zinka.html"
  },
  {
   "balance_risk": true,
@@ -6776,6 +7168,20 @@
   "url": "https://www.ukrinform.ua/rubric-regions/3830669-rosiani-z-bezpilotnika-atakuvali-berislav-e-poranenij.html"
  },
  {
+  "balance_risk": true,
+  "date_published": "2024-02-22",
+  "fc": 0,
+  "nc": 0,
+  "oc": 1,
+  "official_focus": true,
+  "parket": true,
+  "rubric": "rubric-regions",
+  "sc": 1,
+  "sources_json": "Донецька ОВА у Телеграмі , передає Укрінформ::ukrainian_official",
+  "title": "Росіяни обстріляли з «Ураганів» село на Донеччині: один загиблий, дев’ятеро поранених",
+  "url": "https://www.ukrinform.ua/rubric-regions/3830818-rosiani-obstrilali-z-uraganiv-selo-na-doneccini-odin-zagiblij-devatero-poranenih.html"
+ },
+ {
   "balance_risk": false,
   "date_published": "2024-02-22",
   "fc": 0,
@@ -6802,6 +7208,20 @@
   "sources_json": "Тобто, на жаль, тенденція така, що кількість їх збільшується»::non_official | І люди продовжують, на жаль, співпрацювати з окупантами»::non_official | Зокрема, слідчі::non_official | Донеччині»::non_official | Вона::non_official | Слідчі::non_official",
   "title": "На Донеччині СБУ з початку року виявила 13 інформаторів, які працювали на ворога",
   "url": "https://www.ukrinform.ua/rubric-regions/3830878-na-doneccini-sbu-z-pocatku-roku-viavila-13-informatoriv-aki-pracuvali-na-voroga.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-23",
+  "fc": 0,
+  "nc": 2,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-regions",
+  "sc": 4,
+  "sources_json": "Решта лікуватиметься амбулаторно\"::non_official | Лисака::ukrainian_official | Вогнем артилерії накривав райцентр, Мирівську та Червоногригорівську громади\"::non_official | Лисак::ukrainian_official",
+  "title": "Обстріл Дніпра: двоє з восьми постраждалих перебувають у лікарні",
+  "url": "https://www.ukrinform.ua/rubric-regions/3830948-obstril-dnipra-dvoe-z-vosmi-postrazdalih-perebuvaut-u-likarni.html"
  },
  {
   "balance_risk": false,
@@ -6998,6 +7418,20 @@
   "sources_json": "Філашкін::ukrainian_official",
   "title": "Через обстріли у чотирьох містах Донеччини обмежили водопостачання",
   "url": "https://www.ukrinform.ua/rubric-regions/3832393-na-doneccini-cerez-obstrili-u-cotiroh-mistah-obmezili-vodopostacanna.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-26",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-regions",
+  "sc": 2,
+  "sources_json": "це кореспонденту Укрінформу::unknown | Такі підходи відповідають затвердженому міською радою Європейському зеленому курсу»::non_official",
+  "title": "У Вінницькій громаді планують будівництво екоферми",
+  "url": "https://www.ukrinform.ua/rubric-regions/3832422-u-vinnickij-gromadi-planuut-budivnictvo-ekofermi.html"
  },
  {
   "balance_risk": false,
@@ -7492,6 +7926,20 @@
  {
   "balance_risk": false,
   "date_published": "2024-02-09",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-society",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Уряд пропонує залучити арештовані санаторії до реабілітації військових",
+  "url": "https://www.ukrinform.ua/rubric-society/3825043-urad-proponue-zaluciti-arestovani-sanatorii-do-reabilitacii-vijskovih.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-09",
   "fc": 1,
   "nc": 2,
   "oc": 0,
@@ -7740,6 +8188,20 @@
   "sources_json": "Програмний директор Razom Heroes БФ «Разом для України» Тарас Гаталяк::non_official",
   "title": "В Україні створили Асоціацію операторів та інструкторів з такмеду",
   "url": "https://www.ukrinform.ua/rubric-society/3827719-v-ukraini-stvorili-asociaciu-operatoriv-ta-instruktoriv-z-takmedu.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-15",
+  "fc": 0,
+  "nc": 0,
+  "oc": 1,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-society",
+  "sc": 1,
+  "sources_json": "У міністерстві::ukrainian_official",
+  "title": "МКІП сприятиме розслідуванню справи затриманого посадовця",
+  "url": "https://www.ukrinform.ua/rubric-society/3827756-mkip-spriatime-rozsliduvannu-spravi-zatrimanogo-posadovca.html"
  },
  {
   "balance_risk": false,
@@ -8123,6 +8585,20 @@
   "balance_risk": false,
   "date_published": "2024-02-24",
   "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-society",
+  "sc": 1,
+  "sources_json": "Тепер::non_official",
+  "title": "Два роки, які змінили Україну",
+  "url": "https://www.ukrinform.ua/rubric-society/3831492-dva-roki-aki-zminili-ukrainu.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-24",
+  "fc": 0,
   "nc": 0,
   "oc": 0,
   "official_focus": false,
@@ -8261,6 +8737,20 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2024-02-02",
+  "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-tymchasovo-okupovani",
+  "sc": 2,
+  "sources_json": "Центр національного спротиву , передає Укрінформ::non_official | Центр нацспротиву::non_official",
+  "title": "Росіяни тиснуть на працівників ЗАЕС, які не йдуть на співпрацю - Центр нацспротиву",
+  "url": "https://www.ukrinform.ua/rubric-tymchasovo-okupovani/3821387-rosiani-tisnut-na-pracivnikiv-zaes-aki-ne-jdut-na-spivpracu-centr-nacsprotivu.html"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2024-02-15",
   "fc": 0,
   "nc": 2,
@@ -8272,6 +8762,20 @@
   "sources_json": "Центр національного спротиву , передає Укрінформ::non_official | ЦНС::non_official",
   "title": "Росіяни рекрутують українських школярів на ТОТ до військових вишів з допомогою поліції - ЦНС",
   "url": "https://www.ukrinform.ua/rubric-tymchasovo-okupovani/3827303-rosiani-rekrutuut-ukrainskih-skolariv-na-tot-do-vijskovih-visiv-z-dopomogou-policii-cns.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-15",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-tymchasovo-okupovani",
+  "sc": 2,
+  "sources_json": "це в Телеграмі::unknown | Мелітопольця забрали, коли він просто вийшов викинути сміття”::non_official",
+  "title": "У Мелітополі на вулиці викрали чоловіка, який вийшов викинути сміття",
+  "url": "https://www.ukrinform.ua/rubric-tymchasovo-okupovani/3827308-u-melitopoli-na-vulici-vikrali-colovika-akij-vijsov-vikinuti-smitta.html"
  },
  {
   "balance_risk": false,
@@ -8401,6 +8905,20 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2024-02-10",
+  "fc": 0,
+  "nc": 3,
+  "oc": 3,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-vidbudova",
+  "sc": 6,
+  "sources_json": "передає Укрінформ, про це він::non_official | Глава уряду::ukrainian_official | Крім того, глава уряду::ukrainian_official | Шмигаль::ukrainian_official | Чим більше, тим краще»::non_official | повідомляв Укрінформ, посол України в Японії Сергій Корсунський::non_official",
+  "title": "Японські компанії можуть відіграти велику роль у відновленні України - Шмигаль",
+  "url": "https://www.ukrinform.ua/rubric-vidbudova/3825440-aponski-kompanii-mozut-vidigrati-veliku-rol-u-vidnovlenni-ukraini-smigal.html"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2024-02-12",
   "fc": 0,
   "nc": 0,
@@ -8513,6 +9031,34 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2024-02-18",
+  "fc": 0,
+  "nc": 2,
+  "oc": 3,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-vidbudova",
+  "sc": 5,
+  "sources_json": "передає Укрінформ, про це Київська обласна військова адміністрація::ukrainian_official | Київська обласна військова адміністрація повідомила у Фейсбуці::ukrainian_official | Серед них 122 школи та 71 садочок»::non_official | У 26 закладах освіти тривають ремонти сховищ»::non_official | Кравченко::ukrainian_official",
+  "title": "На Київщині відновили вже 198 закладів освіти",
+  "url": "https://www.ukrinform.ua/rubric-vidbudova/3828887-na-kiivsini-vidnovili-vze-198-zakladiv-osviti.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-20",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-vidbudova",
+  "sc": 0,
+  "sources_json": "",
+  "title": "єВідновлення: у Миколаєві мешканці придбали 26 квартир та приватний будинок",
+  "url": "https://www.ukrinform.ua/rubric-vidbudova/3829837-evidnovlenna-u-mikolaevi-meskanci-pridbali-26-kvartir-ta-privatnij-budinok.html"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2024-02-22",
   "fc": 0,
   "nc": 1,
@@ -8552,6 +9098,20 @@
   "sources_json": "Росією руйнувань та допомогти обороні України,”::non_official | G7 та країн ЄС також мінімізує будь-які подібні ризики”::foreign_official | Водночас міністр::ukrainian_official",
   "title": "Кулеба: Конфіскація заморожених активів РФ - це справедливо і законно",
   "url": "https://www.ukrinform.ua/rubric-vidbudova/3832503-kuleba-konfiskacia-zamorozenih-aktiviv-rf-ce-spravedlivo-i-zakonno.html"
+ },
+ {
+  "balance_risk": true,
+  "date_published": "2024-02-28",
+  "fc": 0,
+  "nc": 0,
+  "oc": 1,
+  "official_focus": true,
+  "parket": true,
+  "rubric": "rubric-vidbudova",
+  "sc": 1,
+  "sources_json": "Кубракова::ukrainian_official",
+  "title": "Українці подали понад 500 заявок на відбудову приватних будинків на власній землі",
+  "url": "https://www.ukrinform.ua/rubric-vidbudova/3833491-ukrainci-podali-ponad-500-zaavok-na-vidbudovu-privatnih-budinkiv-na-vlasnij-zemli.html"
  },
  {
   "balance_risk": false,
@@ -8695,6 +9255,48 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2024-02-02",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 0,
+  "sources_json": "",
+  "title": "У латвійських компаніях можуть перевірити іноземних працівників на проросійські погляди",
+  "url": "https://www.ukrinform.ua/rubric-world/3821879-u-latvijskih-kompaniah-mozut-pereviriti-inozemnih-pracivnikiv-na-prorosijski-pogladi.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-02",
+  "fc": 0,
+  "nc": 12,
+  "oc": 1,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 14,
+  "sources_json": "Безпосередньо на засіданні Ян Томас Альтер (ХДС)::non_official | Вони::non_official | Депутатка від «Зеленої» партії Оля Котерева::ukrainian_official | Це було би не правильним знаком», – ледве не з вибаченням::unknown | Отже, екологічна партія::non_official | Вона також::non_official | А ще вона::non_official | Вона::non_official | Ми цю війну та українців не повинні забувати»::non_official | Ця солідарність триває й до сьогодні::non_official | Членкиня Альянсу Наталія Пригорницька своєю чергою::non_official | Вона в розмові::non_official | Усік також::non_official | України має величезне значення як для українського, так і для німецького суспільства»::non_official",
+  "title": "«Київська площа» в Берліні: чим завершилися дебати",
+  "url": "https://www.ukrinform.ua/rubric-world/3821968-kiivska-plosa-v-berlini-cim-zaversilisa-debati.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-02",
+  "fc": 1,
+  "nc": 5,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 6,
+  "sources_json": "передає Укрінформ, про це::non_official | The Times of Israel::non_official | Ізраїлю, щоб засудити бомбардування агентства розвитку країни у Газі\"::non_official | МЗС Бельгії::foreign_official | Чиновник::non_official | Армія оборони Ізраїлю::non_official",
+  "title": "Бельгія викликала посла Ізраїлю через обстріл будівлі її агенції у Газі",
+  "url": "https://www.ukrinform.ua/rubric-world/3822019-belgia-viklikala-posla-izrailu-cerez-obstril-budivli-ii-agencii-u-gazi.html"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2024-02-03",
   "fc": 1,
   "nc": 5,
@@ -8804,6 +9406,20 @@
   "sources_json": "передає Укрінформ, про це::non_official | BBC::non_official",
   "title": "Чарльз ІІІ вперше з’явився на публіці після операції",
   "url": "https://www.ukrinform.ua/rubric-world/3822628-carlz-iii-vperse-zavivsa-na-publici-pisla-operacii.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-04",
+  "fc": 0,
+  "nc": 4,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 4,
+  "sources_json": "України з Польщею, буде збита”::non_official | Він::non_official | Відтак, вважайте, куди ви запускаєте ракети: все, що з’явиться поблизу, збиватиметься”::non_official | Скшипчак::non_official",
+  "title": "НАТО має збивати ракети над територією України – польський експерт",
+  "url": "https://www.ukrinform.ua/rubric-world/3822633-nato-mae-zbivati-raketi-nad-teritorieu-ukraini-polskij-ekspert.html"
  },
  {
   "balance_risk": false,
@@ -9327,6 +9943,20 @@
   "balance_risk": false,
   "date_published": "2024-02-11",
   "fc": 0,
+  "nc": 3,
+  "oc": 1,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 4,
+  "sources_json": "Al Jazeera , передає Укрінформ::non_official | Уряд провінції Давао-де-Оро::ukrainian_official | Едвард Макапілі, чиновник з Давао-де-Оро::non_official | Понад 1100 сімей були перевезені в евакуаційні центри задля їхньої безпеки::non_official",
+  "title": "Кількість жертв зсуву на Філіппінах зросла до 54",
+  "url": "https://www.ukrinform.ua/rubric-world/3825826-kilkist-zertv-zsuvu-na-filippinah-zrosla-do-54.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-11",
+  "fc": 0,
   "nc": 0,
   "oc": 0,
   "official_focus": false,
@@ -9434,6 +10064,20 @@
   "sources_json": "CNN , передає Укрінформ::non_official | Представник оборонного відомства США::non_official | Згодом Пентагон::foreign_official",
   "title": "Глава Пентагону скасував поїздку у Брюссель через госпіталізацію",
   "url": "https://www.ukrinform.ua/rubric-world/3826285-glava-pentagonu-skasuvav-poizdku-u-brussel-cerez-gospitalizaciu.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-12",
+  "fc": 2,
+  "nc": 4,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 6,
+  "sources_json": "Шольц на спільній з прем’єр-міністром Польщі Дональдом Туском пресконференції у Берліні::foreign_official | України\"::non_official | Глава німецького уряду також::foreign_official | Україні\"::non_official | Росії проти України та російський імперіалізм, канцлер::non_official | Він::non_official",
+  "title": "Шольц: Ніхто не може торгувати безпекою Європи",
+  "url": "https://www.ukrinform.ua/rubric-world/3826296-solc-nihto-ne-moze-torguvati-bezpekou-evropi.html"
  },
  {
   "balance_risk": false,
@@ -9662,6 +10306,20 @@
  {
   "balance_risk": false,
   "date_published": "2024-02-14",
+  "fc": 2,
+  "nc": 5,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 7,
+  "sources_json": "Брюсселі під час пресконференції перед початком зустрічі міністрів оборони Альянсу::non_official | Вперше це становить 2% їхнього сукупного ВВП\"::non_official | Альянсу досягли цієї мети\"::non_official | Генсек НАТО::foreign_official | І ці 2% - це мінімум\"::non_official | Він::non_official | Столтенберг::foreign_official",
+  "title": "Цьогоріч країни НАТО в Європі вперше вкладуть в оборону 2% ВВП - Столтенберг",
+  "url": "https://www.ukrinform.ua/rubric-world/3827010-cogoric-kraini-nato-v-evropi-vperse-vkladut-v-oboronu-2-vvp-stoltenberg.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-14",
   "fc": 0,
   "nc": 4,
   "oc": 0,
@@ -9714,6 +10372,20 @@
   "sources_json": "передає Укрінформ, про це губернатор Курської області Роман Старовойт::non_official",
   "title": "У Курській області РФ горить нафтобаза",
   "url": "https://www.ukrinform.ua/rubric-world/3827293-u-kurskij-oblasti-rf-gorit-naftobaza.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-15",
+  "fc": 0,
+  "nc": 3,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 3,
+  "sources_json": "передає Укрінформ, про це::non_official | CNN Türk::non_official | Кризовий центр створено в Муданьї»::non_official",
+  "title": "У Мармуровому морі затонуло вантажне судно, проводять рятувальну операцію",
+  "url": "https://www.ukrinform.ua/rubric-world/3827356-u-marmurovomu-mori-zatonulo-vantazne-sudno-provodat-ratuvalnu-operaciu.html"
  },
  {
   "balance_risk": false,
@@ -9994,6 +10666,20 @@
   "sources_json": "Укрінформ із посиланням на NOS::non_official",
   "title": "Мігранти з Еритреї зчинили масовий безлад у Гаазі, поранені кілька поліцейських",
   "url": "https://www.ukrinform.ua/rubric-world/3828733-migranti-z-eritrei-zcinili-masovij-bezlad-u-gaazi-poraneni-kilka-policejskih.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-18",
+  "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 2,
+  "sources_json": "передає Укрінформ, про це::non_official | Xinhua::non_official",
+  "title": "Зсув ґрунту на Філіппінах: кількість загиблих зросла до 98",
+  "url": "https://www.ukrinform.ua/rubric-world/3828735-zsuv-gruntu-na-filippinah-kilkist-zagiblih-zrosla-do-98.html"
  },
  {
   "balance_risk": false,
@@ -10293,6 +10979,20 @@
   "balance_risk": false,
   "date_published": "2024-02-22",
   "fc": 1,
+  "nc": 5,
+  "oc": 1,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 7,
+  "sources_json": "Він::non_official | Британського королівського інституту оборонних та безпекових досліджень (Royal United Servi::non_official | Нідерландська митниця в коментарі Укрінформу::ukrainian_official | Але вкрай потрібно»::non_official | Міністр закордонних справ Нідерландів Ганке Брюїнс Слот::foreign_official | Я вітаю ці нові санкції, спрямовані проти 193 фізичних та юридичних осіб»::non_official | Брюїнс Слот також::non_official",
+  "title": "Електроніка західного виробництва у російській зброї: що знаходять експерти",
+  "url": "https://www.ukrinform.ua/rubric-world/3830551-elektronika-zahidnogo-virobnictva-u-rosijskij-zbroi-so-znahodat-eksperti.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-22",
+  "fc": 1,
   "nc": 2,
   "oc": 0,
   "official_focus": true,
@@ -10473,6 +11173,34 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2024-02-24",
+  "fc": 0,
+  "nc": 5,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 5,
+  "sources_json": "передає Укрінформ, про це::non_official | NBC News::non_official | Бунвіль, штат Міссісіпі\"::non_official | Імена жертв не оприлюднювалися, але у Національній гвардії Міссісіпі::non_official | Шериф округу Прентіс Ренді Толар::non_official",
+  "title": "У США розбився військовий гелікоптер, є загиблі",
+  "url": "https://www.ukrinform.ua/rubric-world/3831474-u-ssa-rozbivsa-vijskovij-gelikopter-e-zagibli.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-25",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 1,
+  "sources_json": "Адміністрація::non_official",
+  "title": "Ейфелева вежа відкриється в неділю після шести днів страйку",
+  "url": "https://www.ukrinform.ua/rubric-world/3831799-ejfeleva-veza-vidkrietsa-v-nedilu-pisla-sesti-dniv-strajku.html"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2024-02-25",
   "fc": 0,
   "nc": 2,
@@ -10540,6 +11268,20 @@
   "sources_json": "передає Укрінформ, про це::non_official | The Jerusalem Post::non_official | ЗМІ::non_official",
   "title": "Хусити пошкодили підводні кабелі зв'язку, які з’єднують Європу з Азією - ЗМІ",
   "url": "https://www.ukrinform.ua/rubric-world/3832533-husiti-poskodili-pidvodni-kabeli-zvazku-aki-zednuut-evropu-z-azieu-zmi.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-26",
+  "fc": 0,
+  "nc": 5,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 7,
+  "sources_json": "Ніколай Денков на спільній з Президентом Володимиром Зеленським пресконференції у Києві::ukrainian_official | Глава болгарського уряду::ukrainian_official | Тому підтримувати Україну – це значить захищати і нас самих»::non_official | Він::non_official | України»::non_official | Денков::non_official | Він також::non_official",
+  "title": "Агресивні амбіції РФ загрожують нацбезпеці Болгарії - прем’єр Денков",
+  "url": "https://www.ukrinform.ua/rubric-world/3832536-agresivni-ambicii-rf-zagrozuut-nacbezpeci-bolgarii-premer-denkov.html"
  },
  {
   "balance_risk": false,
@@ -10727,6 +11469,20 @@
   "balance_risk": false,
   "date_published": "2024-02-28",
   "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 2,
+  "sources_json": "Укрінформ із посиланням на Детектор Медіа::non_official | Зазначається, що у грудні 2022 року Козирєва, будучи ще школяркою::non_official",
+  "title": "У Петербурзі 18-річну дівчину відправили до СІЗО за вірш Шевченка",
+  "url": "https://www.ukrinform.ua/rubric-world/3833279-u-peterburzi-18ricnu-divcinu-vidpravili-do-sizo-za-virs-sevcenka.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-28",
+  "fc": 0,
   "nc": 4,
   "oc": 0,
   "official_focus": false,
@@ -10778,6 +11534,20 @@
   "sources_json": "Західному березі річки Йордан, Угорщина не підтримала режим санкцій»::non_official | Файон::non_official | Статут ООН і міжнародно визнані кордони»::foreign_official | Україну й працюватимемо заради миру»::non_official",
   "title": "Глава МЗС Словенії: Орбан створює проблеми для ЄС не лише з українського питання",
   "url": "https://www.ukrinform.ua/rubric-world/3833426-glava-mzs-slovenii-orban-stvorue-problemi-dla-es-ne-lise-z-ukrainskogo-pitanna.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-02-28",
+  "fc": 2,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 5,
+  "sources_json": "це вона::unknown | Європейському парламенті::non_official | Крістерссона з історичним кроком для цієї країни та для нашої спільної безпеки»::non_official | Президентка Єврокомісії::foreign_official | Єврокомісії»::foreign_official",
+  "title": "Фон дер Ляєн про членство Швеції у НАТО: Це історичний крок для спільної безпеки",
+  "url": "https://www.ukrinform.ua/rubric-world/3833427-fon-der-laen-pro-clenstvo-svecii-u-nato-ce-istoricnij-krok-dla-spilnoi-bezpeki.html"
  },
  {
   "balance_risk": false,

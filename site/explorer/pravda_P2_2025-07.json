@@ -308,6 +308,20 @@
   "url": "https://www.pravda.com.ua/news/2025/07/01/7519720/"
  },
  {
+  "balance_risk": false,
+  "date_published": "2025-07-01",
+  "fc": 2,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "У Кремлі раніше у вівторок::foreign_official | У Макрона::foreign_official",
+  "title": "Суспільне: Макрон після розмови з Путіним телефонував Зеленському",
+  "url": "https://www.pravda.com.ua/news/2025/07/01/7519728/"
+ },
+ {
   "balance_risk": true,
   "date_published": "2025-07-02",
   "fc": 0,
@@ -348,6 +362,20 @@
   "sources_json": "В OFAC::non_official",
   "title": "США ввели санкції проти російського кіберугруповання Aeza Group",
   "url": "https://www.pravda.com.ua/news/2025/07/02/7519784/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-07-02",
+  "fc": 0,
+  "nc": 1,
+  "oc": 4,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 5,
+  "sources_json": "Головного управління розвідки Міноборони Кирило Буданов під час спілкування з журналістами::ukrainian_official | Деталі: Очільник ГУР також::ukrainian_official | До 500 дронів вони реально можуть запускати в єдиному залпі\"::non_official | України Володимир Зеленський::ukrainian_official | Повітряних сил::ukrainian_official",
+  "title": "Буданов: Росіяни намагались створити морські дрони, але безрезультатно",
+  "url": "https://www.pravda.com.ua/news/2025/07/02/7519787/"
  },
  {
   "balance_risk": false,
@@ -404,6 +432,34 @@
   "sources_json": "Він::non_official | Йдеться про те, щоб стати більш незалежними та стійкими\"::non_official",
   "title": "ЄС поставив за мету до 2040 року скоротити викиди парникових газів на 90%",
   "url": "https://www.pravda.com.ua/news/2025/07/02/7519863/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-07-02",
+  "fc": 0,
+  "nc": 4,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 5,
+  "sources_json": "Речник УПЦ МП митрополит Климент::non_official | Деталі: Речник також::non_official | передувало: 2 липня Служба безпеки України::ukrainian_official | вказане він не::non_official | Водночас сам Онуфрій::non_official",
+  "title": "В УПЦ МП стверджують, що Онуфрій не має громадянства РФ і оскаржить указ Зеленського",
+  "url": "https://www.pravda.com.ua/news/2025/07/02/7519876/"
+ },
+ {
+  "balance_risk": true,
+  "date_published": "2025-07-02",
+  "fc": 0,
+  "nc": 0,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Колишньому посадовцю Міноборони::ukrainian_official | Повідомляється, що колишньому посадовцю Міноборони та керівнику компанії-постачальнику::ukrainian_official",
+  "title": "ОГП: Колишній посадовець Міноборони зі спільником нажилися на закупівлі гвинтівок",
+  "url": "https://www.pravda.com.ua/news/2025/07/02/7519881/"
  },
  {
   "balance_risk": false,
@@ -509,6 +565,20 @@
   "fc": 0,
   "nc": 0,
   "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Генштаб оновив дані про втрати ворога: мінус ще 1000 російських окупантів",
+  "url": "https://www.pravda.com.ua/news/2025/07/03/7519952/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-07-03",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
   "official_focus": false,
   "parket": false,
   "rubric": "news",
@@ -530,6 +600,20 @@
   "sources_json": "Речниця Держдепу США Теммі Брюс на брифінгу для преси::foreign_official | Деталі : Речниця::non_official | Але не варто робити занадто широких висновків\"::non_official | Вона::non_official | України\"::non_official | Президент Володимир Зеленський::ukrainian_official",
   "title": "У Держдепі заперечили зупинку всієї військової допомоги Україні: це \"лише одна ситуація\"",
   "url": "https://www.pravda.com.ua/news/2025/07/03/7519966/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-07-03",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Росія вдарила балістикою по Одесі: є жертви, серед поранених – двоє іноземців",
+  "url": "https://www.pravda.com.ua/news/2025/07/03/7520023/"
  },
  {
   "balance_risk": false,
@@ -810,6 +894,20 @@
   "sources_json": "",
   "title": "Росіяни обстріляли Куп’янськ: двоє поранених",
   "url": "https://www.pravda.com.ua/news/2025/07/05/7520267/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-07-05",
+  "fc": 1,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Під час церемонії підписання Трамп::foreign_official | Це була повна зрада американського народу\"::unknown",
+  "title": "Трамп підписав свій флагманський \"Великий прекрасний закон\"",
+  "url": "https://www.pravda.com.ua/news/2025/07/05/7520274/"
  },
  {
   "balance_risk": false,
@@ -1149,6 +1247,20 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2025-07-06",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "У Херсоні двоє чоловіків постраждали через дронові атаки РФ",
+  "url": "https://www.pravda.com.ua/news/2025/07/06/7520453/"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2025-07-07",
   "fc": 0,
   "nc": 3,
@@ -1303,6 +1415,20 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2025-07-07",
+  "fc": 0,
+  "nc": 2,
+  "oc": 3,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 5,
+  "sources_json": "Президент Володимир Зеленський::ukrainian_official | Деталі: Зеленський::ukrainian_official | Вже за два тижні відбудеться ця наша зустріч\"::non_official | Глава держави::ukrainian_official | Раніше в понеділок ЗМІ::non_official",
+  "title": "Зеленський анонсував у липні нараду з послами",
+  "url": "https://www.pravda.com.ua/news/2025/07/07/7520633/"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2025-07-08",
   "fc": 0,
   "nc": 3,
@@ -1404,6 +1530,20 @@
   "date_published": "2025-07-08",
   "fc": 0,
   "nc": 0,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Української правди\", Сирський::ukrainian_official | Там же головнокомандувач ЗСУ::ukrainian_official",
+  "title": "Сирський наголосив на відновленні позицій та утриманні територій на Курщині та Білгородщині РФ",
+  "url": "https://www.pravda.com.ua/news/2025/07/08/7520697/"
+ },
+ {
+  "balance_risk": true,
+  "date_published": "2025-07-08",
+  "fc": 0,
+  "nc": 0,
   "oc": 1,
   "official_focus": true,
   "parket": true,
@@ -1473,6 +1613,20 @@
   "balance_risk": false,
   "date_published": "2025-07-08",
   "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Він завжди дуже ввічливий, але це виявляється безглуздим\"::non_official",
+  "title": "Трамп: Путін постійно говорить нам купу нісенітниць",
+  "url": "https://www.pravda.com.ua/news/2025/07/08/7520803/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-07-08",
+  "fc": 0,
   "nc": 0,
   "oc": 0,
   "official_focus": true,
@@ -1510,6 +1664,20 @@
   "sources_json": "Повітряні сили::ukrainian_official | Місцеві ЗМІ::non_official | Повітряних силах::ukrainian_official | У КОВА::non_official | О 02:57 військові::non_official | О 03:37 Повітряні сили::ukrainian_official",
   "title": "РФ атакувала \"Кинджалами\" та ударними дронами: у багатьох містах пролунали вибухи",
   "url": "https://www.pravda.com.ua/news/2025/07/09/7520826/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-07-09",
+  "fc": 1,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Путіну я::foreign_official | Але на 10% він мені повірив\"::non_official | Він подумав, що я божевільний\"::non_official",
+  "title": "CNN: Трамп розповів, що погрожував Путіну \"розбомбити Москву\" в разі вторгнення в Україну",
+  "url": "https://www.pravda.com.ua/news/2025/07/09/7520875/"
  },
  {
   "balance_risk": false,
@@ -1556,6 +1724,20 @@
  {
   "balance_risk": false,
   "date_published": "2025-07-09",
+  "fc": 0,
+  "nc": 3,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 5,
+  "sources_json": "Головнокомандувач ЗСУ Олександр Сирський::ukrainian_official | Сил безпілотних систем майора Роберта Бровді та::non_official | Головком::non_official | FPV, конструює \"герані\" з турбореактивним двигуном\"::non_official | Сирський::ukrainian_official",
+  "title": "Сирський: Кожна третя ворожа ціль, уражена Силами оборони в червні, – на рахунку СБС",
+  "url": "https://www.pravda.com.ua/news/2025/07/09/7520979/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-07-09",
   "fc": 1,
   "nc": 1,
   "oc": 2,
@@ -1566,6 +1748,20 @@
   "sources_json": "Джерело : Зеленський у соцмережі Х::ukrainian_official | Деталі : Як::non_official | Зеленський::ukrainian_official | Україні, а потім оголосили про відновлення поставок – зокрема, президент Дональд Трамп::foreign_official",
   "title": "Зеленський обговорив із Келлогом санкції проти РФ, постачання зброї і посилення ППО",
   "url": "https://www.pravda.com.ua/news/2025/07/09/7521001/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-07-10",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Росіяни вранці ударили дронами по Херсону: 2 поранених",
+  "url": "https://www.pravda.com.ua/news/2025/07/10/7521046/"
  },
  {
   "balance_risk": false,
@@ -1720,6 +1916,20 @@
   "sources_json": "Філашкіна::ukrainian_official",
   "title": "Росіяни убили 7 мирних мешканців Донеччини за добу",
   "url": "https://www.pravda.com.ua/news/2025/07/11/7521244/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-07-11",
+  "fc": 0,
+  "nc": 0,
+  "oc": 1,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Дослівно : \"Працівники ДБР::ukrainian_official",
+  "title": "На Чернігівщині військовий посадовець \"возив\" деревину на фронт, не полишаючи свого району",
+  "url": "https://www.pravda.com.ua/news/2025/07/11/7521255/"
  },
  {
   "balance_risk": false,
@@ -2033,6 +2243,20 @@
   "balance_risk": false,
   "date_published": "2025-07-13",
   "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Органи військової розвідки Південної Кореї::non_official | Російські ЗМІ::non_official",
+  "title": "КНДР могла поставити Росії 12 млн снарядів калібру 152 мм – розвідка Південної Кореї",
+  "url": "https://www.pravda.com.ua/news/2025/07/13/7521496/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-07-13",
+  "fc": 0,
   "nc": 0,
   "oc": 0,
   "official_focus": false,
@@ -2144,6 +2368,20 @@
  {
   "balance_risk": false,
   "date_published": "2025-07-14",
+  "fc": 0,
+  "nc": 0,
+  "oc": 1,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Деталі: Мер::ukrainian_official",
+  "title": "Росіяни атакували \"Шахедами\" Чугуїв: пошкоджено промислове підприємство",
+  "url": "https://www.pravda.com.ua/news/2025/07/14/7521594/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-07-14",
   "fc": 1,
   "nc": 0,
   "oc": 0,
@@ -2238,6 +2476,20 @@
   "sources_json": "Співрозмовники \"Української правди\" в Кабміні та парламенті::ukrainian_official",
   "title": "Нові призначення в уряді: Шмигаль може очолити Міноборони – джерело",
   "url": "https://www.pravda.com.ua/news/2025/07/14/7521691/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-07-14",
+  "fc": 2,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Глава Білого дому Дональд Трамп::foreign_official | Далі президент США::foreign_official | І це можна зробити дуже швидко\"::non_official",
+  "title": "Трамп: Україна отримає додаткові Patriot \"протягом декількох днів\"",
+  "url": "https://www.pravda.com.ua/news/2025/07/14/7521706/"
  },
  {
   "balance_risk": false,
@@ -3041,6 +3293,20 @@
   "balance_risk": false,
   "date_published": "2025-07-18",
   "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Армія РФ атакувала Херсон БпЛА: постраждали дві людини",
+  "url": "https://www.pravda.com.ua/news/2025/07/18/7522422/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-07-18",
+  "fc": 0,
   "nc": 4,
   "oc": 0,
   "official_focus": false,
@@ -3050,6 +3316,20 @@
   "sources_json": "Велика Британія::non_official | Росії, які вже впали на 35% у порівнянні з минулим роком\"::non_official | Україні\"::non_official | Британська влада::non_official",
   "title": "Британія приєдналася до рішення ЄС щодо зниження цінової межі на російську нафту",
   "url": "https://www.pravda.com.ua/news/2025/07/18/7522424/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-07-19",
+  "fc": 1,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "У Міноборони Росії::foreign_official",
+  "title": "У Росії заявили про атаку майже 90 безпілотників за вечір",
+  "url": "https://www.pravda.com.ua/news/2025/07/19/7522457/"
  },
  {
   "balance_risk": false,
@@ -3138,6 +3418,20 @@
  {
   "balance_risk": false,
   "date_published": "2025-07-20",
+  "fc": 0,
+  "nc": 0,
+  "oc": 1,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Капітан поліції Лос-Анджелеса Бен Фернандес::ukrainian_official",
+  "title": "У Лос-Анджелесі автомобіль в’їхав у натовп: щонайменше 30 постраждалих",
+  "url": "https://www.pravda.com.ua/news/2025/07/20/7522513/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-07-20",
   "fc": 1,
   "nc": 2,
   "oc": 0,
@@ -3162,6 +3456,20 @@
   "sources_json": "Федорова::ukrainian_official",
   "title": "Російський дрон влучив у будинок на Запоріжжі: поранено двох жінок",
   "url": "https://www.pravda.com.ua/news/2025/07/20/7522573/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-07-20",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Зокрема, окупанти::non_official",
+  "title": "У РФ відзвітували про майже сотню збитих безпілотників",
+  "url": "https://www.pravda.com.ua/news/2025/07/20/7522589/"
  },
  {
   "balance_risk": false,
@@ -3406,6 +3714,20 @@
   "date_published": "2025-07-22",
   "fc": 0,
   "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Деталі : Григоров::non_official | Також він::unknown | Кривошеєнка::non_official",
+  "title": "Армія РФ вдарила по житловому району Сум: серед поранених дитина, багато пошкоджень",
+  "url": "https://www.pravda.com.ua/news/2025/07/22/7522812/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-07-22",
+  "fc": 0,
+  "nc": 2,
   "oc": 2,
   "official_focus": false,
   "parket": false,
@@ -3414,6 +3736,20 @@
   "sources_json": "Місцеві ЗМІ та пабліки теж::non_official | Оновлено : Пізніше \"Думська\"::non_official | Також Кіпер::ukrainian_official | Оновлено : Вранці ДСНС::ukrainian_official",
   "title": "Нічна атака на Одесу: в місті вирували пожежі, в будинках повилітали вікна",
   "url": "https://www.pravda.com.ua/news/2025/07/22/7522827/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-07-22",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Нідерланди зроблять суттєвий внесок у постачання Україні систем Patriot – міністр",
+  "url": "https://www.pravda.com.ua/news/2025/07/22/7522830/"
  },
  {
   "balance_risk": false,
@@ -3694,6 +4030,20 @@
   "sources_json": "Деталі: Напередодні директор НАБУ Семен Кривонос і керівник САП Олександр Клименко::ukrainian_official",
   "title": "Генпрокурор про ймовірні справи проти Кривоноса і Клименка: Не досліджував це питання",
   "url": "https://www.pravda.com.ua/news/2025/07/23/7523074/"
+ },
+ {
+  "balance_risk": true,
+  "date_published": "2025-07-23",
+  "fc": 0,
+  "nc": 0,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Деталі: Кравченко::ukrainian_official | Керівник НАБУ Семен Кривонос::ukrainian_official",
+  "title": "Кравченко про побиття працівників НАБУ під час обшуків: Відкрито кримінальне провадження",
+  "url": "https://www.pravda.com.ua/news/2025/07/23/7523076/"
  },
  {
   "balance_risk": true,
@@ -4592,6 +4942,20 @@
   "url": "https://www.pravda.com.ua/news/2025/07/28/7523829/"
  },
  {
+  "balance_risk": true,
+  "date_published": "2025-07-28",
+  "fc": 0,
+  "nc": 0,
+  "oc": 1,
+  "official_focus": true,
+  "parket": true,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Генштаб::ukrainian_official",
+  "title": "На Покровському напрямку за добу відбулось 42 зіткнення – Генштаб",
+  "url": "https://www.pravda.com.ua/news/2025/07/28/7523845/"
+ },
+ {
   "balance_risk": false,
   "date_published": "2025-07-29",
   "fc": 0,
@@ -4618,6 +4982,20 @@
   "sources_json": "Грецька сторона::non_official",
   "title": "Греція висловила протест Албанії через карту з \"історичними албанськими територіями\"",
   "url": "https://www.pravda.com.ua/news/2025/07/29/7523851/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-07-29",
+  "fc": 1,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Деталі: У своїй заяві Кім різко::non_official | Вона::non_official | У відповідь на ці заяви представник Білого дому::foreign_official",
+  "title": "Сестра Кім Чен Ина висміяла спроби Трампа позбавити Північну Корею ядерної зброї",
+  "url": "https://www.pravda.com.ua/news/2025/07/29/7523854/"
  },
  {
   "balance_risk": false,
@@ -4942,6 +5320,20 @@
   "url": "https://www.pravda.com.ua/news/2025/07/30/7524092/"
  },
  {
+  "balance_risk": false,
+  "date_published": "2025-07-30",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "По всій Україні оголосили ракетну небезпеку через зліт МіГ-31К",
+  "url": "https://www.pravda.com.ua/news/2025/07/30/7524096/"
+ },
+ {
   "balance_risk": true,
   "date_published": "2025-07-30",
   "fc": 0,
@@ -5141,6 +5533,20 @@
   "balance_risk": false,
   "date_published": "2025-07-31",
   "fc": 0,
+  "nc": 3,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 4,
+  "sources_json": "У Європейській комісії::non_official | НАБУ і САП\"::ukrainian_official | Деталі : Він::non_official | Україну в цьому процесі\"::non_official",
+  "title": "В ЄС привітали прийняття закону щодо повернення незалежності НАБУ і САП",
+  "url": "https://www.pravda.com.ua/news/2025/07/31/7524253/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-07-31",
+  "fc": 0,
   "nc": 0,
   "oc": 0,
   "official_focus": false,
@@ -5150,6 +5556,20 @@
   "sources_json": "",
   "title": "Єврокомісія очікує від України якнайшвидшого призначення голови БЕБ",
   "url": "https://www.pravda.com.ua/news/2025/07/31/7524269/"
+ },
+ {
+  "balance_risk": true,
+  "date_published": "2025-07-31",
+  "fc": 0,
+  "nc": 0,
+  "oc": 1,
+  "official_focus": true,
+  "parket": true,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Президент Володимир Зеленський::ukrainian_official",
+  "title": "Зеленський назвав інформацію про нібито окупацію Часового Яру \"російським вкидом\"",
+  "url": "https://www.pravda.com.ua/news/2025/07/31/7524309/"
  },
  {
   "balance_risk": false,

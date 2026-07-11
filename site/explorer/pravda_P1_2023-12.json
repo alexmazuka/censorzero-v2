@@ -100,6 +100,20 @@
  {
   "balance_risk": false,
   "date_published": "2023-12-01",
+  "fc": 1,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Постпред США у ОБСЄ Майкл Карпентер::foreign_official",
+  "title": "Росія розблокувала прийняття кадрових рішень в ОБСЄ: є проміжні домовленості",
+  "url": "https://www.pravda.com.ua/news/2023/12/01/7431245/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-01",
   "fc": 0,
   "nc": 2,
   "oc": 1,
@@ -124,6 +138,20 @@
   "sources_json": "Росія атакує Херсон з тимчасово окупованого лівого берега::non_official | Деталі: Мрочко::non_official",
   "title": "Росія атакує Херсон, чути вибухи у місті",
   "url": "https://www.pravda.com.ua/news/2023/12/01/7431280/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-01",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Нардеп-мажоритарник заявив, що складає мандат",
+  "url": "https://www.pravda.com.ua/news/2023/12/01/7431283/"
  },
  {
   "balance_risk": false,
@@ -250,6 +278,20 @@
   "sources_json": "",
   "title": "Сили оборони знищили ще понад тисячу росіян",
   "url": "https://www.pravda.com.ua/news/2023/12/02/7431335/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-02",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "На Херсонщині та Донеччині знову є загиблі від російських обстрілів",
+  "url": "https://www.pravda.com.ua/news/2023/12/02/7431338/"
  },
  {
   "balance_risk": false,
@@ -703,6 +745,20 @@
   "balance_risk": false,
   "date_published": "2023-12-05",
   "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Дослівно : \"На Вінниччині було чутно звук вибуху::non_official | ЗМІ::non_official",
+  "title": "На Вінниччині лунали вибухи – ЗМІ",
+  "url": "https://www.pravda.com.ua/news/2023/12/05/7431667/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-05",
+  "fc": 0,
   "nc": 0,
   "oc": 0,
   "official_focus": true,
@@ -814,6 +870,20 @@
  {
   "balance_risk": false,
   "date_published": "2023-12-05",
+  "fc": 3,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Деталі: Як повідомило виданню джерело у Парижі, у французького президента::foreign_official | Однак ще один високопоставлений дипломат із третьої країни ЄС::foreign_official | Представник ЄС у Брюсселі також::foreign_official",
+  "title": "Politico: Макрон спробує переконати Орбана в Парижі щодо вступу України у ЄС",
+  "url": "https://www.pravda.com.ua/news/2023/12/05/7431725/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-05",
   "fc": 0,
   "nc": 2,
   "oc": 0,
@@ -880,6 +950,20 @@
   "sources_json": "НАБУ і САП::ukrainian_official",
   "title": "Князєва залишили під вартою і вп’яте зменшили заставу",
   "url": "https://www.pravda.com.ua/news/2023/12/05/7431781/"
+ },
+ {
+  "balance_risk": true,
+  "date_published": "2023-12-05",
+  "fc": 0,
+  "nc": 0,
+  "oc": 1,
+  "official_focus": true,
+  "parket": true,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Ігнат::ukrainian_official",
+  "title": "Шукати пілотів збитого Су-24М прилетів рятувальний літак РФ – Ігнат",
+  "url": "https://www.pravda.com.ua/news/2023/12/05/7431788/"
  },
  {
   "balance_risk": false,
@@ -1333,6 +1417,20 @@
   "balance_risk": false,
   "date_published": "2023-12-07",
   "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Захисники за добу ліквідували 1 120 окупантів і 18 ворожих танків",
+  "url": "https://www.pravda.com.ua/news/2023/12/07/7432006/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-07",
+  "fc": 0,
   "nc": 2,
   "oc": 0,
   "official_focus": true,
@@ -1398,6 +1496,20 @@
   "sources_json": "Безугла не раз виступала з критикою головнокомандувача ЗСУ Валерія Залужного і навіть::ukrainian_official",
   "title": "Зеленський звільнив свого представника у парламенті",
   "url": "https://www.pravda.com.ua/news/2023/12/07/7432034/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-07",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "\"Протидії цьому зараз немає\": Берлінська розповіла про нову загрозу від російських дронів",
+  "url": "https://www.pravda.com.ua/news/2023/12/07/7432049/"
  },
  {
   "balance_risk": false,
@@ -1594,6 +1706,20 @@
   "sources_json": "",
   "title": "ТОК-ШОУ УП: Допомога США під загрозою. Чи має Україна план Б?",
   "url": "https://www.pravda.com.ua/news/2023/12/08/7432236/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-08",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Німеччина надала Україні новий пакет допомоги з дронами",
+  "url": "https://www.pravda.com.ua/news/2023/12/08/7432264/"
  },
  {
   "balance_risk": false,
@@ -1962,6 +2088,20 @@
  {
   "balance_risk": false,
   "date_published": "2023-12-11",
+  "fc": 1,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Український Генеральний штаб::non_official | Речниця Міністерства закордонних справ Росії Марія Захарова::foreign_official | ISW::non_official",
+  "title": "Захисники просуваються на лівому березі Дніпра Херсонщини, тривають бої біля Кринок – ISW",
+  "url": "https://www.pravda.com.ua/news/2023/12/11/7432501/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-11",
   "fc": 0,
   "nc": 0,
   "oc": 0,
@@ -2014,6 +2154,20 @@
   "sources_json": "Оновлено : Пізніше Служба безпеки України офіційно::ukrainian_official | У спецслужбі::non_official | передувало: Російські ЗМІ::non_official",
   "title": "З'явилися кадри з місця ліквідації Киви",
   "url": "https://www.pravda.com.ua/news/2023/12/11/7432525/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-11",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "У вівторок в Україні очікують сніг з дощем",
+  "url": "https://www.pravda.com.ua/news/2023/12/11/7432533/"
  },
  {
   "balance_risk": false,
@@ -2084,6 +2238,20 @@
   "sources_json": "",
   "title": "Mercedes S-класу за донат 500 гривень. Звернення Ткача і Рясного",
   "url": "https://www.pravda.com.ua/news/2023/12/11/7432600/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-11",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Світоліна перемогла в номінації WTA \"Повернення року\"",
+  "url": "https://www.pravda.com.ua/news/2023/12/11/7432606/"
  },
  {
   "balance_risk": false,
@@ -2242,6 +2410,20 @@
  {
   "balance_risk": false,
   "date_published": "2023-12-12",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Збоєм у \"Київстарі\" користуються шахраї – оператор",
+  "url": "https://www.pravda.com.ua/news/2023/12/12/7432805/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-12",
   "fc": 1,
   "nc": 1,
   "oc": 0,
@@ -2280,6 +2462,20 @@
   "sources_json": "Президент Джо Байден::foreign_official | Деталі: Президент США::foreign_official | Володимиром Зеленським, президент США Джо Байден::foreign_official | Байден::foreign_official | Президент США також::foreign_official",
   "title": "Майбутнє України в НАТО. Ми тільки маємо переконатися, що вони виграють війну – Байден",
   "url": "https://www.pravda.com.ua/news/2023/12/13/7432818/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-13",
+  "fc": 4,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 5,
+  "sources_json": "Деталі: Він::non_official | Володимиром Зеленським, президент США Джо Байден::foreign_official | Байден::foreign_official | Президент США також::foreign_official | Президент Джо Байден також::foreign_official",
+  "title": "США хочуть перемоги України – Байден",
+  "url": "https://www.pravda.com.ua/news/2023/12/13/7432820/"
  },
  {
   "balance_risk": true,
@@ -2329,6 +2525,20 @@
   "fc": 0,
   "nc": 0,
   "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Зеленський прибув до Норвегії",
+  "url": "https://www.pravda.com.ua/news/2023/12/13/7432855/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-13",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
   "official_focus": false,
   "parket": false,
   "rubric": "news",
@@ -2364,6 +2574,20 @@
   "sources_json": "",
   "title": "Зеленський: Без допомоги доведеться воювати, як у перші дні вторгнення РФ",
   "url": "https://www.pravda.com.ua/news/2023/12/13/7432880/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-13",
+  "fc": 2,
+  "nc": 1,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 5,
+  "sources_json": "Прем’єр-міністр Норвегії Йонас Гар Стьоре::foreign_official | Прем’єр::ukrainian_official | Прем’єр Норвегії::foreign_official | Норвегія продовжить підтримувати Україну у боротьбі, в якій вона захищає себе\"::non_official | Зеленський після зустрічі::ukrainian_official",
+  "title": "Норвегія оголосила про додаткову підтримку Україні: увійдуть засоби для ППО",
+  "url": "https://www.pravda.com.ua/news/2023/12/13/7432887/"
  },
  {
   "balance_risk": false,
@@ -2424,6 +2648,20 @@
  {
   "balance_risk": false,
   "date_published": "2023-12-14",
+  "fc": 2,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Глава дипломатії ЄС Жозеп Боррель::foreign_official | Нагадаємо : Європейський парламент у середу::non_official | Глава Євроради Шарль Мішель у листі-запрошенні лідерам ЄС на саміт 14-15 грудня::foreign_official",
+  "title": "Боррель після Різдва збирається в Україну",
+  "url": "https://www.pravda.com.ua/news/2023/12/14/7432968/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-14",
   "fc": 0,
   "nc": 0,
   "oc": 0,
@@ -2466,6 +2704,20 @@
  {
   "balance_risk": false,
   "date_published": "2023-12-14",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "По всій Україні на півтори години оголошували повітряну тривогу через МіГ",
+  "url": "https://www.pravda.com.ua/news/2023/12/14/7433001/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-14",
   "fc": 1,
   "nc": 1,
   "oc": 1,
@@ -2504,6 +2756,20 @@
   "sources_json": "Повітряні сили::ukrainian_official",
   "title": "По всій Україні оголошували тривогу: втретє злітали МіГи",
   "url": "https://www.pravda.com.ua/news/2023/12/14/7433050/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-14",
+  "fc": 0,
+  "nc": 1,
+  "oc": 1,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Повітряних сил::ukrainian_official | Пізніше військові::non_official",
+  "title": "У Києві та на Хмельниччині пролунали вибухи",
+  "url": "https://www.pravda.com.ua/news/2023/12/14/7433053/"
  },
  {
   "balance_risk": false,
@@ -2560,6 +2826,20 @@
   "sources_json": "Він::non_official",
   "title": "Петиція про скасування \"правок Лозового\" за годину набрала більше 25 тисяч голосів",
   "url": "https://www.pravda.com.ua/news/2023/12/14/7433084/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-14",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "У США остаточно схвалили оборонний бюджет: $300 млн в ньому - для України",
+  "url": "https://www.pravda.com.ua/news/2023/12/14/7433086/"
  },
  {
   "balance_risk": true,
@@ -2660,6 +2940,20 @@
   "url": "https://www.pravda.com.ua/news/2023/12/15/7433207/"
  },
  {
+  "balance_risk": false,
+  "date_published": "2023-12-15",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "У неділю в Україну прийдуть дощі і мокрий сніг",
+  "url": "https://www.pravda.com.ua/news/2023/12/15/7433208/"
+ },
+ {
   "balance_risk": true,
   "date_published": "2023-12-15",
   "fc": 0,
@@ -2714,6 +3008,20 @@
   "sources_json": "арешт у Фінляндії Петровського фінські ЗМІ::non_official | Міністерства фінансів США::foreign_official",
   "title": "Фінляндія розслідуватиме ймовірні воєнні злочини неонациста Петровського в Україні",
   "url": "https://www.pravda.com.ua/news/2023/12/15/7433258/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-15",
+  "fc": 0,
+  "nc": 1,
+  "oc": 3,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 4,
+  "sources_json": "Речник Повітряних сил полковник Юрій Ігнат::ukrainian_official | Ігната::ukrainian_official | Речник повітряних сил::ukrainian_official | Він також::non_official",
+  "title": "Ігнат про реактивні двигуни на \"Шахедах\": У цьому мало сенсу",
+  "url": "https://www.pravda.com.ua/news/2023/12/15/7433260/"
  },
  {
   "balance_risk": false,
@@ -2916,6 +3224,20 @@
   "date_published": "2023-12-17",
   "fc": 0,
   "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "ЦПД::non_official",
+  "title": "Росіяни створюють фейкові Telegram-канали українських бригад і батальйонів – ЦПД",
+  "url": "https://www.pravda.com.ua/news/2023/12/17/7433396/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-17",
+  "fc": 0,
+  "nc": 1,
   "oc": 1,
   "official_focus": false,
   "parket": false,
@@ -2938,6 +3260,20 @@
   "sources_json": "",
   "title": "На Одещині збитий дрон впав на приватний будинок і вибухнув. Загинув чоловік",
   "url": "https://www.pravda.com.ua/news/2023/12/17/7433408/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-17",
+  "fc": 1,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Британська розвідка::non_official | Раніше прессекретар президента Росії Дмитро Пєсков::foreign_official | Він також::non_official",
+  "title": "Росія \"виборами\" на окупованих територіях сподівається легітимізувати вторгнення – розвідка Британії",
+  "url": "https://www.pravda.com.ua/news/2023/12/17/7433419/"
  },
  {
   "balance_risk": false,
@@ -3194,6 +3530,20 @@
  {
   "balance_risk": false,
   "date_published": "2023-12-19",
+  "fc": 0,
+  "nc": 1,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Мер Москви Сергій Собянін::ukrainian_official | Собяніна::non_official",
+  "title": "Росіяни заявили про роботу ППО у Москві через безпілотник, закрили 2 аеропорти",
+  "url": "https://www.pravda.com.ua/news/2023/12/19/7433682/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-19",
   "fc": 1,
   "nc": 2,
   "oc": 0,
@@ -3232,6 +3582,20 @@
   "sources_json": "Ради національної безпеки Білого дому Джон Кірбі на брифінгу::foreign_official | Кірбі::non_official | Це було навмисно\"::unknown | Кірбі також::non_official",
   "title": "У Байдена пояснили різницю між жертвами війн в Україні та Газі",
   "url": "https://www.pravda.com.ua/news/2023/12/19/7433712/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-19",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Бійці бригади \"Лють\" показали захоплення окупанта в полон",
+  "url": "https://www.pravda.com.ua/news/2023/12/19/7433713/"
  },
  {
   "balance_risk": false,
@@ -3391,6 +3755,20 @@
   "balance_risk": false,
   "date_published": "2023-12-20",
   "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Суд у Колорадо заборонив Трампу брати участь у президентських виборах",
+  "url": "https://www.pravda.com.ua/news/2023/12/20/7433793/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-20",
+  "fc": 0,
   "nc": 1,
   "oc": 0,
   "official_focus": false,
@@ -3414,6 +3792,34 @@
   "sources_json": "",
   "title": "ООН в оновленій резолюції засудила порушення прав людини і викрадення дітей на окупованих територіях",
   "url": "https://www.pravda.com.ua/news/2023/12/20/7433795/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-20",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "У Празі суд підтвердив вирок найманцю, який з 2014 року воював проти України на Донеччині",
+  "url": "https://www.pravda.com.ua/news/2023/12/20/7433798/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-20",
+  "fc": 0,
+  "nc": 3,
+  "oc": 4,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 7,
+  "sources_json": "Утім з них лише 8%::non_official | Взагалі не::non_official | Президент Володимир Зеленський на підсумковій річній пресконференції 19 грудня 2023 року::ukrainian_official | Загалом, у КМІС::non_official | Головнокомандувач ЗСУ Валерій Залужний в інтерв'ю The Economist::ukrainian_official | У свою чергу президент Володимир Зеленський::ukrainian_official | Зеленський в інтерв’ю таблоїду The Sun::ukrainian_official",
+  "title": "Переважна більшість українців виступають проти відставки Залужного – опитування",
+  "url": "https://www.pravda.com.ua/news/2023/12/20/7433829/"
  },
  {
   "balance_risk": false,
@@ -3544,6 +3950,20 @@
  {
   "balance_risk": false,
   "date_published": "2023-12-21",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "У близького соратника Зеленського знайшли громадянство РФ і бізнес у Криму – \"Схеми\"",
+  "url": "https://www.pravda.com.ua/news/2023/12/21/7433967/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-21",
   "fc": 1,
   "nc": 3,
   "oc": 0,
@@ -3610,6 +4030,34 @@
   "sources_json": "Одна особа загинула, усіх інших перевезено до лікарні\"::non_official",
   "title": "У Польщі потрапив в ДТП український мікроавтобус з пасажирами, одна людина загинула",
   "url": "https://www.pravda.com.ua/news/2023/12/21/7434003/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-21",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Міноборони попередило про фейк щодо \"американського громадянства\" дітей Умєрова",
+  "url": "https://www.pravda.com.ua/news/2023/12/21/7434009/"
+ },
+ {
+  "balance_risk": true,
+  "date_published": "2023-12-21",
+  "fc": 0,
+  "nc": 0,
+  "oc": 3,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 4,
+  "sources_json": "Міністр оборони Рустем Умєров::ukrainian_official | Умєрова::ukrainian_official | Також, як::unknown | До цього Умєров::ukrainian_official",
+  "title": "Умєров заявив, що в майбутньому військові мають знати, коли демобілізуються",
+  "url": "https://www.pravda.com.ua/news/2023/12/21/7434015/"
  },
  {
   "balance_risk": false,
@@ -3736,6 +4184,20 @@
   "sources_json": "Пізніше керівник поліції Мартін Вондрашек::ukrainian_official | Кондрашека::non_official | ж стосується обставин загибелі Козака, керівник поліцїі Чехії::non_official | Голова МВС Чехії Віт Ракушан раніше::foreign_official",
   "title": "Стрільцем у Празі виявився студент, який, імовірно, наклав на себе руки",
   "url": "https://www.pravda.com.ua/news/2023/12/21/7434101/"
+ },
+ {
+  "balance_risk": true,
+  "date_published": "2023-12-21",
+  "fc": 0,
+  "nc": 0,
+  "oc": 1,
+  "official_focus": true,
+  "parket": true,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "У коментарі \"Схемам\" президент \"Енергоатома\"::ukrainian_official",
+  "title": "Теща президента \"Енергоатома\" Котіна придбала будинок за 7 млн під час війни – \"Схеми\"",
+  "url": "https://www.pravda.com.ua/news/2023/12/21/7434107/"
  },
  {
   "balance_risk": false,
@@ -4245,6 +4707,20 @@
   "balance_risk": false,
   "date_published": "2023-12-25",
   "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Кабмін вніс в Раду законопроєкт про відповідальність за порушення лобіювання",
+  "url": "https://www.pravda.com.ua/news/2023/12/25/7434559/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-25",
+  "fc": 0,
   "nc": 1,
   "oc": 1,
   "official_focus": true,
@@ -4324,6 +4800,20 @@
   "sources_json": "",
   "title": "Повітряні сили збили дві російські ракети, які йшли на Дніпро",
   "url": "https://www.pravda.com.ua/news/2023/12/26/7434674/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-26",
+  "fc": 0,
+  "nc": 1,
+  "oc": 3,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 4,
+  "sources_json": "Президент Володимир Зеленський::ukrainian_official | Деталі: Як::non_official | Зеленський::ukrainian_official | Водночас Головнокомандувач ЗСУ Валерій Залужний::ukrainian_official",
+  "title": "Зеленський вважає  публічне обговорення законопроекту про мобілізацію правильним",
+  "url": "https://www.pravda.com.ua/news/2023/12/26/7434699/"
  },
  {
   "balance_risk": false,
@@ -4555,6 +5045,20 @@
   "fc": 0,
   "nc": 0,
   "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Тарнавський: Близько 20 окупантів здалися в полон на Таврійському напрямку",
+  "url": "https://www.pravda.com.ua/news/2023/12/28/7434909/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-28",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
   "official_focus": false,
   "parket": false,
   "rubric": "news",
@@ -4623,6 +5127,20 @@
   "balance_risk": false,
   "date_published": "2023-12-28",
   "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "ОГП у результаті обстрілу села загинуло двоє рибалок::non_official",
+  "title": "Росіяни вдарили по селу та місту в Запорізькій області: троє загиблих",
+  "url": "https://www.pravda.com.ua/news/2023/12/28/7434961/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-28",
+  "fc": 0,
   "nc": 0,
   "oc": 0,
   "official_focus": false,
@@ -4679,6 +5197,20 @@
   "balance_risk": false,
   "date_published": "2023-12-29",
   "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "У Росії кажуть, що збили безпілотник над Курською областю",
+  "url": "https://www.pravda.com.ua/news/2023/12/29/7435019/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-29",
+  "fc": 0,
   "nc": 1,
   "oc": 0,
   "official_focus": false,
@@ -4688,6 +5220,20 @@
   "sources_json": "Садовий::non_official",
   "title": "Львівщину атакували більше 10 \"Шахедів\", є влучання – Садовий",
   "url": "https://www.pravda.com.ua/news/2023/12/29/7435021/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-29",
+  "fc": 0,
+  "nc": 0,
+  "oc": 1,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Повітряні сили::ukrainian_official",
+  "title": "Тривога по всій країні: зафіксовано пуски крилатих ракет",
+  "url": "https://www.pravda.com.ua/news/2023/12/29/7435022/"
  },
  {
   "balance_risk": true,
@@ -4844,6 +5390,20 @@
   "url": "https://www.pravda.com.ua/news/2023/12/29/7435108/"
  },
  {
+  "balance_risk": true,
+  "date_published": "2023-12-29",
+  "fc": 0,
+  "nc": 0,
+  "oc": 1,
+  "official_focus": true,
+  "parket": true,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Повітряних сил::ukrainian_official",
+  "title": "Масований удар РФ 29 грудня: кількість загиблих зросла до 26 людей – ОП",
+  "url": "https://www.pravda.com.ua/news/2023/12/29/7435111/"
+ },
+ {
   "balance_risk": false,
   "date_published": "2023-12-29",
   "fc": 0,
@@ -4856,6 +5416,20 @@
   "sources_json": "Повітряних сил::ukrainian_official",
   "title": "Кількість загиблих від ракетного удару в Запоріжжі зросла до 8 осіб",
   "url": "https://www.pravda.com.ua/news/2023/12/29/7435115/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-29",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "ОГП::non_official",
+  "title": "СБУ і поліція викрили мережу шахрайських кол-центрів з мільярдним обігом",
+  "url": "https://www.pravda.com.ua/news/2023/12/29/7435127/"
  },
  {
   "balance_risk": false,
@@ -5136,6 +5710,20 @@
   "sources_json": "Харківська обласна прокуратура::ukrainian_official | Співрозмовник УП у спецслужбах::non_official",
   "title": "\"Маячня\": Міноборони РФ заявило, що ударом по готелю Харкова знищило розвідників. ГУР прокоментувало",
   "url": "https://www.pravda.com.ua/news/2023/12/31/7435305/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-12-31",
+  "fc": 0,
+  "nc": 4,
+  "oc": 2,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 6,
+  "sources_json": "Деталі: О 13:30 повітряники::non_official | Оновлено: \"Суспільне\"::non_official | О 13:44 Повітряні сили::ukrainian_official | ЗМІ::non_official | О 13:54 очільник Кіровоградської ОВА Андрій Райкович::ukrainian_official | Повітряники::non_official",
+  "title": "В Україні лунала тривога через ракетну атаку, ЗМІ повідомляли про вибухи в двох містах",
+  "url": "https://www.pravda.com.ua/news/2023/12/31/7435316/"
  },
  {
   "balance_risk": false,

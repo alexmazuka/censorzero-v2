@@ -155,6 +155,20 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2025-12-02",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-ato",
+  "sc": 1,
+  "sources_json": "Тож, як::non_official",
+  "title": "Правовий фронт: протистояння російському беззаконню триває",
+  "url": "https://www.ukrinform.ua/rubric-ato/4065319-protistoanna-rosijskomu-bezzakonnu-trivae.html"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2025-12-03",
   "fc": 0,
   "nc": 2,
@@ -253,6 +267,48 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2025-12-04",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-ato",
+  "sc": 2,
+  "sources_json": "це АТЕШ::unknown | АТЕШ::non_official",
+  "title": "Партизани розвідали центр зв'язку Чорноморського флоту РФ у Сімферополі",
+  "url": "https://www.ukrinform.ua/rubric-ato/4066080-partizani-rozvidali-centr-zvazku-cornomorskogo-flotu-rf-u-simferopoli.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-12-04",
+  "fc": 0,
+  "nc": 2,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-ato",
+  "sc": 4,
+  "sources_json": "Brave1 Market під час спеціалізованого заходу Brave1 Components::non_official | Система е-балів::non_official | Федоров::ukrainian_official | Перший віцепрем’єр-міністр::ukrainian_official",
+  "title": "Військові зможуть купувати необхідні комплектуючі за «бойові бали» - Федоров",
+  "url": "https://www.ukrinform.ua/rubric-ato/4066132-vijskovi-zmozut-kupuvati-neobhidni-komplektuuci-za-bojovi-bali-fedorov.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-12-05",
+  "fc": 0,
+  "nc": 1,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-ato",
+  "sc": 2,
+  "sources_json": "передає Укрінформ, про це в Телеграмі::non_official | Генштаб::ukrainian_official",
+  "title": "Сили оборони уразили Темрюцький морський порт та Сизранський НПЗ - Генштаб",
+  "url": "https://www.ukrinform.ua/rubric-ato/4066403-sili-oboroni-urazili-temruckij-morskij-port-ta-sizranskij-npz-genstab.html"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2025-12-05",
   "fc": 0,
   "nc": 2,
@@ -278,6 +334,20 @@
   "sources_json": "передає Укрінформ, про це Повітряні сили Збройних сил України::ukrainian_official | Повітряні сили Збройних сил України повідомляють у Телеграмі::ukrainian_official",
   "title": "Сили ППО знешкодили 585 російських дронів і 30 ракет",
   "url": "https://www.ukrinform.ua/rubric-ato/4066669-sili-ppo-zneskodili-585-rosijskih-droniv-i-30-raket.html"
+ },
+ {
+  "balance_risk": true,
+  "date_published": "2025-12-06",
+  "fc": 0,
+  "nc": 0,
+  "oc": 1,
+  "official_focus": true,
+  "parket": true,
+  "rubric": "rubric-ato",
+  "sc": 1,
+  "sources_json": "ГУР повідомило у Фейсбуці та показало відео бойової роботи::ukrainian_official",
+  "title": "Воїни ГУР знищили в Запорізькій області російський ЗРК «Бук-М3»",
+  "url": "https://www.ukrinform.ua/rubric-ato/4066744-voini-gur-znisili-v-zaporizkij-oblasti-rosijskij-zrk-bukm3.html"
  },
  {
   "balance_risk": false,
@@ -546,6 +616,20 @@
   "url": "https://www.ukrinform.ua/rubric-economy/4064904-ukraina-u-listopadi-eksportuvala-5-mln-t-agroprodukcii-ukab.html"
  },
  {
+  "balance_risk": true,
+  "date_published": "2025-12-01",
+  "fc": 0,
+  "nc": 0,
+  "oc": 3,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-economy",
+  "sc": 3,
+  "sources_json": "Міністерство фінансів , передає Укрінформ::ukrainian_official | Мінфіну::ukrainian_official | Мінфін::ukrainian_official",
+  "title": "Інвестиції населення та бізнесу в ОВДП за рік зросли майже на 30% - Мінфін",
+  "url": "https://www.ukrinform.ua/rubric-economy/4064950-investicii-naselenna-ta-biznesu-v-ovdp-za-rik-zrosli-majze-na-30-minfin.html"
+ },
+ {
   "balance_risk": false,
   "date_published": "2025-12-01",
   "fc": 4,
@@ -558,6 +642,20 @@
   "sources_json": "передає Укрінформ, про це::non_official | Фон дер Ляєн::foreign_official | Вона::non_official | України та забезпечує необхідні гарантії безпеки\"::non_official | Фон дер Ляєн також::foreign_official | Ми зміцнюємо обороноздатність України як частину нашої власної\"::non_official | повідомлялося, раніше Європарламент::foreign_official | Висока представниця ЄС із закордонних справ і політики безпеки Кая Каллас::foreign_official",
   "title": "Єврокомісія цього тижня представить пропозиції щодо фінансування України",
   "url": "https://www.ukrinform.ua/rubric-economy/4064953-evrokomisia-cogo-tizna-predstavit-propozicii-sodo-finansuvanna-ukraini.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-12-01",
+  "fc": 1,
+  "nc": 4,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-economy",
+  "sc": 5,
+  "sources_json": "Укрінформ з посиланням на Reuters , про це::non_official | Костін::non_official | Росія відповість на такі дії, конфіскувавши майно європейських інвесторів у Росії й::non_official | Має бути домовленість”::non_official | ЄС щодо підтримки України коштом російських заморожених активів , про що::foreign_official",
+  "title": "Росія погрожує кроками у відповідь, якщо її європейські заморожені активи конфіскують",
+  "url": "https://www.ukrinform.ua/rubric-economy/4065008-rosia-pogrozue-krokami-u-vidpovid-akso-ii-evropejski-zamorozeni-aktivi-konfiskuut.html"
  },
  {
   "balance_risk": false,
@@ -731,6 +829,20 @@
   "balance_risk": false,
   "date_published": "2025-12-04",
   "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-economy",
+  "sc": 1,
+  "sources_json": "це йдеться у висновках Рахункової палати за результатами аудиту::unknown",
+  "title": "Рахункова палата під час аудиту виявила недоліки програм державної підтримки аграріїв",
+  "url": "https://www.ukrinform.ua/rubric-economy/4066121-rahunkova-palata-pid-cas-auditu-viavila-nedoliki-program-derzavnoi-pidtrimki-agrariiv.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-12-04",
+  "fc": 0,
   "nc": 2,
   "oc": 1,
   "official_focus": true,
@@ -768,6 +880,20 @@
   "sources_json": "Перезавантаження страхового ринку»::non_official",
   "title": "Голова Нацбанку анонсував підготовку нового законопроєкту про страхування воєнних ризиків",
   "url": "https://www.ukrinform.ua/rubric-economy/4066189-golova-nacbanku-anonsuvav-pidgotovku-novogo-zakonoproektu-pro-strahuvanna-voennih-rizikiv.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-12-05",
+  "fc": 0,
+  "nc": 3,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-economy",
+  "sc": 3,
+  "sources_json": "передає Укрінформ, про це::non_official | UCAB::non_official | УКАБ::non_official",
+  "title": "Надходження з експорту українських рослинних олій стабільно перевищує $5,6 мільярда - УКАБ",
+  "url": "https://www.ukrinform.ua/rubric-economy/4066349-nadhodzenna-z-eksportu-ukrainskih-roslinnih-olij-stabilno-perevisue-56-milarda-ukab.html"
  },
  {
   "balance_risk": false,
@@ -997,6 +1123,20 @@
   "balance_risk": false,
   "date_published": "2025-12-10",
   "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-economy",
+  "sc": 2,
+  "sources_json": "Bloomberg з посиланням на власні джерела, передає Укрінформ::non_official | Bloomberg::non_official",
+  "title": "Великі індійські НПЗ почали скуповувати російську нафту - Bloomberg",
+  "url": "https://www.ukrinform.ua/rubric-economy/4068023-veliki-indijski-npz-pocali-skupovuvati-rosijsku-naftu-bloomberg.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-12-10",
+  "fc": 0,
   "nc": 3,
   "oc": 1,
   "official_focus": true,
@@ -1219,6 +1359,20 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2025-12-15",
+  "fc": 0,
+  "nc": 4,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-economy",
+  "sc": 4,
+  "sources_json": "Соболев у понеділок на спільному брифінгу з міністеркою економіки ФРН Катериною Райхе::non_official | Україні»::non_official | З іншого боку::non_official | Соболев::non_official",
+  "title": "Механізм Ukraine Connect сприятиме діяльності німецьких компаній в Україні - Соболев",
+  "url": "https://www.ukrinform.ua/rubric-economy/4069893-mehanizm-ukraine-connect-spriatime-dialnosti-nimeckih-kompanij-v-ukraini-sobolev.html"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2025-12-01",
   "fc": 0,
   "nc": 1,
@@ -1276,6 +1430,20 @@
  {
   "balance_risk": false,
   "date_published": "2025-12-01",
+  "fc": 0,
+  "nc": 1,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-polytics",
+  "sc": 3,
+  "sources_json": "Глава держави::ukrainian_official | України»::non_official | Президент Володимир Зеленський звільнив Єрмака , який раніше::ukrainian_official",
+  "title": "Зеленський про відставку Єрмака: Я приймаю рішення, сфокусовані на зміцнення України",
+  "url": "https://www.ukrinform.ua/rubric-polytics/4064921-zelenskij-pro-vidstavku-ermaka-a-prijmau-risenna-sfokusovani-na-zmicnenna-ukraini.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-12-01",
   "fc": 1,
   "nc": 3,
   "oc": 1,
@@ -1286,6 +1454,20 @@
   "sources_json": "Я думаю, адміністрація налаштована дуже оптимістично»::non_official | Вона::non_official | Секретар РНБО України Рустем Умєров::ukrainian_official | Держсекретар США Марко Рубіо назвав продуктивною зустріч у Флориді, однак::non_official | Білий дім::foreign_official",
   "title": "Адміністрація США налаштована дуже оптимістично щодо переговорів про мир в Україні - Білий дім",
   "url": "https://www.ukrinform.ua/rubric-polytics/4064985-administracia-ssa-nalastovana-duze-optimisticno-sodo-peregovoriv-pro-mir-v-ukraini-bilij-dim.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-12-02",
+  "fc": 0,
+  "nc": 3,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-polytics",
+  "sc": 3,
+  "sources_json": "На цьому::non_official | Організації Об'єднаних Націй 2007 року щодо прав корінних народів»::non_official | Джемілєв::non_official",
+  "title": "Корінним народам важливо бути повноправними суб'єктами держполітики після деокупації - Джемілєв",
+  "url": "https://www.ukrinform.ua/rubric-polytics/4065137-korinnim-narodam-vazlivo-buti-povnopravnimi-subektami-derzpolitiki-pisla-deokupacii-dzemilev.html"
  },
  {
   "balance_risk": false,
@@ -1794,6 +1976,20 @@
  {
   "balance_risk": false,
   "date_published": "2025-12-11",
+  "fc": 0,
+  "nc": 1,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-polytics",
+  "sc": 4,
+  "sources_json": "це Президент Володимир Зеленський::ukrainian_official | Він::non_official | Це впливає на всю дипломатичну конструкцію\"::unknown | Зеленський::ukrainian_official",
+  "title": "Відповідь на питання щодо територій має надати народ України у форматі виборів чи референдуму - Зеленський",
+  "url": "https://www.ukrinform.ua/rubric-polytics/4068672-vidpovid-na-pitanna-sodo-teritorij-mae-nadati-narod-ukraini-u-formati-viboriv-ci-referendumu-zelenskij.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-12-11",
   "fc": 1,
   "nc": 1,
   "oc": 3,
@@ -2002,6 +2198,20 @@
   "url": "https://www.ukrinform.ua/rubric-regions/4064649-rosiani-minuloi-dobi-poranili-odnogo-zitela-doneccini.html"
  },
  {
+  "balance_risk": true,
+  "date_published": "2025-12-01",
+  "fc": 0,
+  "nc": 0,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-regions",
+  "sc": 2,
+  "sources_json": "Полтавська обласна прокуратура у Фейсбуці , передає Укрінформ::ukrainian_official | У поліції Полтавської області::ukrainian_official",
+  "title": "Загинули дві 17-річні сестри: поліцейського підозрюють у скоєнні ДТП на Полтавщині",
+  "url": "https://www.ukrinform.ua/rubric-regions/4064659-zaginuli-dvi-17ricni-sestri-policejskogo-pidozruut-u-skoenni-dtp-na-poltavsini.html"
+ },
+ {
   "balance_risk": false,
   "date_published": "2025-12-01",
   "fc": 0,
@@ -2112,6 +2322,34 @@
   "sources_json": "це у Телеграмі::unknown | Також посадовець::unknown",
   "title": "Львівщина передала військовим 47 одиниць техніки",
   "url": "https://www.ukrinform.ua/rubric-regions/4065025-lvivsina-peredala-vijskovim-47-odinic-tehniki.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-12-02",
+  "fc": 0,
+  "nc": 3,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-regions",
+  "sc": 3,
+  "sources_json": "Атакувавши місто, росіяни вбили 4 мешканців”::non_official | Загалом їх 45::non_official | При цьому Гайваненко::non_official",
+  "title": "Удар балістикою по Дніпру: кількість постраждалих зросла до 45, четверо загиблих",
+  "url": "https://www.ukrinform.ua/rubric-regions/4065042-udar-balistikou-po-dnipru-kilkist-postrazdalih-zrosla-do-45-cetvero-zagiblih.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-12-02",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-regions",
+  "sc": 1,
+  "sources_json": "це у Телеграмі::unknown",
+  "title": "У Маріуполі почали монтувати ялинку біля Драмтеатру - місця масової загибелі цивільних",
+  "url": "https://www.ukrinform.ua/rubric-regions/4065173-u-mariupoli-pocali-montuvati-alinku-bila-dramteatru-misca-masovoi-zagibeli-civilnih.html"
  },
  {
   "balance_risk": false,
@@ -2448,6 +2686,20 @@
   "sources_json": "передає Укрінформ, про це::non_official | У Міжнародний день волонтера Президент України Володимир Зеленський::ukrainian_official | Золоте серце» волонтера з Херсона Павла Матвійця (посмертно)»::non_official",
   "title": "Волонтера з Херсона посмертно нагородили відзнакою «Золоте серце»",
   "url": "https://www.ukrinform.ua/rubric-regions/4066586-volontera-z-hersona-posmertno-nagorodili-vidznakou-zolote-serce.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-12-06",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-regions",
+  "sc": 1,
+  "sources_json": "Бережіть себе та близьких\"::non_official",
+  "title": "У Дніпрі прогриміли вибухи - місто під ворожою атакою",
+  "url": "https://www.ukrinform.ua/rubric-regions/4066617-u-dnipri-progrimili-vibuhi-misto-pid-vorozou-atakou.html"
  },
  {
   "balance_risk": false,
@@ -2857,6 +3109,20 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2025-12-10",
+  "fc": 0,
+  "nc": 3,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-regions",
+  "sc": 3,
+  "sources_json": "пожежу::non_official | Просимо святих молитов\"::non_official | Вона::non_official",
+  "title": "На Закарпатті горить монастир московського патріархату",
+  "url": "https://www.ukrinform.ua/rubric-regions/4068282-na-zakarpatti-gorit-monastir-moskovskogo-patriarhatu.html"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2025-12-11",
   "fc": 0,
   "nc": 2,
@@ -3140,6 +3406,20 @@
   "date_published": "2025-12-14",
   "fc": 0,
   "nc": 1,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-regions",
+  "sc": 2,
+  "sources_json": "Національна поліція Запорізької області у Телеграмі , передає Укрінформ::ukrainian_official | На місцях подій продовжують працювати поліцейські та інші відповідні служби»::non_official",
+  "title": "У Запоріжжі кількість постраждалих внаслідок атак зросла до 11",
+  "url": "https://www.ukrinform.ua/rubric-regions/4069539-u-zaporizzi-kilkist-postrazdalih-vnaslidok-atak-zrosla-do-11.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-12-14",
+  "fc": 0,
+  "nc": 1,
   "oc": 0,
   "official_focus": true,
   "parket": false,
@@ -3162,6 +3442,20 @@
   "sources_json": "це у Телеграмі::unknown",
   "title": "Військові РФ дронами атакували авто та будинок на Сумщині, поранено цивільного",
   "url": "https://www.ukrinform.ua/rubric-regions/4069644-vijskovi-rf-dronami-atakuvali-avto-ta-budinok-na-sumsini-poraneno-civilnogo.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-12-15",
+  "fc": 0,
+  "nc": 1,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-regions",
+  "sc": 2,
+  "sources_json": "Укрінформ, про це голова Херсонської обласної державної адміністрації Олександр Прокудін::ukrainian_official | Через російську агресію шестеро людей дістали поранення::non_official",
+  "title": "На Херсонщині через російські атаки поранені шестеро цивільних",
+  "url": "https://www.ukrinform.ua/rubric-regions/4069676-na-hersonsini-cerez-rosijski-ataki-poraneni-sestero-civilnih.html"
  },
  {
   "balance_risk": false,
@@ -3302,6 +3596,20 @@
   "sources_json": "Церемонія відбулася у пункті незламності на Центральному залізничному вокзалі у Києві::non_official | МОМ»::non_official | Швеції, МОМ, державними органами України та українським громадянським суспільством»::non_official",
   "title": "В Україні відкрили інсталяцію до Міжнародного дня боротьби за скасування рабства",
   "url": "https://www.ukrinform.ua/rubric-society/4065284-v-ukraini-vidkrili-instalaciu-do-miznarodnogo-dna-borotbi-za-skasuvanna-rabstva.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-12-02",
+  "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-society",
+  "sc": 6,
+  "sources_json": "Там, абсолютно, навіть ніс, губи – вони не схожі»::unknown | Крім того, свідок::non_official | Також свідок::unknown | Потім вона пішла в квартиру (суддя::unknown | Також під час засідання обвинувачений Зінченко::unknown | повідомляв Укрінформ, новий свідок у справі Фаріон::non_official",
+  "title": "Ще один свідок у справі Фаріон заявив, що Зінченко не схожий на її вбивцю",
+  "url": "https://www.ukrinform.ua/rubric-society/4065314-se-odin-svidok-u-spravi-pro-vbivstvo-farion-zaaviv-so-zincenko-ne-shozij-na-ii-vbivcu.html"
  },
  {
   "balance_risk": false,
@@ -3459,6 +3767,34 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2025-12-04",
+  "fc": 0,
+  "nc": 6,
+  "oc": 2,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-society",
+  "sc": 8,
+  "sources_json": "Посол Швейцарії в Україні Фелікс Бауманн::non_official | Він також::non_official | Заступник міністра освіти і науки Дмитро Завгородній::ukrainian_official | Він::non_official | України\"::non_official | Зі свого боку голова Київської ОВА Микола Калашник::ukrainian_official | Водночас він::non_official | Дійсно, у країні війна і ми маємо перелаштовуватися з урахування викликів\"::non_official",
+  "title": "У Броварському коледжі відкрили сучасний профорієнтаційний хаб",
+  "url": "https://www.ukrinform.ua/rubric-society/4066177-u-brovarskomu-koledzi-vidkrili-sucasnij-proforientacijnij-hab.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-12-04",
+  "fc": 0,
+  "nc": 1,
+  "oc": 3,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-society",
+  "sc": 4,
+  "sources_json": "це Ляшко::ukrainian_official | Ляшко::ukrainian_official | Міністерством фінансів доопрацьовуємо останні штрихи, і уряд зафіксує чітку суму»::ukrainian_official | Він::non_official",
+  "title": "«Скринінг здоров’я 40+»: у МОЗ пояснили, як запускатимуть програму",
+  "url": "https://www.ukrinform.ua/rubric-society/4066219-skriningu-zdorova-40-u-moz-poasnili-ak-zapuskatimut-programu.html"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2025-12-05",
   "fc": 0,
   "nc": 0,
@@ -3554,6 +3890,20 @@
   "sources_json": "Для екстреної медичної допомоги така ж сама заробітна плата::non_official | Він також::non_official | Ляшко::ukrainian_official",
   "title": "МОЗ переглядатиме капітаційну ставку для первинної медичної допомоги - Ляшко",
   "url": "https://www.ukrinform.ua/rubric-society/4066806-moz-peregladatime-kapitacijnu-stavku-dla-pervinnoi-medicnoi-dopomogi-lasko.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-12-07",
+  "fc": 0,
+  "nc": 2,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-society",
+  "sc": 4,
+  "sources_json": "Він::non_official | Голова ГУР::ukrainian_official | Буданов також::ukrainian_official | Бога»::non_official",
+  "title": "У Києві вшосте вручили премію «Золоті руки»",
+  "url": "https://www.ukrinform.ua/rubric-society/4066930-u-kievi-vsoste-vrucili-premiu-zoloti-ruki.html"
  },
  {
   "balance_risk": false,
@@ -4069,6 +4419,20 @@
   "parket": false,
   "rubric": "rubric-world",
   "sc": 1,
+  "sources_json": "передає Укрінформ, про це аеропорт::non_official",
+  "title": "Аеропорт Вільнюса відновив роботу після 11 годин перерви",
+  "url": "https://www.ukrinform.ua/rubric-world/4064703-aeroport-vilnusa-vidnoviv-robotu-pisla-11-godin-perervi.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-12-01",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 1,
   "sources_json": "Інтернеті»::non_official",
   "title": "Оксфордський словник назвав слово 2025 року",
   "url": "https://www.ukrinform.ua/rubric-world/4064787-oksfordskij-slovnik-nazvav-slovo-2025-roku.html"
@@ -4173,6 +4537,20 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2025-12-01",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 1,
+  "sources_json": "Вона::non_official",
+  "title": "100 днів ізоляції: ESA запускає «симулятор космічної станції» в Німеччині",
+  "url": "https://www.ukrinform.ua/rubric-world/4064960-100-dniv-izolacii-esa-zapuskae-simulator-kosmicnoi-stancii-v-nimeccini.html"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2025-12-02",
   "fc": 0,
   "nc": 1,
@@ -4217,6 +4595,20 @@
   "balance_risk": false,
   "date_published": "2025-12-02",
   "fc": 0,
+  "nc": 3,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 3,
+  "sources_json": "передає Укрінформ, про це::non_official | Yle::non_official | У суді студент::non_official",
+  "title": "У Фінляндії ще двом особам висунули обвинувачення за порушення санкцій проти Росії",
+  "url": "https://www.ukrinform.ua/rubric-world/4065098-u-finlandii-se-dvom-osobam-visunuli-obvinuvacenna-za-porusenna-sankcij-proti-rosii.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-12-02",
+  "fc": 0,
   "nc": 0,
   "oc": 0,
   "official_focus": false,
@@ -4240,6 +4632,20 @@
   "sources_json": "Якщо такого слова немає, то цей лист — лише порожні слова”::non_official | Кейзер::non_official | Хоча дві третини українців працюють і торік вони::non_official",
   "title": "Уряд Нідерландів має намір закрити центри для біженців з України у 2027 році",
   "url": "https://www.ukrinform.ua/rubric-world/4065259-urad-niderlandiv-rozgladae-mozlivist-zakritta-centriv-dla-bizenciv-z-ukraini-u-2027-roci.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-12-02",
+  "fc": 1,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 3,
+  "sources_json": "Шойгу представив позицію та міркування Росії і::non_official | Ван Ї, своєю чергою, підтвердив послідовну позицію Китаю та::non_official | повідомляв Укрінформ , речниця МЗС КНР Мао Нін на брифінгу 28 листопада::foreign_official",
+  "title": "Шойгу зустрівся в главою МЗС Китаю і заявив, що Росія здатна досягти цілей та усунути «першопричини» війни",
+  "url": "https://www.ukrinform.ua/rubric-world/4065340-sojgu-zustrivsa-v-glavou-mzs-kitau-i-zaaviv-so-rosia-zdatna-dosagti-cilej-ta-usunuti-persopricini-vijni.html"
  },
  {
   "balance_risk": false,
@@ -4268,6 +4674,34 @@
   "sources_json": "передає Укрінформ, про це::non_official | CBS News з посиланням на внутрішні інструкції Служби громадянства та імміграції С::non_official",
   "title": "США зупинили розгляд усіх імміграційних справ щодо громадян 19 країн",
   "url": "https://www.ukrinform.ua/rubric-world/4065408-ssa-zupinili-rozglad-usih-immigracijnih-sprav-sodo-gromadan-19-krain.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-12-03",
+  "fc": 0,
+  "nc": 4,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 4,
+  "sources_json": "BBC , передає Укрінформ::non_official | атаку на нафтобазу у Тамбовської області РФ::non_official | BBC::non_official | Губернатор Олександр Гусєв::non_official",
+  "title": "У Росії заявили про атаку більш як 100 дронів - є влучання у нафтобази в Тамбовській і Воронезькій областях",
+  "url": "https://www.ukrinform.ua/rubric-world/4065455-u-rosii-zaavili-pro-ataku-bils-ak-100-droniv-e-vlucanna-u-naftobazi-v-tambovskij-i-voronezkij-oblastah.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-12-03",
+  "fc": 0,
+  "nc": 3,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 3,
+  "sources_json": "Ми підтримуємо це і, звичайно, дуже серйозно ставимося до занепокоєнь Бельгії»::non_official | Німеччина готова, і ми заохочуємо всі держави-члени робити те саме»::non_official | Euroclear, де зберігається більшість заморожених активів РФ::non_official",
+  "title": "Вадефуль: Питання використання російських заморожених активів - вирішуване",
+  "url": "https://www.ukrinform.ua/rubric-world/4065503-vadeful-pitanna-vikoristanna-rosijskih-zamorozenih-aktiviv-virisuvane.html"
  },
  {
   "balance_risk": false,
@@ -4481,6 +4915,20 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2025-12-05",
+  "fc": 0,
+  "nc": 5,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 5,
+  "sources_json": "передає Укрінформ, про це::non_official | Yonhap::non_official | У компанії::non_official | Автовиробник::non_official | Kia::non_official",
+  "title": "Kia представила футуристичний концепт автомобіля",
+  "url": "https://www.ukrinform.ua/rubric-world/4066585-kia-predstavila-futuristicnij-koncept-avtomobila.html"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2025-12-06",
   "fc": 0,
   "nc": 1,
@@ -4660,6 +5108,20 @@
   "sources_json": "Yonhap , передає Укрінформ::non_official | В Об’єднаному комітеті начальників штабів Південної Кореї::non_official | KADIZ відповідно до міжнародного права»::non_official",
   "title": "Сеул висловив протест Китаю та Росії через проліт їх військових літаків у корейській зоні ППО",
   "url": "https://www.ukrinform.ua/rubric-world/4067973-seul-visloviv-protest-kitau-ta-rosii-cerez-prolit-ih-vijskovih-litakiv-u-korejskij-zoni-ppo.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-12-10",
+  "fc": 1,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 2,
+  "sources_json": "Він::non_official | Міністр оборони Латвії::foreign_official",
+  "title": "Латвія інвестує в розвиток ППО та безпілотників наступного року €250 мільйонів",
+  "url": "https://www.ukrinform.ua/rubric-world/4068014-latvia-investue-v-rozvitok-ppo-ta-bezpilotnikiv-nastupnogo-roku-250-miljoniv-ministr-oboroni.html"
  },
  {
   "balance_risk": false,
@@ -4926,6 +5388,20 @@
   "sources_json": "Прокурори::non_official | Це загрожує здатності Орегону конкурувати, навчати й розвиватися»::unknown | Генпрокурори::non_official",
   "title": "У США демократичні штати подали позов проти адміністрації Трампа через збір за робочу візу",
   "url": "https://www.ukrinform.ua/rubric-world/4069356-u-ssa-demokraticni-stati-podali-pozov-proti-administracii-trampa-cerez-zbir-za-robocu-vizu.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-12-14",
+  "fc": 2,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 4,
+  "sources_json": "це він::unknown | Трампа::foreign_official | Буде дуже серйозна відплата»::non_official | Речник Пентагону Шон Парнелл::foreign_official",
+  "title": "Трамп пообіцяв серйозну відплату за загибель трьох американців унаслідок нападу в Сирії",
+  "url": "https://www.ukrinform.ua/rubric-world/4069404-tramp-poobicav-serjoznu-vidplatu-za-zagibel-troh-amerikanciv-unaslidok-napadu-v-sirii.html"
  },
  {
   "balance_risk": false,

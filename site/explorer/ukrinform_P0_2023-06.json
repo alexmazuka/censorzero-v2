@@ -1,5 +1,19 @@
 [
  {
+  "balance_risk": true,
+  "date_published": "2023-06-01",
+  "fc": 0,
+  "nc": 0,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-ato",
+  "sc": 2,
+  "sources_json": "передає Укрінформ, про це Генеральний штаб Збройних сил України::ukrainian_official | Генеральний штаб Збройних сил України повідомляє у Фейсбуці::ukrainian_official",
+  "title": "Сили оборони знищили вже 208 тисяч 370 росіян",
+  "url": "https://www.ukrinform.ua/rubric-ato/3716813-sili-oboroni-znisili-vze-208-tisac-370-rosian.html"
+ },
+ {
   "balance_risk": false,
   "date_published": "2023-06-01",
   "fc": 0,
@@ -40,6 +54,20 @@
   "sources_json": "Лондона змусять британців бути більш сприйнятними до німецьких умов припинення війни»::non_official",
   "title": "Нічні атаки на Київ: соціолог порівняв стратегію росіян з нацистськими бомбардуваннями Лондона",
   "url": "https://www.ukrinform.ua/rubric-ato/3717090-nicni-ataki-na-kiiv-sociolog-porivnav-strategiu-rosian-z-nacistskimi-bombarduvannami-londona.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-01",
+  "fc": 0,
+  "nc": 3,
+  "oc": 3,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-ato",
+  "sc": 6,
+  "sources_json": "це Президент Володимир Зеленський::ukrainian_official | Але мотивація все одно сильніша, тому я впевнений у нашій перемозі”::non_official | Відповідаючи на запитання щодо коаліції “Петріотів”, глава держави::ukrainian_official | Президент::ukrainian_official | Він також::non_official | Сполучених Штатів ми об’єднаємо і зробимо цю коаліцію”::non_official",
+  "title": "Зеленський: Ми збиваємо будь-який тип російських ракет",
+  "url": "https://www.ukrinform.ua/rubric-ato/3717162-zelenskij-mi-zbivaemo-budakij-tip-rosijskih-raket.html"
  },
  {
   "balance_risk": false,
@@ -114,6 +142,20 @@
  {
   "balance_risk": false,
   "date_published": "2023-06-03",
+  "fc": 0,
+  "nc": 1,
+  "oc": 4,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-ato",
+  "sc": 5,
+  "sources_json": "це керівник ОП Андрій Єрмак::ukrainian_official | Офіс Президента»::ukrainian_official | Росії відповідальні за війну в Україні»::non_official | Керівник ОП::ukrainian_official | Єрмак::ukrainian_official",
+  "title": "За війну проти України відповідальні 100% населення Росії - Єрмак",
+  "url": "https://www.ukrinform.ua/rubric-ato/3717667-za-vijnu-proti-ukraini-vidpovidalni-100-naselenna-rosii-ermak.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-03",
   "fc": 2,
   "nc": 3,
   "oc": 0,
@@ -124,6 +166,20 @@
   "sources_json": "передає Укрінформ, про це Резніков::non_official | Резніков написав у Твіттері::non_official | Мав чудову розмову з моїм німецьким колегою, міністром оборони Борисом Пісторіусом»::foreign_official | Резнікова::non_official | Дякую німецькому уряду та народу за незмінну підтримку»::foreign_official",
   "title": "Резніков обговорив з міністром оборони ФРН подальші кроки військової співпраці",
   "url": "https://www.ukrinform.ua/rubric-ato/3717668-reznikov-obgovoriv-z-ministrom-oboroni-frn-podalsi-kroki-vijskovoi-spivpraci.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-03",
+  "fc": 1,
+  "nc": 2,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-ato",
+  "sc": 4,
+  "sources_json": "передає Укрінформ, про це::non_official | Працюємо над відповідною коаліцією»::non_official | повідомлялося, прем’єр-міністр Нідерландів Марк Рютте наприкінці травня::foreign_official | Єрмак::ukrainian_official",
+  "title": "Нідерланди сприятимуть збільшенню кількості Patriot для України - Єрмак",
+  "url": "https://www.ukrinform.ua/rubric-ato/3717888-niderlandi-spriatimut-zbilsennu-kilkosti-patriot-dla-ukraini-ermak.html"
  },
  {
   "balance_risk": false,
@@ -280,6 +336,20 @@
   "url": "https://www.ukrinform.ua/rubric-ato/3718714-sistemi-ppo-zalisautsa-prioritetom-dla-podalsoi-pidtrimki-ukraini-bilij-dim.html"
  },
  {
+  "balance_risk": true,
+  "date_published": "2023-06-05",
+  "fc": 0,
+  "nc": 0,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-ato",
+  "sc": 2,
+  "sources_json": "передає Укрінформ, про це Сумська обласна військова адміністрація::ukrainian_official | Сумська обласна військова адміністрація повідомила в Телеграмі::ukrainian_official",
+  "title": "Росіяни за день 27 разів обстріляли прикордоння Сумщини, зафіксували 94 вибухи",
+  "url": "https://www.ukrinform.ua/rubric-ato/3718716-rosiani-za-den-27-raziv-obstrilali-prikordonna-sumsini-zafiksuvali-94-vibuhi.html"
+ },
+ {
   "balance_risk": false,
   "date_published": "2023-06-06",
   "fc": 0,
@@ -292,6 +362,20 @@
   "sources_json": "",
   "title": "Російські загарбники підірвали Каховську ГЕС - ОК «Південь»",
   "url": "https://www.ukrinform.ua/rubric-ato/3718751-rosijski-zagarbniki-pidirvali-kahovsku-ges-ok-pivden.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-06",
+  "fc": 0,
+  "nc": 1,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-ato",
+  "sc": 3,
+  "sources_json": "України\"::non_official | ГУР::ukrainian_official | Раніше в Офісі генпрокурора::ukrainian_official",
+  "title": "Росіяни підірвали Каховську ГЕС, щоб ускладнити український наступ - розвідка",
+  "url": "https://www.ukrinform.ua/rubric-ato/3718840-rosiani-pidirvali-kahovsku-ges-sob-uskladniti-ukrainskij-nastup-rozvidka.html"
  },
  {
   "balance_risk": false,
@@ -703,6 +787,20 @@
   "balance_risk": false,
   "date_published": "2023-06-09",
   "fc": 0,
+  "nc": 1,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-ato",
+  "sc": 3,
+  "sources_json": "Президент Володимир Зеленський у Телеграмі , передає Укрінформ::ukrainian_official | Кожен і кожна, хто залучений, я хочу вам подякувати»::non_official | Зеленський::ukrainian_official",
+  "title": "Доступ до питної води через підрив Каховської ГЕС ускладнений для сотень тисяч людей – Зеленський",
+  "url": "https://www.ukrinform.ua/rubric-ato/3720523-dostup-do-pitnoi-vodi-cerez-pidriv-kahovskoi-ges-uskladnenij-dla-soten-tisac-ludej-zelenskij.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-09",
+  "fc": 0,
   "nc": 6,
   "oc": 0,
   "official_focus": false,
@@ -868,6 +966,20 @@
   "url": "https://www.ukrinform.ua/rubric-ato/3721273-bezpilotniki-reb-kiberzahist-u-minoboroni-nazvali-najaktualnisi-rozrobki-dla-armii.html"
  },
  {
+  "balance_risk": false,
+  "date_published": "2023-06-11",
+  "fc": 0,
+  "nc": 3,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-ato",
+  "sc": 3,
+  "sources_json": "Щодо подальшого просування українських військ в районі Бахмуту Череватий::non_official | Крок за кроком українська земля звільняється»::non_official | Череватий::non_official",
+  "title": "У районі Бахмута за добу ЗСУ знищили 92 загарбників – Череватий",
+  "url": "https://www.ukrinform.ua/rubric-ato/3721459-u-rajoni-bahmuta-za-dobu-zsu-znisili-92-zagarbnikiv-cerevatij.html"
+ },
+ {
   "balance_risk": true,
   "date_published": "2023-06-12",
   "fc": 0,
@@ -1008,6 +1120,20 @@
   "url": "https://www.ukrinform.ua/rubric-ato/3722138-po-krivomu-rogu-vorog-zastosuvav-raketi-povitranogo-bazuvanna-h101-h555-ignat.html"
  },
  {
+  "balance_risk": true,
+  "date_published": "2023-06-13",
+  "fc": 0,
+  "nc": 0,
+  "oc": 3,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-ato",
+  "sc": 3,
+  "sources_json": "передає Укрінформ, про це Херсонська обласна військова адміністрація::ukrainian_official | Херсонська обласна військова адміністрація повідомляє у Телеграмі::ukrainian_official | ОВА::ukrainian_official",
+  "title": "Ворог обстріляв житлові будинки у Кізомисі на Херсонщині",
+  "url": "https://www.ukrinform.ua/rubric-ato/3722208-vorog-obstrilav-zitlovi-budinki-u-kizomisi-na-hersonsini.html"
+ },
+ {
   "balance_risk": false,
   "date_published": "2023-06-13",
   "fc": 0,
@@ -1108,6 +1234,20 @@
  {
   "balance_risk": false,
   "date_published": "2023-06-14",
+  "fc": 0,
+  "nc": 1,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-ato",
+  "sc": 2,
+  "sources_json": "передає Укрінформ, про це::non_official | Служба безпеки України::ukrainian_official",
+  "title": "У лавах ЗСУ викрили російського агента - хотів здати напрямки українського контрнаступу",
+  "url": "https://www.ukrinform.ua/rubric-ato/3722819-u-lavah-zsu-vikrili-rosijskogo-agenta-hotiv-zdati-napramki-ukrainskogo-kontrnastupu.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-14",
   "fc": 1,
   "nc": 4,
   "oc": 0,
@@ -1132,6 +1272,20 @@
   "sources_json": "передає Укрінформ, про це у Фейсбуці::non_official | Шершень::non_official | Всього протягом доби зафіксовано 559 обстрілів»::non_official | Шершень водночас::non_official | Крім того, Шершень::non_official",
   "title": "У ЗСУ закликають із розумінням ставитися до затримки інформації про події на фронті",
   "url": "https://www.ukrinform.ua/rubric-ato/3722851-u-zsu-zaklikaut-iz-rozuminnam-stavitisa-do-zatrimki-informacii-pro-podii-na-fronti.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-14",
+  "fc": 0,
+  "nc": 2,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-ato",
+  "sc": 4,
+  "sources_json": "Про::unknown | Ми також продовжимо зміцнювати протиповітряну оборону України”::non_official | Нідерланди також вкотре роблять свій внесок у посилення ППО України”::non_official | Міноборони::ukrainian_official",
+  "title": "Нідерланди розпочнуть навчання українських пілотів на F-16 найближчими місяцями - Міноборони",
+  "url": "https://www.ukrinform.ua/rubric-ato/3722870-niderlandi-rozpocnut-navcanna-ukrainskih-pilotiv-na-f16-najblizcimi-misacami-minoboroni.html"
  },
  {
   "balance_risk": false,
@@ -1291,6 +1445,20 @@
   "balance_risk": false,
   "date_published": "2023-06-15",
   "fc": 0,
+  "nc": 1,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-ato",
+  "sc": 3,
+  "sources_json": "передає Укрінформ, про це::non_official | Головне управління розвідки Міністерства охорони України::ukrainian_official | ГУР::ukrainian_official",
+  "title": "Росія перекидає у «добровольчий корпус» залишки зеків зі штурмових рот «z» - ГУР",
+  "url": "https://www.ukrinform.ua/rubric-ato/3723233-rosia-perekidae-u-dobrovolcij-korpus-zaliski-zekiv-zi-sturmovih-rot-z-gur.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-15",
+  "fc": 0,
   "nc": 3,
   "oc": 0,
   "official_focus": false,
@@ -1314,6 +1482,20 @@
   "sources_json": "Генерального штабу Збройних сил України бригадний генерал Олексій Громов::ukrainian_official | Київської, Полтавської, Черкаської, Чернігівської, Сумської та Харківської областей»::non_official | Заступник начальника Головного оперативного управління Генштабу ЗСУ::ukrainian_official | Ічкерії»::non_official | повідомлялося, 12 червня Центр нацспротиву::non_official",
   "title": "У Брянську область перекинули дивізіон ракетного комплексу «Бал» — які регіони України у зоні ризику",
   "url": "https://www.ukrinform.ua/rubric-ato/3723252-u-bransku-oblast-perekinuli-divizion-raketnogo-kompleksu-bal-aki-regioni-ukraini-u-zoni-riziku.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-15",
+  "fc": 0,
+  "nc": 1,
+  "oc": 4,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-ato",
+  "sc": 5,
+  "sources_json": "Генерального штабу Збройних сил України бригадний генерал Олексій Громов::ukrainian_official | Сил оборони України, зазнала незворотних втрат у 70 осіб»::ukrainian_official | Він::non_official | повідомляв Укрінформ, раніше заступниця міністра оборони Ганна Маляр::ukrainian_official | Генштаб::ukrainian_official",
+  "title": "На Бахмутському напрямку росіяни ведуть оборонні бої — Генштаб",
+  "url": "https://www.ukrinform.ua/rubric-ato/3723259-na-bahmutskomu-napramku-rosiani-vedut-oboronni-boi-genstab.html"
  },
  {
   "balance_risk": false,
@@ -1692,6 +1874,20 @@
   "sources_json": "це глава Української держави::unknown",
   "title": "Зеленський відзначив штурмовий підрозділ ГУР «Артан»",
   "url": "https://www.ukrinform.ua/rubric-ato/3725048-zelenskij-vidznaciv-sturmovij-pidrozdil-gur-artan.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-19",
+  "fc": 2,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-ato",
+  "sc": 2,
+  "sources_json": "передає Укрінформ з посиланням на Le Monde , про це президент Франції::foreign_official | Макрона::foreign_official",
+  "title": "Макрон оголосив, що Україна вже отримала протиракетний комплекс SAMP/T",
+  "url": "https://www.ukrinform.ua/rubric-ato/3725060-makron-ogolosiv-so-ukraina-vze-otrimala-protiraketnij-kompleks-sampt.html"
  },
  {
   "balance_risk": false,
@@ -2481,6 +2677,20 @@
   "balance_risk": false,
   "date_published": "2023-06-26",
   "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-ato",
+  "sc": 2,
+  "sources_json": "Укрінформу, про це::non_official | Череватий::non_official",
+  "title": "На Лимано-Куп’янському напрямку за добу ліквідували майже 100 загарбників, понад 150 - поранені",
+  "url": "https://www.ukrinform.ua/rubric-ato/3728024-na-limanokupanskomu-napramku-za-dobu-likviduvali-majze-100-zagarbnikiv-ponad-150-poraneni.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-26",
+  "fc": 0,
   "nc": 1,
   "oc": 2,
   "official_focus": true,
@@ -2560,6 +2770,20 @@
   "sources_json": "Біленьке»::non_official | Краматорська міська рада::non_official | Тому вже згодом буду повідомляти по результатам»::non_official | Він::non_official | Краматорська вже розгорнуто намет Управління з питань цивільного захисту::non_official",
   "title": "У Краматорську російська ракета зруйнувала заклад у центрі міста",
   "url": "https://www.ukrinform.ua/rubric-ato/3728508-u-kramatorsku-rosijska-raketa-zrujnuvala-zaklad-u-centri-mista.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-27",
+  "fc": 1,
+  "nc": 1,
+  "oc": 3,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-ato",
+  "sc": 5,
+  "sources_json": "передає Укрінформ, про це Зеленський::ukrainian_official | Зеленський повідомив у Телеграмі::ukrainian_official | Під час телефонної розмови з Прем’єр-міністром Норвегії Йонасом Гаром Стере::foreign_official | Донеччині та Запоріжжі»::non_official | А ще запросив Прем’єр-міністра до України»::ukrainian_official",
+  "title": "Артилерія для ЗСУ і саміт НАТО: Зеленський провів розмову з прем’єром Норвегії",
+  "url": "https://www.ukrinform.ua/rubric-ato/3728509-artileria-dla-zsu-i-samit-nato-zelenskij-proviv-rozmovu-z-premerom-norvegii.html"
  },
  {
   "balance_risk": false,
@@ -2803,6 +3027,20 @@
   "balance_risk": false,
   "date_published": "2023-06-30",
   "fc": 0,
+  "nc": 3,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-ato",
+  "sc": 3,
+  "sources_json": "передає Укрінформ, про це::non_official | Координаційний штаб з питань поводження з військовополоненими в Телеграмі::non_official | Коордштаб::non_official",
+  "title": "Рідні полонених морпіхів скаржаться на неналежні умови утримання у РФ – Коордштаб",
+  "url": "https://www.ukrinform.ua/rubric-ato/3729577-ridni-polonenih-morpihiv-skarzatsa-na-nenalezni-umovi-utrimanna-u-rf-koordstab.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-30",
+  "fc": 0,
   "nc": 2,
   "oc": 0,
   "official_focus": false,
@@ -2873,6 +3111,20 @@
   "balance_risk": false,
   "date_published": "2023-06-01",
   "fc": 0,
+  "nc": 1,
+  "oc": 3,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-economy",
+  "sc": 4,
+  "sources_json": "передає Укрінформ, про це::non_official | Міністерство енергетики у Телеграмі::ukrainian_official | У міністерстві::ukrainian_official | Міненерго::ukrainian_official",
+  "title": "Енергетична інфраструктура не зазнала нових пошкоджень - Міненерго",
+  "url": "https://www.ukrinform.ua/rubric-economy/3716917-energeticna-infrastruktura-ne-zaznala-novih-poskodzen-minenergo.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-01",
+  "fc": 0,
   "nc": 3,
   "oc": 5,
   "official_focus": true,
@@ -2882,6 +3134,20 @@
   "sources_json": "передає Укрінформ, про це::non_official | ЖОДНИХ податків\"::non_official | Міністр::ukrainian_official | Марченка::ukrainian_official | Міністр також::ukrainian_official | Також очільник Мінфіну::ukrainian_official | повідомлялось, деякі українські ЗМІ 31 травня::non_official | Марченко::ukrainian_official",
   "title": "Волонтери не сплачують податків за товари, які передають ЗСУ - Марченко",
   "url": "https://www.ukrinform.ua/rubric-economy/3717075-volonteri-ne-splacuut-podatkiv-za-tovari-aki-peredaut-zsu-marcenko.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-01",
+  "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-economy",
+  "sc": 3,
+  "sources_json": "це з посиланням на дані провідних світових суднотрекерів Kpler і Vortexa::unknown | Vortexa та Kpler::non_official | Vortexa::non_official",
+  "title": "Китай та Індія у травні отримали рекордні обсяги російської нафти",
+  "url": "https://www.ukrinform.ua/rubric-economy/3717138-kitaj-ta-india-u-travni-otrimali-rekordni-obsagi-rosijskoi-nafti.html"
  },
  {
   "balance_risk": true,
@@ -2938,6 +3204,20 @@
   "sources_json": "передає Укрінформ, про це::non_official",
   "title": "На АЗС знову ростуть ціни на скраплений газ",
   "url": "https://www.ukrinform.ua/rubric-economy/3717562-na-azs-znovu-rostut-cini-na-skraplenij-gaz.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-04",
+  "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-economy",
+  "sc": 2,
+  "sources_json": "передає Укрінформ, про це::non_official | Центр національного спротиву::non_official",
+  "title": "Росіяни розграбовують державні агропідприємства на тимчасово окупованій Херсонщині",
+  "url": "https://www.ukrinform.ua/rubric-economy/3717939-rosiani-rozgrabovuut-derzavni-agropidpriemstva-na-timcasovo-okupovanij-hersonsini.html"
  },
  {
   "balance_risk": false,
@@ -3106,6 +3386,20 @@
   "sources_json": "передає Укрінформ, про це::non_official | Міністерство фінансів::ukrainian_official",
   "title": "На соціальні виплати цьогоріч із бюджету вже спрямували ₴195 мільярдів",
   "url": "https://www.ukrinform.ua/rubric-economy/3719805-na-socialni-viplati-cogoric-z-budzetu-vze-spramuvali-195-milardiv.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-08",
+  "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-economy",
+  "sc": 2,
+  "sources_json": "Запорізьку АЕС переконливо доводять важливість цієї місії\"::non_official | У відомстві також::non_official",
+  "title": "Австрія надасть €1 мільйон на підтримку роботи МАГАТЕ в Україні",
+  "url": "https://www.ukrinform.ua/rubric-economy/3719991-avstria-nadast-1-miljon-na-pidtrimku-roboti-magate-v-ukraini.html"
  },
  {
   "balance_risk": false,
@@ -3319,6 +3613,20 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2023-06-14",
+  "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-economy",
+  "sc": 2,
+  "sources_json": "передає Укрінформ, про це::non_official | Очікуємо на розвиток цього питання\"::non_official",
+  "title": "Нацбанк та ЄБРР обговорили адаптацію українського законодавства до стандартів Євросоюзу",
+  "url": "https://www.ukrinform.ua/rubric-economy/3722979-nacbank-ta-ebrr-obgovorili-adaptaciu-ukrainskogo-zakonodavstva-do-standartiv-evrosouzu.html"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2023-06-15",
   "fc": 0,
   "nc": 2,
@@ -3472,6 +3780,20 @@
   "url": "https://www.ukrinform.ua/rubric-economy/3724982-oon-ocinila-naslidki-rosijskogo-vtorgnenna-dla-ukrainciv-ak-vpali-dohodi.html"
  },
  {
+  "balance_risk": true,
+  "date_published": "2023-06-20",
+  "fc": 0,
+  "nc": 0,
+  "oc": 1,
+  "official_focus": true,
+  "parket": true,
+  "rubric": "rubric-economy",
+  "sc": 1,
+  "sources_json": "Укрінформ із посиланням на пресслужбу ФДМУ::ukrainian_official",
+  "title": "Президент підписав закон про відновлення великої приватизації",
+  "url": "https://www.ukrinform.ua/rubric-economy/3725311-prezident-pidpisav-zakon-pro-vidnovlenna-velikoi-privatizacii.html"
+ },
+ {
   "balance_risk": false,
   "date_published": "2023-06-20",
   "fc": 0,
@@ -3484,6 +3806,20 @@
   "sources_json": "Тому ми сподіваємося, що Чорноморська зернова угода буде продовжена»::non_official | Він::non_official | повідомляв Укрінформ, в уряді України::ukrainian_official",
   "title": "Білий дім сподівається на продовження зернової ініціативи",
   "url": "https://www.ukrinform.ua/rubric-economy/3725549-bilij-dim-spodivaetsa-na-prodovzenna-zernovoi-iniciativi.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-21",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-economy",
+  "sc": 1,
+  "sources_json": "передає Укрінформ, про це::non_official",
+  "title": "Нафта подорожчала після зниження цін два дні поспіль",
+  "url": "https://www.ukrinform.ua/rubric-economy/3725634-nafta-podorozcala-pisla-znizenna-cin-dva-dni-pospil.html"
  },
  {
   "balance_risk": false,
@@ -3568,6 +3904,20 @@
   "sources_json": "передає Укрінформ, про це::non_official",
   "title": "Україна та партнери створять Програму гарантій для перезапуску ринку страхування",
   "url": "https://www.ukrinform.ua/rubric-economy/3726234-ukraina-ta-partneri-stvorat-programu-garantij-dla-perezapusku-rinku-strahuvanna.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-22",
+  "fc": 0,
+  "nc": 3,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-economy",
+  "sc": 4,
+  "sources_json": "це Укрінформу::unknown | Станом на зараз забронювали вже близько 1600 спеціалістів у 90 ІТ-компаніях »::non_official | Зінченко::non_official | Тому кількість заброньованих за останній період збільшилася»::non_official",
+  "title": "У 90 українських ІТ-компаніях забронювали близько 1600 спеціалістів",
+  "url": "https://www.ukrinform.ua/rubric-economy/3726280-u-90-ukrainskih-itkompaniah-zabronuvali-blizko-1600-specialistiv.html"
  },
  {
   "balance_risk": false,
@@ -3666,6 +4016,20 @@
   "sources_json": "KSE::non_official",
   "title": "В Україні вже зареєстрували понад 145 тисяч земельних угод - KSE",
   "url": "https://www.ukrinform.ua/rubric-economy/3726832-v-ukraini-vze-zareestruvali-ponad-145-tisac-zemelnih-ugod-kse.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-26",
+  "fc": 0,
+  "nc": 1,
+  "oc": 6,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-economy",
+  "sc": 7,
+  "sources_json": "передає Укрінформ, про це НАЕК \"Енергоатом\"::ukrainian_official | НАЕК \"Енергоатом\" повідомляє у Телеграмі::ukrainian_official | Каховської ГЕС, ситуація залишається стабільною та контрольованою::non_official | Енергоатомі::ukrainian_official | повідомляв Укрінформ, Президент Володимир Зеленський::ukrainian_official | Начальник Головного управління розвідки Міністерства оборони України Кирило Буданов::ukrainian_official | Енергоатом::ukrainian_official",
+  "title": "Рівень води у ставку-охолоджувачі ЗАЕС стабільний - Енергоатом",
+  "url": "https://www.ukrinform.ua/rubric-economy/3727670-riven-vodi-u-stavkuoholodzuvaci-zaes-stabilnij-energoatom.html"
  },
  {
   "balance_risk": false,
@@ -3992,6 +4356,20 @@
  {
   "balance_risk": false,
   "date_published": "2023-06-01",
+  "fc": 0,
+  "nc": 4,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-polytics",
+  "sc": 4,
+  "sources_json": "передає Укрінформ, про це Клеверлі::non_official | Клеверлі сказав в інтерв’ю естонському мовнику ERR::non_official | Україну, твердо стояти за Україну стільки, скільки потрібно»::non_official | Україну»::non_official",
+  "title": "МЗС Британії: Закликаємо всі держави твердо стояти за Україну, скільки потрібно",
+  "url": "https://www.ukrinform.ua/rubric-polytics/3716758-mzs-britanii-zaklikaemo-vsi-derzavi-tverdo-stoati-za-ukrainu-skilki-potribno.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-01",
   "fc": 2,
   "nc": 4,
   "oc": 0,
@@ -4002,6 +4380,20 @@
   "sources_json": "передає кореспондент Укрінформ, про це::non_official | Український дипломат::non_official | Кубай::non_official | У своєму виступі представник української місії в ОБСЄ::foreign_official | Жодна з російських боягузливих атак не зможе змінити цього\"::non_official | Україна в ОБСЄ::foreign_official",
   "title": "Єдиним способом припинити війну є перемога над агресором - Україна в ОБСЄ",
   "url": "https://www.ukrinform.ua/rubric-polytics/3716759-edinim-sposobom-pripiniti-vijnu-e-peremoga-nad-agresorom-ukraina-v-obse.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-01",
+  "fc": 2,
+  "nc": 3,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-polytics",
+  "sc": 5,
+  "sources_json": "Норвегія, перед початком неформальної зустрічі міністрів закордонних справ країн Альянсу::non_official | НАТО Єнс Столтенберг::foreign_official | України, включаючи ймовірні атаки на об’єкти в Москві, генсек::non_official | Президент Путін та Москва розпочали цю війну, і вони можуть її завершити»::foreign_official | Він::non_official",
+  "title": "Столтенберг у Норвегії провів паралелі між терактом Брейвіка та війною РФ",
+  "url": "https://www.ukrinform.ua/rubric-polytics/3716841-stoltenberg-u-norvegii-proviv-paraleli-miz-teraktom-brejvika-ta-vijnou-rf.html"
  },
  {
   "balance_risk": false,
@@ -4103,6 +4495,20 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2023-06-03",
+  "fc": 0,
+  "nc": 5,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-polytics",
+  "sc": 5,
+  "sources_json": "передає Укрінформ, про це Офіс генерального прокурора::non_official | Офіс генерального прокурора повідомляє у Телеграмі::non_official | Велика Британія системно та всебічно підтримує Україну, зокрема й у правовій сфері»::non_official | Костін::non_official | повідомляв Укрінформ, Сіммонс::non_official",
+  "title": "Британія системно підтримує Україну у правовій сфері – Костін",
+  "url": "https://www.ukrinform.ua/rubric-polytics/3717857-britania-sistemno-pidtrimue-ukrainu-u-pravovij-sferi-kostin.html"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2023-06-04",
   "fc": 3,
   "nc": 1,
@@ -4142,6 +4548,20 @@
   "sources_json": "це Резніков::unknown | З такими друзями ми обов’язково переможемо»::non_official | Щодо зустрічі з Тікодуадуа, Резніков::non_official | Наша земля піддається нападу терористичної держави»::non_official | І ми разом переможемо»::non_official",
   "title": "Резніков зустрівся у Сінгапурі із колегами з Нової Зеландії та Фіджі",
   "url": "https://www.ukrinform.ua/rubric-polytics/3718128-reznikov-zustrivsa-u-singapuri-iz-kolegami-z-novoi-zelandii-ta-fidzi.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-05",
+  "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-polytics",
+  "sc": 2,
+  "sources_json": "Росія буде покарана на міжнародному рівні за все зло, заподіяне нашим людям”::non_official | Суд також::non_official",
+  "title": "Україна проти Росії: в суді ООН у Гаазі пройдуть усні слухання справи",
+  "url": "https://www.ukrinform.ua/rubric-polytics/3718503-ukraina-proti-rosii-v-sudi-oon-u-gaazi-projdut-usni-sluhanna-spravi.html"
  },
  {
   "balance_risk": false,
@@ -4343,6 +4763,20 @@
   "balance_risk": false,
   "date_published": "2023-06-08",
   "fc": 0,
+  "nc": 4,
+  "oc": 2,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-polytics",
+  "sc": 7,
+  "sources_json": "це у коментарі Укрінформу::unknown | Він::non_official | Абреу::non_official | Речник також::non_official | РФ блокувала нам допуск»::non_official | повідомлялося, Президент України Володимир Зеленський в інтерв'ю BILD::ukrainian_official | Глава держави::ukrainian_official",
+  "title": "Підрив Каховської ГЕС: у ООН кажуть, що допомагають Україні долати наслідки з першого дня",
+  "url": "https://www.ukrinform.ua/rubric-polytics/3720078-pidriv-kahovskoi-ges-u-oon-kazut-so-dopomagaut-ukraini-dolati-naslidki-z-persogo-dna.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-08",
+  "fc": 0,
   "nc": 2,
   "oc": 0,
   "official_focus": false,
@@ -4492,6 +4926,20 @@
   "sources_json": "це він::unknown | Він::non_official | Президент України Володимир Зеленський 3 червня в інтерв’ю латиноамериканським ЗМІ::ukrainian_official | Водночас глава держави::ukrainian_official",
   "title": "Безглуздо і вбивчо для України і Європи: Подоляк про переговори з нинішнім московським режимом",
   "url": "https://www.ukrinform.ua/rubric-polytics/3721387-bezgluzdo-i-vbivco-dla-ukraini-i-evropi-podolak-pro-peregovori-z-ninisnim-moskovskim-rezimom.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-12",
+  "fc": 1,
+  "nc": 3,
+  "oc": 1,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-polytics",
+  "sc": 6,
+  "sources_json": "це в ефірі Polat News::unknown | Пшидач, глава Української держави::non_official | Пшидач::non_official | НАТО у Вільнюсі”::foreign_official | Веймарського трикутника” в нинішній ситуації не відбувається в Києві, він::non_official | повідомлялося, Зеленський::ukrainian_official",
+  "title": "У Польщі оприлюднили деталі розмови Зеленського і Дуди",
+  "url": "https://www.ukrinform.ua/rubric-polytics/3721725-u-polsi-opriludnili-detali-rozmovi-zelenskogo-i-dudi.html"
  },
  {
   "balance_risk": false,
@@ -4648,6 +5096,20 @@
   "url": "https://www.ukrinform.ua/rubric-polytics/3724088-u-comu-sens-skasovanoi-pramoi-linii-putina-so-trivala-cilij-tizden.html"
  },
  {
+  "balance_risk": true,
+  "date_published": "2023-06-18",
+  "fc": 0,
+  "nc": 0,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-polytics",
+  "sc": 2,
+  "sources_json": "передає Укрінформ, про це Офіс генпрокурора::ukrainian_official | Офіс генпрокурора повідомив у Фейсбуці::ukrainian_official",
+  "title": "Костін відзначив внесок словацьких фахівців у розслідування злочинів РФ проти України",
+  "url": "https://www.ukrinform.ua/rubric-polytics/3724320-kostin-vidznaciv-vnesok-slovackih-fahivciv-u-rozsliduvanna-zlociniv-rf-proti-ukraini.html"
+ },
+ {
   "balance_risk": false,
   "date_published": "2023-06-18",
   "fc": 1,
@@ -4800,6 +5262,20 @@
   "sources_json": "передає Укрінформ, про це Шмигаль::ukrainian_official | Шмигаль написав у Телеграмі::ukrainian_official | України\"::non_official",
   "title": "Шмигаль у Лондоні зустрівся із Сунаком",
   "url": "https://www.ukrinform.ua/rubric-polytics/3725762-smigal-u-londoni-zustrivsa-iz-sunakom.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-21",
+  "fc": 0,
+  "nc": 1,
+  "oc": 1,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-polytics",
+  "sc": 2,
+  "sources_json": "На зустрічі з головами МЗС країн-членів ОДКБ він::ukrainian_official | Наумова::non_official",
+  "title": "Де в Росії закінчується «зона СВО»: дайджест пропаганди за 20 червня 2023 року",
+  "url": "https://www.ukrinform.ua/rubric-polytics/3725807-de-v-rosii-zakincuetsa-zona-svo-dajdzest-propagandi-za-20-cervna-2023-roku.html"
  },
  {
   "balance_risk": false,
@@ -5084,6 +5560,20 @@
  {
   "balance_risk": false,
   "date_published": "2023-06-25",
+  "fc": 1,
+  "nc": 4,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-polytics",
+  "sc": 6,
+  "sources_json": "Офісу Президента Михайло Подоляк в ефірі телемарафону “Єдині новини”::ukrainian_official | Росії і так далі”::non_official | Він::non_official | І це все вчора за один день буквально було показано”::non_official | Росії відповідно, і позитивні наслідки для ходу війни як такої”::non_official | Увечері 24 червня самопроголошений президент Білорусі Олександр Лукашенко::foreign_official",
+  "title": "Подоляк про заколот Пригожина: Ми б хотіли трохи інших результатів",
+  "url": "https://www.ukrinform.ua/rubric-polytics/3727502-podolak-pro-zakolot-prigozina-mi-b-hotili-trohi-insih-rezultativ.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-25",
   "fc": 0,
   "nc": 2,
   "oc": 2,
@@ -5223,6 +5713,34 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2023-06-27",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-polytics",
+  "sc": 1,
+  "sources_json": "це він::unknown",
+  "title": "Зеленський провів нараду щодо саміту НАТО",
+  "url": "https://www.ukrinform.ua/rubric-polytics/3728559-zelenskij-proviv-naradu-sodo-samitu-nato.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-28",
+  "fc": 2,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-polytics",
+  "sc": 4,
+  "sources_json": "Угорщину, щоб так цинічно втоптувати репутацію власної країни в історичний бруд»::non_official | повідомляв Укрінформ, прем'єр-міністр Угорщини Віктор Орбан::foreign_official | Україну глава угорського уряду не::foreign_official | Подоляк::non_official",
+  "title": "Орбан своїми заявами втоптує репутацію Угорщини в історичний бруд - Подоляк",
+  "url": "https://www.ukrinform.ua/rubric-polytics/3728570-orban-svoimi-zaavami-vtoptue-reputaciu-ugorsini-v-istoricnij-brud-podolak.html"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2023-06-28",
   "fc": 0,
   "nc": 3,
@@ -5322,6 +5840,20 @@
  {
   "balance_risk": false,
   "date_published": "2023-06-29",
+  "fc": 0,
+  "nc": 4,
+  "oc": 1,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-polytics",
+  "sc": 5,
+  "sources_json": "Наша позиція не змінювалася вже досить тривалий час»::non_official | Водночас, посол::non_official | Посол::non_official | Над цим ми і працюємо»::non_official | повідомляв Укрінформ, міністр оборони України Олексій Резніков напередодні::ukrainian_official",
+  "title": "Посол Маркарова: Ми активно працюємо зі США щодо членства України в НАТО",
+  "url": "https://www.ukrinform.ua/rubric-polytics/3729095-posol-markarova-mi-aktivno-pracuemo-zi-ssa-sodo-clenstva-ukraini-v-nato.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-29",
   "fc": 2,
   "nc": 2,
   "oc": 0,
@@ -5416,6 +5948,20 @@
   "sources_json": "Укрінформу, про це сьогодні у Брюсселі перед початком саміту ЄС::foreign_official | ЄС Швеції Ульф Крістерссон, відповідаючи на запитання журналістів, чи він::foreign_official | вони будуть формалізовані - це інша справа»::non_official | Коментуючи перспективу завершення процесу входження Швеції до НАТО, він::foreign_official | Сподіваюся, що процес до Вільнюса буде успішним»::non_official",
   "title": "Україна зустрічає потужну підтримку на шляху інтеграції в ЄС та у наближенні до НАТО – прем’єр Швеції",
   "url": "https://www.ukrinform.ua/rubric-polytics/3729366-ukraina-zustricae-potuznu-pidtrimku-na-slahu-integracii-v-es-ta-u-nablizenni-do-nato-premer-svecii.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-29",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-polytics",
+  "sc": 1,
+  "sources_json": "Медіацентрі Україна — Укрінформ::non_official",
+  "title": "У Раді назвали пріоритети держзакупівель — оборона, цивільний захист, харчі й пальне",
+  "url": "https://www.ukrinform.ua/rubric-polytics/3729436-u-radi-nazvali-prioriteti-derzzakupivel-oborona-civilnij-zahist-harci-j-palne.html"
  },
  {
   "balance_risk": false,
@@ -5542,6 +6088,20 @@
   "sources_json": "Брюсселі під час пресконференції за підсумками другого дня роботи саміту ЄС::foreign_official | України, щоб привести її ближче до європейських армій та до НАТО »::foreign_official | Він::non_official | Мішель::non_official",
   "title": "ЄС надає Україні масивну підтримку, щоб привести ближче до європейських армій і до НАТО – Мішель",
   "url": "https://www.ukrinform.ua/rubric-polytics/3729894-es-nadae-ukraini-masivnu-pidtrimku-sob-privesti-blizce-do-evropejskih-armij-i-do-nato-misel.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-01",
+  "fc": 0,
+  "nc": 1,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-regions",
+  "sc": 2,
+  "sources_json": "Укрінформ, про це голова Херсонської обласної військової адміністрації Олександр Прокудін::ukrainian_official | Він::non_official",
+  "title": "Росіяни минулої доби випустили по Херсонщині 309 снарядів, загинула людина",
+  "url": "https://www.ukrinform.ua/rubric-regions/3716795-rosiani-minuloi-dobi-vipustili-po-hersonsini-309-snaradiv-zaginula-ludina.html"
  },
  {
   "balance_risk": false,
@@ -5853,6 +6413,20 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2023-06-05",
+  "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-regions",
+  "sc": 2,
+  "sources_json": "передає Укрінформ, про це::non_official | Офіс генерального прокурора::non_official",
+  "title": "На Хмельниччині сім років тюрми дали водію вантажівки, який збив на смерть бійця тероборони",
+  "url": "https://www.ukrinform.ua/rubric-regions/3718635-na-hmelniccini-sim-rokiv-turmi-dali-vodiu-vantazivki-akij-zbiv-na-smert-bijca-teroboroni.html"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2023-06-06",
   "fc": 0,
   "nc": 1,
@@ -5934,6 +6508,20 @@
   "sources_json": "",
   "title": "Клеверлі відвідав на Київщині ділянку, яку розміновує британська Halo Trust",
   "url": "https://www.ukrinform.ua/rubric-regions/3719028-kleverli-vidvidav-na-kiivsini-dilanku-aku-rozminovue-britanska-halo-trust.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-06",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-regions",
+  "sc": 0,
+  "sources_json": "",
+  "title": "О 16:00 - брифінг про наслідки підриву росіянами Каховської ГЕС",
+  "url": "https://www.ukrinform.ua/rubric-regions/3719070-o-1600-brifing-pro-naslidki-pidrivu-rosianami-kahovskoi-ges.html"
  },
  {
   "balance_risk": false,
@@ -6259,6 +6847,20 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2023-06-08",
+  "fc": 0,
+  "nc": 3,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-regions",
+  "sc": 4,
+  "sources_json": "передає Укрінформ, про це::non_official | Дякую вам і бажаю здоров’я\"::non_official | Зеленський::ukrainian_official | Ви героїчні люди\"::non_official",
+  "title": "Зеленський у Херсоні відвідав пункт евакуації",
+  "url": "https://www.ukrinform.ua/rubric-regions/3719968-zelenskij-u-hersoni-vidvidav-punkt-evakuacii.html"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2023-06-09",
   "fc": 0,
   "nc": 2,
@@ -6340,6 +6942,20 @@
   "sources_json": "це у Фейсбуці::unknown",
   "title": "Буковина вже відправила 10 тонн допомоги мешканцям Херсонщини",
   "url": "https://www.ukrinform.ua/rubric-regions/3720252-bukovina-vze-vidpravila-10-tonn-dopomogi-meskancam-hersonsini.html"
+ },
+ {
+  "balance_risk": true,
+  "date_published": "2023-06-08",
+  "fc": 0,
+  "nc": 0,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-regions",
+  "sc": 2,
+  "sources_json": "це Борис Філатов::unknown | Прощавай, котику, тепер у тебе буде нове життя з рятувальниками\"::ukrainian_official",
+  "title": "Філатов подарував рятувальникам власну яхту",
+  "url": "https://www.ukrinform.ua/rubric-regions/3720260-filatov-podaruvav-ratuvalnikam-vlasnu-ahtu.html"
  },
  {
   "balance_risk": false,
@@ -6424,6 +7040,34 @@
   "sources_json": "це у Фейсбуці::unknown | Київщині всі розважальні заходи мають закінчувати свою роботу не пізніше 21:00”::non_official | Він::non_official",
   "title": "На Київщині заборонили всі розважальні заходи після 21:00",
   "url": "https://www.ukrinform.ua/rubric-regions/3720614-na-kiivsini-zaboronili-vsi-rozvazalni-zahodi-pisla-2100.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-09",
+  "fc": 0,
+  "nc": 3,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-regions",
+  "sc": 4,
+  "sources_json": "це в вечірньому звернені::unknown | Ситуація залишається досить критичною\"::non_official | На третьому об'єкті, як::non_official | Окремо він::non_official",
+  "title": "Рівень води в Каховському водосховищі впав до 11,3 метра",
+  "url": "https://www.ukrinform.ua/rubric-regions/3720796-riven-vodi-v-kahovskomu-vodoshovisi-vpav-do-113-metra.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-10",
+  "fc": 0,
+  "nc": 2,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-regions",
+  "sc": 3,
+  "sources_json": "Укрінформ, про це начальник Донецької обласної військової адміністрації Павло Кириленко::ukrainian_official | Ще 1 людина в області за добу одержала поранення”::non_official | Наразі неможливо встановити точну кількість жертв у Маріуполі та Волновасі::non_official",
+  "title": "Росіяни за добу вбили на Донеччині цивільного, ще одного поранили",
+  "url": "https://www.ukrinform.ua/rubric-regions/3720848-rosiani-za-dobu-vbili-na-doneccini-civilnogo-se-odnogo-poranili.html"
  },
  {
   "balance_risk": false,
@@ -6611,6 +7255,20 @@
   "balance_risk": false,
   "date_published": "2023-06-12",
   "fc": 0,
+  "nc": 4,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-regions",
+  "sc": 4,
+  "sources_json": "передає Укрінформ, про це::non_official | Центр національного спротиву::non_official | Центрі нацспротиву::non_official | Нагадаємо, напередодні знову ЗМІ::non_official",
+  "title": "Росіяни для боротьби з партизанами встановлюють камери на захопленому півдні - нацспротив",
+  "url": "https://www.ukrinform.ua/rubric-regions/3721558-rosiani-dla-borotbi-z-partizanami-vstanovluut-kameri-na-zahoplenomu-pivdni-nacsprotiv.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-12",
+  "fc": 0,
   "nc": 1,
   "oc": 1,
   "official_focus": true,
@@ -6704,6 +7362,20 @@
   "sources_json": "це у телемарафоні “Єдині новини”::unknown | Клименка::ukrainian_official | Глава МВС України::ukrainian_official | Він::non_official | Міністр::ukrainian_official | Миколаївській, і у Дніпропетровській — пішла у домівки до наших громадян”::non_official",
   "title": "Вода з Корабельного району Херсона потроху спадає",
   "url": "https://www.ukrinform.ua/rubric-regions/3721887-voda-z-korabelnogo-rajonu-hersona-potrohu-spadae.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-12",
+  "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-regions",
+  "sc": 2,
+  "sources_json": "передає Укрінформ, про це у Телеграмі::non_official | Він::non_official",
+  "title": "У підтоплені населені пункти Херсонщини почали повертати світло",
+  "url": "https://www.ukrinform.ua/rubric-regions/3721940-u-pidtopleni-naseleni-punkti-hersonsini-pocali-povertati-svitlo.html"
  },
  {
   "balance_risk": false,
@@ -6934,6 +7606,20 @@
   "date_published": "2023-06-14",
   "fc": 0,
   "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-regions",
+  "sc": 3,
+  "sources_json": "це у Фейсбуці::unknown | В нашому Національному природному парку \"Тузлівські лимани\" вони не мешкають»::non_official | Науковець::non_official",
+  "title": "На узбережжі Одещини знайшли багато мертвих тварин з Червоної книги",
+  "url": "https://www.ukrinform.ua/rubric-regions/3722905-na-uzberezzi-odesini-znajsli-bagato-mertvih-tvarin-z-cervonoi-knigi.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-14",
+  "fc": 0,
+  "nc": 2,
   "oc": 2,
   "official_focus": false,
   "parket": false,
@@ -7022,6 +7708,20 @@
   "official_focus": true,
   "parket": false,
   "rubric": "rubric-regions",
+  "sc": 2,
+  "sources_json": "передає Укрінформ, про це::non_official | Херсонська ОВА::ukrainian_official",
+  "title": "Середній рівень підтоплення на Херсонщині - 1,93 метра",
+  "url": "https://www.ukrinform.ua/rubric-regions/3723280-serednij-riven-pidtoplenna-na-hersonsini-193-metra.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-15",
+  "fc": 0,
+  "nc": 1,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-regions",
   "sc": 4,
   "sources_json": "це на брифінгу у Медіацентрі Україна - Укрінформ::unknown | Також вибита велика кількість вікон у будівлі Одеської політехніки»::unknown | Голова Громадської ради при ОВА::ukrainian_official | У фахівців викликає занепокоєння стан цієї будівлі»::non_official",
   "title": "В Одесі внаслідок обстрілу пошкоджена будівля кіностудії",
@@ -7054,6 +7754,20 @@
   "sources_json": "це у Телеграмі::unknown",
   "title": "У Херсонській громаді запрацювала сирена, яка сповіщає про повітряну тривогу",
   "url": "https://www.ukrinform.ua/rubric-regions/3723396-u-hersonskij-gromadi-zapracuvala-sirena-aka-spovisae-pro-povitranu-trivogu.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-15",
+  "fc": 0,
+  "nc": 2,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-regions",
+  "sc": 3,
+  "sources_json": "передає Укрінформ, про це::non_official | Херсонська ОВА::ukrainian_official | ХОВА::non_official",
+  "title": "Херсонводоканал отримав модульну установку очищення води",
+  "url": "https://www.ukrinform.ua/rubric-regions/3723417-hersonvodokanal-otrimav-modulnu-ustanovku-ocisenna-vodi.html"
  },
  {
   "balance_risk": false,
@@ -7194,6 +7908,20 @@
   "sources_json": "передає Укрінформ, про це у Телеграмі::non_official | Назад - побита техніка та пусті вантажівки»::non_official | Він також::non_official | Андрющенко::non_official",
   "title": "Через Маріуполь до Бердянська везуть системи заряджання ППО - Андрющенко",
   "url": "https://www.ukrinform.ua/rubric-regions/3723758-cerez-mariupol-do-berdanska-vezut-sistemi-zaradzanna-ppo-andrusenko.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-16",
+  "fc": 0,
+  "nc": 1,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-regions",
+  "sc": 2,
+  "sources_json": "Єрмака::ukrainian_official | Укриття врятувало життя багатьом людям::non_official",
+  "title": "У Херсоні внаслідок обстрілів кількість поранених зросла до 23, з них троє дітей",
+  "url": "https://www.ukrinform.ua/rubric-regions/3723867-u-hersonskij-gromadi-vnaslidok-obstriliv-travmovani-19-ludej.html"
  },
  {
   "balance_risk": false,
@@ -7449,6 +8177,20 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2023-06-19",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-regions",
+  "sc": 1,
+  "sources_json": "Він::non_official",
+  "title": "Кабмін затвердив порядок управління побутовими відходами в особливих умовах",
+  "url": "https://www.ukrinform.ua/rubric-regions/3724987-urad-zatverdiv-poradok-upravlinna-pobutovimi-vidhodami-v-osoblivih-umovah.html"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2023-06-20",
   "fc": 0,
   "nc": 2,
@@ -7684,6 +8426,20 @@
   "sources_json": "передає Укрінформ, про це у Телеграмі::non_official | Головне - минулося без жертв”::non_official | Пізніше голова Дніпропетровської обласної ради Микола Лукашук::non_official | Повітряних Сил ймовірно це були Х22::ukrainian_official",
   "title": "Росіяни вдарили ракетами по Криворізькому району - постраждав житловий сектор",
   "url": "https://www.ukrinform.ua/rubric-regions/3726081-rosiani-vdarili-raketami-po-krivorizkomu-rajonu-postrazdav-zitlovij-sektor.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-22",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-regions",
+  "sc": 2,
+  "sources_json": "це в Телеграмі::unknown | Місцеві жителі::non_official",
+  "title": "У Бердянську – аварія на каналізаційній насосній станції, є загиблий від отруєння",
+  "url": "https://www.ukrinform.ua/rubric-regions/3726266-u-berdansku-avaria-na-kanalizacijnij-nasosnij-stancii-e-zagiblij-vid-otruenna.html"
  },
  {
   "balance_risk": false,
@@ -8022,6 +8778,20 @@
   "url": "https://www.ukrinform.ua/rubric-regions/3728219-v-odesi-vidkrili-kulinarnij-hab-gotuvatimut-skilni-stravi-vid-klopotenka.html"
  },
  {
+  "balance_risk": false,
+  "date_published": "2023-06-27",
+  "fc": 0,
+  "nc": 1,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-regions",
+  "sc": 2,
+  "sources_json": "Укрінформ із посиланням на пресслужбу УЗ у Телеграмі::ukrainian_official | Львів::non_official",
+  "title": "Укрзалізниця призначає додатковий поїзд за маршрутом Київ - Львів",
+  "url": "https://www.ukrinform.ua/rubric-regions/3728329-ukrzaliznica-priznacae-dodatkovij-poizd-za-marsrutom-kiiv-lviv.html"
+ },
+ {
   "balance_risk": true,
   "date_published": "2023-06-27",
   "fc": 0,
@@ -8219,6 +8989,34 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2023-06-01",
+  "fc": 0,
+  "nc": 5,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-society",
+  "sc": 5,
+  "sources_json": "Білорусі»::non_official | Він::non_official | Аналітик Народного антикризового управління Артем Брухан::non_official | Так само дітям доносять, що української державності не існує»::non_official | Представники організації::non_official",
+  "title": "У Білорусі діють табори, де вивезених з України дітей «виховують» у дусі рашизму - опозиція",
+  "url": "https://www.ukrinform.ua/rubric-society/3716753-u-bilorusi-diut-tabori-de-vivezenih-z-ukraini-ditej-vihovuut-u-dusi-rasizmu-opozicia.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-01",
+  "fc": 0,
+  "nc": 3,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-society",
+  "sc": 5,
+  "sources_json": "Прем’єр-міністр Денис Шмигаль на засіданні уряду в четвер::ukrainian_official | ТОТ”::non_official | Він::non_official | Розв’язана Росією війна порушує права мільйонів українських дітей”::non_official | Шмигаль::ukrainian_official",
+  "title": "Розв’язана Росією війна порушує права мільйонів українських дітей - Шмигаль",
+  "url": "https://www.ukrinform.ua/rubric-society/3717115-rozvazana-rosieu-vijna-porusue-prava-miljoniv-ukrainskih-ditej-smigal.html"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2023-06-02",
   "fc": 0,
   "nc": 1,
@@ -8230,6 +9028,20 @@
   "sources_json": "Ми не згодні з таким рішенням і обов’язково подамо апеляцію»::non_official | Кубраков::ukrainian_official",
   "title": "Суд зупинив реформу системи дипломування моряків",
   "url": "https://www.ukrinform.ua/rubric-society/3717359-sud-zupiniv-reformu-sistemi-diplomuvanna-morakiv.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-03",
+  "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-society",
+  "sc": 2,
+  "sources_json": "передає Укрінформ, про це::non_official | Офіс генерального прокурора::non_official",
+  "title": "Суд повернув державі будівлю в центрі Києва, де розташовані органи влади",
+  "url": "https://www.ukrinform.ua/rubric-society/3717477-sud-povernuv-derzavi-budivlu-v-centri-kieva-de-roztasovani-organi-vladi.html"
  },
  {
   "balance_risk": false,
@@ -8515,6 +9327,20 @@
   "balance_risk": false,
   "date_published": "2023-06-10",
   "fc": 0,
+  "nc": 3,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-society",
+  "sc": 6,
+  "sources_json": "це дружина Президента Олена Зеленська::ukrainian_official | Херсон – це порятунок\"::non_official | Дружина Президента::ukrainian_official | Вона::non_official | Також::unknown | Зеленська::non_official",
+  "title": "Табір «Артек-Буковель» прийме вихованців дитбудинків Херсонщини – Зеленська",
+  "url": "https://www.ukrinform.ua/rubric-society/3721010-tabir-artekbukovel-prijme-vihovanciv-ditbudinkiv-hersonsini-zelenska.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-10",
+  "fc": 0,
   "nc": 0,
   "oc": 0,
   "official_focus": true,
@@ -8524,6 +9350,34 @@
   "sources_json": "",
   "title": "Парламент ухвалив нову редакцію закону про захист прав споживачів",
   "url": "https://www.ukrinform.ua/rubric-society/3721117-parlament-uhvaliv-novu-redakciu-zakonu-pro-zahist-prav-spozivaciv.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-11",
+  "fc": 0,
+  "nc": 2,
+  "oc": 1,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-society",
+  "sc": 3,
+  "sources_json": "передає Укрінформ, про це у Фейсбуці::non_official | України»::non_official | Міністр захисту довкілля та природних ресурсів України Руслан Стрілець::ukrainian_official",
+  "title": "У Празі провели акцію, щоб привернути увагу до теракту росіян на Каховській ГЕС",
+  "url": "https://www.ukrinform.ua/rubric-society/3721281-u-prazi-proveli-akciu-sob-privernuti-uvagu-do-teraktu-rosian-na-kahovskij-ges.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-11",
+  "fc": 0,
+  "nc": 5,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-society",
+  "sc": 5,
+  "sources_json": "Радіо Прага , передає Укрінформ::non_official | Але шрами на душі залишаться»::non_official | ЗМІ::non_official | Директор школи Ева Александерова::non_official | І наочно показують, наскільки жорстокими та дурними іноді бувають ці моделі»::non_official",
+  "title": "Президент Чехії зустрівся з українською школяркою, яку цькували однокласники",
+  "url": "https://www.ukrinform.ua/rubric-society/3721330-prezident-cehii-zustrivsa-z-ukrainskou-skolarkou-aku-ckuvali-odnoklasniki.html"
  },
  {
   "balance_risk": false,
@@ -8594,6 +9448,20 @@
   "sources_json": "В Укргідроенерго::ukrainian_official",
   "title": "Шкода довкіллю та цивільному майну: Франція направила в Україну ще дві групи криміналістів",
   "url": "https://www.ukrinform.ua/rubric-society/3722252-skoda-dovkillu-ta-civilnomu-majnu-francia-napravila-v-ukrainu-se-dvi-grupi-kriminalistiv.html"
+ },
+ {
+  "balance_risk": true,
+  "date_published": "2023-06-13",
+  "fc": 0,
+  "nc": 0,
+  "oc": 1,
+  "official_focus": true,
+  "parket": true,
+  "rubric": "rubric-society",
+  "sc": 1,
+  "sources_json": "Зеленський підписав указ::ukrainian_official",
+  "title": "В Україні відзначатимуть День медичного працівника 27 липня — Зеленський підписав указ",
+  "url": "https://www.ukrinform.ua/rubric-society/3722255-v-ukraini-vidznacatimut-den-medicnogo-pracivnika-27-lipna-zelenskij-pidpisav-ukaz.html"
  },
  {
   "balance_risk": false,
@@ -8767,6 +9635,20 @@
   "balance_risk": false,
   "date_published": "2023-06-16",
   "fc": 0,
+  "nc": 4,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-society",
+  "sc": 4,
+  "sources_json": "передає Укрінформ, про це генеральний директор Укрпошти Ігор Смілянський::non_official | Смілянський::non_official | Ці нагороди::non_official | Він також::non_official",
+  "title": "Укрпошта отримала три нагороди World Post and Parcel Award",
+  "url": "https://www.ukrinform.ua/rubric-society/3723576-ukrposta-otrimala-tri-nagorodi-world-post-and-parcel-award.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-16",
+  "fc": 0,
   "nc": 0,
   "oc": 0,
   "official_focus": false,
@@ -8848,6 +9730,34 @@
   "url": "https://www.ukrinform.ua/rubric-society/3724601-ci-bezpecni-harcovi-produkti-aki-zaznali-pidtoplenna-rozasnenna-fahivciv.html"
  },
  {
+  "balance_risk": false,
+  "date_published": "2023-06-19",
+  "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-society",
+  "sc": 2,
+  "sources_json": "передає Укрінформ, про це Мінреінтеграції::non_official | Мінреінтеграції повідомляє в Телеграмі::non_official",
+  "title": "У Мінреінтеграції нагадали правила евакуації з дітьми",
+  "url": "https://www.ukrinform.ua/rubric-society/3724607-u-minreintegracii-nagadali-pravila-evakuacii-z-ditmi.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-19",
+  "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-society",
+  "sc": 2,
+  "sources_json": "Більшість українців::non_official | Литві»::non_official",
+  "title": "Залишитися жити та працювати у Литві планує третина українських біженців",
+  "url": "https://www.ukrinform.ua/rubric-society/3724998-zalisitisa-ziti-ta-pracuvati-u-litvi-planue-tretina-ukrainskih-bizenciv.html"
+ },
+ {
   "balance_risk": true,
   "date_published": "2023-06-20",
   "fc": 0,
@@ -8902,6 +9812,20 @@
   "sources_json": "Вони вже перебувають на українській території, їм надається всіляка підтримка»::non_official | Він::non_official",
   "title": "Посольство вивезло з Угорщини трьох українських військовополонених",
   "url": "https://www.ukrinform.ua/rubric-society/3725440-posolstvo-ukraini-vivezlo-z-ugorsini-troh-ukrainskih-vijskovopolonenih.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-20",
+  "fc": 0,
+  "nc": 3,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-society",
+  "sc": 5,
+  "sources_json": "передає Укрінформ, про це Міністерство захисту довкілля та природних ресурсів України::ukrainian_official | Міністерство захисту довкілля та природних ресурсів України повідомляє::ukrainian_official | Румунії Мірчою Фечетом::non_official | Фечет::non_official | Фечета::non_official",
+  "title": "Україна та Румунія обмінюватимуться інформацією про екологічний стан Чорного моря",
+  "url": "https://www.ukrinform.ua/rubric-society/3725456-ukraina-ta-rumunia-obminuvatimutsa-informacieu-pro-ekologicnij-stan-cornogo-mora.html"
  },
  {
   "balance_risk": false,
@@ -8991,6 +9915,20 @@
   "balance_risk": false,
   "date_published": "2023-06-22",
   "fc": 0,
+  "nc": 6,
+  "oc": 1,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-society",
+  "sc": 8,
+  "sources_json": "Коментуючи впровадження Єдиного реєстру зброї, експерт з кримінального права::non_official | Щодо мети реєстрації вогнепальної зброї Усатий::non_official | Він::non_official | Але другий рік це триває, а закону в нас так і немає\"::non_official | Втім, експерт::non_official | Також він::unknown | Зброя, яка підлаштована під постріли чергами, теж перебуває поза законом\"::non_official | повідомляв Укрінформ, 25 травня міністр внутрішніх справ України Ігор Клименко::ukrainian_official",
+  "title": "В Україні завтра запрацює Єдиний реєстр зброї - роз'яснення експерта",
+  "url": "https://www.ukrinform.ua/rubric-society/3726444-v-ukraini-zavtra-zapracue-edinij-reestr-zbroi-rozasnenna-eksperta.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-22",
+  "fc": 0,
   "nc": 3,
   "oc": 0,
   "official_focus": false,
@@ -9000,6 +9938,20 @@
   "sources_json": "У заяві Федеральна рада::non_official | Він може знищити або підірвати протипіхотні міни різаком, знешкодивши їх»::non_official | Федеральній раді::non_official",
   "title": "Швейцарія надасть Україні понад $1,3 мільйона на розмінування територій",
   "url": "https://www.ukrinform.ua/rubric-society/3726488-svejcaria-nadast-ukraini-ponad-13-miljona-na-rozminuvanna-teritorij.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-23",
+  "fc": 0,
+  "nc": 2,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-society",
+  "sc": 5,
+  "sources_json": "це в ефірі загальнонаціонального телемарафону \"Єдині новини\"::unknown | Він::non_official | Стосовно реєстрації трофейної зброї Тимченко::non_official | Це питання сьогодні вирішують законодавці\"::unknown | МВС::ukrainian_official",
+  "title": "В Єдиному реєстрі зброї власники можуть продовжити дію дозволу на зброю – МВС",
+  "url": "https://www.ukrinform.ua/rubric-society/3726568-v-edinomu-reestri-zbroi-vlasniki-mozut-prodovziti-diu-dozvolu-na-zbrou-mvs.html"
  },
  {
   "balance_risk": false,
@@ -9084,6 +10036,20 @@
   "sources_json": "",
   "title": "В Україні випустять новий поштовий набір, присвячений ГУР",
   "url": "https://www.ukrinform.ua/rubric-society/3726876-v-ukraini-vipustat-novij-postovij-nabir-prisvacenij-gur.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-24",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-society",
+  "sc": 1,
+  "sources_json": "Ірина Верещук::non_official",
+  "title": "Верещук: Координаційні центри підтримки населення створені у всіх областях",
+  "url": "https://www.ukrinform.ua/rubric-society/3727178-veresuk-koordinacijni-centri-pidtrimki-naselenna-stvoreni-u-vsih-oblastah.html"
  },
  {
   "balance_risk": false,
@@ -9591,6 +10557,20 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2023-06-30",
+  "fc": 0,
+  "nc": 4,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-vidbudova",
+  "sc": 5,
+  "sources_json": "це у Фейсбуці::unknown | Він::non_official | Але багато хто не має коштів, оскільки масштаби руйнувань чималі”::non_official | Начальник КОВА::non_official | Повертаємо життя в деокуповані населені пункти Київщини”::non_official",
+  "title": "В Ірпені розпочали масштабний проєкт із заміни вікон у пошкоджених будинках",
+  "url": "https://www.ukrinform.ua/rubric-vidbudova/3729990-v-irpeni-rozpocali-masstabnij-proekt-iz-zamini-vikon-u-poskodzenih-budinkah.html"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2023-06-01",
   "fc": 0,
   "nc": 2,
@@ -9770,6 +10750,20 @@
   "sources_json": "Укрінформ, про це в ефірі місцевого телебачення::non_official | Минулого тижня ЗМІ::non_official",
   "title": "У Вірменії заявили про можливість миру з Азербайджаном вже до кінця року",
   "url": "https://www.ukrinform.ua/rubric-world/3718291-u-virmenii-zaavili-pro-mozlivist-miru-z-azerbajdzanom-vze-do-kinca-roku.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-05",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Майк Пенс балотуватиметься на посаду президента США",
+  "url": "https://www.ukrinform.ua/rubric-world/3718642-majk-pens-balotuvatimetsa-na-posadu-prezidenta-ssa.html"
  },
  {
   "balance_risk": false,
@@ -10166,6 +11160,34 @@
  {
   "balance_risk": false,
   "date_published": "2023-06-12",
+  "fc": 1,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 3,
+  "sources_json": "передає Укрінформ, про це::non_official | BBC::non_official | повідомляв Укрінформ, поліція у Х'юстоні, штат Техас (США)::foreign_official",
+  "title": "У США стався обвал на одній із головних автомагістралей Східного узбережжя",
+  "url": "https://www.ukrinform.ua/rubric-world/3721982-u-ssa-stavsa-obval-na-odnij-iz-golovnih-avtomagistralej-shidnogo-uzberezza.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-12",
+  "fc": 0,
+  "nc": 5,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 5,
+  "sources_json": "На сьогодні ми не бачили, щоби вони перетнули цю лінію»::non_official | Він::non_official | повідомлялося, кілька українських інтернет-видань, зокрема, Мілітарний::non_official | Офіційний Пекін у цьому зв’язку::non_official | Блінкен::non_official",
+  "title": "Штати не мають інформації про передачу Китаєм озброєнь РФ – Блінкен",
+  "url": "https://www.ukrinform.ua/rubric-world/3721988-stati-ne-maut-informacii-pro-peredanna-kitaem-ozbroen-rf-blinken.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-12",
   "fc": 0,
   "nc": 2,
   "oc": 0,
@@ -10434,6 +11456,20 @@
   "date_published": "2023-06-17",
   "fc": 0,
   "nc": 3,
+  "oc": 1,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 4,
+  "sources_json": "передає Укрінформ, про це::non_official | BBC::non_official | У поліції::ukrainian_official | Правоохоронці::non_official",
+  "title": "В Уганді бойовики, пов'язані з ІДІЛ, напали на школу: 25 загиблих",
+  "url": "https://www.ukrinform.ua/rubric-world/3724094-v-ugandi-bojoviki-povazani-z-idil-napali-na-skolu-25-zagiblih.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-17",
+  "fc": 0,
+  "nc": 3,
   "oc": 0,
   "official_focus": false,
   "parket": false,
@@ -10543,6 +11579,20 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2023-06-21",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 0,
+  "sources_json": "",
+  "title": "В Естонії узаконили одностатеві шлюби",
+  "url": "https://www.ukrinform.ua/rubric-world/3725255-v-estonii-uzakonili-odnostatevi-slubi.html"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2023-06-20",
   "fc": 0,
   "nc": 3,
@@ -10624,6 +11674,20 @@
   "sources_json": "передає Укрінформ, про це::non_official | NewsMaker::non_official | Речан назвав ці «подарунки недоречними» та::non_official | Влада припинить ці символічні та недоречні подарунки»::non_official | Голова Ради старійшин Гагаузії Василь Арнаут::non_official",
   "title": "Прем'єр Молдови назвав «недоречними подарунками» гроші від посольства РФ для жителів Гагаузії",
   "url": "https://www.ukrinform.ua/rubric-world/3725986-premer-moldovi-nazvav-nedorecnimi-podarunkami-grosi-vid-posolstva-rf-dla-ziteliv-gagauzii.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-22",
+  "fc": 1,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 1,
+  "sources_json": "Байдена на заплановані візити адміністрації США до Китаю, Пател::foreign_official",
+  "title": "Держдеп планує й надалі взаємодіяти з Китаєм після заяви Байдена про «диктатора» Сі",
+  "url": "https://www.ukrinform.ua/rubric-world/3726038-derzdep-planue-j-nadali-vzaemodiati-z-kitaem-pisla-zaavi-bajdena-pro-diktatora-si.html"
  },
  {
   "balance_risk": false,
@@ -10965,6 +12029,20 @@
   "balance_risk": false,
   "date_published": "2023-06-26",
   "fc": 0,
+  "nc": 3,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 3,
+  "sources_json": "передає Укрінформ, про це::non_official | Грузия-Online::non_official | Росії , тобто піти на ризик можливої війни з Росією»::non_official",
+  "title": "Грузія не вводить санкції проти Росії через ризик можливої війни – спікер парламенту",
+  "url": "https://www.ukrinform.ua/rubric-world/3727926-gruzia-ne-vvodit-sankcii-proti-rosii-cerez-rizik-mozlivoi-vijni-spiker-parlamentu.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-26",
+  "fc": 0,
   "nc": 5,
   "oc": 0,
   "official_focus": false,
@@ -11161,6 +12239,20 @@
   "balance_risk": false,
   "date_published": "2023-06-29",
   "fc": 2,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 3,
+  "sources_json": "це у коментарі Укрінформу::unknown | Олександр Лукашенко провів переговори з Пригожиним, після чого той::foreign_official | Лукашенко вже::foreign_official",
+  "title": "Польща бачить загрозу у переміщенні в Білорусь ядерної зброї та «вагнерівців» - євродепутат",
+  "url": "https://www.ukrinform.ua/rubric-world/3729300-polsa-bacit-zagrozu-u-peremisenni-adernoi-zbroi-rf-ta-pereizdi-prigozina-u-bilorus-evrodeputat.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-29",
+  "fc": 2,
   "nc": 3,
   "oc": 0,
   "official_focus": false,
@@ -11254,6 +12346,20 @@
   "sources_json": "Альянсу у протидії нашим спільним викликам глобальній безпеці»::non_official",
   "title": "Двопартійна делегація сенаторів США долучиться до саміту НАТО у Вільнюсі",
   "url": "https://www.ukrinform.ua/rubric-world/3729463-dvopartijna-delegacia-senatoriv-ssa-dolucitsa-do-samitu-nato-u-vilnusi.html"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-06-29",
+  "fc": 1,
+  "nc": 4,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "rubric-world",
+  "sc": 5,
+  "sources_json": "Я впевнений, що події останніх кількох днів, безумовно, стануть темою для розмови»::non_official | Він також::non_official | При цьому Міллер::non_official | У цьому зв’язку він::non_official | Держдеп::foreign_official",
+  "title": "Наслідки заколоту в Росії обговорять на саміті у Вільнюсі – Держдеп",
+  "url": "https://www.ukrinform.ua/rubric-world/3729526-naslidki-zakolotu-v-rosii-obgovorat-na-samiti-u-vilnusi-derzdep.html"
  },
  {
   "balance_risk": false,

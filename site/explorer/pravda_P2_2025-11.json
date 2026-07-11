@@ -367,6 +367,20 @@
   "balance_risk": false,
   "date_published": "2025-11-03",
   "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Іноземця засудили на 6 років за спробу передати секретну документацію про український літак",
+  "url": "https://www.pravda.com.ua/news/2025/11/03/8005647/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-03",
+  "fc": 0,
   "nc": 5,
   "oc": 0,
   "official_focus": true,
@@ -576,6 +590,20 @@
  {
   "balance_risk": false,
   "date_published": "2025-11-04",
+  "fc": 2,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Європейська комісія::non_official | Єврокомісія::foreign_official | Крім того, Єврокомісія::foreign_official",
+  "title": "Звіт ЄС щодо України: \"надмірний тиск\" на НАБУ досі триває",
+  "url": "https://www.pravda.com.ua/news/2025/11/04/8005835/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-04",
   "fc": 0,
   "nc": 0,
   "oc": 0,
@@ -698,6 +726,34 @@
   "sources_json": "",
   "title": "На фронті майже 155 боїв: 52 штурми росіян захлинулось на Покровському напрямку",
   "url": "https://www.pravda.com.ua/news/2025/11/05/8005898/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-05",
+  "fc": 0,
+  "nc": 8,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 8,
+  "sources_json": "На сьогодні є підстави підозрювати Бесєдіна в державному злочині\"::non_official | Росії можливості втручатися у внутрішні справи Естонської Республіки\"::non_official | Естонії держави\"::non_official | Талліннці\" Олега Бесєдіна ввечері 4 листопада::non_official | Facebook, Іванов, який утік у Росію 2024 року::non_official | Іванов::non_official | Цілий день проводили обшук, нібито щось знайшли\"::non_official | Нам невідома доля Олега на даний момент часу\"::non_official",
+  "title": "В Естонії затримали прокремлівського пропагандиста",
+  "url": "https://www.pravda.com.ua/news/2025/11/05/8005907/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-05",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Європейський інвестбанк надасть Литві 300 млн євро кредиту на оборонні проєкти",
+  "url": "https://www.pravda.com.ua/news/2025/11/05/8005917/"
  },
  {
   "balance_risk": false,
@@ -885,6 +941,20 @@
   "balance_risk": false,
   "date_published": "2025-11-06",
   "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Аеропорт Ганновера зупиняв роботу через безпілотник",
+  "url": "https://www.pravda.com.ua/news/2025/11/06/8006065/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-06",
+  "fc": 0,
   "nc": 1,
   "oc": 0,
   "official_focus": false,
@@ -978,6 +1048,20 @@
   "sources_json": "ЄС у сфері оборони\"::foreign_official | Європарламенті::foreign_official",
   "title": "Європарламент планує проголосувати за приєднання України до оборонного фонду ЄС",
   "url": "https://www.pravda.com.ua/news/2025/11/06/8006130/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-06",
+  "fc": 5,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 6,
+  "sources_json": "Російський \"Комерсант\" з посиланням на джерела::non_official | У Держдепі::foreign_official | Рубіо в розмові з Лавровим::foreign_official | Трамп::foreign_official | Сам Путін, коментуючи заяву Трампа про скасування двосторонньої зустрічі у Будапешті::foreign_official | Глава МЗС РФ Сергій Лавров::foreign_official",
+  "title": "Лавров потрапив у немилість Путіна після зірваної зустрічі з Трампом – росЗМІ",
+  "url": "https://www.pravda.com.ua/news/2025/11/06/8006163/"
  },
  {
   "balance_risk": false,
@@ -1081,6 +1165,20 @@
   "balance_risk": false,
   "date_published": "2025-11-06",
   "fc": 0,
+  "nc": 5,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 5,
+  "sources_json": "Алієва::non_official | У цьому контексті він::non_official | Крім цього він::non_official | Він також::non_official | Алієв::non_official",
+  "title": "Армія Азербайджану переходить на стандарти НАТО – Алієв",
+  "url": "https://www.pravda.com.ua/news/2025/11/06/8006213/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-06",
+  "fc": 0,
   "nc": 2,
   "oc": 0,
   "official_focus": false,
@@ -1104,6 +1202,34 @@
   "sources_json": "Він::non_official | Дамаск продовжує простягати руку всім країнам світу\"::non_official",
   "title": "Радбез ООН зняв санкції з президента Сирії",
   "url": "https://www.pravda.com.ua/news/2025/11/07/8006240/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-07",
+  "fc": 0,
+  "nc": 2,
+  "oc": 1,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Східного моря в п'ятницю::non_official | Деталі : Об'єднаний штаб збройних сил (JCS)::ukrainian_official | Південнокорейські військові::non_official",
+  "title": "КНДР випустила балістичну ракету в напрямку Східного моря",
+  "url": "https://www.pravda.com.ua/news/2025/11/07/8006248/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-07",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Горіли пошта, СТО і навчальний заклад: ДСНС показали наслідки російського удару по Чугуєву",
+  "url": "https://www.pravda.com.ua/news/2025/11/07/8006252/"
  },
  {
   "balance_risk": false,
@@ -1207,6 +1333,34 @@
   "balance_risk": false,
   "date_published": "2025-11-07",
   "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Україну обрали до Виконавчої ради ЮНЕСКО",
+  "url": "https://www.pravda.com.ua/news/2025/11/07/8006328/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-07",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "У Буковелі загорівся готель, евакуювали 70 людей",
+  "url": "https://www.pravda.com.ua/news/2025/11/07/8006331/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-07",
+  "fc": 0,
   "nc": 1,
   "oc": 1,
   "official_focus": true,
@@ -1230,6 +1384,20 @@
   "sources_json": "",
   "title": "Кількість жертв російських обстрілів Херсонщини зросла до двох, іще шестеро поранені",
   "url": "https://www.pravda.com.ua/news/2025/11/07/8006364/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-07",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Деталі : Головком також::non_official",
+  "title": "Сирський каже, що в Україні скоро розпочне роботу Школа інструкторів",
+  "url": "https://www.pravda.com.ua/news/2025/11/07/8006375/"
  },
  {
   "balance_risk": false,
@@ -1388,6 +1556,20 @@
  {
   "balance_risk": false,
   "date_published": "2025-11-09",
+  "fc": 0,
+  "nc": 1,
+  "oc": 3,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 4,
+  "sources_json": "Уповноважений Верховної Ради з прав людини Дмитро Лубінець::ukrainian_official | Жінка::non_official | Деталі: Лубінець::ukrainian_official | Лубінець::ukrainian_official",
+  "title": "Справа \"Північних потоків\": заарештований в Італії українець перебуває у критичному стані – Лубінець",
+  "url": "https://www.pravda.com.ua/news/2025/11/09/8006500/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-09",
   "fc": 1,
   "nc": 0,
   "oc": 0,
@@ -1412,6 +1594,20 @@
   "sources_json": "Деталі : 9 листопада Трамп::foreign_official | Він уже домігся звільнення 100 заручників і прагне звільнити ще 50\"::non_official",
   "title": "Трамп висунув кандидатуру спецпосланця США в Білорусі",
   "url": "https://www.pravda.com.ua/news/2025/11/09/8006559/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-09",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "На Дніпропетровщині росіяни поранили жінку й зруйнували школу",
+  "url": "https://www.pravda.com.ua/news/2025/11/09/8006562/"
  },
  {
   "balance_risk": false,
@@ -1510,6 +1706,34 @@
   "sources_json": "Всім трьом затриманим прокурори::non_official",
   "title": "Полковник і двоє військових намагалися продати велику партію вибухівки – прокуратура",
   "url": "https://www.pravda.com.ua/news/2025/11/10/8006655/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-10",
+  "fc": 4,
+  "nc": 4,
+  "oc": 1,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 9,
+  "sources_json": "Деталі : У понеділок, 10 листопада, Орбан::foreign_official | Доки він буде президентом, а я – прем'єр-міністром, санкцій не буде\"::ukrainian_official | Орбан::foreign_official | Справжня катастрофа\"::non_official | Прем'єр Угорщини::foreign_official | Тож угорські родини зможуть провести Різдво так, як вони того хотіли\"::non_official | Угорщина у суботу, 8 листопада::non_official | Також Орбан::foreign_official | Угорщина не буде під санкціями США::non_official",
+  "title": "Орбан: Доки Трамп президент, а я прем’єр – Угорщина не буде під санкціями США",
+  "url": "https://www.pravda.com.ua/news/2025/11/10/8006659/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-10",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Євростат::non_official",
+  "title": "У вересні тимчасовий захист у Євросоюзі отримали найбільше українців з 2023 року",
+  "url": "https://www.pravda.com.ua/news/2025/11/10/8006678/"
  },
  {
   "balance_risk": false,
@@ -1669,6 +1893,20 @@
   "balance_risk": false,
   "date_published": "2025-11-11",
   "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Прогноз погоди: по всій Україні пройдуть дощі та похолодає",
+  "url": "https://www.pravda.com.ua/news/2025/11/11/8006811/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-11",
+  "fc": 0,
   "nc": 2,
   "oc": 0,
   "official_focus": false,
@@ -1692,6 +1930,20 @@
   "sources_json": "Деталі: У відомстві::non_official",
   "title": "Фонду Стерненка віддали 44 млн грн від угод зі слідством у справах НАБУ",
   "url": "https://www.pravda.com.ua/news/2025/11/11/8006836/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-11",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Неробоча платформа E-social за 23,7 мільйона: підозру отримав ексзаступник міністра соцполітики",
+  "url": "https://www.pravda.com.ua/news/2025/11/11/8006839/"
  },
  {
   "balance_risk": false,
@@ -1921,6 +2173,20 @@
   "balance_risk": false,
   "date_published": "2025-11-13",
   "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Зокрема, один з учасників схеми::non_official | Тоді ж джерела УП::non_official",
+  "title": "Фігурант справи \"Мідас\" \"Рьошик\" повернувся в Україну якраз напередодні свого арешту",
+  "url": "https://www.pravda.com.ua/news/2025/11/13/8007089/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-13",
+  "fc": 0,
   "nc": 4,
   "oc": 1,
   "official_focus": false,
@@ -2086,6 +2352,20 @@
   "url": "https://www.pravda.com.ua/news/2025/11/14/8007239/"
  },
  {
+  "balance_risk": true,
+  "date_published": "2025-11-14",
+  "fc": 0,
+  "nc": 0,
+  "oc": 1,
+  "official_focus": true,
+  "parket": true,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Генштаб::ukrainian_official",
+  "title": "Сили оборони України вбили або поранили ще 1 040 російських окупантів – Генштаб",
+  "url": "https://www.pravda.com.ua/news/2025/11/14/8007245/"
+ },
+ {
   "balance_risk": false,
   "date_published": "2025-11-14",
   "fc": 0,
@@ -2240,6 +2520,20 @@
   "url": "https://www.pravda.com.ua/news/2025/11/14/8007359/"
  },
  {
+  "balance_risk": false,
+  "date_published": "2025-11-14",
+  "fc": 1,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Францією, і найближчим часом ми фіналізуємо її, впевнений, нашу – історичну угоду\"::non_official | Також::unknown | Емманюель Макрон під час засідання лідерів \"коаліції рішучих\"::foreign_official",
+  "title": "Україна готує угоди з Францією та Грецією щодо авіації й ППО",
+  "url": "https://www.pravda.com.ua/news/2025/11/14/8007384/"
+ },
+ {
   "balance_risk": true,
   "date_published": "2025-11-14",
   "fc": 0,
@@ -2371,6 +2665,20 @@
   "fc": 0,
   "nc": 0,
   "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Зеленський анонсував \"історичну угоду\" з Францією для посилення авіації",
+  "url": "https://www.pravda.com.ua/news/2025/11/16/8007501/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-16",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
   "official_focus": false,
   "parket": false,
   "rubric": "news",
@@ -2378,6 +2686,20 @@
   "sources_json": "",
   "title": "РФ била \"Іскандером\" та 176 дронами, є влучання у 14 локаціях",
   "url": "https://www.pravda.com.ua/news/2025/11/16/8007504/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-16",
+  "fc": 0,
+  "nc": 4,
+  "oc": 3,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 7,
+  "sources_json": "Президент Володимир Зеленський у неділю::ukrainian_official | Деталі : Зеленський на пресконференції::ukrainian_official | Україну газом\"::non_official | Він::non_official | Крім цього::non_official | Грецький премʼєр-міністр своєю чергою::ukrainian_official | Центрально-Східної Європи\"::non_official",
+  "title": "Зеленський: Україна домовилась із Грецією про оперативні поставки газу вже із січня",
+  "url": "https://www.pravda.com.ua/news/2025/11/16/8007529/"
  },
  {
   "balance_risk": false,
@@ -2432,6 +2754,20 @@
   "rubric": "news",
   "sc": 0,
   "sources_json": "",
+  "title": "Росіяни атакують Дніпропетровщину: протягом дня 6 постраждалих",
+  "url": "https://www.pravda.com.ua/news/2025/11/16/8007551/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-16",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
   "title": "В Україні в понеділок стане тепліше, але на заході дощі та сильний вітер",
   "url": "https://www.pravda.com.ua/news/2025/11/16/8007554/"
  },
@@ -2450,6 +2786,20 @@
   "url": "https://www.pravda.com.ua/news/2025/11/16/8007568/"
  },
  {
+  "balance_risk": false,
+  "date_published": "2025-11-17",
+  "fc": 5,
+  "nc": 4,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 10,
+  "sources_json": "Прем'єр-міністр Угорщини Віктор Орбан::foreign_official | Орбана::foreign_official | Таким чином, ми фінансуємо країну, яка не має жодного шансу виграти війну\"::non_official | Не варто продовжувати; зупиніть це якнайшвидше\"::non_official | Стосовно можливого мирного врегулювання Орбан::foreign_official | Він також::non_official | Описуючи майбутню систему безпеки, Орбан::foreign_official | Це реальність, подобається вона вам чи ні\"::unknown | Орбан::foreign_official | У Вашингтоні::non_official",
+  "title": "Орбан впевнений у перемозі Росії та називає допомогу Україні \"божевіллям\", яке вбиває ЄС",
+  "url": "https://www.pravda.com.ua/news/2025/11/17/8007586/"
+ },
+ {
   "balance_risk": true,
   "date_published": "2025-11-17",
   "fc": 0,
@@ -2462,6 +2812,20 @@
   "sources_json": "Генштаб::ukrainian_official",
   "title": "За добу Сили оборони України відмінусували ще 1 160 російських окупантів – Генштаб",
   "url": "https://www.pravda.com.ua/news/2025/11/17/8007587/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-17",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Польща відкрила 2 КПП на кордоні з Білоруссю: вони не працювали роками",
+  "url": "https://www.pravda.com.ua/news/2025/11/17/8007600/"
  },
  {
   "balance_risk": true,
@@ -2546,6 +2910,20 @@
   "sources_json": "Деталі : Як::non_official | Крім того, захист::non_official | Також захист::unknown | Серед іншого, в ході засідання суддя::non_official | За результатами засідання в понеділок, суддя::non_official",
   "title": "ВАКС відклав обрання запобіжного заходу Чернишову на 18 листопада",
   "url": "https://www.pravda.com.ua/news/2025/11/17/8007732/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-18",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Російський нафтогігант \" Лукойл \"::non_official",
+  "title": "Мінфін США: санкції проти \"Роснефти\" та \"Лукойлу\" уже скорочують доходи Росії від нафти",
+  "url": "https://www.pravda.com.ua/news/2025/11/18/8007758/"
  },
  {
   "balance_risk": false,
@@ -2658,6 +3036,20 @@
   "sources_json": "Голова правління фундації DEJURE Михайло Жернаков::non_official | Водночас у пресслужбі Нацполіції \"Українській правді\"::ukrainian_official",
   "title": "Правник Жернаков заявив, що до нього додому намагається увірватись поліція",
   "url": "https://www.pravda.com.ua/news/2025/11/18/8007825/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-18",
+  "fc": 2,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 4,
+  "sources_json": "Речник міністра-координатора спеціальних служб Польщі Яцек Добжинський::foreign_official | Деталі : Добжинський::non_official | Російські служби дуже хочуть знати, в якому напрямку рухаються наші співробітники\"::non_official | Вранці 17 листопада прем'єр Дональд Туск::foreign_official",
+  "title": "У Польщі не виключають, що за диверсіями на залізниці стоять спецслужби РФ",
+  "url": "https://www.pravda.com.ua/news/2025/11/18/8007832/"
  },
  {
   "balance_risk": true,
@@ -3041,6 +3433,20 @@
   "balance_risk": false,
   "date_published": "2025-11-20",
   "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Деталі: У Коордштабі::non_official",
+  "title": "В Україну повернули ще 1000 тіл загиблих українців",
+  "url": "https://www.pravda.com.ua/news/2025/11/20/8008188/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-20",
+  "fc": 0,
   "nc": 0,
   "oc": 0,
   "official_focus": false,
@@ -3234,6 +3640,20 @@
   "url": "https://www.pravda.com.ua/news/2025/11/21/8008376/"
  },
  {
+  "balance_risk": true,
+  "date_published": "2025-11-21",
+  "fc": 0,
+  "nc": 0,
+  "oc": 1,
+  "official_focus": true,
+  "parket": true,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Колишньому депутату Київради Денису Комарницькому заочно::ukrainian_official",
+  "title": "Ексдепутату-втікачу Комарницькому оголосили підозру в несплаті 12 млн податків",
+  "url": "https://www.pravda.com.ua/news/2025/11/21/8008387/"
+ },
+ {
   "balance_risk": false,
   "date_published": "2025-11-21",
   "fc": 0,
@@ -3320,6 +3740,20 @@
  {
   "balance_risk": false,
   "date_published": "2025-11-22",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "РФ атакувала пункт пропуску на кордоні з Румунією",
+  "url": "https://www.pravda.com.ua/news/2025/11/22/8008487/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-22",
   "fc": 2,
   "nc": 2,
   "oc": 0,
@@ -3358,6 +3792,20 @@
   "sources_json": "Деталі : У листі Орбан::foreign_official | США, ми повинні без зволікань розпочати автономні та прямі переговори з Росією\"::non_official | Він::non_official | Посадовець ЄС на умовах анонімності у відповідь на лист Орбана::foreign_official | ЄС, з метою продовження цієї підтримки у світлі останніх подій\"::foreign_official | Лідери європейських держав та євроінституцій, прем'єри Британії Канади, Японії та Норвегії::foreign_official",
   "title": "Орбан вимагає від ЄС підтримати план Трампа й зупинити допомогу Україні",
   "url": "https://www.pravda.com.ua/news/2025/11/22/8008541/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-22",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Росіяни вбили жінку й поранили ще 5 людей на Нікопольщині",
+  "url": "https://www.pravda.com.ua/news/2025/11/22/8008561/"
  },
  {
   "balance_risk": false,
@@ -3428,6 +3876,34 @@
   "sources_json": "Керівник української делегації на переговорах, керівник ОПУ Андрій Єрмак::ukrainian_official | Володимир Зеленський за результатами звітів української команди на переговорах у Женеві::ukrainian_official | Секретар РНБО, член делегації України на мирних переговорах Рустем Умєров::ukrainian_official | Єрмак::ukrainian_official",
   "title": "У Женеві завершилася зустріч із делегацією США, на черзі друга з залученням європейців – Єрмак",
   "url": "https://www.pravda.com.ua/news/2025/11/23/8008648/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-23",
+  "fc": 0,
+  "nc": 1,
+  "oc": 2,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Президент Володимир Зеленський::ukrainian_official | І щоб було саме це, мир має бути достойним\"::non_official | Зеленський::ukrainian_official",
+  "title": "Зеленський: РФ намагається залишити можливість воювати довше і не тільки проти України",
+  "url": "https://www.pravda.com.ua/news/2025/11/23/8008651/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-23",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Деталі : Як::non_official",
+  "title": "У Слов'янську через удари РФ п'ятеро поранених, серед них двоє дітей",
+  "url": "https://www.pravda.com.ua/news/2025/11/23/8008652/"
  },
  {
   "balance_risk": false,
@@ -3572,6 +4048,20 @@
  {
   "balance_risk": false,
   "date_published": "2025-11-24",
+  "fc": 0,
+  "nc": 4,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 4,
+  "sources_json": "У Литві::non_official | Деталі : У NKVC::non_official | Вільнюса, були перевезені до Каунаса і змогли продовжити свою подорож звідти\"::non_official | Він також::non_official",
+  "title": "У Литві заявили про \"найнапруженішу\" ніч через метеозонди з Білорусі",
+  "url": "https://www.pravda.com.ua/news/2025/11/24/8008697/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-24",
   "fc": 1,
   "nc": 0,
   "oc": 0,
@@ -3596,6 +4086,20 @@
   "sources_json": "Чехії, Португалії, Німеччини, Хорватії, Словаччини, Нідерландів, Італії та Ірландії\"::non_official | Він::non_official",
   "title": "З'явились деталі неформального саміту лідерів ЄС щодо миру в Україні, який стартував в Анголі",
   "url": "https://www.pravda.com.ua/news/2025/11/24/8008733/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-24",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Квартира у \"Французькому кварталі\", Toyota і паркомісце: ВАКС конфіскував активи ексдепутата",
+  "url": "https://www.pravda.com.ua/news/2025/11/24/8008752/"
  },
  {
   "balance_risk": false,
@@ -3642,6 +4146,20 @@
  {
   "balance_risk": false,
   "date_published": "2025-11-24",
+  "fc": 3,
+  "nc": 3,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 6,
+  "sources_json": "Президент США Дональд Трамп::foreign_official | Джерело : Трамп::foreign_official | Україну/Росію, фентаніл, сою та інші сільськогосподарські продукти тощо\"::non_official | Він::non_official | Німеччини Ларс Клінгбайль на початку офіційного візиту до Пекіна::non_official | Наприкінці жовтня Трамп::foreign_official",
+  "title": "Трамп обговорив із Сі Україну та Росію",
+  "url": "https://www.pravda.com.ua/news/2025/11/24/8008799/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-24",
   "fc": 1,
   "nc": 2,
   "oc": 0,
@@ -3652,6 +4170,20 @@
   "sources_json": "Лукойл\" та \"Роснефти\", 76% опитаних::non_official | Трампа::foreign_official | Читайте детальніше, чому Україна::non_official",
   "title": "Серед виборців Трампа лише 16% підтримують територіальні поступки України задля миру",
   "url": "https://www.pravda.com.ua/news/2025/11/24/8008824/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-25",
+  "fc": 0,
+  "nc": 3,
+  "oc": 2,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 5,
+  "sources_json": "Деталі: Кличко::ukrainian_official | Пізніше Ткаченко::non_official | Близько третьої години ночі Ткаченко::non_official | Оновлено: Згодом Ткаченко::non_official | Мер Києва Віталій Кличко::ukrainian_official",
+  "title": "У Києві внаслідок російської атаки одна людина загинула, семеро – поранені",
+  "url": "https://www.pravda.com.ua/news/2025/11/25/8008838/"
  },
  {
   "balance_risk": false,
@@ -3694,6 +4226,20 @@
   "sources_json": "У КМВА::ukrainian_official | Відразу після цього Повітряні сили::ukrainian_official | Ще пізніше ПС::non_official",
   "title": "Загроза для всієї України: МіГ-31К здійснив пуск, на Київ летять ракети",
   "url": "https://www.pravda.com.ua/news/2025/11/25/8008847/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-25",
+  "fc": 0,
+  "nc": 1,
+  "oc": 2,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 4,
+  "sources_json": "Ткаченка::non_official | Там також::unknown | ДСНС::ukrainian_official | Мер Києва Віталій Кличко::ukrainian_official",
+  "title": "У Києві вже 7 загиблих і 20 постраждалих через російську атаку",
+  "url": "https://www.pravda.com.ua/news/2025/11/25/8008848/"
  },
  {
   "balance_risk": false,
@@ -3741,6 +4287,20 @@
   "balance_risk": false,
   "date_published": "2025-11-25",
   "fc": 0,
+  "nc": 1,
+  "oc": 1,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Деталі : Також Зеленський::ukrainian_official | Він::non_official",
+  "title": "Зеленський і Мерц обговорили \"мирний план\" та скоординували наступні кроки",
+  "url": "https://www.pravda.com.ua/news/2025/11/25/8008927/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-25",
+  "fc": 0,
   "nc": 2,
   "oc": 0,
   "official_focus": true,
@@ -3778,6 +4338,20 @@
   "sources_json": "Раніше Генштаб::ukrainian_official",
   "title": "Мадяр показав фото знищених російських літаків у Таганрозі",
   "url": "https://www.pravda.com.ua/news/2025/11/25/8008964/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-25",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Зеленський заявив, що міг би зустрітися з Трампом за участі європейских лідерів",
+  "url": "https://www.pravda.com.ua/news/2025/11/25/8008981/"
  },
  {
   "balance_risk": false,
@@ -3862,6 +4436,20 @@
   "sources_json": "",
   "title": "Бійці ССО знищили ворожу ДРГ у Покровську",
   "url": "https://www.pravda.com.ua/news/2025/11/26/8009021/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-26",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Ушаков::non_official",
+  "title": "В Абу-Дабі зустрічалися представники спецслужб України і Росії – помічник Путіна",
+  "url": "https://www.pravda.com.ua/news/2025/11/26/8009042/"
  },
  {
   "balance_risk": false,
@@ -4049,6 +4637,20 @@
   "balance_risk": false,
   "date_published": "2025-11-27",
   "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "У парламенті також::non_official",
+  "title": "У Кишиневі вирішили закрити \"Русский дом\" – рішення парламенту",
+  "url": "https://www.pravda.com.ua/news/2025/11/27/8009228/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-27",
+  "fc": 0,
   "nc": 2,
   "oc": 0,
   "official_focus": false,
@@ -4072,6 +4674,20 @@
   "sources_json": "Своєю чергою в російській Генпрокуратурі::non_official | Федеральна служба виконання покарань::non_official",
   "title": "ФБК визнали \"терористичною організацією\" в Росії",
   "url": "https://www.pravda.com.ua/news/2025/11/27/8009236/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-27",
+  "fc": 1,
+  "nc": 0,
+  "oc": 2,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Також Зеленський висловив сподівання на достойний мир й::ukrainian_official | повідомляла \"Європейська правда\", 25 листопада американський Трамп::foreign_official | Андрій Сибіга::ukrainian_official",
+  "title": "Зеленський подякував Трампу в День подяки та сказав, чого чекає ще",
+  "url": "https://www.pravda.com.ua/news/2025/11/27/8009241/"
  },
  {
   "balance_risk": false,
@@ -4142,6 +4758,34 @@
   "sources_json": "Німецька прокуратура::foreign_official | За даними The Wall Street Journal, німецькі слідчі::non_official | The Wall Street Journal::non_official",
   "title": "Підрив \"Північних потоків\": Італія екстрадувала до Німеччини обвинуваченого українця",
   "url": "https://www.pravda.com.ua/news/2025/11/27/8009282/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-27",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "На Закарпатті викрили угрупування: військовий у СЗЧ зі спільниками переправляли осіб через кордон",
+  "url": "https://www.pravda.com.ua/news/2025/11/27/8009298/"
+ },
+ {
+  "balance_risk": true,
+  "date_published": "2025-11-27",
+  "fc": 0,
+  "nc": 0,
+  "oc": 1,
+  "official_focus": true,
+  "parket": true,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Генштаб::ukrainian_official",
+  "title": "Від початку доби відбулось 231 зіткнення на фронті – Генштаб",
+  "url": "https://www.pravda.com.ua/news/2025/11/27/8009327/"
  },
  {
   "balance_risk": false,
@@ -4296,6 +4940,20 @@
   "sources_json": "Він::non_official | Президент::ukrainian_official",
   "title": "Зеленський розповів, хто вестиме мирні переговори після звільнення Єрмака",
   "url": "https://www.pravda.com.ua/news/2025/11/28/8009442/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2025-11-28",
+  "fc": 0,
+  "nc": 1,
+  "oc": 1,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Деталі: Начальник поліції області Андрій Дуброва::ukrainian_official | Слідчі::non_official",
+  "title": "На Кіровоградщині затримали трьох чоловіків за вбивство військового металевою арматурою",
+  "url": "https://www.pravda.com.ua/news/2025/11/28/8009445/"
  },
  {
   "balance_risk": false,

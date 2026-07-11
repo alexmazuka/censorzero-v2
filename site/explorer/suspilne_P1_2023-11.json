@@ -463,6 +463,20 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2023-11-22",
+  "fc": 0,
+  "nc": 2,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Я дякую за таке лідерство\"::non_official | Зеленський::ukrainian_official | Cуспільне Новини::non_official",
+  "title": "\"Український повітряний щит стає сильнішим\" Зеленський підбив підсумки чергового засідання у форматі \"Рамштайн\"",
+  "url": "https://suspilne.media/623287-ukrainskij-povitranij-sit-stae-silnisim-zelenskij-pidbiv-pidsumki-cergovogo-zasidanna-u-formati-ramstajn/"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2023-11-23",
   "fc": 0,
   "nc": 1,

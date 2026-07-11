@@ -1,21 +1,21 @@
 {
  "by_outlet_period": {
   "pravda": {
-   "P0": 5325,
-   "P1": 2299,
-   "P2": 1958
+   "P0": 5576,
+   "P1": 2603,
+   "P2": 2179
   },
   "suspilne": {
    "P0": 315,
-   "P1": 322,
+   "P1": 324,
    "P2": 414
   },
   "ukrinform": {
-   "P0": 5028,
-   "P1": 4391,
-   "P2": 4339
+   "P0": 5441,
+   "P1": 4779,
+   "P2": 4766
   }
  },
- "dropped_out_of_period": 1528,
- "raw_rows": 25919
+ "dropped_out_of_period": 1579,
+ "raw_rows": 27976
 }

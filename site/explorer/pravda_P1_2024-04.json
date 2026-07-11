@@ -481,6 +481,20 @@
   "fc": 0,
   "nc": 0,
   "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "У Харкові з'явилися вулиця Єніна та в'їзд Джуса",
+  "url": "https://www.pravda.com.ua/news/2024/04/02/7449374/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-02",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
   "official_focus": false,
   "parket": false,
   "rubric": "news",
@@ -534,6 +548,34 @@
  {
   "balance_risk": false,
   "date_published": "2024-04-03",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Тайванського центрального командного центру з надзвичайних ситуацій::non_official",
+  "title": "На Тайвані стався найсильніший за 25 років землетрус магнітудою 7,4 бала",
+  "url": "https://www.pravda.com.ua/news/2024/04/03/7449403/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-03",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Мінус 710 окупантів, 30 артсистем і 18 ББМ − втрати РФ за добу",
+  "url": "https://www.pravda.com.ua/news/2024/04/03/7449406/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-03",
   "fc": 1,
   "nc": 1,
   "oc": 1,
@@ -563,6 +605,20 @@
   "balance_risk": false,
   "date_published": "2024-04-03",
   "fc": 0,
+  "nc": 1,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Деталі: Президент::ukrainian_official | Він::non_official",
+  "title": "За березень Росія вдарила по Україні понад 4 тисячами бомб, ракет і \"Шахедів\" − Зеленський",
+  "url": "https://www.pravda.com.ua/news/2024/04/03/7449431/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-03",
+  "fc": 0,
   "nc": 4,
   "oc": 0,
   "official_focus": false,
@@ -586,6 +642,20 @@
   "sources_json": "Джерела серед українських високопоставлених офіцерів::non_official | Один із офіцерів::non_official | Українські офіцери::non_official | Командувач Сухопутних військ ЗСУ генерал-лейтенант Олександр Павлюк::ukrainian_official | Президент України Володимир Зеленський::ukrainian_official | При цьому він не::non_official",
   "title": "Джерела Politico: Якщо Росія піде в наступ, то лінія фронту може зруйнуватися",
   "url": "https://www.pravda.com.ua/news/2024/04/03/7449439/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-03",
+  "fc": 0,
+  "nc": 3,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Деталі: Бербок::non_official | Вона::non_official | Раніше генсек Альянсу::non_official",
+  "title": "Бербок не вірить у план Столтенберга створити фонд на €100 млрд для України",
+  "url": "https://www.pravda.com.ua/news/2024/04/03/7449512/"
  },
  {
   "balance_risk": true,
@@ -842,6 +912,20 @@
  {
   "balance_risk": false,
   "date_published": "2024-04-05",
+  "fc": 2,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Дослівно: \"(Байден) чітко::foreign_official | Ще деталі: Президент США також::foreign_official | Зі свого боку держсекретар США Ентоні Блінкен::non_official",
+  "title": "Байден провів \"попереджувальну\" розмову з Нетаньягу",
+  "url": "https://www.pravda.com.ua/news/2024/04/05/7449785/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-05",
   "fc": 4,
   "nc": 0,
   "oc": 0,
@@ -980,6 +1064,34 @@
   "url": "https://www.pravda.com.ua/news/2024/04/06/7449982/"
  },
  {
+  "balance_risk": false,
+  "date_published": "2024-04-06",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "У Харкові через влучання \"Шахеда\" кількість загиблих зросла до шести",
+  "url": "https://www.pravda.com.ua/news/2024/04/06/7449984/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-06",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Цієї ночі ППО знищила 28 \"Шахедів\" з 32 та три крилаті ракети",
+  "url": "https://www.pravda.com.ua/news/2024/04/06/7449987/"
+ },
+ {
   "balance_risk": true,
   "date_published": "2024-04-06",
   "fc": 0,
@@ -1090,6 +1202,20 @@
   "sources_json": "Деталі: Зеленський::ukrainian_official",
   "title": "Президент закликав Раду ухвалити закон про мобілізацію найближчими днями",
   "url": "https://www.pravda.com.ua/news/2024/04/06/7450055/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-06",
+  "fc": 0,
+  "nc": 2,
+  "oc": 4,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 6,
+  "sources_json": "Президент Володимир Зеленський::ukrainian_official | Зеленський::ukrainian_official | Коментуючи наявність боєприпасів у Сил оборони, Зеленський::ukrainian_official | Президент також::ukrainian_official | Всі ці домовленості є, але тим не менш, поки так\"::non_official | Він також::non_official",
+  "title": "Зеленський: Щоб закрити Україну повністю, потрібно 25 систем Patriot",
+  "url": "https://www.pravda.com.ua/news/2024/04/06/7450058/"
  },
  {
   "balance_risk": false,
@@ -1317,6 +1443,20 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2024-04-07",
+  "fc": 1,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Сайфулло::non_official | Самопроголошений президент Білорусі Олександр Лукашенко::foreign_official",
+  "title": "\"Мільйон рублів у Києві й синьо-жовтий прапор\": росТБ показало ледь живих затриманих за \"Крокус\"",
+  "url": "https://www.pravda.com.ua/news/2024/04/07/7450158/"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2024-04-08",
   "fc": 0,
   "nc": 0,
@@ -1444,6 +1584,20 @@
  {
   "balance_risk": false,
   "date_published": "2024-04-08",
+  "fc": 1,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Російської Федерації\"::non_official | Чехії та Польщі проросійських мереж упливу чеський прем’єр Петр Фіала::foreign_official | ЗМІ::non_official",
+  "title": "Чехія планує вислати з країни впливового представника російської діаспори – ЗМІ",
+  "url": "https://www.pravda.com.ua/news/2024/04/08/7450237/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-08",
   "fc": 0,
   "nc": 0,
   "oc": 0,
@@ -1566,6 +1720,20 @@
   "sources_json": "Деталі : Лідери також::non_official",
   "title": "Сунак і Макрон обговорили збільшення поставок Україні боєприпасів та засобів ППО",
   "url": "https://www.pravda.com.ua/news/2024/04/08/7450324/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-09",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Росіяни запускали по Україні кілька груп \"Шахедів\"",
+  "url": "https://www.pravda.com.ua/news/2024/04/09/7450327/"
  },
  {
   "balance_risk": false,
@@ -1765,6 +1933,20 @@
  },
  {
   "balance_risk": false,
+  "date_published": "2024-04-09",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Російські війська вдруге за вечір атакували Одещину, є влучання",
+  "url": "https://www.pravda.com.ua/news/2024/04/09/7450496/"
+ },
+ {
+  "balance_risk": false,
   "date_published": "2024-04-10",
   "fc": 0,
   "nc": 1,
@@ -1822,6 +2004,20 @@
  {
   "balance_risk": false,
   "date_published": "2024-04-10",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Місцеві журналісти::non_official",
+  "title": "Росія запускала нову хвилю безпілотників на Одеську область та била ракетами",
+  "url": "https://www.pravda.com.ua/news/2024/04/10/7450519/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-10",
   "fc": 2,
   "nc": 2,
   "oc": 0,
@@ -1839,6 +2035,34 @@
   "fc": 0,
   "nc": 0,
   "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "На Херсонщині дитина травмувалася через вибухонебезпечний предмет",
+  "url": "https://www.pravda.com.ua/news/2024/04/10/7450543/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-10",
+  "fc": 0,
+  "nc": 1,
+  "oc": 2,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Деталі : Глава держави::ukrainian_official | Мені потрібна реальна ідея, тому що на кону життя людей\"::non_official | Глава держави також::ukrainian_official",
+  "title": "Зеленський назвав примітивними ідеї, які приписують Трампу щодо припинення війни",
+  "url": "https://www.pravda.com.ua/news/2024/04/10/7450549/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-10",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
   "official_focus": true,
   "parket": false,
   "rubric": "news",
@@ -1846,6 +2070,20 @@
   "sources_json": "",
   "title": "На Одещині затримали чоловіків, які хотіли перетнути кордон за маршрутом з Telegram-каналу",
   "url": "https://www.pravda.com.ua/news/2024/04/10/7450562/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-10",
+  "fc": 0,
+  "nc": 3,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Ніхто зараз не::non_official | Деталі : Терехов::non_official | Україна::non_official",
+  "title": "Терехов: Ніхто зараз не вважає харків’ян ватниками. Ми довели всім, що ми – Україна",
+  "url": "https://www.pravda.com.ua/news/2024/04/10/7450569/"
  },
  {
   "balance_risk": false,
@@ -1888,6 +2126,20 @@
   "sources_json": "",
   "title": "Нардепи прийняли в першому читанні законопроєкт про мобілізацію засуджених",
   "url": "https://www.pravda.com.ua/news/2024/04/10/7450590/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-10",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Фігурантам::non_official",
+  "title": "На Дніпропетровщині мера Новомосковська з поплічником затримали на хабарі в 30 тисяч доларів",
+  "url": "https://www.pravda.com.ua/news/2024/04/10/7450610/"
  },
  {
   "balance_risk": false,
@@ -2020,6 +2272,34 @@
   "date_published": "2024-04-11",
   "fc": 0,
   "nc": 1,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Деталі : Він::non_official | Раніше Київська ОВА::ukrainian_official",
+  "title": "Росія вдарила по енергетичній інфраструктурі у 4 областях − Міненерго",
+  "url": "https://www.pravda.com.ua/news/2024/04/11/7450704/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-11",
+  "fc": 0,
+  "nc": 0,
+  "oc": 7,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 7,
+  "sources_json": "Сили оборони півдня::ukrainian_official | У ДСНС::ukrainian_official | ДСНС::ukrainian_official | Голова Івано-Франківської ОВА Світлана Онищук::ukrainian_official | Раніше Київська ОВА::ukrainian_official | Міністр енергетики Герман Галущенко::ukrainian_official | Генштаб ЗСУ::ukrainian_official",
+  "title": "Нічна атака росіян: спалахнули пожежі на енергооб’єктах Львівщини, Одещини і Запоріжжя",
+  "url": "https://www.pravda.com.ua/news/2024/04/11/7450712/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-11",
+  "fc": 0,
+  "nc": 1,
   "oc": 0,
   "official_focus": true,
   "parket": false,
@@ -2130,6 +2410,20 @@
  {
   "balance_risk": false,
   "date_published": "2024-04-12",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Деталі: Він::non_official",
+  "title": "Прем’єр-міністр Франції: У питаннях безпеки ЄС повинен покладатися на власні сили",
+  "url": "https://www.pravda.com.ua/news/2024/04/12/7450898/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-12",
   "fc": 1,
   "nc": 1,
   "oc": 0,
@@ -2210,6 +2504,20 @@
   "sources_json": "ДСНС попередньо внаслідок обстрілу поранень зазнали 3 особи::ukrainian_official | Оновлено: О 16:54 Донецька обласна прокуратура::ukrainian_official",
   "title": "Кількість постраждалих від ракетного удару по Костянтинівці зросла до 6",
   "url": "https://www.pravda.com.ua/news/2024/04/12/7450995/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-12",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Розкрадання 26 млн на оборудках з пальним: ВАКС арештував ексначальника департаменту СБУ",
+  "url": "https://www.pravda.com.ua/news/2024/04/12/7451000/"
  },
  {
   "balance_risk": true,
@@ -2634,6 +2942,20 @@
  {
   "balance_risk": false,
   "date_published": "2024-04-15",
+  "fc": 2,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Проте він з ентузіазмом::non_official | Ми ще раз закликаємо Джо Байдена взяти на себе зобов'язання щодо дебатів\"::foreign_official | Перед цим Байден::foreign_official",
+  "title": "Американські медіа закликали Байдена і Трампа провести дебати",
+  "url": "https://www.pravda.com.ua/news/2024/04/15/7451233/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-15",
   "fc": 0,
   "nc": 2,
   "oc": 1,
@@ -2644,6 +2966,20 @@
   "sources_json": "Деталі : Дехтяренко не розкрив усі технічні характеристики, але::non_official | Дехтяренка::non_official | СБУ::ukrainian_official",
   "title": "Українські морські дрони доносять тонну вибухівки на тисячу кілометрів – СБУ",
   "url": "https://www.pravda.com.ua/news/2024/04/15/7451235/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-15",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Росіяни активно атакують на Новопавлівському та Бахмутському напрямках − Генштаб",
+  "url": "https://www.pravda.com.ua/news/2024/04/15/7451243/"
  },
  {
   "balance_risk": false,
@@ -2672,6 +3008,20 @@
   "sources_json": "",
   "title": "Обстріл Сіверська 14 квітня: загинули 4 людини",
   "url": "https://www.pravda.com.ua/news/2024/04/15/7451277/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-15",
+  "fc": 2,
+  "nc": 1,
+  "oc": 1,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 4,
+  "sources_json": "Президент Франції Емманюель Макрон::foreign_official | Деталі : Макрон::foreign_official | Він::non_official | Також президент::ukrainian_official",
+  "title": "Макрон запропонує світове перемир’я включно з Україною на час Олімпіади",
+  "url": "https://www.pravda.com.ua/news/2024/04/15/7451284/"
  },
  {
   "balance_risk": false,
@@ -2742,6 +3092,20 @@
   "sources_json": "",
   "title": "Армія РФ вночі обстріляла село на Херсонщині, поранена 16-річна дівчина",
   "url": "https://www.pravda.com.ua/news/2024/04/15/7451303/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-15",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Деталі: о 14:34 Пронін::non_official",
+  "title": "Росіяни атакували Полтаву, в місті пролунав вибух",
+  "url": "https://www.pravda.com.ua/news/2024/04/15/7451310/"
  },
  {
   "balance_risk": false,
@@ -2973,6 +3337,20 @@
   "fc": 0,
   "nc": 1,
   "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Деталі : Як::non_official",
+  "title": "Омбудсмен про мобілізаційний закон: Найкращий варіант, на який могли сподіватися",
+  "url": "https://www.pravda.com.ua/news/2024/04/16/7451498/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-16",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
   "official_focus": false,
   "parket": false,
   "rubric": "news",
@@ -3148,6 +3526,20 @@
   "sources_json": "За кілька хвилин Повітряні сили::ukrainian_official",
   "title": "У низці областей вила повітряна тривога через російські ракети, у Чернігові лунали вибухи",
   "url": "https://www.pravda.com.ua/news/2024/04/17/7451590/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-17",
+  "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Азербайджану\"::non_official | ЗМІ::non_official",
+  "title": "\"Миротворці\" РФ почали виходити з Карабаху, який контролює Азербайджан - ЗМІ",
+  "url": "https://www.pravda.com.ua/news/2024/04/17/7451617/"
  },
  {
   "balance_risk": false,
@@ -3448,6 +3840,20 @@
   "date_published": "2024-04-18",
   "fc": 0,
   "nc": 1,
+  "oc": 1,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Наступна лише за кілька тижнів\"::non_official | Глава МЗС Кулеба::ukrainian_official",
+  "title": "Виробник IRIS-T обіцяє надіслати ще одну систему в Україну \"за кілька тижнів\"",
+  "url": "https://www.pravda.com.ua/news/2024/04/18/7451815/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-18",
+  "fc": 0,
+  "nc": 1,
   "oc": 0,
   "official_focus": true,
   "parket": false,
@@ -3628,6 +4034,20 @@
  {
   "balance_risk": false,
   "date_published": "2024-04-19",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Бої за Новомихайлівку: десантники 79-ки вже знищили понад 300 одиниць техніки РФ",
+  "url": "https://www.pravda.com.ua/news/2024/04/19/7452024/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-19",
   "fc": 3,
   "nc": 1,
   "oc": 0,
@@ -3794,6 +4214,20 @@
   "url": "https://www.pravda.com.ua/news/2024/04/20/7452118/"
  },
  {
+  "balance_risk": false,
+  "date_published": "2024-04-20",
+  "fc": 0,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Деталі: Військові::non_official | Мрочко::non_official",
+  "title": "У Києві та в більшості областей повітряна тривога. У Херсоні пролунав вибух",
+  "url": "https://www.pravda.com.ua/news/2024/04/20/7452119/"
+ },
+ {
   "balance_risk": true,
   "date_published": "2024-04-20",
   "fc": 0,
@@ -3904,6 +4338,20 @@
   "sources_json": "",
   "title": "Тиждень в Україні почнеться з дощів",
   "url": "https://www.pravda.com.ua/news/2024/04/21/7452242/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-21",
+  "fc": 1,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Деталі : Політик::non_official | Ми, європейці, маємо зробити для України набагато більше\"::non_official | Лідер демократичної більшості у Сенаті США Чак Шумер::foreign_official",
+  "title": "У Бундестазі допускають, що затверджена допомога США Україні може стати останньою",
+  "url": "https://www.pravda.com.ua/news/2024/04/21/7452261/"
  },
  {
   "balance_risk": false,
@@ -4072,6 +4520,20 @@
   "sources_json": "Він::non_official | Раніше у Держприкордонслужбі::ukrainian_official | Нагадаємо, 18 квітня прем'єр-міністр Польщі Дональд Туск::foreign_official",
   "title": "Польські фермери блокують вантажівки у двох пунктах пропуску на кордоні з Україною",
   "url": "https://www.pravda.com.ua/news/2024/04/22/7452347/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-22",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Синоптики прогнозують дощ та заморозки",
+  "url": "https://www.pravda.com.ua/news/2024/04/22/7452356/"
  },
  {
   "balance_risk": false,
@@ -4356,6 +4818,20 @@
  {
   "balance_risk": false,
   "date_published": "2024-04-24",
+  "fc": 3,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "У 2023 році Незалежна міжнародна комісія ООН з розслідування порушень в Україні::foreign_official | Генсек ООН у звіті вчергове::foreign_official | ООН::foreign_official",
+  "title": "ООН зафіксувала в Україні 85 випадків сексуального насильства, пов’язаних із війною",
+  "url": "https://www.pravda.com.ua/news/2024/04/24/7452670/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-24",
   "fc": 0,
   "nc": 0,
   "oc": 0,
@@ -4422,6 +4898,20 @@
   "sources_json": "",
   "title": "Мистецький аукціон \"Української правди\" зібрав понад 2 млн гривень на РЕБи",
   "url": "https://www.pravda.com.ua/news/2024/04/24/7452736/"
+ },
+ {
+  "balance_risk": true,
+  "date_published": "2024-04-24",
+  "fc": 2,
+  "nc": 0,
+  "oc": 1,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Водночас, адвокат заарештованого заступника міністра оборони::ukrainian_official | Речник президента РФ Дмитро Пєсков::foreign_official | Кремля Володимиру Путіну::foreign_official",
+  "title": "ЗМІ: Заступника Шойгу арештували за держзраду, а не за хабар",
+  "url": "https://www.pravda.com.ua/news/2024/04/24/7452740/"
  },
  {
   "balance_risk": false,
@@ -4611,6 +5101,20 @@
   "fc": 0,
   "nc": 0,
   "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "ЗСУ за добу відмінусували понад тисячу окупантів",
+  "url": "https://www.pravda.com.ua/news/2024/04/25/7452849/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-25",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
   "official_focus": false,
   "parket": false,
   "rubric": "news",
@@ -4646,6 +5150,34 @@
   "sources_json": "",
   "title": "Не встиг випустити жодної ракети: Сили оборони спалили російський \"Бук-М1\"",
   "url": "https://www.pravda.com.ua/news/2024/04/25/7452865/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-25",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Киян просять розповісти, де і як вони стикалися з корупцією у столиці",
+  "url": "https://www.pravda.com.ua/news/2024/04/25/7452874/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-25",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "По всій Україні лунала тривога через російський МіГ-31К",
+  "url": "https://www.pravda.com.ua/news/2024/04/25/7452881/"
  },
  {
   "balance_risk": false,
@@ -4772,6 +5304,20 @@
   "sources_json": "Кремлівський лідер Володимир Путін::foreign_official | Деталі: Путін::foreign_official | Російського союзу промисловців і підприємців 25 квітня::non_official",
   "title": "Путін планує відвідати Китай у травні",
   "url": "https://www.pravda.com.ua/news/2024/04/25/7453015/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2024-04-25",
+  "fc": 0,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 1,
+  "sources_json": "Довідково : Як::non_official",
+  "title": "На фронті загинув головний сержант бригади \"Хартія\" Олександр Ющенко",
+  "url": "https://www.pravda.com.ua/news/2024/04/25/7453018/"
  },
  {
   "balance_risk": false,

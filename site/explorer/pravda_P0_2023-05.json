@@ -9186,6 +9186,20 @@
  {
   "balance_risk": false,
   "date_published": "2023-05-10",
+  "fc": 1,
+  "nc": 1,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 2,
+  "sources_json": "Деталі : Райдер::non_official | Пентагон::foreign_official",
+  "title": "США навчають у Німеччині понад 2 тисячі українських військових – Пентагон",
+  "url": "https://www.pravda.com.ua/news/2023/05/10/7401442/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-05-10",
   "fc": 0,
   "nc": 4,
   "oc": 0,
@@ -9350,6 +9364,20 @@
   "sources_json": "Президентка Європейської комісії Урсула фон дер Ляєн у вівторок у Києві::foreign_official | Вона::non_official | Дипломатичні джерела, знайомі з пропозицією, розробленою Єврокомісією::foreign_official | Раніше ЗМІ::non_official | ЗМІ::non_official",
   "title": "Посли ЄС починають обговорення нових санкцій проти РФ, переговори можуть затягнутися – ЗМІ",
   "url": "https://www.pravda.com.ua/news/2023/05/10/7401473/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-05-10",
+  "fc": 0,
+  "nc": 3,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 3,
+  "sources_json": "Деталі: Білецький::non_official | Захисники::non_official | ПВК \"Вагнер\" Євген Пригожин::non_official",
+  "title": "Захисники розбили підрозділи 72-ї бригади РФ під Бахмутом: звільнили територію і набрали полонених",
+  "url": "https://www.pravda.com.ua/news/2023/05/10/7401474/"
  },
  {
   "balance_risk": true,
@@ -19952,6 +19980,20 @@
  {
   "balance_risk": false,
   "date_published": "2023-05-20",
+  "fc": 0,
+  "nc": 0,
+  "oc": 0,
+  "official_focus": true,
+  "parket": false,
+  "rubric": "news",
+  "sc": 0,
+  "sources_json": "",
+  "title": "Зеленський зустрівся з прем’єром Індії",
+  "url": "https://www.pravda.com.ua/news/2023/05/20/7403085/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-05-20",
   "fc": 2,
   "nc": 0,
   "oc": 0,
@@ -20200,6 +20242,20 @@
   "sources_json": "Череватий також::non_official | Пацан::non_official | Пізніше Пригожин::non_official | Пригожин::non_official",
   "title": "У ЗСУ заявили, що Пригожин хоче втекти з Бахмута, бо \"Вагнер\" розбито",
   "url": "https://www.pravda.com.ua/news/2023/05/20/7403124/"
+ },
+ {
+  "balance_risk": false,
+  "date_published": "2023-05-20",
+  "fc": 2,
+  "nc": 2,
+  "oc": 0,
+  "official_focus": false,
+  "parket": false,
+  "rubric": "news",
+  "sc": 4,
+  "sources_json": "Напередодні прем'єр-міністр Нідерландів Марк Рютте::foreign_official | ЗМІ::non_official | Останніми тижнями адміністрація Джо Байдена::foreign_official | США високо оцінили здатність українських льотчиків опанувати західні винищувачі F-16 і::non_official",
+  "title": "Нідерланди передумали продавати винищувачі F-16 компанії Draken International",
+  "url": "https://www.pravda.com.ua/news/2023/05/20/7403126/"
  },
  {
   "balance_risk": false,
