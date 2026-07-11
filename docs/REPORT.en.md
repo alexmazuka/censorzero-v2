@@ -134,7 +134,7 @@ P0, P1, and P2?**
 - Proxy validity: IMI's assessment is expert and manual; ours is lexical and structural. Agreement is measured (Validation), not assumed.
 - Article bodies come from Web Archive snapshots (stable, timestamped) because the site's 2023 weekly sitemaps have expired from the live web; this is if anything more reproducible, but archive coverage is incomplete — the uncovered share is published.
 - Post-publication edits are invisible except via dateModified, which is recorded.
-- Control Суспільне is a sample (descriptive); УП is a day-census, but its index pages are bot-gated (raw pages committed).
+- Suspilne is EXCLUDED from the numeric comparison: the source extractor is not gold-validated on it and its average source count per article is three times higher — on long-form reports the extractor over-detects sources and zeroes out parket/balance (0% here is an artifact, not a fact). The comparable control is Ukrainska Pravda (day-census; index pages bot-gated, raw pages committed).
 - One person holds the conflict of interest and wrote the codebook; the codebook is committed before annotation and the LLM annotator never sees period labels.
 - Only two named signals are measured. IMI's decision may rest on factors not measurable here; absence of a signal is not proof the decision was unfounded.
 - The blind annotators follow a written codebook but are LLM-based; this is

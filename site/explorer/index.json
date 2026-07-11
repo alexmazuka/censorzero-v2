@@ -1,22 +1,28 @@
 {
  "by_outlet": {
   "pravda": {
+   "comparable": true,
    "n": 31910,
    "n_balance": 1270,
    "n_gold": 450,
-   "n_parket": 2081
+   "n_parket": 2081,
+   "sc_mean": 1.99
   },
   "suspilne": {
+   "comparable": false,
    "n": 1053,
    "n_balance": 0,
    "n_gold": 0,
-   "n_parket": 0
+   "n_parket": 0,
+   "sc_mean": 6.51
   },
   "ukrinform": {
+   "comparable": true,
    "n": 73316,
    "n_balance": 3592,
    "n_gold": 1199,
-   "n_parket": 3174
+   "n_parket": 3174,
+   "sc_mean": 2.69
   }
  },
  "by_outlet_period": {

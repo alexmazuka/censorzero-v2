@@ -128,35 +128,8 @@
    "status": "descriptive"
   },
   "suspilne": {
-   "balance": {
-    "control": {
-     "P0": 0.0,
-     "P1": 0.0,
-     "P2": 0.0
-    },
-    "did_P0_P1": -0.009124,
-    "did_P1_P2": 0.032187,
-    "ukrinform": {
-     "P0": 0.0904,
-     "P1": 0.081276,
-     "P2": 0.113463
-    }
-   },
-   "parket": {
-    "control": {
-     "P0": 0.0,
-     "P1": 0.0,
-     "P2": 0.0
-    },
-    "did_P0_P1": -0.001531,
-    "did_P1_P2": 0.018836,
-    "ukrinform": {
-     "P0": 0.043073,
-     "P1": 0.041541,
-     "P2": 0.060377
-    }
-   },
-   "status": "descriptive"
+   "reason": "No blind gold-standard validation of the extractor on this outlet; its long-form narrative articles yield a much higher source count, a sign the extractor over-generates sources here and pushes parket/balance to a degenerate 0. Not compared (see limitations).",
+   "status": "excluded_instrument_unvalidated"
   }
  },
  "gold_standard": {
@@ -358,7 +331,7 @@
    "Proxy validity: IMI's assessment is expert and manual; ours is lexical and structural. Agreement is measured (Validation), not assumed.",
    "Article bodies come from Web Archive snapshots (stable, timestamped) because the site's 2023 weekly sitemaps have expired from the live web; this is if anything more reproducible, but archive coverage is incomplete — the uncovered share is published.",
    "Post-publication edits are invisible except via dateModified, which is recorded.",
-   "Control Суспільне is a sample (descriptive); УП is a day-census, but its index pages are bot-gated (raw pages committed).",
+   "Suspilne is EXCLUDED from the numeric comparison: the source extractor is not gold-validated on it and its average source count per article is three times higher — on long-form reports the extractor over-detects sources and zeroes out parket/balance (0% here is an artifact, not a fact). The comparable control is Ukrainska Pravda (day-census; index pages bot-gated, raw pages committed).",
    "One person holds the conflict of interest and wrote the codebook; the codebook is committed before annotation and the LLM annotator never sees period labels.",
    "Only two named signals are measured. IMI's decision may rest on factors not measurable here; absence of a signal is not proof the decision was unfounded."
   ],
@@ -366,7 +339,7 @@
    "Проксі-валідність: оцінка ІМІ — експертна й ручна; наша — лексична й структурна. Збіг вимірюється (Валідація), а не припускається.",
    "Тіла статей узято зі снапшотів Web Archive (стабільні, датовані), бо тижневі мапи сайту за 2023 рік уже недоступні наживо; це навіть відтворюваніше, але покриття архіву неповне — частка непокритих статей публікується.",
    "Правки після публікації невидимі, окрім поля dateModified, яке фіксується.",
-   "Контроль Суспільне — вибірка, дескриптивний; УП — денний ценз, але індексні сторінки за бот-захистом (сирі сторінки закомічено).",
+   "Суспільне ВИКЛЮЧЕНО з числового порівняння: інструмент видобування джерел не валідовано на ньому золотим стандартом, а середня кількість джерел на статтю тут утричі вища — на довгих репортажах алгоритм over-detect'ить джерела й занулює паркет/баланс (0% тут — артефакт, а не факт). Порівнюваний контроль — «Українська правда» (денний ценз; індексні сторінки за бот-захистом, сирі сторінки закомічено).",
    "Одна людина має конфлікт інтересів і писала codebook; codebook закомічено до розмітки, а LLM-розмітник не бачить періодів.",
    "Вимірюються лише два названі сигнали. Рішення ІМІ могло спиратися на те, що тут не вимірюється; відсутність сигналу не є доказом безпідставності рішення."
   ]
