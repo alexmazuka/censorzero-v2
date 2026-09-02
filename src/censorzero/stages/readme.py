@@ -112,6 +112,12 @@ def _report_vars(figures: dict) -> dict:
         "rd_p2": f"{(rd.get('P2') or {}).get('hit', 0)}/{(rd.get('P2') or {}).get('hit', 0) + (rd.get('P2') or {}).get('miss', 0)}",
         "rd_p": (f"{(g.get('recall_drift') or {}).get('p_value'):.4f}"
                  if (g.get("recall_drift") or {}).get("p_value") is not None else "n/a"),
+        "recall_stable": (g.get("recall_drift") or {}).get("confounded") is False,
+        "rd_spread": (f"{(g.get('recall_drift') or {}).get('recall_spread_pp'):.1f}"
+                      if (g.get("recall_drift") or {}).get("recall_spread_pp") is not None else "n/a"),
+        "auto_p0": fmt((figures.get("rates", {}).get("parket", {}).get("P0") or {}).get("standardized")),
+        "auto_p1": fmt((figures.get("rates", {}).get("parket", {}).get("P1") or {}).get("standardized")),
+        "auto_p2": fmt((figures.get("rates", {}).get("parket", {}).get("P2") or {}).get("standardized")),
         "rel_agree_pct": fmt(rel.get("agreement"), 0),
         "rel_kappa": (f"{rel['kappa']:.2f}" if rel.get("kappa") is not None else "n/a"),
         "hv_kappa": (f"{hv['kappa']:.2f}" if hv.get("kappa") is not None else "n/a"),

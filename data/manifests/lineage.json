@@ -119,7 +119,7 @@
   "data/interim/articles.parquet": "38ac6bdafbaaa80593e46835904597bcfc42bd5b496cd117f73fea3922f85f1a",
   "data/interim/counts.json": "d33b46a5ad7e333b17205072914f3b3cbc786af5c67b6379b5658b819e9d7b12",
   "data/processed/metrics.json": "efe59307fbbb15137bca36af5d51782eab19daeca6b0df08c1059812ba33f755",
-  "site/figures.json": "572b80db5714042dc8e177f12b564a99c820825197f532449fe567b76c34405d"
+  "site/figures.json": "ca2aed943fcf213247eb211e8fb14d7164875482b85ae8071c197e093ac54f78"
  },
  "pipeline_version": "2.0.0",
  "raw_snapshot": {

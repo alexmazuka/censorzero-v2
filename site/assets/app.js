@@ -43,7 +43,12 @@ function renderPress() {
     P0R: rate("P0"), P1R: rate("P1"), P2R: rate("P2"),
   };
   $("#press-what").textContent = fillTokens(T("press_what"), map);
-  $("#press-f1").textContent = fillTokens(T("press_f1"), map);
+  const stable = FIG.trend_interpretable && FIG.trend_interpretable.recall_confounded === false;
+  const r = FIG.rates && FIG.rates.parket;
+  map.A0 = r && r.P0 ? (100 * r.P0.standardized).toFixed(1) : null;
+  map.A1 = r && r.P1 ? (100 * r.P1.standardized).toFixed(1) : null;
+  map.A2 = r && r.P2 ? (100 * r.P2.standardized).toFixed(1) : null;
+  $("#press-f1").textContent = fillTokens(T(stable ? "press_f1_stable" : "press_f1"), map);
   $("#press-f2").textContent = fillTokens(T("press_f2"), map);
   $("#press-f3").textContent = fillTokens(T("press_f3"), map);
   $("#press-cmd").textContent =

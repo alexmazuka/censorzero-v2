@@ -87,10 +87,20 @@ def _trend_interpretable(gold: dict | None) -> dict:
         "recall_homogeneity_p": rd.get("p_value"),
         "precision": overall.get("precision"),
         "recall": overall.get("recall"),
-        "note": "Precision high, recall low and period-dependent: the proxy is "
-                "specific but insensitive, and its recall drifts across periods, "
-                "so the raw between-period parket trend is confounded by "
-                "extraction and is NOT interpreted (preregistration section 9).",
+        # The note must follow the data, not a frozen assumption: an earlier
+        # 868-article gold set flagged recall drift and the stop-rule withheld
+        # the trend; the expanded set may (and did) resolve it.
+        "note": (
+            "Precision high, recall low but PERIOD-STABLE on the expanded gold "
+            "set, so the §9 precondition passes: the automatic between-period "
+            "trend may be read (absolute levels remain uninterpretable; the "
+            "metric sees only the slice its recall covers)."
+            if confounded is False else
+            "Precision high, recall low and period-dependent: the proxy is "
+            "specific but insensitive, and its recall drifts across periods, "
+            "so the raw between-period parket trend is confounded by "
+            "extraction and is NOT interpreted (preregistration section 9)."
+        ),
     }
 
 

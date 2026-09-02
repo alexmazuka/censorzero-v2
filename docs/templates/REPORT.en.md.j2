@@ -23,8 +23,12 @@ author's tenure (P0), during it (P1), and the half-year before reinstatement
 two independent instruments: an open lexical classifier and blind human-protocol
 annotation of {{ n_gold }} articles under a committed codebook. The automatic
 classifier proved precise (precision {{ prec_pct }}%) but insensitive (recall
-{{ rec_pct }}%), and its recall varies by period — so, under a stop-rule fixed
-in the preregistration, its between-period trend is not interpreted. The blind
+{{ rec_pct }}%){% if recall_stable %}, with recall stable across periods — its
+trend is therefore readable under the preregistered precondition, and it shows
+no deterioration in P1 ({{ auto_p0 }}% → {{ auto_p1 }}% → {{ auto_p2 }}%
+standardized){% else %}, and its recall varies by period — so, under a
+stop-rule fixed in the preregistration, its between-period trend is not
+interpreted{% endif %}. The blind
 measurement, which does not depend on extraction recall, finds the parket share
 statistically indistinguishable across all three periods:
 {{ hm_p0 }}% → {{ hm_p1 }}% → {{ hm_p2 }}% (homogeneity p = {{ hm_homog_p }}).
@@ -88,6 +92,24 @@ validation subsample: κ = {{ hv_kappa }} (n = {{ hv_n }}).{% endif %}
 
 ## 4. Results
 
+{% if recall_stable %}
+### 4.1 The automatic proxy: narrow but period-stable — and it corroborates
+
+Against the blind labels the classifier shows precision {{ prec_pct }}% and
+recall {{ rec_pct }}% — it almost never false-alarms but sees only a narrow
+slice of true parket, which is why absolute levels are never interpreted.
+The preregistered §9 precondition asks whether that recall is *stable across
+periods*: on the expanded gold set it is ({{ rd_p0 }} → {{ rd_p1 }} →
+{{ rd_p2 }} hits of human-labeled parket; spread {{ rd_spread }} p.p.,
+homogeneity p = {{ rd_p }}), so the automatic between-period trend may be
+read. Rubric-standardized parket: {{ auto_p0 }}% (P0) → {{ auto_p1 }}% (P1)
+→ {{ auto_p2 }}% (P2) — P1, the period after which Ukrinform was excluded,
+is the lowest of the three, and the preregistered decision rule finds IMI's
+implied pattern not supported. Transparency note: on the interim 868-article
+gold set the drift test flagged possible confounding and, per the stop-rule,
+this trend was withheld in the interim release; the expanded set resolved
+the flag. The stop-rule operated as designed in both directions.
+{% else %}
 ### 4.1 The automatic proxy disqualified itself for trend reading
 
 Against the blind labels the classifier shows precision
@@ -98,6 +120,7 @@ homogeneity p = {{ rd_p }}). The preregistration (§9) committed us, in that
 event, to **withhold between-period conclusions from the automatic metric** —
 we do. (Its rubric-standardized rates are published on the site for
 completeness, flagged as non-interpretable.)
+{% endif %}
 
 ### 4.2 The blind measurement: no pattern in the direction ІМІ's decisions imply
 

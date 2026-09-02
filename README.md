@@ -44,16 +44,20 @@ not appear in the data.** Inter-annotator reliability on an independent
 150-article re-annotation: agreement 93%, Cohen's κ =
 0.86.
 
-## The automatic metric disqualified itself — and we say so
+## The automatic metric — second, independent corroboration
 
 Against the blind labels the open classifier shows precision 83%
-but recall 6%, and its recall differs across periods
-(homogeneity p = 0.5853). Under the stop-rule fixed in the
-preregistration (§9), **its between-period trend is therefore not
-interpreted**. Its rubric-standardized rates and the preregistered contrast
-machinery remain published in `site/figures.json` for completeness, flagged
-non-interpretable; absolute levels were declared uninterpretable from the
-start.
+and recall 6% — it sees only a narrow slice of true parket, so
+absolute levels are uninterpretable by design. But its recall is
+**period-stable** on the expanded gold set (6/133 → 9/133 →
+9/120 hits; spread 3.0 p.p., homogeneity p = 0.5853),
+so the preregistered §9 precondition passes and its between-period trend may
+be read. Standardized parket: 4.4% (P0) → 4.3% (P1) →
+5.9% (P2) — P1 is the *lowest* of the three; the preregistered
+decision rule again finds IMI's implied pattern **not supported**. (On the
+earlier 868-article gold set the drift test flagged possible confounding and
+the stop-rule withheld this trend; the expanded set resolved it — the
+stop-rule worked exactly as designed, in both directions.)
 
 ## Reproduce it (one command)
 

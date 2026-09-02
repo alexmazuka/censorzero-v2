@@ -44,6 +44,22 @@ not appear in the data.** Inter-annotator reliability on an independent
 150-article re-annotation: agreement {{ rel_agree_pct }}%, Cohen's κ =
 {{ rel_kappa }}.
 
+{% if recall_stable %}
+## The automatic metric — second, independent corroboration
+
+Against the blind labels the open classifier shows precision {{ prec_pct }}%
+and recall {{ rec_pct }}% — it sees only a narrow slice of true parket, so
+absolute levels are uninterpretable by design. But its recall is
+**period-stable** on the expanded gold set ({{ rd_p0 }} → {{ rd_p1 }} →
+{{ rd_p2 }} hits; spread {{ rd_spread }} p.p., homogeneity p = {{ rd_p }}),
+so the preregistered §9 precondition passes and its between-period trend may
+be read. Standardized parket: {{ auto_p0 }}% (P0) → {{ auto_p1 }}% (P1) →
+{{ auto_p2 }}% (P2) — P1 is the *lowest* of the three; the preregistered
+decision rule again finds IMI's implied pattern **not supported**. (On the
+earlier 868-article gold set the drift test flagged possible confounding and
+the stop-rule withheld this trend; the expanded set resolved it — the
+stop-rule worked exactly as designed, in both directions.)
+{% else %}
 ## The automatic metric disqualified itself — and we say so
 
 Against the blind labels the open classifier shows precision {{ prec_pct }}%
@@ -54,6 +70,7 @@ interpreted**. Its rubric-standardized rates and the preregistered contrast
 machinery remain published in `site/figures.json` for completeness, flagged
 non-interpretable; absolute levels were declared uninterpretable from the
 start.
+{% endif %}
 
 ## Reproduce it (one command)
 

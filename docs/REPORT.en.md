@@ -23,8 +23,10 @@ author's tenure (P0), during it (P1), and the half-year before reinstatement
 two independent instruments: an open lexical classifier and blind human-protocol
 annotation of 1649 articles under a committed codebook. The automatic
 classifier proved precise (precision 83%) but insensitive (recall
-6%), and its recall varies by period — so, under a stop-rule fixed
-in the preregistration, its between-period trend is not interpreted. The blind
+6%), with recall stable across periods — its
+trend is therefore readable under the preregistered precondition, and it shows
+no deterioration in P1 (4.4% → 4.3% → 5.9%
+standardized). The blind
 measurement, which does not depend on extraction recall, finds the parket share
 statistically indistinguishable across all three periods:
 42.1% → 41.2% → 38.5% (homogeneity p = 0.629).
@@ -86,16 +88,22 @@ no date, period, or outlet. Inter-annotator reliability on an independent
 0.86.
 ## 4. Results
 
-### 4.1 The automatic proxy disqualified itself for trend reading
+### 4.1 The automatic proxy: narrow but period-stable — and it corroborates
 
-Against the blind labels the classifier shows precision
-83% and recall 6% — it almost never false-alarms but
-misses most parket. Critically, its recall differs by period
-(6/133 → 9/133 → 9/120 hits of human-labeled parket;
-homogeneity p = 0.5853). The preregistration (§9) committed us, in that
-event, to **withhold between-period conclusions from the automatic metric** —
-we do. (Its rubric-standardized rates are published on the site for
-completeness, flagged as non-interpretable.)
+Against the blind labels the classifier shows precision 83% and
+recall 6% — it almost never false-alarms but sees only a narrow
+slice of true parket, which is why absolute levels are never interpreted.
+The preregistered §9 precondition asks whether that recall is *stable across
+periods*: on the expanded gold set it is (6/133 → 9/133 →
+9/120 hits of human-labeled parket; spread 3.0 p.p.,
+homogeneity p = 0.5853), so the automatic between-period trend may be
+read. Rubric-standardized parket: 4.4% (P0) → 4.3% (P1)
+→ 5.9% (P2) — P1, the period after which Ukrinform was excluded,
+is the lowest of the three, and the preregistered decision rule finds IMI's
+implied pattern not supported. Transparency note: on the interim 868-article
+gold set the drift test flagged possible confounding and, per the stop-rule,
+this trend was withheld in the interim release; the expanded set resolved
+the flag. The stop-rule operated as designed in both directions.
 
 ### 4.2 The blind measurement: no pattern in the direction ІМІ's decisions imply
 

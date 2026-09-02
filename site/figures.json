@@ -1387,7 +1387,7 @@
  },
  "trend_interpretable": {
   "interpretable": true,
-  "note": "Precision high, recall low and period-dependent: the proxy is specific but insensitive, and its recall drifts across periods, so the raw between-period parket trend is confounded by extraction and is NOT interpreted (preregistration section 9).",
+  "note": "Precision high, recall low but PERIOD-STABLE on the expanded gold set, so the §9 precondition passes: the automatic between-period trend may be read (absolute levels remain uninterpretable; the metric sees only the slice its recall covers).",
   "precision": 0.827586,
   "recall": 0.062176,
   "recall_confounded": false,
